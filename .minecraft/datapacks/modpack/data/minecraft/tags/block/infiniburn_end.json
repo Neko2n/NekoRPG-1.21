@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:smooth_netherrack",
+      "required": false
+    },
+    {
+      "id": "netherexp:smooth_netherrack_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:smooth_netherrack_stairs",
+      "required": false
+    },
+    {
+      "id": "netherexp:smooth_netherrack_wall",
+      "required": false
+    },
+    {
+      "id": "netherexp:netherrack_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:netherrack_brick_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:netherrack_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "netherexp:netherrack_brick_wall",
+      "required": false
+    },
+    {
+      "id": "netherexp:netherrack_tiles",
+      "required": false
+    },
+    {
+      "id": "netherexp:netherrack_pillar",
+      "required": false
+    }
+  ]
+}

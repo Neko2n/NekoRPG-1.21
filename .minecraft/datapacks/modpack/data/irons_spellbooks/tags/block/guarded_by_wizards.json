@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "#forge:chests",
+      "required": false
+    },
+    {
+      "id": "#forge:barrels",
+      "required": false
+    }
+  ]
+}

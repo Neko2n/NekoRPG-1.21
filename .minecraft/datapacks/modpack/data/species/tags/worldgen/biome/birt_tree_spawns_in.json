@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "minecraft:forest",
+      "required": false
+    },
+    {
+      "id": "minecraft:flower_forest",
+      "required": false
+    },
+    {
+      "id": "minecraft:old_growth_birch_forest",
+      "required": false
+    },
+    {
+      "id": "minecraft:birch_forest",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "values": [
+    {
+      "id": "minecraft:bedrock",
+      "required": false
+    },
+    {
+      "id": "minecraft:water",
+      "required": false
+    },
+    {
+      "id": "minecraft:lava",
+      "required": false
+    },
+    {
+      "id": "alexscaves:acid",
+      "required": false
+    },
+    {
+      "id": "netherexp:ectoplasm",
+      "required": false
+    },
+    {
+      "id": "outer_end:ominous_miasma",
+      "required": false
+    },
+    {
+      "id": "outer_end:brine",
+      "required": false
+    },
+    {
+      "id": "alexscaves:purple_soda",
+      "required": false
+    },
+    {
+      "id": "sullysmod:molten_amber",
+      "required": false
+    },
+    {
+      "id": "supplementaries:lumisene",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+filename = 'distractingtrims-neoforge-1.21.1-21.1.1.jar'
+name = 'Distracting Trims'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '64af034e2d9b114bd4051831e42d5b214f34336b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5953630
+project-id = 862201

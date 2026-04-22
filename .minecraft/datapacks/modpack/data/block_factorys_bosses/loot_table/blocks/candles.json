@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "block_factorys_bosses:blocks/candles",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "block_factorys_bosses:candles"
+        }
+      ]
+    }
+  ]
+}

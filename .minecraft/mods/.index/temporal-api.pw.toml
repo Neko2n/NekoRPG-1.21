@@ -1,0 +1,16 @@
+filename = 'temporalapi-1.9.0.jar'
+name = 'Temporal API'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '968fbe0bb67ab29ecf823b648d9f4cc29fff7705'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7027292
+project-id = 970291

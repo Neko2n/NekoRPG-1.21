@@ -1,0 +1,92 @@
+{
+    "pools": [{
+        "name": "map_pool",
+        "rolls": 1,
+        "entries": [
+            {
+                "type": "minecraft:item",
+                "functions": [
+                    {
+                        "function": "minecraft:set_custom_data",
+                        "tag": {
+                            "furledMapData": {
+                                "destination": "bosses_of_mass_destruction:void_blossom",
+                                "description": "[Void Blossom]"
+                            }
+                        }
+                    }
+                ],
+                "name": "irons_spellbooks:furled_map",
+                "weight": 8
+            },
+            {
+                "type": "minecraft:item",
+                "functions": [
+                    {
+                        "function": "minecraft:set_custom_data",
+                        "tag": {
+                            "furledMapData": {
+                                "destination": "bosses_of_mass_destruction:lich_tower",
+                                "description": "[Lich Tower]"
+                            }
+                        }
+                    }
+                ],
+                "name": "irons_spellbooks:furled_map",
+                "weight": 8
+            },
+            {
+                "type": "minecraft:item",
+                "functions": [
+                    {
+                        "function": "minecraft:set_custom_data",
+                        "tag": {
+                            "furledMapData": {
+                                "destination": "dungeonnowloading:labyrinth",
+                                "description": "[Labyrinth]"
+                            }
+                        }
+                    }
+                ],
+                "name": "irons_spellbooks:furled_map",
+                "weight": 8
+            },
+            {
+                "type": "minecraft:item",
+                "functions": [
+                    {
+                        "function": "minecraft:set_custom_data",
+                        "tag": {
+                            "furledMapData": {
+                                "destination": "dungeonnowloading:temple_of_duality",
+                                "description": "[Temple of Duality]"
+                            }
+                        }
+                    }
+                ],
+                "name": "irons_spellbooks:furled_map",
+                "weight": 6
+            },
+            {
+                "type": "minecraft:item",
+                "functions": [
+                    {
+                        "function": "minecraft:set_custom_data",
+                        "tag": {
+                            "furledMapData": {
+                                "destination": "block_factorys_bosses:dragon_tower",
+                                "description": "[Dragon Tower]"
+                            }
+                        }
+                    }
+                ],
+                "name": "irons_spellbooks:furled_map",
+                "weight": 6
+            },
+            {
+                "type": "minecraft:empty",
+                "weight": 66
+            }
+        ]
+    }]
+}

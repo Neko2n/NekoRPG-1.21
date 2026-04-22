@@ -1,0 +1,40 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "sullysmod:mod_features",
+          "values": [
+            "artifacts"
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "category": "equipment",
+        "key": {
+          "#": {
+            "id": "minecraft:stick"
+          },
+          "X": {
+            "id": "sullysmod:arrowhead"
+          },
+          "Y": {
+            "id": "minecraft:feather"
+          }
+        },
+        "pattern": [
+          "X",
+          "#",
+          "Y"
+        ],
+        "result": {
+          "count": 4,
+          "id": "minecraft:arrow"
+        },
+        "show_notification": true
+      }
+    }
+  ]
+}

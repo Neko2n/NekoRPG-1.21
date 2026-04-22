@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:dark_oak_door"
+    }
+  ],
+  "result": [
+    {
+      "id": "minecraft:dark_oak_planks"
+    }
+  ],
+  "tool": {
+    "tag": "neoforge:tools/axes"
+  }
+}

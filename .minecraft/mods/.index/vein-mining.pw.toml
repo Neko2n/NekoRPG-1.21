@@ -1,0 +1,16 @@
+filename = 'veinmining-neoforge-5.0.0-beta.2+1.21.jar'
+name = 'Vein Mining'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '8fd7cd1e02103b4ffee716f3a76abfd5c04d8883'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5579900
+project-id = 431611

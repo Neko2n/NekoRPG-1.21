@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "minecraft:mutton",
+      "required": false
+    },
+    {
+      "id": "minecraft:porkchop",
+      "required": false
+    },
+    {
+      "id": "minecraft:beef",
+      "required": false
+    },
+    {
+      "id": "minecraft:chicken",
+      "required": false
+    }
+  ]
+}

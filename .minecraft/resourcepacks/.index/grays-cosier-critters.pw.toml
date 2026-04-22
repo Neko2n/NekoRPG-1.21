@@ -1,0 +1,17 @@
+filename = "Gray's Cosier Critters.zip"
+name = "Gray's Cosier Critters"
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0'
+
+[download]
+hash = 'bf019ffa5c4054fc5fde31a721ca377d644646c37fb6309a00f99c922382e5f220f2692a7ceff45cc29f4dd7484f1ec0408bc2a6bd06ca631789c7be70de81b3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qms8461J/versions/2mjMbmYa/Gray%27s Cosier Critters.zip'
+
+[update.modrinth]
+mod-id = 'qms8461J'
+version = '2mjMbmYa'

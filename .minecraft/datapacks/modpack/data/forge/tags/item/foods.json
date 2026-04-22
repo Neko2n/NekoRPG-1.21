@@ -1,0 +1,324 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "galosphere:golden_lichen_cordyceps"
+    },
+    {
+      "required": false,
+      "id": "galosphere:lichen_cordyceps"
+    },
+    {
+      "required": false,
+      "id": "quark:ancient_fruit"
+    },
+    {
+      "required": false,
+      "id": "#forge:fruits"
+    },
+    {
+      "required": false,
+      "id": "#forge:raw_venison"
+    },
+    {
+      "required": false,
+      "id": "#forge:cooked_venison"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:mint_chops"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:cooked_mint_chops"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:mint_leaves"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:roasted_adzuki_beans"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:vanilla_chocolate_fingers"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:dried_vanilla_pods"
+    },
+    {
+      "required": false,
+      "id": "atmospheric:aloe_leaves"
+    },
+    {
+      "required": false,
+      "id": "atmospheric:yucca_fruit"
+    },
+    {
+      "required": false,
+      "id": "atmospheric:roasted_yucca_fruit"
+    },
+    {
+      "required": false,
+      "id": "atmospheric:golden_dragon_fruit"
+    },
+    {
+      "required": false,
+      "id": "#atmospheric:oranges"
+    },
+    {
+      "required": false,
+      "id": "atmospheric:shimmering_passion_fruit"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:dried_banana"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:white_strawberries"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:chocolate_strawberries"
+    },
+    {
+      "id": "#minecraft:fishes",
+      "required": false
+    },
+    {
+      "required": false,
+      "id": "upgrade_aquatic:boiled_pickerelweed"
+    },
+    {
+      "required": false,
+      "id": "#origins:meat"
+    },
+    {
+      "required": false,
+      "id": "#forge:raw_duck"
+    },
+    {
+      "required": false,
+      "id": "#forge:cooked_duck"
+    },
+    {
+      "required": false,
+      "id": "upgrade_aquatic:mulberry_bread"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:banana_bread"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:adzuki_bun"
+    },
+    {
+      "required": false,
+      "id": "buzzier_bees:honey_bread"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:vanilla_fudge"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:chocolate_bar"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:mint_chocolate"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:strawberry_scones"
+    },
+    {
+      "required": false,
+      "id": "upgrade_aquatic:mulberry_pie"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:mint_candies"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:strawberry_bean_bonbons"
+    },
+    {
+      "required": false,
+      "id": "atmospheric:passion_fruit_tart"
+    },
+    {
+      "required": false,
+      "id": "atmospheric:candied_orange_slices"
+    },
+    {
+      "required": false,
+      "id": "atmospheric:orange_pudding"
+    },
+    {
+      "required": false,
+      "id": "atmospheric:currant_muffin"
+    },
+    {
+      "required": false,
+      "id": "environmental:truffle"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:adzuki_stew"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:adzuki_curry"
+    },
+    {
+      "required": false,
+      "id": "atmospheric:passion_fruit_sorbet"
+    },
+    {
+      "required": false,
+      "id": "atmospheric:orange_sorbet"
+    },
+    {
+      "required": false,
+      "id": "berry_good:glowgurt"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:vanilla_pudding"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:vanilla_milkshake"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:chocolate_milkshake"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:strawberry_milkshake"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:banana_milkshake"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:mint_milkshake"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:adzuki_milkshake"
+    },
+    {
+      "required": false,
+      "id": "#neapolitan:ice_cream"
+    },
+    {
+      "required": false,
+      "id": "upgrade_aquatic:mulberry_jam_bottle"
+    },
+    {
+      "required": false,
+      "id": "neapolitan:strawberry_banana_smoothie"
+    },
+    {
+      "required": false,
+      "id": "atmospheric:aloe_gel_bottle"
+    },
+    {
+      "required": false,
+      "id": "habitat:kabloom_pulp"
+    },
+    {
+      "required": false,
+      "id": "habitat:dried_ball_cactus"
+    },
+    {
+      "required": false,
+      "id": "kiwiboi:kiwicake"
+    },
+    {
+      "required": false,
+      "id": "seasonals:pumpkin_puree"
+    },
+    {
+      "required": false,
+      "id": "seasonals:pumpkin_milkshake"
+    },
+    {
+      "required": false,
+      "id": "seasonals:pumpkin_cake"
+    },
+    {
+      "required": false,
+      "id": "seasonals:chocolate_pumpkin_muffin"
+    },
+    {
+      "required": false,
+      "id": "seasonals:pumpkin_adzuki_stew"
+    },
+    {
+      "required": false,
+      "id": "seasonals:sweet_berry_milkshake"
+    },
+    {
+      "required": false,
+      "id": "seasonals:glazed_sweet_berries"
+    },
+    {
+      "required": false,
+      "id": "seasonals:sweet_berry_cake"
+    },
+    {
+      "required": false,
+      "id": "seasonals:sweet_berry_vanilla_yogurt"
+    },
+    {
+      "required": false,
+      "id": "seasonals:beetroot_milkshake"
+    },
+    {
+      "required": false,
+      "id": "seasonals:beetroot_cake"
+    },
+    {
+      "required": false,
+      "id": "seasonals:roasted_beetroot"
+    },
+    {
+      "required": false,
+      "id": "seasonals:oxidized_beetroot"
+    },
+    {
+      "required": false,
+      "id": "seasonals:rabbit_roast"
+    },
+    {
+      "required": false,
+      "id": "seasonals:mixed_berry_muffin"
+    },
+    {
+      "required": false,
+      "id": "seasonals:red_velvet_cupcake"
+    },
+    {
+      "required": false,
+      "id": "seasonals:banana_split_sundae"
+    },
+    {
+      "required": false,
+      "id": "minecraft:beetroot"
+    },
+    {
+      "required": false,
+      "id": "seasonals:roasted_beetroot"
+    }
+  ]
+}

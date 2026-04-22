@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "caverns_and_chasms:warn_lost_goat_horn",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:bellow_lost_goat_horn",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:hogham",
+      "required": false
+    },
+    {
+      "id": "netherexp:cooked_hogham",
+      "required": false
+    }
+  ]
+}

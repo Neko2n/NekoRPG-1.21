@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:stripped_sugi_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:sugi_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_sugi_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:sugi_wood",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "quark:azalea_wood"
+    }
+  ],
+  "tool": {
+    "tag": "neoforge:tools/axes"
+  },
+  "result": [
+    {
+      "id": "quark:stripped_azalea_wood"
+    },
+    {
+      "id": "farmersdelight:tree_bark"
+    }
+  ]
+}

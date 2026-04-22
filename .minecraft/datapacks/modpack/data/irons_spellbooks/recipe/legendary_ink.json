@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "irons_spellbooks:epic_ink"
+    },
+    {
+      "item": "irons_spellbooks:epic_ink"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "irons_spellbooks:arcane_salvage"
+    },
+    {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    {
+      "item": "waystones:warp_dust"
+    },
+    {
+      "item": "irons_spellbooks:arcane_essence"
+    },
+    {
+      "item": "irons_spellbooks:arcane_essence"
+    }
+  ],
+  "result": {
+    "id": "irons_spellbooks:legendary_ink",
+    "count": 1
+  }
+}

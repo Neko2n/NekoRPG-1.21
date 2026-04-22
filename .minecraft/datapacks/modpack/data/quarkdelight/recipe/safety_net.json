@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "0": {
+      "item": "quark:rope"
+    }
+  },
+  "pattern": [
+    "00",
+    "00"
+  ],
+  "result": {
+    "id": "farmersdelight:safety_net"
+  }
+}

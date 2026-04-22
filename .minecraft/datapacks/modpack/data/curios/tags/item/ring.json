@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "irons_spellbooks:mana_ring",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:cooldown_ring",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:cast_time_ring",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:silver_ring",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:emerald_stoneplate_ring",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:fireward_ring",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:frostward_ring",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:poisonward_ring",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:affinity_ring",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:invisibility_ring",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:lurker_ring",
+      "required": false
+    }
+  ]
+}

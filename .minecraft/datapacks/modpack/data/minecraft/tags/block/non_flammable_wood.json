@@ -1,0 +1,101 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:cerebrage_claret_stem",
+      "required": false
+    },
+    {
+      "id": "netherexp:cerebrage_claret_hyphae",
+      "required": false
+    },
+    {
+      "id": "netherexp:stripped_claret_stem",
+      "required": false
+    },
+    {
+      "id": "netherexp:stripped_claret_hyphae",
+      "required": false
+    },
+    {
+      "id": "netherexp:claret_planks",
+      "required": false
+    },
+    {
+      "id": "netherexp:claret_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:claret_stairs",
+      "required": false
+    },
+    {
+      "id": "netherexp:claret_fence",
+      "required": false
+    },
+    {
+      "id": "netherexp:claret_fence_gate",
+      "required": false
+    },
+    {
+      "id": "netherexp:claret_door",
+      "required": false
+    },
+    {
+      "id": "netherexp:claret_trapdoor",
+      "required": false
+    },
+    {
+      "id": "netherexp:claret_button",
+      "required": false
+    },
+    {
+      "id": "netherexp:claret_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "netherexp:smokestalk_block",
+      "required": false
+    },
+    {
+      "id": "netherexp:stripped_smokestalk_block",
+      "required": false
+    },
+    {
+      "id": "netherexp:smokestalk_planks",
+      "required": false
+    },
+    {
+      "id": "netherexp:smokestalk_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:smokestalk_stairs",
+      "required": false
+    },
+    {
+      "id": "netherexp:smokestalk_fence",
+      "required": false
+    },
+    {
+      "id": "netherexp:smokestalk_fence_gate",
+      "required": false
+    },
+    {
+      "id": "netherexp:smokestalk_door",
+      "required": false
+    },
+    {
+      "id": "netherexp:smokestalk_trapdoor",
+      "required": false
+    },
+    {
+      "id": "netherexp:smokestalk_button",
+      "required": false
+    },
+    {
+      "id": "netherexp:smokestalk_pressure_plate",
+      "required": false
+    }
+  ]
+}

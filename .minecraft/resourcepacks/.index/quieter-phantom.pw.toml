@@ -1,0 +1,54 @@
+filename = 'quiet-phantom.zip'
+name = 'Quieter Phantom'
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20',
+    '1.20.1',
+    '1.20.1',
+    '1.20.2',
+    '1.20.2',
+    '1.20.3',
+    '1.20.3',
+    '1.20.4',
+    '1.20.4',
+    '1.20.5',
+    '1.20.5',
+    '1.20.6',
+    '1.20.6',
+    '1.21',
+    '1.21',
+    '1.21.1',
+    '1.21.1',
+    '1.21.10',
+    '1.21.10',
+    '1.21.2',
+    '1.21.2',
+    '1.21.3',
+    '1.21.3',
+    '1.21.4',
+    '1.21.4',
+    '1.21.5',
+    '1.21.5',
+    '1.21.6',
+    '1.21.6',
+    '1.21.7',
+    '1.21.7',
+    '1.21.8',
+    '1.21.8',
+    '1.21.9',
+    '1.21.9'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v2.0.0'
+
+[download]
+hash = '2849eecf1f19000a664658532d522234fc8b75194d22adc5d8d4d1d9d2fdc30582f5f01ac142a2381a34db4a9934ed7cace8d0817f0833250afa0a1c9243d3e1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iSGducvO/versions/hh6iv1b9/quiet-phantom.zip'
+
+[update.modrinth]
+mod-id = 'iSGducvO'
+version = 'hh6iv1b9'

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    {
+      "tag": "forge:salt"
+    },
+    {
+      "tag": "forge:salt"
+    },
+    {
+      "tag": "forge:salt"
+    },
+    {
+      "tag": "forge:salt"
+    }
+  ],
+  "result": {
+    "id": "galosphere:salted_jerky"
+  },
+  "show_notification": true
+}

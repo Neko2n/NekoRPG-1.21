@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "species:frozen_meat",
+      "required": false
+    },
+    {
+      "id": "species:frozen_hair",
+      "required": false
+    }
+  ]
+}

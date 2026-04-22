@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:bread"
+    },
+    {
+      "tag": "mynethersdelight:cooked_hoglin_loin"
+    },
+    {
+      "item": "minecraft:twisting_vines"
+    },
+    {
+      "item": "minecraft:crimson_fungus"
+    },
+    [
+      {
+        "id": "minecraft:warped_fungus"
+      },
+      {
+        "id": "minecraft:crimson_fungus"
+      }
+    ]
+  ],
+  "result": {
+    "id": "mynethersdelight:nether_burger"
+  }
+}

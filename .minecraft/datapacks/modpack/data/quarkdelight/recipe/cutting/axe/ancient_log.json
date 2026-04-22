@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "quark:ancient_log"
+    }
+  ],
+  "tool": {
+    "tag": "neoforge:tools/axes"
+  },
+  "result": [
+    {
+      "id": "quark:stripped_ancient_log"
+    },
+    {
+      "id": "farmersdelight:tree_bark"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "values": [
+    {
+      "id": "bloomingnature:red_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:brown_mushroom_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mushroom_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:laterit_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:travertin_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:travertin_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cobbled_travertin_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_travertin_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_cobbled_travertin_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:laterit_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cobbled_laterit_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:laterit_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_laterit_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_cobbled_laterit_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:slate_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cobbled_slate_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:slate_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_slate_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_cobbled_slate_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_laterit_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_travertin_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_slate_wall",
+      "required": false
+    }
+  ]
+}

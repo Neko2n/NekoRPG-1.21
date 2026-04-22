@@ -1,0 +1,34 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minecraft:red_mushroom"
+    },
+    {
+      "item": "natures_spirit:shiitake_mushroom"
+    },
+    {
+      "tag": "forge:crops/rice"
+    },
+    [
+      {
+        "id": "minecraft:carrot"
+      },
+      {
+        "id": "minecraft:potato"
+      }
+    ],
+    {
+      "item": "immersive_weathering:tallow"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "farmersdelight:mushroom_rice"
+  }
+}

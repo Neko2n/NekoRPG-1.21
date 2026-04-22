@@ -1,0 +1,413 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "bloomingnature:larch_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cactus_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:travertin",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:travertin_bricks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:travertin_brick_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:travertin_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:travertin_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:laterit",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:laterit_bricks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:laterit_brick_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:laterit_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:laterit_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_laterit",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:red_bricks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:red_brick_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:red_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:red_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:travertin_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:travertin_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:travertin_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cobbled_travertin",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cobbled_travertin_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cobbled_travertin_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cobbled_travertin_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chiseled_travertin",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cracked_travertin_bricks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_travertin_bricks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_travertin_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_travertin_brick_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_travertin_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_cobbled_travertin",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_cobbled_travertin_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_cobbled_travertin_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_cobbled_travertin_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_chiseled_travertin",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_laterit",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:laterit_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:laterit_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:laterit_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cobbled_laterit",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cobbled_laterit_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cobbled_laterit_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cobbled_laterit_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chiseled_laterit",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:laterit_bricks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:laterit_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:laterit_brick_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:laterit_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cracked_laterit_bricks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_laterit_bricks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_laterit_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_laterit_brick_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_laterit_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_cobbled_laterit",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_cobbled_laterit_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_cobbled_laterit_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_cobbled_laterit_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_chiseled_laterit",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:slate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:slate_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:slate_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:slate_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cobbled_slate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cobbled_slate_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cobbled_slate_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cobbled_slate_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chiseled_slate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:slate_bricks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:slate_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:slate_brick_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:slate_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cracked_slate_bricks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_slate_bricks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_slate_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_slate_brick_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_slate_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_cobbled_slate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_cobbled_slate_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_cobbled_slate_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_cobbled_slate_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_chiseled_slate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_travertin",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_travertin_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_travertin_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_travertin_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_slate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_slate_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_slate_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_slate_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_laterit_stone",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_laterit_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_laterit_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_laterit_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chiseled_red_bricks",
+      "required": false
+    }
+  ]
+}

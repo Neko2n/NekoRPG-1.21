@@ -1,0 +1,531 @@
+{
+	// Generates all block states for all blocks in the registry.
+	"generate_all_known_states": false,
+	
+	// Whether blocks are replaced in existing chunks.
+	"retro_gen": false,
+	
+	"state_swapper": [
+		{
+			"new": {
+				"Name": "natures_spirit:fir_leaves"
+			},
+			"old": {
+				"Name": "bloomingnature:fir_leaves",
+				"Properties": {
+					"snowy": false
+				}
+			}
+		},
+		{
+			"new": {
+				"Name": "natures_spirit:frosty_fir_leaves"
+			},
+			"old": {
+				"Name": "bloomingnature:fir_leaves",
+				"Properties": {
+					"snowy": true
+				}
+			}
+		},
+		{
+			"new": {
+				"Name": "minecraft:spruce_trapdoor",
+				"Properties": {
+					"half": "top",
+					"open": "false"
+				}
+			},
+			"old": {
+				"Name": "dungeonnowloading:wooden_wall_rack"
+			}
+		},
+		{
+			"new": {
+				"Name": "minecraft:spruce_trapdoor",
+				"Properties": {
+					"half": "top",
+					"open": "false"
+				}
+			},
+			"old": {
+				"Name": "dungeonnowloading:wooden_wall_platform"
+			}
+		},
+		{
+			"new": {
+				"Name": "supplementaries:book_pile_horizontal",
+				"Properties": {
+					"books": 4,
+					"facing": "south"
+				}
+			},
+			"old": {
+				"Name": "dungeonnowloading:book_pile",
+				"Properties": {
+					"pile": 4
+				}
+			}
+		},
+		{
+			"new": {
+				"Name": "supplementaries:book_pile_horizontal",
+				"Properties": {
+					"books": 3,
+					"facing": "west"
+				}
+			},
+			"old": {
+				"Name": "dungeonnowloading:book_pile",
+				"Properties": {
+					"pile": 3
+				}
+			}
+		},
+		{
+			"new": {
+				"Name": "supplementaries:book_pile_horizontal",
+				"Properties": {
+					"books": 2,
+					"facing": "north"
+				}
+			},
+			"old": {
+				"Name": "dungeonnowloading:book_pile",
+				"Properties": {
+					"pile": 2
+				}
+			}
+		},
+		{
+			"new": {
+				"Name": "supplementaries:book_pile_horizontal",
+				"Properties": {
+					"books": 1,
+					"facing": "east"
+				}
+			},
+			"old": {
+				"Name": "dungeonnowloading:book_pile",
+				"Properties": {
+					"pile": 1
+				}
+			}
+		},
+		{
+			"new": {
+				"Name": "spelunkers_charm:rock_pile_3"
+			},
+			"old": {
+				"Name": "dungeonnowloading:cobblestone_pebbles",
+				"Properties": {
+					"pile": 3
+				}
+			}
+		},
+		{
+			"new": {
+				"Name": "spelunkers_charm:rock_pile_3"
+			},
+			"old": {
+				"Name": "dungeonnowloading:mossy_cobblestone_pebbles",
+				"Properties": {
+					"pile": 3
+				}
+			}
+		},
+		{
+			"new": {
+				"Name": "spelunkers_charm:rock_pile_2"
+			},
+			"old": {
+				"Name": "dungeonnowloading:cobblestone_pebbles",
+				"Properties": {
+					"pile": 2
+				}
+			}
+		},
+		{
+			"new": {
+				"Name": "spelunkers_charm:rock_pile_2"
+			},
+			"old": {
+				"Name": "dungeonnowloading:mossy_cobblestone_pebbles",
+				"Properties": {
+					"pile": 2
+				}
+			}
+		},
+		{
+			"new": {
+				"Name": "spelunkers_charm:rock_pile_1"
+			},
+			"old": {
+				"Name": "dungeonnowloading:cobblestone_pebbles",
+				"Properties": {
+					"pile": 1
+				}
+			}
+		},
+		{
+			"new": {
+				"Name": "spelunkers_charm:rock_pile_1"
+			},
+			"old": {
+				"Name": "dungeonnowloading:mossy_cobblestone_pebbles",
+				"Properties": {
+					"pile": 1
+				}
+			}
+		},
+		{
+			"new": {
+				"Name": "minecraft:tall_dry_grass"
+			},
+			"old": {
+				"Name": "natures_spirit:tall_frigid_grass",
+				"Properties": {
+					"half": "lower"
+				}
+			}
+		},
+		{
+			"new": {
+				"Name": "minecraft:air"
+			},
+			"old": {
+				"Name": "natures_spirit:tall_frigid_grass",
+				"Properties": {
+					"half": "upper"
+				}
+			}
+		}
+		// {
+		// 	"new": {
+		// 		"Name": "immersive_weathering:bloomingnature/orange_leaf_pile"
+		// 	},
+		// 	"old": {
+		// 		"Name": "regions_unexplored:golden_larch_shrub",
+		// 		"Properties": {
+		// 			"half": "lower"
+		// 		}
+		// 	}
+		// },
+		// {
+		// 	"new": {
+		// 		"Name": "immersive_weathering:bloomingnature/larch_leaf_pile"
+		// 	},
+		// 	"old": {
+		// 		"Name": "regions_unexplored:larch_shrub",
+		// 		"Properties": {
+		// 			"half": "lower"
+		// 		}
+		// 	}
+		// },
+		// {
+		// 	"new": {
+		// 		"Name": "minecraft:air"
+		// 	},
+		// 	"old": {
+		// 		"Name": "regions_unexplored:golden_larch_shrub",
+		// 		"Properties": {
+		// 			"half": "upper"
+		// 		}
+		// 	}
+		// },
+		// {
+		// 	"new": {
+		// 		"Name": "minecraft:air"
+		// 	},
+		// 	"old": {
+		// 		"Name": "regions_unexplored:larch_shrub",
+		// 		"Properties": {
+		// 			"half": "upper"
+		// 		}
+		// 	}
+		// }
+	],
+	
+	"swapper": {
+		"dungeonnowloading:iron_ingot_pile" : "galosphere:raw_silver_block",
+		"dungeonnowloading:gold_ingot_pile" : "minecraft:raw_gold_block",
+		"dungeonnowloading:spikes" : "supplementaries:bamboo_spikes",
+		"dungeonnowloading:moss" : "ecologics:surface_moss",
+		"dungeonnowloading:dungeon_wall_torch" : "supplementaries:sconce_wall",
+		"dungeonnowloading:explosive_barrel" : "minecraft:tnt",
+		"dungeonnowloading:stone_tiles" : "supplementaries:stone_tile",
+		"dungeonnowloading:stone_tile_stairs" : "supplementaries:stone_tile_stairs",
+		"dungeonnowloading:stone_tile_slab" : "supplementaries:stone_tile_slab",
+		"dungeonnowloading:stone_tile_wall" : "supplementaries:stone_tile_wall",
+		"dungeonnowloading:cracked_stone_tiles" : "supplementaries:stone_tile",
+		"dungeonnowloading:polished_stone" : "minecraft:stone_bricks",
+		"dungeonnowloading:bordered_stone" : "minecraft:smooth_stone",
+		"block_factorys_bosses:wall_torch" : "supplementaries:sconce_wall",
+		"block_factorys_bosses:underwold_wall_torch" : "supplementaries:sconce_wall_soul",
+		// "regions_unexplored:icicle" : "immersive_weathering:icicle",
+		"yungscavebiomes:icicle" : "cataclysm:pointed_icicle",
+		"cataclysm:black_steel_fence" : "caverns_and_chasms:silver_bars",
+		"cataclysm:black_steel_block" : "cataclysm:frosted_stone_bricks",
+		"cataclysm:black_steel_wall" : "cataclysm:frosted_stone_brick_wall",
+		// "yungscavebiomes:icicle" : "immersive_weathering:icicle",
+		//
+		// "immersive_weathering:grassy_permafrost" : "regions_unexplored:chalk_grass_block",
+		// "immersive_weathering:permafrost" : "regions_unexplored:chalk",
+		// "immersive_weathering:silt" : "regions_unexplored:peat_dirt",
+		// "immersive_weathering:grassy_silt" : "regions_unexplored:peat_grass_block",
+		// "immersive_weathering:silty_farmland" : "regions_unexplored:peat_farmland",
+		//
+		"ecologics:azalea_log" : "quark:azalea_log",
+		"ecologics:azalea_wood" : "quark:azalea_wood",
+		"ecologics:flowering_azalea_log" : "quark:azalea_log",
+		"ecologics:flowering_azalea_wood" : "quark:azalea_wood",
+		"ecologics:stripped_azalea_log" : "quark:stripped_azalea_log",
+		"caverns_and_chasms:azalea_log" : "quark:azalea_log",
+		"caverns_and_chasms:azalea_wood" : "quark:azalea_wood",
+		"caverns_and_chasms:stripped_azalea_log" : "quark:stripped_azalea_log",
+		//
+		"irons_spellbooks:alchemist_cauldron" : "minecraft:cauldron",
+		//
+		"bloomingnature:prickly_pear_cactus" : "yungscavebiomes:prickly_peach_cactus",
+		//
+		// "environmental:plum_log" : "regions_unexplored:maple_log",
+		// "environmental:plum_wood" : "regions_unexplored:maple_wood",
+		// "environmental:stripped_plum_log" : "regions_unexplored:stripped_maple_log",
+		// "environmental:cheerful_plum_leaves" : "regions_unexplored:maple_leaves",
+		// "environmental:plum_leaves" : "regions_unexplored:maple_leaves",
+		// "environmental:moody_plum_leaves" : "regions_unexplored:red_maple_leaves",
+		// "environmental:cheerful_plum_leaf_pile" : "immersive_weathering:regions_unexplored/maple_leaf_pile",
+		// "environmental:plum_leaf_pile" : "immersive_weathering:regions_unexplored/maple_leaf_pile",
+		// "environmental:moody_plum_leaf_pile" : "immersive_weathering:regions_unexplored/red_maple_leaf_pile",
+		// "atmospheric:laurel_log" : "bloomingnature:larch_log",
+		// "atmospheric:laurel_wood" : "bloomingnature:larch_wood",
+		// "atmospheric:stripped_laurel_log" : "bloomingnature:stripped_larch_log",
+		// "atmospheric:laurel_leaves" : "bloomingnature:orange_leaves",
+		// "atmospheric:dry_laurel_leaves" : "bloomingnature:larch_leaves",
+		// "atmospheric:orange" : "minecraft:air",
+		// "atmospheric:crustose_log" : "bloomingnature:aspen_log",
+		// "atmospheric:crustose_wood" : "bloomingnature:aspen_wood",
+		"natures_spirit:aspen_log" : "bloomingnature:aspen_log",
+		"natures_spirit:aspen_wood" : "bloomingnature:aspen_wood",
+		"natures_spirit:stripped_aspen_log" : "bloomingnature:stripped_aspen_log",
+		"bloomingnature:aspen_leaves" : "natures_spirit:yellow_aspen_leaves",
+		"bloomingnature:fan_palm_leaves" : "natures_spirit:coconut_leaves",
+		"bloomingnature:fan_palm_log" : "ecologics:coconut_log",
+		"bloomingnature:stripped_fan_palm_log" : "ecologics:stripped_coconut_log",
+		"bloomingnature:fan_palm_wood" : "ecologics:coconut_wood",
+		"bloomingnature:floating_leaves" : "minecraft:air",
+		"bloomingnature:fan_palm_window" : "minecraft:glass_pane",
+		"bloomingnature:fan_palm_planks" : "ecologics:coconut_planks",
+		"bloomingnature:fan_palm_slab" : "ecologics:coconut_slab",
+		"bloomingnature:fan_palm_stairs" : "ecologics:coconut_stairs",
+		"bloomingnature:fan_palm_door" : "ecologics:coconut_door",
+		"bloomingnature:fan_palm_fence" : "ecologics:coconut_fence",
+		"bloomingnature:fan_palm_fence_gate" : "ecologics:coconut_fence_gate",
+		// "regions_unexplored:silver_birch_log" : "bloomingnature:aspen_log",
+		// "regions_unexplored:silver_birch_wood" : "bloomingnature:aspen_wood",
+		// "regions_unexplored:silver_birch_leaves" : "bloomingnature:aspen_leaves",
+		// "regions_unexplored:silver_birch_leaf_pile" : "immersive_weathering:bloomingnature/aspen_leaf_pile",
+		// "regions_unexplored:silver_birch_branch" : "everycomp:ru/bloomingnature/aspen_branch",
+		//
+		// "regions_unexplored:salmonberry_bush" : "minecraft:sweet_berry_bush",
+		"biomesoplenty:fir_log" : "natures_spirit:fir_log",
+		"biomesoplenty:stripped_fir_log" : "natures_spirit:stripped_fir_log",
+		"biomesoplenty:fir_wood" : "natures_spirit:fir_wood",
+		"biomesoplenty:fir_leaves" : "natures_spirit:fir_leaves",
+		"bloomingnature:fir_log" : "natures_spirit:fir_log",
+		"bloomingnature:stripped_fir_log" : "natures_spirit:stripped_fir_log",
+		"bloomingnature:fir_wood" : "natures_spirit:fir_wood",
+		"bloomingnature:stripped_fir_wood" : "natures_spirit:stripped_fir_wood",
+		"bloomingnature:fir_leaves" : "natures_spirit:fir_leaves",
+		"bloomingnature:fir_window" : "minecraft:glass_pane",
+		"bloomingnature:fir_planks" : "natures_spirit:fir_planks",
+		"bloomingnature:fir_slab" : "natures_spirit:fir_slab",
+		"bloomingnature:fir_stairs" : "natures_spirit:fir_stairs",
+		"bloomingnature:fir_door" : "natures_spirit:fir_door",
+		"bloomingnature:fir_fence" : "natures_spirit:fir_fence",
+		"bloomingnature:fir_fence_gate" : "natures_spirit:fir_fence_gate",
+		// "bloomingnature:baobab_log" : "regions_unexplored:baobab_log",
+		// "bloomingnature:stripped_baobab_log" : "regions_unexplored:stripped_baobab_log",
+		// "bloomingnature:baobab_wood" : "regions_unexplored:baobab_wood",
+		// "bloomingnature:baobab_leaves": "regions_unexplored:baobab_leaves",
+		// "regions_unexplored:blackwood_log" : "bloomingnature:ebony_log",
+		// "regions_unexplored:stripped_blackwood_log" : "bloomingnature:stripped_ebony_log",
+		// "regions_unexplored:blackwood_wood" : "bloomingnature:ebony_wood",
+		// "regions_unexplored:blackwood_branch": "everycomp:ru/bloomingnature/ebony_branch",
+		// "regions_unexplored:blackwood_shrub": "everycomp:ru/bloomingnature/ebony_shrub",
+		// "regions_unexplored:blackwood_leaves": "bloomingnature:ebony_leaves",
+		"bloomingnature:larch_log" : "natures_spirit:larch_log",
+		"bloomingnature:stripped_larch_log" : "natures_spirit:stripped_larch_log",
+		"bloomingnature:larch_wood" : "natures_spirit:larch_wood",
+		"bloomingnature:larch_window" : "minecraft:glass_pane",
+		"bloomingnature:larch_planks" : "natures_spirit:larch_planks",
+		"bloomingnature:larch_slab" : "natures_spirit:larch_slab",
+		"bloomingnature:larch_stairs" : "natures_spirit:larch_stairs",
+		"bloomingnature:larch_door" : "natures_spirit:larch_door",
+		"bloomingnature:larch_fence" : "natures_spirit:larch_fence",
+		"bloomingnature:larch_fence_gate" : "natures_spirit:larch_fence_gate",
+		"natures_spirit:larch_leaves" : "bloomingnature:larch_leaves",
+		"natures_spirit:larch_sapling" : "bloomingnature:larch_sapling",
+		// "regions_unexplored:cypress_log" : "bloomingnature:swamp_cypress_log",
+		// "regions_unexplored:stripped_cypress_log" : "bloomingnature:stripped_swamp_cypress_log",
+		// "regions_unexplored:cypress_wood" : "bloomingnature:swamp_cypress_wood",
+		// "regions_unexplored:cypress_branch": "everycomp:ru/bloomingnature/swamp_cypress_branch",
+		// "regions_unexplored:cypress_shrub": "everycomp:ru/bloomingnature/swamp_cypress_shrub",
+		// "regions_unexplored:cypress_leaves": "bloomingnature:swamp_cypress_leaves",
+		// "regions_unexplored:kapok_log" : "bloomingnature:swamp_cypress_log",
+		// "regions_unexplored:stripped_kapok_log" : "bloomingnature:stripped_swamp_cypress_log",
+		// "regions_unexplored:kapok_wood" : "bloomingnature:swamp_cypress_wood",
+		// "regions_unexplored:kapok_branch": "everycomp:ru/bloomingnature/swamp_cypress_branch",
+		// "regions_unexplored:kapok_shrub": "everycomp:ru/bloomingnature/swamp_cypress_shrub",
+		// "regions_unexplored:kapok_leaves": "bloomingnature:swamp_cypress_leaves",
+		// "biomesoplenty:dead_leaves" : "regions_unexplored:dead_leaves",
+		// "biomesoplenty:dead_log" : "regions_unexplored:dead_log",
+		// "biomesoplenty:stripped_dead_log" : "regions_unexplored:stripped_dead_log",
+		// "biomesoplenty:dead_wood" : "regions_unexplored:dead_wood",
+		// "biomesoplenty:dead_branch": "regions_unexplored:dead_branch",
+		// "regions_unexplored:dead_pine_shrub": "regions_unexplored:dead_shrub",
+		// "regions_unexplored:willow_log" : "bloomingnature:swamp_cypress_log",
+		// "regions_unexplored:stripped_willow_log" : "bloomingnature:stripped_swamp_cypress_log",
+		// "regions_unexplored:willow_wood" : "bloomingnature:swamp_cypress_wood",
+		// "regions_unexplored:willow_branch": "minecraft:air",
+		// "regions_unexplored:willow_shrub": "minecraft:air",
+		// "regions_unexplored:willow_leaves" : "bloomingnature:swamp_cypress_leaves",
+		"biomesoplenty:willow_log" : "natures_spirit:willow_log",
+		"biomesoplenty:stripped_willow_log" : "natures_spirit:stripped_willow_log",
+		"biomesoplenty:willow_wood" : "natures_spirit:willow_wood",
+		"biomesoplenty:willow_leaves" : "natures_spirit:willow_leaves",
+		"biomesoplenty:willow_vine" : "natures_spirit:willow_vines",
+		"biomesoplenty:palm_leaves" : "natures_spirit:coconut_leaves",
+		"biomesoplenty:palm_log" : "ecologics:coconut_log",
+		"biomesoplenty:stripped_palm_log" : "ecologics:stripped_coconut_log",
+		"biomesoplenty:palm_wood" : "ecologics:coconut_wood",
+		"ecologics:coconut_leaves" : "natures_spirit:coconut_leaves",
+		"natures_spirit:coconut_log" : "ecologics:coconut_log",
+		"natures_spirit:stripped_coconut_log" : "ecologics:stripped_coconut_log",
+		"natures_spirit:coconut_wood" : "ecologics:coconut_wood",
+		"ecologics:coconut": "natures_spirit:coconut",
+		// "regions_unexplored:barley" : "biomesoplenty:barley",
+		"bloomingnature:cattail" : "biomesoplenty:cattail",
+		"natures_spirit:cattail" : "biomesoplenty:cattail",
+		"bloomingnature:sungrass" : "natures_spirit:melic_grass",
+		"bloomingnature:tall_sungrass" : "natures_spirit:tall_melic_grass",
+		"biomesoplenty:dead_grass" : "minecraft:short_dry_grass",
+		"natures_spirit:frigid_grass" : "minecraft:short_dry_grass",
+		"upgrade_aquatic:beachgrass" : "natures_spirit:beach_grass",
+		"upgrade_aquatic:tall_beachgrass" : "natures_spirit:tall_beach_grass",
+		"bloomingnature:beach_grass" : "natures_spirit:beach_grass",
+		"bloomingnature:mossgrass" : "biomesoplenty:clover",
+		"bloomingnature:red_oat_grass" : "natures_spirit:oat_grass",
+		"bloomingnature:tall_red_oat_grass" : "natures_spirit:tall_oat_grass",
+		"biomesoplenty:desert_grass" : "minecraft:short_dry_grass",
+		"biomesoplenty:bush" : "minecraft:bush",
+		// "biomesoplenty:cattail" : "environmental:cattail",
+		// "regions_unexplored:cattail" : "biomesoplenty:cattail",
+		// "regions_unexplored:clover" : "biomesoplenty:clover",
+		// "regions_unexplored:pine_log" : "biomesoplenty:pine_log",
+		// "regions_unexplored:pine_wood" : "biomesoplenty:pine_wood",
+		// "regions_unexplored:stripped_pine_log" : "biomesoplenty:stripped_pine_log",
+		// "regions_unexplored:pine_leaves" : "biomesoplenty:pine_leaves",
+		// "regions_unexplored:dead_pine_leaves" : "regions_unexplored:dead_leaves",
+		// "regions_unexplored:pine_branch": "minecraft:air",
+		"biomesoplenty:mahogany_leaves" : "natures_spirit:mahogany_leaves",
+		"biomesoplenty:mahogany_log" : "natures_spirit:mahogany_log",
+		"biomesoplenty:stripped_mahogany_log" : "natures_spirit:stripped_mahogany_log",
+		"biomesoplenty:mahogany_wood" : "natures_spirit:mahogany_wood",
+		"biomesoplenty:pine_leaves" : "natures_spirit:cypress_leaves",
+		"biomesoplenty:pine_log" : "natures_spirit:cypress_log",
+		"biomesoplenty:stripped_pine_log" : "natures_spirit:stripped_cypress_log",
+		"biomesoplenty:pine_wood" : "natures_spirit:cypress_wood",
+		"biomesoplenty:cypress_leaves" : "minecraft:spruce_leaves",
+		"biomesoplenty:redwood_log" : "natures_spirit:redwood_log",
+		"biomesoplenty:stripped_redwood_log" : "natures_spirit:stripped_redwood_log",
+		"biomesoplenty:redwood_leaves" : "natures_spirit:redwood_leaves",
+		"biomesoplenty:red_maple_leaves" : "natures_spirit:red_maple_leaves",
+		"biomesoplenty:orange_maple_leaves" : "natures_spirit:orange_maple_leaves",
+		"biomesoplenty:yellow_maple_leaves" : "natures_spirit:yellow_maple_leaves",
+		// "immersive_weathering:natures_spirit/red_maple_leaf_pile" : "biomesoplenty:red_maple_leaf_pile",
+		// "immersive_weathering:natures_spirit/orange_maple_leaf_pile" : "biomesoplenty:orange_maple_leaf_pile",
+		// "immersive_weathering:natures_spirit/yellow_maple_leaf_pile" : "biomesoplenty:yellow_maple_leaf_pile",
+		// "immersive_weathering:biomesoplenty/red_maple_leaf_pile" : "biomesoplenty:red_maple_leaf_pile",
+		// "immersive_weathering:biomesoplenty/orange_maple_leaf_pile" : "biomesoplenty:orange_maple_leaf_pile",
+		// "immersive_weathering:biomesoplenty/yellow_maple_leaf_pile" : "biomesoplenty:yellow_maple_leaf_pile",
+		"biomesoplenty:maple_log" : "natures_spirit:maple_log",
+		"biomesoplenty:stripped_maple_log" : "natures_spirit:stripped_maple_log",
+		"biomesoplenty:maple_wood" : "natures_spirit:maple_wood",
+		// "environmental:giant_tall_grass" : "biomesoplenty:high_grass",
+		"quark:rope": "farmersdelight:rope",
+		"supplementaries:rope": "farmersdelight:rope",
+		"supplementaries:wild_flax": "minecraft:air",
+		"supplementaries:flax_block": "farmersdelight:straw_bale",
+		// "biomesoplenty:huge_lily_pad": "environmental:large_lily_pad",
+		// "regions_unexplored:spanish_moss": "biomesoplenty:spanish_moss",
+		// "regions_unexplored:spanish_moss_plant": "biomesoplenty:spanish_moss_plant",
+		// "regions_unexplored:hibiscus": "natures_spirit:hibiscus",
+		"biomesoplenty:pink_hibiscus": "natures_spirit:hibiscus",
+		// "regions_unexplored:mossy_stone": "immersive_weathering:mossy_stone",
+		// "biomesoplenty:orange_sand": "atmospheric:red_arid_sand",
+		// "biomesoplenty:orange_sandstone": "atmospheric:red_arid_sandstone",
+		// "biomesoplenty:smooth_orange_sandstone": "atmospheric:smooth_red_arid_sandstone",
+		// "biomesoplenty:dune_grass": "regions_unexplored:sandy_grass",
+		// "biomesoplenty:desert_grass": "regions_unexplored:small_desert_shrub",
+		// "atmospheric:arid_sprouts": "regions_unexplored:small_desert_shrub",
+		// "biomesoplenty:dead_grass": "regions_unexplored:medium_grass",
+		// "immersive_weathering:frosty_grass": "regions_unexplored:frozen_grass",
+		// "regions_unexplored:alpha_rose": "biomesoplenty:rose",
+		// "environmental:violet": "biomesoplenty:violet",
+		// "regions_unexplored:duckweed": "environmental:duckweed",
+		//
+		"cataclysm:stone_tiles": "supplementaries:stone_tile",
+		"cataclysm:stone_tile_slab": "supplementaries:stone_tile_slab",
+		"cataclysm:stone_tile_stairs": "supplementaries:stone_tile_stairs",
+		"cataclysm:stone_tile_wall": "supplementaries:stone_tile_wall",
+		//
+		// "quark:white_stool": "another_furniture:white_stool",
+		// "quark:red_stool": "another_furniture:red_stool",
+		// "quark:light_gray_stool": "another_furniture:light_gray_stool",
+		// "quark:gray_stool": "another_furniture:gray_stool",
+		// "quark:black_stool": "another_furniture:black_stool",
+		// "quark:brown_stool": "another_furniture:brown_stool",
+		// "quark:orange_stool": "another_furniture:orange_stool",
+		// "quark:yellow_stool": "another_furniture:yellow_stool",
+		// "quark:lime_stool": "another_furniture:lime_stool",
+		// "quark:green_stool": "another_furniture:green_stool",
+		// "quark:cyan_stool": "another_furniture:cyan_stool",
+		// "quark:light_blue_stool": "another_furniture:light_blue_stool",
+		// "quark:blue_stool": "another_furniture:blue_stool",
+		// "quark:purple_stool": "another_furniture:purple_stool",
+		// "quark:magenta_stool": "another_furniture:magenta_stool",
+		// "quark:pink_stool": "another_furniture:pink_stool",
+		//
+		"berry_good:sweet_berry_basket": "quark:berry_sack",
+		"berry_good:glow_berry_basket": "quark:glowberry_sack",
+		// "mowziesmobs:thatch_block": "environmental:grass_thatch",
+		"alexscaves:spelunkery_table": "ecologics:pot",
+		//
+		// "bbb:stone_tiles": "supplementaries:stone_tile",
+		// "bbb:stone_tile_stairs": "supplementaries:stone_tile_stairs",
+		// "bbb:stone_tile_slab": "supplementaries:stone_tile_slab",
+		"cataclysm:stone_tiles": "supplementaries:stone_tile",
+		"cataclysm:stone_tile_slab": "supplementaries:stone_tile_slab",
+		"cataclysm:stone_tile_stairs": "supplementaries:stone_tile_stairs",
+		"cataclysm:stone_tile_wall": "supplementaries:stone_tile_wall",
+		// "cataclysm:chiseled_stone_brick_pillar": "hearth_and_home:stone_pillar",
+		"cataclysm:polished_end_stone": "minecraft:end_stone_bricks",
+		"cataclysm:polished_end_stone_slab": "minecraft:end_stone_brick_slab",
+		"cataclysm:polished_end_stone_stairs": "minecraft:end_stone_brick_stairs",
+		"cataclysm:chiseled_end_stone_bricks": "endergetic:chiseled_end_stone_bricks",
+		// "cataclysm:frosted_stone_bricks": "immersive_weathering:snowy_stone_bricks",
+		// "cataclysm:frosted_stone_brick_slab": "immersive_weathering:snowy_stone_brick_slab",
+		// "cataclysm:frosted_stone_brick_stairs": "immersive_weathering:snowy_stone_brick_stairs",
+		// "cataclysm:frosted_stone_brick_wall": "immersive_weathering:snowy_stone_brick_wall",
+		// "endergetic:cracked_end_stone_bricks": "immersive_weathering:cracked_end_stone_bricks",
+		//
+		"caverns_and_chasms:silver_ore": "galosphere:silver_ore",
+		"caverns_and_chasms:deepslate_silver_ore": "galosphere:deepslate_silver_ore",
+		"caverns_and_chasms:soul_silver_ore": "minecraft:soul_sand",
+		"caverns_and_chasms:spinel_ore": "minecraft:stone",
+		"caverns_and_chasms:deepslate_spinel_ore": "minecraft:deepslate",
+		//
+		// "bloomingnature:sand": "immersive_weathering:sand_layer_block"
+	}
+}

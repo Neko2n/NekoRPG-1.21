@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "sullysmod:petrified_log",
+      "required": false
+    },
+    {
+      "id": "sullysmod:stripped_petrified_log",
+      "required": false
+    },
+    {
+      "id": "sullysmod:petrified_wood",
+      "required": false
+    },
+    {
+      "id": "sullysmod:stripped_petrified_wood",
+      "required": false
+    }
+  ]
+}

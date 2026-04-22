@@ -1,0 +1,16 @@
+filename = 'holdmyitemsnf-1.21.1v2.1.jar'
+name = 'HoldMyItems - Reforged'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c4a8d9c03c659c696d63580e9b71e7a7c64dae33'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6608571
+project-id = 1246920

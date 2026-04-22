@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "irons_spellbooks:priest_helmet",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:priest_chestplate",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:priest_leggings",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:priest_boots",
+      "required": false
+    },
+    {
+      "id": "elementus_arcane:paladin_helmet",
+      "required": false
+    },
+    {
+      "id": "elementus_arcane:paladin_chestplate",
+      "required": false
+    },
+    {
+      "id": "elementus_arcane:paladin_leggings",
+      "required": false
+    },
+    {
+      "id": "elementus_arcane:paladin_boots",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:divine_pearl",
+      "required": false
+    }
+  ]
+}

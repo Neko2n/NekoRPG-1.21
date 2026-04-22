@@ -1,0 +1,101 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "bloomingnature:white_orchid",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:bird_of_paradise",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mountain_laurel",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mountain_snowbell",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:hyssop",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:joe_pye",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:daphne",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:bottlebrushes",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:bluebell",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:begonie",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:golden_rod",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:goatsbeard",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:genisteae",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:foxglove_white",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:foxglove_pink",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:freesia_yellow",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:freesia_pink",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:lupine_blue",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:lupine_purple",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:forsythia",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:gladiolus",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:anemone",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:barrel_cactus",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:prickly_pear_cactus",
+      "required": false
+    }
+  ]
+}

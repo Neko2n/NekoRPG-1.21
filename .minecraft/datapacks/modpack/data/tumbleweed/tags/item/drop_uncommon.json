@@ -1,0 +1,60 @@
+{
+  "values": [
+    {
+      "id": "natures_spirit:joshua_log",
+      "required": false
+    },
+    {
+      "id": "minecraft:sugar_cane",
+      "required": false
+    },
+    {
+      "id": "minecraft:wheat",
+      "required": false
+    },
+    {
+      "id": "minecraft:stick",
+      "required": false
+    },
+    {
+      "id": "minecraft:melon_seeds",
+      "required": false
+    },
+    {
+      "id": "minecraft:pumpkin_seeds",
+      "required": false
+    },
+    {
+      "id": "minecraft:gold_nugget",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_nugget",
+      "required": false
+    },
+    {
+      "id": "galosphere:silver_nugget",
+      "required": false
+    },
+    {
+      "id": "minecraft:raw_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:beetroot_seeds",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cabbage_seeds",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:tomato_seeds",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:roadrunner_feather",
+      "required": false
+    }
+  ]
+}

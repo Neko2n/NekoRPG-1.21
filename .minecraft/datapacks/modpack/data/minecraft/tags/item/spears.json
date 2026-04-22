@@ -1,0 +1,69 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:diamond_spear",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_spear",
+      "required": false
+    },
+    {
+      "id": "minecraft:golden_spear",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherite_spear",
+      "required": false
+    },
+    {
+      "id": "minecraft:wooden_spear",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_spear",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_spear",
+      "required": false
+    },
+    {
+      "id": "bosses_of_mass_destruction:earthdive_spear",
+      "required": false
+    },
+    {
+      "id": "eternal_starlight:crescent_spear",
+      "required": false
+    },
+    {
+      "id": "eternal_starlight:malarite_spear",
+      "required": false
+    },
+    {
+      "id": "eternal_starlight:pungency_fruit_spear",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:amethyst_rapier",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:twilight_gale",
+      "required": false
+    },
+    {
+      "id": "alexscaves:limestone_spear",
+      "required": false
+    },
+    {
+      "id": "alexscaves:extinction_spear",
+      "required": false
+    },
+    {
+      "id": "alexscaves:ortholance",
+      "required": false
+    }
+  ]
+}

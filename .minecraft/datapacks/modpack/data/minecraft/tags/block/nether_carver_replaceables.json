@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:sorroweed",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate",
+      "required": false
+    },
+    {
+      "id": "netherexp:pale_soul_slate",
+      "required": false
+    },
+    {
+      "id": "netherexp:ecto_soul_sand",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_magma_block",
+      "required": false
+    },
+    {
+      "id": "netherexp:silica_sand",
+      "required": false
+    },
+    {
+      "id": "netherexp:silica_sandstone",
+      "required": false
+    },
+    {
+      "id": "netherexp:souled_geyser",
+      "required": false
+    }
+  ]
+}

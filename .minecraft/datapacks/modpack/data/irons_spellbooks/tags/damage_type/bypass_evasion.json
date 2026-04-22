@@ -1,0 +1,48 @@
+{
+  "values": [
+    {
+      "id": "minecraft:on_fire",
+      "required": false
+    },
+    {
+      "id": "minecraft:wither",
+      "required": false
+    },
+    {
+      "id": "minecraft:freeze",
+      "required": false
+    },
+    {
+      "id": "minecraft:starve",
+      "required": false
+    },
+    {
+      "id": "minecraft:drown",
+      "required": false
+    },
+    {
+      "id": "minecraft:stalagmite",
+      "required": false
+    },
+    {
+      "id": "minecraft:outside_border",
+      "required": false
+    },
+    {
+      "id": "minecraft:out_of_world",
+      "required": false
+    },
+    {
+      "id": "minecraft:dry_out",
+      "required": false
+    },
+    {
+      "id": "minecraft:in_wall",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:blood_cauldron",
+      "required": false
+    }
+  ]
+}

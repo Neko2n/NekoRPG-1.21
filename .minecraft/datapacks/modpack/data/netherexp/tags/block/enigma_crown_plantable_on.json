@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:enigma_flesh",
+      "required": false
+    },
+    {
+      "id": "netherexp:strange_enigma_flesh",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherrack",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_nylium",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_nylium",
+      "required": false
+    },
+    {
+      "id": "minecraft:mycelium",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_sand",
+      "required": false
+    },
+    {
+      "id": "netherexp:ecto_soul_sand",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_soil",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate",
+      "required": false
+    },
+    {
+      "id": "netherexp:pale_soul_slate",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "id": "mowziesmobs:naga_fang"
+  },
+  "base": {
+    "id": "irons_spellbooks:wandering_magician_helmet"
+  },
+  "result": {
+    "id": "irons_spellbooks:plagued_helmet"
+  },
+  "template": {
+    "id": "irons_spellbooks:nature_rune"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "__comment": "all undead mobs that ignore the neutrality effect of the kimono.",
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:wither",
+      "required": false
+    },
+    {
+      "id": "minecraft:wither_skeleton",
+      "required": false
+    },
+    {
+      "id": "cataclysm:ignis",
+      "required": false
+    },
+    {
+      "id": "cataclysm:ignited_berserker",
+      "required": false
+    },
+    {
+      "id": "cataclysm:ignited_revenant",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:citadel_keeper",
+      "required": false
+    },
+    {
+      "id": "cataclysm:the_harbinger",
+      "required": false
+    },
+    {
+      "id": "cataclysm:ancient_remnant",
+      "required": false
+    },
+    {
+      "id": "cataclysm:maledictus",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:murmur",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:murmur_head",
+      "required": false
+    },
+    {
+      "id": "minecraft:warden",
+      "required": false
+    }
+  ]
+}

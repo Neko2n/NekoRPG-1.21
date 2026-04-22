@@ -1,0 +1,131 @@
+[GUI]
+	#Show tooltips for ideal seasons and humidity levels on crop items.
+	AgriculturalInformation = true
+	#Show additional information regarding item usage or origins.
+	ItemInformation = false
+	#Whether to enable a simplified HUD overlay that displays the current season and solar term on the screen.
+	SimpleSeasonHud = false
+
+[Renderer]
+	#Periodically force-reloads chunk rendering to fix visual glitches (may impact FPS).
+	ForceChunkRenderUpdate = true
+	#(ForceChunkRenderUpdate) A more thorough reload that refreshes all chunk sections periodically.
+	EnhancementChunkRenderUpdate = false
+	#Apply seasonal color shifts to grass and leaf textures.
+	SeasonalGrassColorChange = true
+	#Visual detail: Occasionally adds small, decorative flowers to grass blocks in Spring.
+	FlowerOnGrass = true
+	#Refreshes the renderer state immediately after the player wakes up.
+	ResetRendererAfterSleep = false
+	#Optimized rendering: Cull the top face of a block if it is hidden by a snow model.
+	CullTopFaceWithSnow = false
+	#Use standard Vanilla light/sky rules to determine if snow should fall in a location.
+	UseVanillaSnowCheck = false
+	#Allow decorative snow overlays to appear under solid blocks (e.g., in shadows or under eaves).
+	SnowUnderShadow = false
+	#Extend seasonal color shifts to birch, spruce, and mangrove leaves.
+	SeasonalColorChangeExtend = true
+	#Visual detail: Adds a brownish, withered foliage effect under trees during Autumn.
+	FoliageUnderTree = true
+	#Calculate seasonal color shifts based on exact solar term progress for smoother transitions.
+	SmootherSeasonalGrassColorChange = true
+	#[Sodium/Embeddium] Renders a virtual snow layer inside fences and tall grass for a seamless look.
+	SnowInFence = false
+	#[Sodium/Embeddium] Minimum number of adjacent snow-covered blocks required to trigger the effect.
+	# Default: 2
+	# Range: 1 ~ 8
+	SnowInFenceCount = 2
+	#[Sodium/Embeddium] Check all eight surrounding directions instead of just the cardinal four.
+	SnowInFenceDirection = false
+	#[Sodium/Embeddium] Render snow layers inside snow-connected fences only when in a snowy state.
+	SnowInFenceOnlySnowy = false
+	#[Sodium/Embeddium] Render an additional snow layer on blocks that already use the snowy model.
+	ExtraSnowLayer = false
+	#[Sodium/Embeddium] Maxmum number of additional snow layer on blocks.
+	# Default: 2
+	# Range: 0 ~ 8
+	ExtraSnowLayerMaxLayers = 2
+	#[Sodium/Embeddium] Maxmum number of additional snow layer on leave blocks.
+	# Default: 1
+	# Range: 0 ~ 8
+	ExtraSnowLayerMaxLayersOnLeaves = 1
+	#[Sodium/Embeddium] Culling extra fake snow layer for necessary.
+	ExtraSnowLayerCulling = true
+
+[Sound]
+	#Enable ambient environmental sounds (birds, wind, etc.) based on the season.
+	NaturalSound = true
+
+[Debug]
+	#Show development-related metrics in the on-screen display.
+	DebugInfo = false
+	#Renders decorative snow edges on adjacent blocks for seamless terrain transitions.
+	SmoothSnowyEdges = false
+	#Visual effect: Surface water appears to be covered by a thin, cosmetic layer of ice.
+	FrozenWater = false
+	#If true, the thin ice layer on water can be broken by players/entities.
+	FrozenWaterBreakable = true
+	#Prevents the visual frozen water effect in areas with high light levels.
+	FrozenWaterCheckLight = true
+	#Experimental: Adds a cinematic fog effect during rainfall.
+	FoggyWeather = true
+	#Sets the threshold (in ms) for chunk compilation before logging a performance warning.
+	# Default: 1000
+	# Range: 5 ~ 20000
+	MinChunkCompileWarningTime = 1000
+
+[Particle]
+	#Spawns butterflies over flowers during Spring.
+	Butterfly = true
+	#Leaf blocks will drop falling leaf particles, peaking in frequency during Autumn.
+	FallenLeaves = true
+	#Spawns fireflies near flowers during Summer evenings.
+	Firefly = true
+	#Visual effect: Displays wild geese flying south during autumnal transitions.
+	WildGoose = false
+	#Emits soft ambient particles when the Season Core or Greenhouse is active.
+	SeasonGreenhouse = true
+	#Density of particles emitted by the Greenhouse effect.
+	# Default: 30
+	# Range: 0 ~ 160
+	SeasonGreenhouseParticleSpawnCount = 30
+	#Enable seasonal particles like butterflies, fireflies, and falling leaves.
+	SeasonalParticles = true
+	#Density between butterfly spawns. Higher values result in fewer butterflies.
+	# Default: 10
+	# Range: 1 ~ 10000
+	ButterflySpawnDelay = 10
+	#Density between leaf particles. Higher values result in fewer leaves falling.
+	# Default: 10
+	# Range: 1 ~ 10000
+	FallenLeavesDropDelay = 10
+	#Density between firefly spawns. Higher values result in fewer fireflies.
+	# Default: 10
+	# Range: 1 ~ 10000
+	FireflySpawnDelay = 10
+	#Density between wild goose sightings. Higher values result in fewer sightings.
+	# Default: 10
+	# Range: 1 ~ 10000
+	WildGooseSpawnDelay = 10
+	#Breaking snow-covered leaves will release a burst of snow particles.
+	SnowLeafParticles = true
+
+[Weather]
+	#The radius (in blocks) used to sample and blend weather patterns for smooth transitions.
+	# Default: 6
+	# Range: 1 ~ 80
+	WeatherBufferDistance = 16
+	#How quickly local weather conditions change. Higher values mean faster shifts.
+	# Default: 0.008
+	# Range: 8.0E-4 ~ 0.08
+	WeatherTransitionSpeed = 0.008
+	#Prioritize weather sampling in the direction the player is currently facing.
+	WeatherFrontBias = true
+
+	[Compat.Iris]
+		#Harmonizes shading parameters for all snow-covered surfaces when using shaders.
+		UnifiedSnowyBlockShading = true
+		#Extends unified shading to the side faces of snow-covered blocks.
+		UnifiedSnowyBlockSides = true
+		#Shader Fix: Prevents thin ice from being incorrectly flagged as 'Water' during post-processing.
+		UnifiedFrozenWater = false

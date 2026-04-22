@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:sorrowsquash_stem",
+      "required": false
+    },
+    {
+      "id": "netherexp:sorrowsquash_stem_plant",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_torchflower_crop",
+      "required": false
+    }
+  ]
+}

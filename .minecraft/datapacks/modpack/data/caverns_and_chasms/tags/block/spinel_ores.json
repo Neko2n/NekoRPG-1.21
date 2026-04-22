@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "caverns_and_chasms:spinel_ore",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:deepslate_spinel_ore",
+      "required": false
+    }
+  ]
+}

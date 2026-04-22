@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "quark:bamboo_mat"
+    }
+  ],
+  "result": [
+    {
+      "count": 2,
+      "id": "minecraft:stick"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:bamboo"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

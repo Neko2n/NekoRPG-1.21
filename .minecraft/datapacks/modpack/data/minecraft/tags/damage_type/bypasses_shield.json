@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:shotgun_explosion",
+      "required": false
+    }
+  ]
+}

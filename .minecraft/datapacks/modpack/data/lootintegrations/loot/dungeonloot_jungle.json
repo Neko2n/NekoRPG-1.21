@@ -1,0 +1,9 @@
+{
+  "loot_table": "lootintegrations:chests/jungle",
+  "integrated_loot_tables": {
+    "betterjungletemples:chests/treasure": 5,
+    "betterjungletemples:chests/campsite": 1,
+    "dungeons_enhanced:chests/jungle_monument/floor": 1,
+    "dungeons_enhanced:chests/jungle_monument/treasure": 4
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "pools": [
+    {
+      "name": "map_pool",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "furledMapData": {
+                  "destination": "minecraft:ancient_city",
+                  "description": "{\"translate\":\"[Ancient City]\"}"
+                }
+              }
+            }
+          ],
+          "name": "irons_spellbooks:furled_map",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 92
+        }
+      ]
+    }
+  ]
+}

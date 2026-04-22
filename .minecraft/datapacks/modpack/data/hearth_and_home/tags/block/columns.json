@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "hearth_and_home:stone_column",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:calcite_column",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:quartz_column",
+      "required": false
+    }
+  ]
+}

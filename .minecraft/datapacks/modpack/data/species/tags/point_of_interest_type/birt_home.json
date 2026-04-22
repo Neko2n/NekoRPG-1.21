@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "species:birt_dwelling",
+      "required": false
+    }
+  ]
+}

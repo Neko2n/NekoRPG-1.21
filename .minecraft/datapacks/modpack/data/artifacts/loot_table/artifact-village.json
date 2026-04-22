@@ -1,0 +1,65 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:anglers_hat",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:cowboy_hat",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:kitty_slippers",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:onion_ring",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:pocket_piston",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:rooted_boots",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:snowshoes",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:villager_hat",
+          "weight": 24
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 8,
+          "value": "artifacts:items/drinking_hat"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:umbrella",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:whoopee_cushion",
+          "weight": 5
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

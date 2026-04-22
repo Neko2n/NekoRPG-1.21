@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "minecraft:deep_frozen_ocean",
+      "required": false
+    },
+    {
+      "id": "alexscaves:abyssal_chasm",
+      "required": false
+    }
+  ]
+}

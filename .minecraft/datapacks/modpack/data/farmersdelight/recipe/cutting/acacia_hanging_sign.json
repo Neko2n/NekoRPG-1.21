@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:acacia_hanging_sign"
+    }
+  ],
+  "result": [
+    {
+      "id": "minecraft:acacia_planks"
+    }
+  ],
+  "tool": {
+    "tag": "neoforge:tools/axes"
+  }
+}

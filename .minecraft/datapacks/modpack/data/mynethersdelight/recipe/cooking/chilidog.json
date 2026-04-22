@@ -1,0 +1,28 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "mynethersdelight:hotdog"
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredients": [
+    {
+      "tag": "mynethersdelight:hot_spice"
+    },
+    [
+      {
+        "id": "mynethersdelight:minced_strider"
+      },
+      {
+        "id": "farmersdelight:minced_beef"
+      }
+    ],
+    {
+      "item": "minecraft:nether_wart"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "mynethersdelight:chilidog"
+  }
+}

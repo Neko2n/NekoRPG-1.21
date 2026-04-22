@@ -1,0 +1,137 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:sorroweed",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate",
+      "required": false
+    },
+    {
+      "id": "netherexp:pale_soul_slate",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_stairs",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_wall",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_brick_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_brick_wall",
+      "required": false
+    },
+    {
+      "id": "netherexp:etched_soul_slate_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:cracked_soul_slate_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_brick_pillar",
+      "required": false
+    },
+    {
+      "id": "netherexp:chiseled_soul_slate_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_tiles",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_tile_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_tile_stairs",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_tile_wall",
+      "required": false
+    },
+    {
+      "id": "netherexp:etched_soul_slate_tiles",
+      "required": false
+    },
+    {
+      "id": "netherexp:chiseled_soul_slate_tiles",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_glass",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_path",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_soil_layer",
+      "required": false
+    },
+    {
+      "id": "netherexp:ecto_soul_sand",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_magma_block",
+      "required": false
+    },
+    {
+      "id": "netherexp:souled_geyser",
+      "required": false
+    },
+    {
+      "id": "netherexp:black_ice",
+      "required": false
+    },
+    {
+      "id": "netherexp:fossil_ore",
+      "required": false
+    },
+    {
+      "id": "netherexp:fossil_fuel_ore",
+      "required": false
+    },
+    {
+      "id": "netherexp:wraithing_lesion",
+      "required": false
+    },
+    {
+      "id": "netherexp:shroomblight",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_permafrost",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_ruby_ore",
+      "required": false
+    }
+  ]
+}

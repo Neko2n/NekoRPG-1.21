@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "natures_spirit:shiitake_mushroom"
+    },
+    {
+      "tag": "forge:mushrooms"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "minecraft:mushroom_stew"
+  }
+}

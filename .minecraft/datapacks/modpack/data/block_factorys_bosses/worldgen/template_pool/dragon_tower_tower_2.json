@@ -1,0 +1,17 @@
+{
+  "name": "block_factorys_bosses:dragon_tower_tower_2",
+  "fallback": "block_factorys_bosses:dragon_tower_tower_2",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "block_factorys_bosses:dragon_tower_2",
+        "projection": "rigid",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

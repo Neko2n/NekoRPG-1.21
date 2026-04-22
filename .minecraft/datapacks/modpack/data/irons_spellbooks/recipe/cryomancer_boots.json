@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "id": "minecraft:blue_ice"
+  },
+  "base": {
+    "id": "irons_spellbooks:wandering_magician_boots"
+  },
+  "result": {
+    "id": "irons_spellbooks:cryomancer_boots"
+  },
+  "template": {
+    "id": "irons_spellbooks:ice_rune"
+  }
+}

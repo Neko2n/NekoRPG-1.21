@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    {
+      "id": "natures_spirit:coconut_half",
+      "required": false
+    }
+  ]
+}

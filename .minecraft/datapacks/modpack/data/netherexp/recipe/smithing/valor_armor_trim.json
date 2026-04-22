@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_trim",
+  "addition": {
+    "id": "#minecraft:trim_materials"
+  },
+  "base": {
+    "id": "#minecraft:trimmable_armor"
+  },
+  "template": {
+    "id": "netherexp:valor_armor_trim_smithing_template"
+  }
+}

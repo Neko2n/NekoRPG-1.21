@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#mynethersdelight:powdery_cane_biomes",
+  "features": "mynethersdelight:patch_powdery_cane",
+  "step": "vegetal_decoration"
+}

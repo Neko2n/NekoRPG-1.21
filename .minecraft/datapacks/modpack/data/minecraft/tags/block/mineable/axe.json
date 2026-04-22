@@ -1,0 +1,749 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "bloomingnature:larch_log",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_wood",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:stripped_larch_wood",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:stripped_larch_log",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_planks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_button",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_trapdoor",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_door",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_fence",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_fence_gate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_log",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_wood",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:stripped_baobab_wood",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:stripped_baobab_log",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_planks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_button",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_trapdoor",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_door",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_fence",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_fence_gate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_log",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_wood",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:stripped_swamp_oak_wood",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:stripped_swamp_oak_log",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_planks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_button",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_trapdoor",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_door",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_fence",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_fence_gate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_log",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_wood",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:stripped_aspen_wood",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:stripped_aspen_log",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_planks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_button",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_trapdoor",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_door",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_fence",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_fence_gate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_log",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_wood",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:stripped_fan_palm_wood",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:stripped_fan_palm_log",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_planks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_button",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_trapdoor",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_door",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_fence",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_fence_gate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_log",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_wood",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:stripped_fir_wood",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:stripped_fir_log",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_planks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_button",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_trapdoor",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_door",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_fence",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_fence_gate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_log",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_wood",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:stripped_swamp_cypress_wood",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:stripped_swamp_cypress_log",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_planks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_button",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_trapdoor",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_door",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_fence",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_fence_gate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_log",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_wood",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:stripped_chestnut_wood",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:stripped_chestnut_log",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_planks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_button",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_trapdoor",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_door",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_fence",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_fence_gate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_log",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_wood",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:stripped_ebony_wood",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:stripped_ebony_log",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_planks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_button",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_trapdoor",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_door",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_fence",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_fence_gate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:brown_mushroom_bricks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:brown_mushroom_brick_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:brown_mushroom_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:brown_mushroom_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mushroom_bricks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mushroom_brick_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mushroom_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mushroom_brick_wall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_wall_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_wall_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_wall_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_wall_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_wall_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_wall_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_wall_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_wall_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_wall_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_wall_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_wall_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cactus_planks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cactus_stairs",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cactus_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cactus_door",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cactus_fence_gate",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cactus_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cactus_button",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cactus_trapdoor",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cactus_fence",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cactus_window",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cactus_wall_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cactus_wall_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cactus_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cactus_sign",
+      "required": false
+    }
+  ]
+}

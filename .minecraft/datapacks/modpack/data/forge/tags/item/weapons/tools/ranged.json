@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "species:crankbow",
+      "required": false
+    },
+    {
+      "id": "opposing_force:tesla_bow",
+      "required": false
+    },
+    {
+      "id": "dungeonnowloading:vertex_bow",
+      "required": false
+    }
+  ]
+}

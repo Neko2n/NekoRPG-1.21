@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "irons_spellbooks:summoned_vex",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:summoned_zombie",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:summoned_skeleton",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:summoned_polar_bear",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:spectral_steed",
+      "required": false
+    }
+  ]
+}

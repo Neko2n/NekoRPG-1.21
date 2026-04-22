@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "mynethersdelight:ghast_sourdough"
+    }
+  ],
+  "result": [
+    {
+      "count": 3,
+      "id": "mynethersdelight:ghast_dough"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

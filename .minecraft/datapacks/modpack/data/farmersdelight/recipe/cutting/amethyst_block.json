@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:amethyst_block"
+    }
+  ],
+  "result": [
+    {
+      "count": 4,
+      "id": "minecraft:amethyst_shard"
+    }
+  ],
+  "tool": {
+    "tag": "neoforge:tools/pickaxes"
+  }
+}

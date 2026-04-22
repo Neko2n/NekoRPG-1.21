@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "Y#Y",
+    "#B#",
+    "Y#Y"
+  ],
+  "key": {
+    "#": {
+      "item": "species:werefang"
+    },
+    "B": {
+      "item": "minecraft:crossbow"
+    },
+    "Y": {
+      "tag": "c:ingots/silver"
+    }
+  },
+  "result": {
+    "id": "species:crankbow",
+    "count": 1
+  }
+}

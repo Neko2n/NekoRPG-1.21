@@ -1,0 +1,16 @@
+filename = 'matmos_tct-7.4-neoforge-1.21.1.jar'
+name = 'MAtmos - Ambient sound'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd19b2d7f6f559b1a77c9d6ec8ae8292d9659a5a1c88f71de1a2162305d002a9dba0cf193f9821ad1ab53254b5bfb4b955195f3a3ffd98638cbf92241caebd2c2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bTSEAgRY/versions/aEK8bUX8/matmos_tct-7.4-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'bTSEAgRY'
+version = 'aEK8bUX8'

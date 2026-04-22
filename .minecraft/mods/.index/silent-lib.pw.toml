@@ -1,0 +1,17 @@
+filename = 'silent-lib-1.21.1-neoforge-10.6.0.jar'
+name = 'Silent Lib'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '10.6.0 for NeoForge 1.21.1'
+
+[download]
+hash = '991055113a165bef7d0b620c091165d55f7dbb24'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7935618
+project-id = 242998

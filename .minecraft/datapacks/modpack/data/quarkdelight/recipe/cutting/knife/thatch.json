@@ -1,0 +1,27 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "quark:thatch"
+    }
+  ],
+  "result": [
+    {
+      "count": 1,
+      "id": "minecraft:wheat"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

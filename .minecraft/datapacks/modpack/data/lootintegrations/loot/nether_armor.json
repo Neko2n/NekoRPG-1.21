@@ -1,0 +1,14 @@
+{
+  "loot_table": "lootintegrations:chests/nether_armor",
+  "integrated_loot_tables": {
+    "minecraft:chests/nether_fortress/fort_inside": 1,
+    "betterfortresses:chests/extra": 1,
+    "betterfortresses:chests/puzzle": 1,
+    "betterfortresses:chests/quarters": 1,
+    "betterfortresses:chests/worship": 1,
+    "block_factorys_bosses:chests/undead_arena_rare": 1,
+    "netherexp:archaeology/fortress": 1,
+    "netherexp:brazier_chest/exposed": 1,
+    "netherexp:brazier_chest/hidden": 2
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "values": [
+    {
+      "id": "bloomingnature:fir_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_hanging_sign",
+      "required": false
+    }
+  ]
+}

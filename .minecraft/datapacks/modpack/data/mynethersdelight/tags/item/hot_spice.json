@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "minecraft:blaze_powder",
+      "required": false
+    },
+    {
+      "id": "#mynethersdelight:bullet_pepper",
+      "required": false
+    }
+  ]
+}

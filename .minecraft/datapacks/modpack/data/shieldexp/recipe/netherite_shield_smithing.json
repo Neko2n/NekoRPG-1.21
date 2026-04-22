@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "id": "minecraft:netherite_ingot"
+  },
+  "base": {
+    "id": "shieldexp:diamond_shield"
+  },
+  "result": {
+    "id": "shieldexp:netherite_shield"
+  },
+  "template": {
+    "id": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

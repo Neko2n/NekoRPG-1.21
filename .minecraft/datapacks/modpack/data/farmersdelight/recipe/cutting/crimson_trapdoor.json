@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:crimson_trapdoor"
+    }
+  ],
+  "result": [
+    {
+      "id": "minecraft:crimson_planks"
+    }
+  ],
+  "tool": {
+    "tag": "neoforge:tools/axes"
+  }
+}

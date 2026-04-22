@@ -1,0 +1,28 @@
+{
+  "values": [
+    {
+      "id": "minecraft:dead_bush",
+      "required": false
+    },
+    {
+      "id": "minecraft:wheat_seeds",
+      "required": false
+    },
+    {
+      "id": "minecraft:string",
+      "required": false
+    },
+    {
+      "id": "minecraft:feather",
+      "required": false
+    },
+    {
+      "id": "spelunkers_charm:rock",
+      "required": false
+    },
+    {
+      "id": "minecraft:stick",
+      "required": false
+    }
+  ]
+}

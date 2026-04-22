@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:red_mixed_nether_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:blue_mixed_nether_bricks",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:grave_cloud_suffocation",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_bullet",
+      "required": false
+    },
+    {
+      "id": "netherexp:shotgun_explosion",
+      "required": false
+    },
+    {
+      "id": "netherexp:jackhammer",
+      "required": false
+    }
+  ]
+}

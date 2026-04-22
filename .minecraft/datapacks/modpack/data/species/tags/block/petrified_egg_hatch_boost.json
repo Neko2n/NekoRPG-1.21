@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:soul_fire",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_campfire",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:blackstone_soul_fire_ring",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:endstone_soul_fire_ring",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:netherrack_soul_fire_ring",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:deepslate_soul_fire_ring",
+      "required": false
+    },
+    {
+      "id": "piglinproliferation:stone_soul_fire_ring",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:soul_brazier",
+      "required": false
+    }
+  ]
+}

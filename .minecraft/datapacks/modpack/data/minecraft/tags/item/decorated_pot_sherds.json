@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:sealed_pottery_sherd",
+      "required": false
+    },
+    {
+      "id": "netherexp:spectre_pottery_sherd",
+      "required": false
+    },
+    {
+      "id": "netherexp:marionette_pottery_sherd",
+      "required": false
+    },
+    {
+      "id": "netherexp:eldritch_pottery_sherd",
+      "required": false
+    },
+    {
+      "id": "netherexp:deception_pottery_sherd",
+      "required": false
+    },
+    {
+      "id": "netherexp:firearm_pottery_sherd",
+      "required": false
+    },
+    {
+      "id": "netherexp:botanical_pottery_sherd",
+      "required": false
+    }
+  ]
+}

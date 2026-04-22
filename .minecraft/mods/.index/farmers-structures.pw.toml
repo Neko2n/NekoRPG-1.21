@@ -1,0 +1,16 @@
+filename = 'FarmersStructures-1.0.2-1.21.1_neoforge.jar'
+name = 'FarmersStructures'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '72c8a17af70dd78a045b4b2678b8ac2d1a2b7d39'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7280584
+project-id = 1088877

@@ -1,0 +1,16 @@
+filename = 'cyanide-neoforge-1.21.1-5.0.0.jar'
+name = 'Cyanide'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd224ea5adcf1002a07bca4e19f461a9b470b2bb6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5782674
+project-id = 541676

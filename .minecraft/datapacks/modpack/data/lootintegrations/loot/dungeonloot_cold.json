@@ -1,0 +1,14 @@
+{
+  "loot_table": "lootintegrations:chests/cold",
+  "integrated_loot_tables": {
+    "dungeons_enhanced:chests/ice_pit/armory": 1,
+    "dungeons_enhanced:chests/ice_pit/hall": 2,
+    "dungeons_enhanced:chests/ice_pit/food": 1,
+    "dungeons_enhanced:chests/ice_pit/garden": 1,
+    "dungeons_enhanced:chests/ice_pit/bed": 1,
+    "dungeons_plus:chests/snowy_temple/common": 3,
+    "illagers_plus:structure/ice_castle_common": 1,
+    "illagers_plus:structure/ice_castle_rare": 3,
+    "cataclysm:chests/frosted_prison_treasure": 8
+  }
+}

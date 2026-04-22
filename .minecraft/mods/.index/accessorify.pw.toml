@@ -1,0 +1,17 @@
+filename = 'accessorify-2.4.0-beta.5+1.21.1-neoforge.jar'
+name = 'Accessorify'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '2.4.0-beta.5 for Neoforge 1.21.1'
+
+[download]
+hash = 'd6fead53e3ef363d20c7833589ff2db8214929a2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7366899
+project-id = 1169634

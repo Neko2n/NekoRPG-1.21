@@ -1,0 +1,16 @@
+filename = 'underground-rivers-1.0.1-neoforge-1.21.7.jar'
+name = 'Underground Rivers'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.7' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '37aa2f0252fd4961f71c2113145b9e625d885a58'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6761656
+project-id = 1108285

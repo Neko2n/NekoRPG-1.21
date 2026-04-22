@@ -1,0 +1,77 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:soul_slate_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_brick_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_brick_wall",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_brick_pillar",
+      "required": false
+    },
+    {
+      "id": "netherexp:chiseled_soul_slate_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:cracked_soul_slate_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:etched_soul_slate_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_tiles",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_tile_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_tile_stairs",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_tile_wall",
+      "required": false
+    },
+    {
+      "id": "netherexp:chiseled_soul_slate_tiles",
+      "required": false
+    },
+    {
+      "id": "netherexp:etched_soul_slate_tiles",
+      "required": false
+    },
+    {
+      "id": "netherexp:brazier_chest",
+      "required": false
+    },
+    {
+      "id": "netherexp:treacherous_candle",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_candle",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_path",
+      "required": false
+    }
+  ]
+}

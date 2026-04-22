@@ -1,0 +1,77 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:soul_slate_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_brick_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_tile_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:smooth_netherrack_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:netherrack_brick_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:basalt_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:polished_basalt_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:polished_basalt_brick_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:blue_nether_brick_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:stacked_bone_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:stacked_wither_bone_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:silica_sandstone_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:smooth_silica_sandstone_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:cut_silica_sandstone_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:cut_netherite_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:rusty_cut_netherite_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:yellow_nether_brick_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:cut_necromium_slab",
+      "required": false
+    }
+  ]
+}

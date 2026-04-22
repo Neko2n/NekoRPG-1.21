@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:pale_soul_slate",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_stairs",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_wall",
+      "required": false
+    },
+    {
+      "id": "netherexp:souled_geyser",
+      "required": false
+    },
+    {
+      "id": "netherexp:wither_bone_block",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_ruby_ore",
+      "required": false
+    }
+  ]
+}

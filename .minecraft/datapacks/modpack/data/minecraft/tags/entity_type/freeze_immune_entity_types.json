@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:apparition",
+      "required": false
+    },
+    {
+      "id": "netherexp:wisp",
+      "required": false
+    },
+    {
+      "id": "netherexp:vessel",
+      "required": false
+    },
+    {
+      "id": "netherexp:ecto_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:stampede",
+      "required": false
+    },
+    {
+      "id": "netherexp:banshee",
+      "required": false
+    },
+    {
+      "id": "cataclysm:ignis",
+      "required": false
+    },
+    {
+      "id": "cataclysm:ignited_berserker",
+      "required": false
+    },
+    {
+      "id": "cataclysm:ignited_revenant",
+      "required": false
+    }
+  ]
+}

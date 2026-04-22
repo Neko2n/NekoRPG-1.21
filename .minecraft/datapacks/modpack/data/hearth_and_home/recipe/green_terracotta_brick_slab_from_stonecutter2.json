@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:green_terracotta"
+  },
+  "result": {
+    "id": "hearth_and_home:green_terracotta_brick_slab",
+    "count": 2
+  }
+}

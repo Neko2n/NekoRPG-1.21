@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_sign"
+    }
+  ],
+  "result": [
+    {
+      "id": "minecraft:oak_planks"
+    }
+  ],
+  "tool": {
+    "tag": "neoforge:tools/axes"
+  }
+}

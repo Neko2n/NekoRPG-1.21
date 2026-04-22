@@ -1,0 +1,13 @@
+{
+  "loot_table": "lootintegrations:chests/end",
+  "integrated_loot_tables": {
+    "endrem:chests/throne": 2,
+    "endrem:chests/biblio": 1,
+    "minecraft:chests/end_city_treasure": 2,
+    "outer_end:chests/end_city_treasure": 2,
+    "outer_end:chests/catacomb_treasure": 4,
+    "outer_end:chests/catacomb_loot": 2,
+    "outer_end:chests/catacomb_generic": 2,
+    "outer_end:chests/basement_loot": 1
+  }
+}

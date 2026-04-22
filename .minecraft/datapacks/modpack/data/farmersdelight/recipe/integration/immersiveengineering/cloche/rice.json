@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "results": [
+    {
+      "id": "farmersdelight:rice_panicle",
+      "count": 2
+    }
+  ],
+  "input": {
+    "id": "farmersdelight:rice"
+  },
+  "soil": {
+    "id": "minecraft:dirt"
+  },
+  "time": 1000,
+  "render": {
+    "type": "crop",
+    "block": "farmersdelight:rice_panicles"
+  }
+}

@@ -1,0 +1,17 @@
+filename = 'happy_ghast-3.0.0-neoforge-1.21.1.jar'
+name = 'Happy Ghast Backport'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'happy_ghast-3.0.0-neoforge-1.21.1.jar'
+
+[download]
+hash = 'f7eba2f5f3fc0c9533e47e3e005f8751849bf497'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6359360
+project-id = 1225630

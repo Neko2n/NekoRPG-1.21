@@ -1,0 +1,34 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "mynethersdelight:curry_meats"
+    },
+    {
+      "tag": "natures_delight:coconut_sauce"
+    },
+    {
+      "tag": "mynethersdelight:hot_spice"
+    },
+    {
+      "tag": "forge:crops/rice"
+    },
+    {
+      "tag": "forge:vegetables"
+    },
+    [
+      {
+        "id": "minecraft:pumpkin"
+      },
+      {
+        "id": "farmersdelight:pumpkin_slice"
+      }
+    ]
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "mynethersdelight:spicy_curry"
+  }
+}

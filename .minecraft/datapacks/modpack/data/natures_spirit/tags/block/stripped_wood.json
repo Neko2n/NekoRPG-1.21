@@ -1,0 +1,77 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:stripped_mahogany_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_saxaul_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_redwood_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_aspen_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_fir_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_cypress_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_coconut_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_wisteria_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_willow_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_cedar_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_sugi_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_palo_verde_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_olive_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_joshua_bundle",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_ghaf_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_maple_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_larch_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_alluaudia_bundle",
+      "required": false
+    }
+  ]
+}

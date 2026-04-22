@@ -1,0 +1,16 @@
+filename = 'AmbientEnvironment-neoforge-1.21.1-18.0.0.2.jar'
+name = 'Ambient Environment'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3a00ec1170b38e75a502dcc46038397f8fd9b305'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5799489
+project-id = 320163

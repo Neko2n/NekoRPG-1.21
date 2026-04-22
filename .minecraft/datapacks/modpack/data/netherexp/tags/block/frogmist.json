@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:ochre_frogmist",
+      "required": false
+    },
+    {
+      "id": "netherexp:verdant_frogmist",
+      "required": false
+    },
+    {
+      "id": "netherexp:pearlescent_frogmist",
+      "required": false
+    }
+  ]
+}

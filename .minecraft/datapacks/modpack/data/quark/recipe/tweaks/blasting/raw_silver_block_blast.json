@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "galosphere:raw_silver_block"
+  },
+  "result": "galosphere:silver_block",
+  "experience": 6.3,
+  "cookingtime": 900,
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "smelt_ore_blocks"
+    }
+  ]
+}

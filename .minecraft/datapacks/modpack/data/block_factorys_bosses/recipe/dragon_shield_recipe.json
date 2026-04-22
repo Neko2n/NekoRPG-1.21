@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bsb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "block_factorys_bosses:ancient_iron_nugget"
+    },
+    "b": {
+      "item": "block_factorys_bosses:dragon_bone"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "block_factorys_bosses:dragon_guard_shield",
+    "count": 1
+  }
+}

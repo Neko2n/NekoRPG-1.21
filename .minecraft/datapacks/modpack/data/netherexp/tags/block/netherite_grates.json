@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:netherite_grate",
+      "required": false
+    },
+    {
+      "id": "netherexp:rusty_netherite_grate",
+      "required": false
+    }
+  ]
+}

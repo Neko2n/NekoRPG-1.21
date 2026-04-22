@@ -1,0 +1,16 @@
+filename = 'snowundertrees-1.21.1-1.5.jar'
+name = 'Snow Under Trees'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3943e5f8ae55d8b9d025d7f109a71fb7e7db64dd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6776464
+project-id = 353942

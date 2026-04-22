@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:stripped_mahogany_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:mahogany_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_mahogany_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:mahogany_wood",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "atmospheric:arid_sand",
+      "required": false
+    },
+    {
+      "id": "atmospheric:red_arid_sand",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:netherrack",
+      "required": false
+    },
+    {
+      "id": "#netherexp:nether_wart_blocks",
+      "required": false
+    }
+  ]
+}

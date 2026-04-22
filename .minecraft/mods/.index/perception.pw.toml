@@ -1,0 +1,16 @@
+filename = 'Perception-NEOFORGE-0.2.1+1.21.1.jar'
+name = 'Perception'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ea6d1403c8bc5cdda2727c1a90b29284c0ed653a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7761238
+project-id = 1112793

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "ab",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_bars"
+    },
+    "b": {
+      "item": "block_factorys_bosses:ancient_iron_nugget"
+    }
+  },
+  "result": {
+    "id": "block_factorys_bosses:rusty_prison_door",
+    "count": 1
+  }
+}

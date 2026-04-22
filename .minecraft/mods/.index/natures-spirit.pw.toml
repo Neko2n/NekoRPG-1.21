@@ -1,0 +1,16 @@
+filename = 'natures_spirit-2.2.5-1.21.1.jar'
+name = "Nature's Spirit"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '153679dc2dd4601b40beed834799ba1d7c05b08a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6962784
+project-id = 1044992

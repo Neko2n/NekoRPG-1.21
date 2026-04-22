@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:rift_armor_trim_smithing_template",
+      "required": false
+    },
+    {
+      "id": "netherexp:spirit_armor_trim_smithing_template",
+      "required": false
+    },
+    {
+      "id": "netherexp:valor_armor_trim_smithing_template",
+      "required": false
+    }
+  ]
+}

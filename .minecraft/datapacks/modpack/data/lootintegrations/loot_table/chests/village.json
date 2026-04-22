@@ -1,0 +1,189 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:poisonous_potato",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:divine_pearl",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 6
+        }
+      ]
+    },
+    {
+      "rolls": 6,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "weight": 10,
+          "value": "minecraft:chests/village/village_weaponsmith"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 3,
+          "value": "minecraft:chests/village/village_toolsmith"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 3,
+          "value": "minecraft:chests/village/village_temple"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 3,
+          "value": "minecraft:chests/village/village_tannery"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 3,
+          "value": "minecraft:chests/village/village_taiga_house"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 3,
+          "value": "minecraft:chests/village/village_snowy_house"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 2,
+          "value": "minecraft:chests/village/village_shepherd"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 3,
+          "value": "minecraft:chests/village/village_savanna_house"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 3,
+          "value": "minecraft:chests/village/village_plains_house"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 2,
+          "value": "minecraft:chests/village/village_mason"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 2,
+          "value": "minecraft:chests/village/village_fletcher"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 2,
+          "value": "minecraft:chests/village/village_fisher"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 3,
+          "value": "minecraft:chests/village/village_desert_house"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 2,
+          "value": "minecraft:chests/village/village_cartographer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 3,
+          "value": "minecraft:chests/village/village_butcher"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 3,
+          "value": "minecraft:chests/village/village_armorer"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "chance": 0.2,
+          "condition": "minecraft:random_chance"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:artifact-village"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:copper_spell_book",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "chance": 0.02,
+          "condition": "minecraft:random_chance"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:holy_rune"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "chance": 0.05,
+          "condition": "minecraft:random_chance"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "max": 30.0,
+                "min": 15.0
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:book",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 3,
+          "value": "artifacts:artifact"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_apple",
+          "weight": 4
+        }
+      ]
+    }
+  ]
+}

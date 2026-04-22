@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_pressure_plate",
+  "key": {
+    "#": {
+      "item": "netherexp:smokestalk_planks"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "id": "netherexp:smokestalk_pressure_plate"
+  }
+}

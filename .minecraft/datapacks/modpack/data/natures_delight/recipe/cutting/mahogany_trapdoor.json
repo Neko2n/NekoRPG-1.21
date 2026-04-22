@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "natures_spirit:mahogany_trapdoor"
+    }
+  ],
+  "tool": {
+    "tag": "neoforge:tools/axes"
+  },
+  "result": [
+    {
+      "id": "natures_spirit:mahogany_planks"
+    }
+  ]
+}

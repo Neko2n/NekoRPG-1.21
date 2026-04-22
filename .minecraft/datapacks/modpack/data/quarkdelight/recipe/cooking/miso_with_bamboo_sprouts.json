@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:stripped_bamboo_block"
+    },
+    {
+      "tag": "forge:raw_fishes"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+    {
+      "item": "quark:moss_paste"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "quarkdelight:miso_with_bamboo_sprouts"
+  },
+  "container": {
+    "id": "minecraft:bowl"
+  }
+}

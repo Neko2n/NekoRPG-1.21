@@ -1,0 +1,17 @@
+filename = 'prettybeaches-neoforge-1.21.1-21.1.3.jar'
+name = 'Pretty Beaches'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'prettybeaches-neoforge-1.21.1-21.1.3.jar'
+
+[download]
+hash = 'a939edc07a701bd7bfb4ecfe971c43bd4da3a8b4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7966193
+project-id = 290659

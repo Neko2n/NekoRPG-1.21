@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "caverns_and_chasms:azalea_log",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:stripped_azalea_log",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:azalea_wood",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:stripped_azalea_wood",
+      "required": false
+    }
+  ]
+}

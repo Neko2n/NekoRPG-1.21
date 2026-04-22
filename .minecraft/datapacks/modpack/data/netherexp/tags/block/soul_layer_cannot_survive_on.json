@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:barrier",
+      "required": false
+    },
+    {
+      "id": "netherexp:basaltic_geyser",
+      "required": false
+    },
+    {
+      "id": "netherexp:souled_geyser",
+      "required": false
+    },
+    {
+      "id": "netherexp:blackstonic_geyser",
+      "required": false
+    },
+    {
+      "id": "netherexp:ashen_geyser",
+      "required": false
+    }
+  ]
+}

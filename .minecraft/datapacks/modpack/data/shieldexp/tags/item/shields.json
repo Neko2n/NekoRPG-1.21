@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "shieldexp:wooden_shield",
+      "required": false
+    },
+    {
+      "id": "shieldexp:iron_shield",
+      "required": false
+    },
+    {
+      "id": "shieldexp:golden_shield",
+      "required": false
+    },
+    {
+      "id": "shieldexp:diamond_shield",
+      "required": false
+    },
+    {
+      "id": "shieldexp:netherite_shield",
+      "required": false
+    }
+  ]
+}

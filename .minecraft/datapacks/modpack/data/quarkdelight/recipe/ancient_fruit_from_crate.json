@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "quarkdelight:ancient_fruit_crate"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "quark:ancient_fruit"
+  }
+}

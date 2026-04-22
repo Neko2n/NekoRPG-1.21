@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:ossified_gargoyle_statue",
+      "required": false
+    },
+    {
+      "id": "netherexp:trample_gargoyle_statue",
+      "required": false
+    },
+    {
+      "id": "netherexp:phase_gargoyle_statue",
+      "required": false
+    },
+    {
+      "id": "netherexp:ghoul_gargoyle_statue",
+      "required": false
+    }
+  ]
+}

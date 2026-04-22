@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "caverns_and_chasms:brazier",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:soul_brazier",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:ender_brazier",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:cupric_brazier",
+      "required": false
+    }
+  ]
+}

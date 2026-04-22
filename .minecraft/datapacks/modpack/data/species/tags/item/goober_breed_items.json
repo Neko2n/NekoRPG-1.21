@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:cooked_chicken",
+      "required": false
+    },
+    {
+      "id": "minecraft:chicken",
+      "required": false
+    },
+    {
+      "id": "environmental:cooked_duck",
+      "required": false
+    },
+    {
+      "id": "environmental:duck",
+      "required": false
+    }
+  ]
+}

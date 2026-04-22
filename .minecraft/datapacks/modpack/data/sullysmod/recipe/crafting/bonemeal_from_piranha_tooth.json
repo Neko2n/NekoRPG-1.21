@@ -1,0 +1,28 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "sullysmod:mod_features",
+          "values": [
+            "piranha"
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+          {
+            "id": "sullysmod:piranha_tooth"
+          }
+        ],
+        "result": {
+          "count": 4,
+          "id": "minecraft:bone_meal"
+        },
+        "show_notification": true
+      }
+    }
+  ]
+}

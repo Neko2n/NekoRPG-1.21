@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:stripped_joshua_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:joshua_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_joshua_bundle",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:joshua_bundle",
+      "required": false
+    }
+  ]
+}

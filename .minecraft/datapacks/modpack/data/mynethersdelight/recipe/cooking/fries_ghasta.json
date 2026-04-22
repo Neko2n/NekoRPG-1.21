@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:paper"
+  },
+  "cookingtime": 100,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "mynethersdelight:ghasta"
+    },
+    {
+      "item": "mynethersdelight:ghasta"
+    },
+    {
+      "item": "immersive_weathering:tallow"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "mynethersdelight:fries_ghasta"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "#forge:with_default_monster_spawns",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_wastes",
+      "required": false
+    }
+  ]
+}

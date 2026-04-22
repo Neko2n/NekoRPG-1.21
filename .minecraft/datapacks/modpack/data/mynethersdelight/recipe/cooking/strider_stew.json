@@ -1,0 +1,47 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 400,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "forge:raw_strider"
+    },
+    [
+      {
+        "id": "minecraft:warped_fungus"
+      },
+      {
+        "id": "minecraft:crimson_fungus"
+      }
+    ],
+    [
+      {
+        "id": "minecraft:warped_fungus"
+      },
+      {
+        "id": "minecraft:crimson_fungus"
+      },
+      {
+        "id": "minecraft:red_mushroom"
+      },
+      {
+        "id": "minecraft:brown_mushroom"
+      }
+    ],
+    [
+      {
+        "id": "minecraft:warped_roots"
+      },
+      {
+        "id": "minecraft:crimson_roots"
+      },
+      {
+        "id": "farmersdelight:straw"
+      }
+    ]
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "mynethersdelight:strider_stew"
+  }
+}

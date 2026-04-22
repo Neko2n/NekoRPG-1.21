@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "bloomingnature:larch_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_slab",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cactus_slab",
+      "required": false
+    }
+  ]
+}

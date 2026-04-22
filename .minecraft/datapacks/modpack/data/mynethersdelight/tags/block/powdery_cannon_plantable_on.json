@@ -1,0 +1,52 @@
+{
+  "values": [
+    {
+      "id": "minecraft:magma_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:gravel",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherrack",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_nylium",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_fungus",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:powdery_cannon",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:powdery_chubby_sapling",
+      "required": false
+    },
+    {
+      "id": "#minecraft:sand",
+      "required": false
+    },
+    {
+      "id": "#minecraft:dirt",
+      "required": false
+    },
+    {
+      "id": "#minecraft:base_stone_nether",
+      "required": false
+    },
+    {
+      "id": "#minecraft:soul_speed_blocks",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:brimsprout_nylium",
+      "required": false
+    }
+  ]
+}

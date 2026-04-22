@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:calcite"
+    }
+  ],
+  "tool": {
+    "tag": "neoforge:tools/pickaxes"
+  },
+  "result": [
+    {
+      "id": "natures_spirit:calcite_shard",
+      "count": 4
+    }
+  ]
+}

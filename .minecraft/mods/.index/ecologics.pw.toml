@@ -1,0 +1,17 @@
+filename = 'ecologics-1.21.1-2.3.4.jar'
+name = 'Ecologics'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Ecologics 2.3.4 (NeoForge 1.21.1)'
+
+[download]
+hash = '73be547bdf6410af1a1972baa20972d0a742d8b2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7887579
+project-id = 570463

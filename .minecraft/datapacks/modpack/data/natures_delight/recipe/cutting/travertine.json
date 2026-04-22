@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "natures_spirit:travertine"
+    }
+  ],
+  "tool": {
+    "tag": "neoforge:tools/pickaxes"
+  },
+  "result": [
+    {
+      "id": "natures_spirit:cobbled_travertine"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "opposing_force:vile_boulder",
+      "required": false
+    },
+    {
+      "id": "species:spectralibur",
+      "required": false
+    },
+    {
+      "id": "elementus_arcane:arcane_claymore",
+      "required": false
+    },
+    {
+      "id": "elementus_arcane:arcane_steel_claymore",
+      "required": false
+    },
+    {
+      "id": "cataclysm:black_steel_sword",
+      "required": false
+    },
+    {
+      "id": "blazegear:brimsteel_sword",
+      "required": false
+    },
+    {
+      "id": "dungeonnowloading:spawner_sword",
+      "required": false
+    },
+    {
+      "id": "dungeonnowloading:life_stealer",
+      "required": false
+    }
+  ]
+}

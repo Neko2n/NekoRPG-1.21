@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "amount": 4,
+  "operation": "set",
+  "order": 1000,
+  "icon": "accessories:gui/slot/curio",
+  "validators": [
+    "accessories:tag",
+    "accessories:component"
+  ]
+}

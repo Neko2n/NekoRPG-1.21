@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:volatile_scoria_explosion",
+      "required": false
+    },
+    {
+      "id": "netherexp:shotgun_explosion",
+      "required": false
+    }
+  ]
+}

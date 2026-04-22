@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:magma_block",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_magma_block",
+      "required": false
+    }
+  ]
+}

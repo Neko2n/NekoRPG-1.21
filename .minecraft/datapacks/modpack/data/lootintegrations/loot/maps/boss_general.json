@@ -1,0 +1,13 @@
+{
+  "loot_table": "lootintegrations:maps/boss_general",
+  "integrated_loot_tables": {
+    "artifacts:chests/campsite_chest": 1,
+    "dungeoncrawl:chests/stage_3": 1,
+    "dungeoncrawl:chests/stage_4": 1,
+    "dungeoncrawl:chests/stage_5": 1,
+    "dungeoncrawl:chests/library": 1,
+    "subterrestrial:chests/cabin/main": 1,
+    "dungeoncrawl:chests/treasure": 1,
+    "dungeonnowloading:chests/labyrinth/reward": 1
+  }
+}

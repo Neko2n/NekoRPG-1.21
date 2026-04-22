@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "minecraft:snowy_slopes",
+      "required": false
+    },
+    {
+      "id": "minecraft:grove",
+      "required": false
+    },
+    {
+      "id": "minecraft:jagged_peaks",
+      "required": false
+    }
+  ]
+}

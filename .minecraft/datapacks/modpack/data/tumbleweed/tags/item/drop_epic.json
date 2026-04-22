@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "minecraft:emerald",
+      "required": false
+    },
+    {
+      "id": "minecraft:diamond",
+      "required": false
+    },
+    {
+      "id": "artifacts:cowboy_hat",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:arcane_essence",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:netherrack",
+      "required": false
+    },
+    {
+      "id": "minecraft:basalt",
+      "required": false
+    },
+    {
+      "id": "minecraft:blackstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_sand",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_soil",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate",
+      "required": false
+    },
+    {
+      "id": "netherexp:pale_soul_slate",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_permafrost",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+
+#Diagonal Blocks
+[diagonalblocks]
+	Enable = true
+	fence = true
+	wall = true
+
+#Subtle Effects
+[subtle_effects]
+	Enable = true
+

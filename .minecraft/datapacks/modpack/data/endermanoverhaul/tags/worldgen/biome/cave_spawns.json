@@ -1,0 +1,64 @@
+{
+  "values": [
+    {
+      "id": "#endermanoverhaul:badlands_spawns",
+      "required": false
+    },
+    {
+      "id": "#endermanoverhaul:dark_oak_spawns",
+      "required": false
+    },
+    {
+      "id": "#endermanoverhaul:desert_spawns",
+      "required": false
+    },
+    {
+      "id": "#endermanoverhaul:flower_fields_spawns",
+      "required": false
+    },
+    {
+      "id": "#endermanoverhaul:ice_spikes_spawns",
+      "required": false
+    },
+    {
+      "id": "#endermanoverhaul:coral_spawns",
+      "required": false
+    },
+    {
+      "id": "#endermanoverhaul:savanna_spawns",
+      "required": false
+    },
+    {
+      "id": "#endermanoverhaul:snowy_spawns",
+      "required": false
+    },
+    {
+      "id": "#endermanoverhaul:swamp_spawns",
+      "required": false
+    },
+    {
+      "id": "#endermanoverhaul:windswept_hills_spawns",
+      "required": false
+    },
+    {
+      "id": "minecraft:dripstone_caves",
+      "required": false
+    },
+    {
+      "id": "minecraft:lush_caves",
+      "required": false
+    },
+    {
+      "id": "#forge:is_lush",
+      "required": false
+    },
+    {
+      "id": "#forge:is_underground",
+      "required": false
+    },
+    {
+      "id": "#forge:is_cave",
+      "required": false
+    }
+  ]
+}

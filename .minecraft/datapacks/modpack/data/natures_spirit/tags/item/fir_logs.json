@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:stripped_fir_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:fir_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_fir_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:fir_wood",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B  ",
+    " # ",
+    "  Y"
+  ],
+  "key": {
+    "#": {
+      "item": "farmersdelight:rope"
+    },
+    "B": {
+      "item": "caverns_and_chasms:large_arrow"
+    },
+    "Y": {
+      "item": "upgrade_aquatic:prismarine_rod"
+    }
+  },
+  "result": {
+    "id": "species:harpoon",
+    "count": 1
+  }
+}

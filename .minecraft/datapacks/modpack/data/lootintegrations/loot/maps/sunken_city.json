@@ -1,0 +1,12 @@
+{
+  "loot_table": "lootintegrations:maps/sunken_city",
+  "integrated_loot_tables": {
+    "dungeons_plus:chests/warped_garden/rare": 1,
+    "dungeons_arise:chests/typhon/typhon_treasure": 1,
+    "minecraft:chests/shipwreck_treasure": 1,
+    "minecraft:chests/buried_treasure": 1,
+    "minecraft:chests/underwater_ruin_big": 1,
+    "lootintegrations:chests/water": 1,
+    "dungeoncrawl:chests/treasure": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#natures_spirit:is_warm_lush_field",
+      "required": false
+    },
+    {
+      "id": "#natures_spirit:is_xeric",
+      "required": false
+    },
+    {
+      "id": "#natures_spirit:is_desert",
+      "required": false
+    },
+    {
+      "id": "#natures_spirit:is_cypress",
+      "required": false
+    },
+    {
+      "id": "#natures_spirit:is_tropical_woods",
+      "required": false
+    },
+    {
+      "id": "#natures_spirit:is_wisteria",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:wooded_drylands",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:arid_savanna",
+      "required": false
+    }
+  ]
+}

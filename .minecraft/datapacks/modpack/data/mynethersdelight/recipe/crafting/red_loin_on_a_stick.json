@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "mynethersdelight:cooked_hoglin_loin"
+    },
+    {
+      "item": "minecraft:crimson_fungus"
+    },
+    [
+      {
+        "id": "minecraft:crimson_fungus"
+      },
+      {
+        "id": "minecraft:red_mushroom"
+      }
+    ],
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "id": "mynethersdelight:red_loin_on_a_stick"
+  }
+}

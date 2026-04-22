@@ -1,0 +1,32 @@
+{
+  "values": [
+    {
+      "id": "minecraft:mining_fatigue",
+      "required": false
+    },
+    {
+      "id": "minecraft:nausea",
+      "required": false
+    },
+    {
+      "id": "minecraft:blindness",
+      "required": false
+    },
+    {
+      "id": "minecraft:hunger",
+      "required": false
+    },
+    {
+      "id": "minecraft:weakness",
+      "required": false
+    },
+    {
+      "id": "minecraft:poison",
+      "required": false
+    },
+    {
+      "id": "minecraft:slowness",
+      "required": false
+    }
+  ]
+}

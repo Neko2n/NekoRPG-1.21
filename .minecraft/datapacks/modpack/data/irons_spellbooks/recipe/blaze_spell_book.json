@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " SR",
+    "HBA",
+    "CG "
+  ],
+  "key": {
+    "B": {
+      "item": "irons_spellbooks:gold_spell_book"
+    },
+    "A": {
+      "item": "minecraft:blaze_rod"
+    },
+    "H": {
+      "item": "cataclysm:dying_ember"
+    },
+    "S": {
+      "item": "alexsmobs:bone_serpent_tooth"
+    },
+    "G": {
+      "item": "blazegear:brimsteel_ingot"
+    },
+    "C": {
+      "item": "irons_spellbooks:magic_cloth"
+    },
+    "R": {
+      "item": "irons_spellbooks:fire_rune"
+    }
+  },
+  "result": {
+    "id": "irons_spellbooks:blaze_spell_book",
+    "count": 1
+  }
+}

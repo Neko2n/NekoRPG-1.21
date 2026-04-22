@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#netherexp:nether_wart_blocks",
+      "required": false
+    },
+    {
+      "id": "#netherexp:warped_wart_blocks",
+      "required": false
+    }
+  ]
+}

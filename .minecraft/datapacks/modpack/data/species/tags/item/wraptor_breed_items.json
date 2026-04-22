@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:shroomlight",
+      "required": false
+    },
+    {
+      "id": "netherexp:lightspores",
+      "required": false
+    }
+  ]
+}

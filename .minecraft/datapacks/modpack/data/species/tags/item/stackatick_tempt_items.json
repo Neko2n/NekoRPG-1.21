@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#species:stackatick_tame_items",
+      "required": false
+    },
+    {
+      "id": "#species:stackatick_breed_items",
+      "required": false
+    }
+  ]
+}

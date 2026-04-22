@@ -1,0 +1,73 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "elementus_arcane:arcane_claymore",
+      "required": false
+    },
+    {
+      "id": "elementus_arcane:arcane_steel_claymore",
+      "required": false
+    },
+    {
+      "id": "elementus_arcane:arcane_hammer",
+      "required": false
+    },
+    {
+      "id": "cataclysm:black_steel_pickaxe",
+      "required": false
+    },
+    {
+      "id": "cataclysm:black_steel_axe",
+      "required": false
+    },
+    {
+      "id": "cataclysm:black_steel_shovel",
+      "required": false
+    },
+    {
+      "id": "cataclysm:black_steel_hoe",
+      "required": false
+    },
+    {
+      "id": "cataclysm:black_steel_sword",
+      "required": false
+    },
+    {
+      "id": "blazegear:brimsteel_pickaxe",
+      "required": false
+    },
+    {
+      "id": "blazegear:brimsteel_axe",
+      "required": false
+    },
+    {
+      "id": "blazegear:brimsteel_shovel",
+      "required": false
+    },
+    {
+      "id": "blazegear:brimsteel_hoe",
+      "required": false
+    },
+    {
+      "id": "blazegear:brimsteel_sword",
+      "required": false
+    },
+    {
+      "id": "#miningmaster:catalysts",
+      "required": false
+    },
+    {
+      "id": "miningmaster:ultima_axe",
+      "required": false
+    },
+    {
+      "id": "miningmaster:ultima_pickaxe",
+      "required": false
+    },
+    {
+      "id": "dungeonnowloading:mendstone_pickaxe",
+      "required": false
+    }
+  ]
+}

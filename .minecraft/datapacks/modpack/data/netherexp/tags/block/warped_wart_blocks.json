@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:warped_wart_block",
+      "required": false
+    },
+    {
+      "id": "netherexp:decayable_warped_wart_block",
+      "required": false
+    }
+  ]
+}

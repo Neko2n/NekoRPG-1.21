@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:soul_sand_valley",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:infernal_holt",
+      "required": false
+    },
+    {
+      "id": "cinderscapes:ashy_shales",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+filename = 'AxesAreWeapons-1.9.2-neoforge-1.21.jar'
+name = 'Axes Are Weapons'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '74136abbd2ef93ebdc27b6c03fafd1a26d4f22b3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5605393
+project-id = 456457

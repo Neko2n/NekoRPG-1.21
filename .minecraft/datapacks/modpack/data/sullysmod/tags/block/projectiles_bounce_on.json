@@ -1,0 +1,44 @@
+{
+  "values": [
+    {
+      "id": "sullysmod:jade_block",
+      "required": false
+    },
+    {
+      "id": "sullysmod:jade_bricks",
+      "required": false
+    },
+    {
+      "id": "sullysmod:chiseled_jade",
+      "required": false
+    },
+    {
+      "id": "sullysmod:jade_totem",
+      "required": false
+    },
+    {
+      "id": "sullysmod:jade_pillar",
+      "required": false
+    },
+    {
+      "id": "sullysmod:jade_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "sullysmod:jade_brick_slab",
+      "required": false
+    },
+    {
+      "id": "sullysmod:jade_flinger_totem",
+      "required": false
+    },
+    {
+      "id": "sullysmod:jade_brick_wall",
+      "required": false
+    },
+    {
+      "id": "sullysmod:jade_lantern",
+      "required": false
+    }
+  ]
+}

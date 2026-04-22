@@ -1,0 +1,93 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "hearth_and_home:oak_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:birch_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:spruce_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:jungle_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:acacia_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:dark_oak_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:mangrove_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:cherry_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:bamboo_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:crimson_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:warped_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:oak_vertical_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:birch_vertical_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:spruce_vertical_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:jungle_vertical_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:acacia_vertical_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:dark_oak_vertical_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:mangrove_vertical_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:cherry_vertical_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:bamboo_vertical_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:crimson_vertical_trim",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:warped_vertical_trim",
+      "required": false
+    }
+  ]
+}

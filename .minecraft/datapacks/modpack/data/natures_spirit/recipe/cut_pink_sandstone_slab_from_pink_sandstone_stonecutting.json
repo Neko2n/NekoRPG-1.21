@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "natures_spirit:pink_sandstone"
+  },
+  "result": {
+    "id": "natures_spirit:cut_pink_sandstone_slab",
+    "count": 2
+  }
+}

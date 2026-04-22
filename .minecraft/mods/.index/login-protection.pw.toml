@@ -1,0 +1,16 @@
+filename = 'logprot-1.21-3.5.jar'
+name = 'Logprot'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2875ba9e30f72d42279558e22fe79c4ea4503e10'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6293744
+project-id = 358304

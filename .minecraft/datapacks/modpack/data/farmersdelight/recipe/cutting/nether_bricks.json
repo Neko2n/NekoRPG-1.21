@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_bricks"
+    }
+  ],
+  "result": [
+    {
+      "count": 4,
+      "id": "minecraft:nether_brick"
+    }
+  ],
+  "tool": {
+    "tag": "neoforge:tools/pickaxes"
+  }
+}

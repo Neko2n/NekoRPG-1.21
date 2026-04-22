@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "secondaries": [
+    {
+      "chance": 1,
+      "output": {
+        "id": "farmersdelight:straw"
+      }
+    }
+  ],
+  "result": {
+    "id": "farmersdelight:rice",
+    "count": 1
+  },
+  "input": {
+    "id": "farmersdelight:rice_panicle"
+  },
+  "energy": 3200
+}

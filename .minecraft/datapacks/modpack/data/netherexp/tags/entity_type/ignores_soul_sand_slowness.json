@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:vessel",
+      "required": false
+    },
+    {
+      "id": "netherexp:ecto_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:banshee",
+      "required": false
+    },
+    {
+      "id": "netherexp:stampede",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "replace": true,
+  "values": [
+    {
+      "id": "ecologics:coconut",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:coconut_half",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:coconut_shell",
+      "required": false
+    }
+  ]
+}

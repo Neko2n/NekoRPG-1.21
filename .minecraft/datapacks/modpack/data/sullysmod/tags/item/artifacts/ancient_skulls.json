@@ -1,0 +1,44 @@
+{
+  "values": [
+    {
+      "id": "sullysmod:cracked_ancient_skull",
+      "required": false
+    },
+    {
+      "id": "sullysmod:wide_ancient_skull",
+      "required": false
+    },
+    {
+      "id": "sullysmod:crested_ancient_skull",
+      "required": false
+    },
+    {
+      "id": "sullysmod:tiny_ancient_skull",
+      "required": false
+    },
+    {
+      "id": "sullysmod:long_ancient_skull",
+      "required": false
+    },
+    {
+      "id": "sullysmod:ribbed_ancient_skull",
+      "required": false
+    },
+    {
+      "id": "sullysmod:gigantic_ancient_skull",
+      "required": false
+    },
+    {
+      "id": "sullysmod:unicorn_ancient_skull",
+      "required": false
+    },
+    {
+      "id": "sullysmod:flatbilled_ancient_skull",
+      "required": false
+    },
+    {
+      "id": "sullysmod:horned_ancient_skull",
+      "required": false
+    }
+  ]
+}

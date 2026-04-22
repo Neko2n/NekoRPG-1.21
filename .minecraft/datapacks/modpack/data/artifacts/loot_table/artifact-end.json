@@ -1,0 +1,30 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:chorus_totem",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:crystal_heart",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:universal_attractor",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:helium_flamingo",
+          "weight": 3
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

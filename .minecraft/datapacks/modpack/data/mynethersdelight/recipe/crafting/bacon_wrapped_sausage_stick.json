@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mynethersdelight:roasted_sausage"
+    },
+    {
+      "item": "farmersdelight:cooked_bacon"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "id": "mynethersdelight:bacon-wrapped_sausage_on_a_stick"
+  }
+}

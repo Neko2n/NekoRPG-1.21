@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:gunpowder",
+      "required": false
+    },
+    {
+      "id": "savage_and_ravage:creeper_spores",
+      "required": false
+    },
+    {
+      "id": "minecraft:creeper_head",
+      "required": false
+    }
+  ]
+}

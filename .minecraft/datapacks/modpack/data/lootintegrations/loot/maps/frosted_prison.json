@@ -1,0 +1,15 @@
+{
+  "loot_table": "lootintegrations:maps/frosted_prison",
+  "integrated_loot_tables": {
+    "dungeons_enhanced:chests/ice_pit/armory": 1,
+    "dungeons_enhanced:chests/ice_pit/hall": 1,
+    "dungeons_enhanced:chests/ice_pit/food": 1,
+    "dungeons_enhanced:chests/ice_pit/garden": 1,
+    "dungeons_enhanced:chests/ice_pit/bed": 1,
+    "dungeons_plus:chests/snowy_temple/common": 1,
+    "illagers_plus:structure/ice_castle_common": 1,
+    "illagers_plus:structure/ice_castle_rare": 1,
+    "minecraft:chests/igloo_chest": 1,
+    "dungeoncrawl:chests/treasure": 1
+  }
+}

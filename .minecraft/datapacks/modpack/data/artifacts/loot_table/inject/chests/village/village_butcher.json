@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:chest",
+  "pools": [],
+  "random_sequence": "artifacts:inject/chests/village/village_butcher"
+}

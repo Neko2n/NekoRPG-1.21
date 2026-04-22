@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "forge:giant_tentacles"
+    },
+    {
+      "tag": "forge:giant_tentacles"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "immersive_weathering:tallow"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "mynethersdelight:giant_takoyaki"
+  }
+}

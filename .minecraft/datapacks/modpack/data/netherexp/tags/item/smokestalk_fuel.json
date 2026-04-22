@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:stick",
+      "required": false
+    },
+    {
+      "id": "minecraft:gunpowder",
+      "required": false
+    },
+    {
+      "id": "minecraft:bone",
+      "required": false
+    },
+    {
+      "id": "minecraft:coal",
+      "required": false
+    },
+    {
+      "id": "minecraft:charcoal",
+      "required": false
+    }
+  ]
+}

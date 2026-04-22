@@ -1,0 +1,81 @@
+{
+  "modifiers": [
+    {
+      "type": "criteria",
+      "config": {
+        "criteria": {
+          "sullysmod:cooked_lanternfish": {
+            "conditions": {
+              "item": {
+                "items": [
+                  "sullysmod:cooked_lanternfish"
+                ]
+              }
+            },
+            "trigger": "minecraft:consume_item"
+          },
+          "sullysmod:cooked_piranha": {
+            "conditions": {
+              "item": {
+                "items": [
+                  "sullysmod:cooked_piranha"
+                ]
+              }
+            },
+            "trigger": "minecraft:consume_item"
+          },
+          "sullysmod:lanternfish": {
+            "conditions": {
+              "item": {
+                "items": [
+                  "sullysmod:lanternfish"
+                ]
+              }
+            },
+            "trigger": "minecraft:consume_item"
+          },
+          "sullysmod:petrified_cookie": {
+            "conditions": {
+              "item": {
+                "items": [
+                  "sullysmod:petrified_cookie"
+                ]
+              }
+            },
+            "trigger": "minecraft:consume_item"
+          },
+          "sullysmod:piranha": {
+            "conditions": {
+              "item": {
+                "items": [
+                  "sullysmod:piranha"
+                ]
+              }
+            },
+            "trigger": "minecraft:consume_item"
+          }
+        },
+        "requirements": [
+          [
+            "sullysmod:lanternfish"
+          ],
+          [
+            "sullysmod:cooked_lanternfish"
+          ],
+          [
+            "sullysmod:piranha"
+          ],
+          [
+            "sullysmod:cooked_piranha"
+          ],
+          [
+            "sullysmod:petrified_cookie"
+          ]
+        ],
+        "should_replace_requirements": false
+      }
+    }
+  ],
+  "priority": "normal",
+  "selector": "minecraft:husbandry/balanced_diet"
+}

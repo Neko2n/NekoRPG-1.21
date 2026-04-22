@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "alexsmobs:maggot",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:mosquito_larva",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:leafcutter_ant_pupa",
+      "required": false
+    },
+    {
+      "id": "spawn:ant_pupa",
+      "required": false
+    }
+  ]
+}

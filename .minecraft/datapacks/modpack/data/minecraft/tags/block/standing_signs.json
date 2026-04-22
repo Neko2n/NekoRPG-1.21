@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:claret_sign",
+      "required": false
+    },
+    {
+      "id": "netherexp:smokestalk_sign",
+      "required": false
+    }
+  ]
+}

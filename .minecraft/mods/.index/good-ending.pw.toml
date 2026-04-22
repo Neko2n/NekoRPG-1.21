@@ -1,0 +1,17 @@
+filename = 'GoodEnding-1.21.1-1.1.0-NeoForge.jar'
+name = 'Good Ending'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Good Ending 1.21.1 - 1.1.0 - NEOFORGE'
+
+[download]
+hash = 'f2960190c810d80b42a2c0a155f15bbe89581a8a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7387410
+project-id = 690161

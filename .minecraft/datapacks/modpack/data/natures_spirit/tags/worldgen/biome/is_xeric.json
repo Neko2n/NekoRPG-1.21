@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:xeric_plains",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:cedar_thicket",
+      "required": false
+    }
+  ]
+}

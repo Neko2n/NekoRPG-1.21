@@ -1,0 +1,96 @@
+{
+  "values": [
+    {
+      "id": "minecraft:bad_omen",
+      "required": false
+    },
+    {
+      "id": "minecraft:hero_of_the_village",
+      "required": false
+    },
+    {
+      "id": "cataclysm:monstrous",
+      "required": false
+    },
+    {
+      "id": "cataclysm:ghost_form",
+      "required": false
+    },
+    {
+      "id": "cataclysm:ghost_sickness",
+      "required": false
+    },
+    {
+      "id": "cataclysm:curse_of_desert",
+      "required": false
+    },
+    {
+      "id": "cataclysm:blessing_of_amethyst",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:ender_flu",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:sunbird_blessing",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:sunbird_curse",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:tigers_blessing",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:orcas_might",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:vex_timer",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:summon_horse_timer",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:polar_bear_timer",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:raise_dead_timer",
+      "required": false
+    },
+    {
+      "id": "legendary_monsters:curse_of_desert",
+      "required": false
+    },
+    {
+      "id": "legendary_monsters:chorus_infection",
+      "required": false
+    },
+    {
+      "id": "minecraft:dolphins_grace",
+      "required": false
+    },
+    {
+      "id": "mowziesmobs:geomancy",
+      "required": false
+    },
+    {
+      "id": "mowziesmobs:suns_blessing",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:chemical_x",
+      "required": false
+    },
+    {
+      "id": "environmental:serenity",
+      "required": false
+    }
+  ]
+}

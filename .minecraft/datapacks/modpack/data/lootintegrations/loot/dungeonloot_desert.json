@@ -1,0 +1,18 @@
+{
+  "loot_table": "lootintegrations:chests/desert",
+  "integrated_loot_tables": {
+    "minecraft:archaeology/desert_pyramid": 1,
+    "betterdeserttemples:chests/library": 3,
+    "unstructured:chests/desert_dungeon": 2,
+    "philipsruins:chests/desert_pyramid_loot": 1,
+    "dungeons_enhanced:desert_temple_coffin": 2,
+    "dungeons_enhanced:desert_temple_floor": 2,
+    "dungeons_enhanced:chests/desert_tomb": 2,
+    "betterdeserttemples:chests/pharaoh_hidden": 5,
+    "betterdeserttemples:chests/tomb_pharaoh": 5,
+    "dungeons_enhanced:desert_temple_treasure": 5,
+    "betterdeserttemples:chests/lab": 2,
+    "betterdeserttemples:chests/storage": 1,
+    "betterdeserttemples:chests/tomb": 1
+  }
+}

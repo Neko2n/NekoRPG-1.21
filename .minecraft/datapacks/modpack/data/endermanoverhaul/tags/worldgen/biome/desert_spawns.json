@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "#minecraft:has_structure/desert_pyramid",
+      "required": false
+    },
+    {
+      "id": "#minecraft:has_structure/village_desert",
+      "required": false
+    },
+    {
+      "id": "#c:desert",
+      "required": false
+    },
+    {
+      "id": "#forge:is_desert",
+      "required": false
+    }
+  ]
+}

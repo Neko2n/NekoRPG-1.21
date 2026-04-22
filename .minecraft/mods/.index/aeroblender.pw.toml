@@ -1,0 +1,17 @@
+filename = 'aeroblender-1.21.1-1.0.0-neoforge.jar'
+name = 'AeroBlender'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'aeroblender-1.21.1-1.0.0-neoforge.jar'
+
+[download]
+hash = '0e068fafdea6482230f6d10b261967e583821237'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5911923
+project-id = 879879

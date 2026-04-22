@@ -1,0 +1,16 @@
+filename = 'YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar'
+name = "YUNG's Cave Biomes (Forge/NeoForge)"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bcab81f578b3cb31e599ae327c6634b9fa8d0f04'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6913179
+project-id = 1111586

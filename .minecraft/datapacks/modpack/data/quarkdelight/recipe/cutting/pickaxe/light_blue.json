@@ -1,0 +1,27 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:light_blue_stained_glass"
+    }
+  ],
+  "tool": {
+    "tag": "neoforge:tools/pickaxes"
+  },
+  "result": [
+    {
+      "id": "quark:light_blue_shard",
+      "count": 4
+    }
+  ]
+}

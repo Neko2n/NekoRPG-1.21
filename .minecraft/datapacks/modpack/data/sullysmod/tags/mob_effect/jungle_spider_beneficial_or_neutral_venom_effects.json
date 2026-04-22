@@ -1,0 +1,32 @@
+{
+  "values": [
+    {
+      "id": "minecraft:glowing",
+      "required": false
+    },
+    {
+      "id": "minecraft:night_vision",
+      "required": false
+    },
+    {
+      "id": "minecraft:fire_resistance",
+      "required": false
+    },
+    {
+      "id": "minecraft:water_breathing",
+      "required": false
+    },
+    {
+      "id": "minecraft:jump_boost",
+      "required": false
+    },
+    {
+      "id": "minecraft:haste",
+      "required": false
+    },
+    {
+      "id": "minecraft:speed",
+      "required": false
+    }
+  ]
+}

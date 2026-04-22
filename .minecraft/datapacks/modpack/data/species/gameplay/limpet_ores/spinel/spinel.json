@@ -1,0 +1,9 @@
+{
+  "id": "species:spinel",
+  "item": "sullysmod:rough_jade",
+  "block": "sullysmod:jade_ore",
+  "maxCount": 6,
+  "spawnWeight": 50,
+  "maxSpawnHeight": 64,
+  "minSpawnHeight": -32
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:soul_candle",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_skeleton_skull_candle",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_jack_o_lantern",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_ghoul_o_lantern",
+      "required": false
+    }
+  ]
+}

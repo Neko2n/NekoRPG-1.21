@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "id": "minecraft:bee",
+      "required": false
+    },
+    {
+      "id": "minecraft:spider",
+      "required": false
+    },
+    {
+      "id": "minecraft:cave_spider",
+      "required": false
+    },
+    {
+      "id": "minecraft:silverfish",
+      "required": false
+    },
+    {
+      "id": "sullysmod:jungle_spider",
+      "required": false
+    }
+  ]
+}

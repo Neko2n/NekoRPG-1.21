@@ -1,0 +1,16 @@
+{
+  "type": "quark:smithing_rune",
+  "template": {
+    "id": "quark:smithing_template_rune"
+  },
+  "addition": {
+    "id": "alexsmobs:rainbow_jelly"
+  },
+  "color": "rainbow",
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "color_runes"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:chorus_fruit"
+    },
+    {
+      "tag": "forge:salt"
+    },
+    {
+      "tag": "forge:salt"
+    }
+  ],
+  "result": {
+    "id": "outer_end:cured_chorus_fruit"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:stripped_ghaf_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:ghaf_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_ghaf_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:ghaf_wood",
+      "required": false
+    }
+  ]
+}

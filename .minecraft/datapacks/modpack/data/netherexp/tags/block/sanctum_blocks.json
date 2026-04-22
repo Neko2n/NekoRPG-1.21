@@ -1,0 +1,129 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:soul_slate",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_stairs",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_wall",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_brick_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_brick_wall",
+      "required": false
+    },
+    {
+      "id": "netherexp:etched_soul_slate_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:chiseled_soul_slate_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:cracked_soul_slate_bricks",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_brick_pillar",
+      "required": false
+    },
+    {
+      "id": "netherexp:pale_soul_slate",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_tiles",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_tile_stairs",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_tile_slab",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_slate_tile_wall",
+      "required": false
+    },
+    {
+      "id": "netherexp:etched_soul_slate_tiles",
+      "required": false
+    },
+    {
+      "id": "netherexp:chiseled_soul_slate_tiles",
+      "required": false
+    },
+    {
+      "id": "netherexp:treacherous_candle",
+      "required": false
+    },
+    {
+      "id": "netherexp:brazier_chest",
+      "required": false
+    },
+    {
+      "id": "netherexp:netherite_grate",
+      "required": false
+    },
+    {
+      "id": "netherexp:rusty_netherite_grate",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_glass",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_candle",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_path",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_torch",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_campfire",
+      "required": false
+    },
+    {
+      "id": "minecraft:bone_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_soil",
+      "required": false
+    }
+  ]
+}

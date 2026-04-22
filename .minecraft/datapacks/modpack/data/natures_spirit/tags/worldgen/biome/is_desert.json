@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:scorched_dunes",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stratified_desert",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:lively_dunes",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:blooming_dunes",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:drylands",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iTi",
+    "TFT",
+    "cic"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+    "F": {
+      "item": "waterframes:frame"
+    },
+    "T": {
+      "item": "minecraft:tinted_glass"
+    }
+  },
+  "result": {
+    "id": "waterframes:tv",
+    "count": 1
+  }
+}

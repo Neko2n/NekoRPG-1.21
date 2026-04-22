@@ -1,0 +1,17 @@
+filename = 'everycomp-1.21-2.11.38-neoforge.jar'
+name = 'Every Compat'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'everycomp-1.21-2.11.38-neoforge.jar'
+
+[download]
+hash = 'e91cbe4a4c1598bee8eae04f5637ea2ce1d107d4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7929148
+project-id = 628539

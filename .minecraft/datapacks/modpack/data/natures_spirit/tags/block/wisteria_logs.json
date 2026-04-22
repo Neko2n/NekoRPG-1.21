@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:stripped_wisteria_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:wisteria_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_wisteria_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:wisteria_wood",
+      "required": false
+    }
+  ]
+}

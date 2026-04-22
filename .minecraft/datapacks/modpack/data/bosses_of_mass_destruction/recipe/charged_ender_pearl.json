@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legendary_monsters:chorus_crystal"
+    },
+    {
+      "tag": "forge:ender_pearls"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "minecraft:chorus_fruit"
+    }
+  ],
+  "result": {
+    "id": "bosses_of_mass_destruction:charged_ender_pearl"
+  }
+}

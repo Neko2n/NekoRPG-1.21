@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:fir_leaves",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:redwood_leaves",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:larch_leaves",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:cedar_leaves",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:sugi_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_leaves",
+      "required": false
+    }
+  ]
+}

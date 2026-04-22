@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "upgrade_aquatic:box_jellyfish",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:cassiopea_jellyfish",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:immortal_jellyfish",
+      "required": false
+    }
+  ]
+}

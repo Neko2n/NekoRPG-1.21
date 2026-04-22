@@ -1,0 +1,30 @@
+filename = 'Visual Titles 1.3.zip'
+name = "Visual Traveler's Titles"
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.20.1',
+    '1.20.1',
+    '1.20.4',
+    '1.20.4',
+    '1.21.1',
+    '1.21.1',
+    '1.21.11',
+    '1.21.11',
+    '1.21.4',
+    '1.21.4',
+    '26.1.2',
+    '26.1.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3'
+
+[download]
+hash = '548cd46223a96142463646f613ecdec004226bed46e71c990ab3ddee5e8f55e20a3e326f916f6dd5c936f0d0e975534b86a6b094f8065ff873dd5f132191dc97'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Z6cnZeGU/versions/AwVu5ygs/Visual Titles 1.3.zip'
+
+[update.modrinth]
+mod-id = 'Z6cnZeGU'
+version = 'AwVu5ygs'

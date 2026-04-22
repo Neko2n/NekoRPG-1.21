@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    {
+      "id": "irons_spellbooks:ender_upgrade_orb",
+      "required": false
+    }
+  ]
+}

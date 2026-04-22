@@ -1,0 +1,55 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:antidote_vessel",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:feral_claws",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:lucky_scarf",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:rooted_boots",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:scarf_of_invisibility",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:shock_pendant",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:steadfast_spikes",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:superstitious_hat",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:thorn_pendant",
+          "weight": 8
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

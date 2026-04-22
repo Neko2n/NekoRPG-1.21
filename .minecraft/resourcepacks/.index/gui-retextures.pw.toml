@@ -1,0 +1,46 @@
+filename = 'guiretextures-1.14.4.zip'
+name = 'GUI Retextures'
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.20.5',
+    '1.20.5',
+    '1.20.6',
+    '1.20.6',
+    '1.21',
+    '1.21',
+    '1.21.1',
+    '1.21.1',
+    '1.21.10',
+    '1.21.10',
+    '1.21.11',
+    '1.21.11',
+    '1.21.2',
+    '1.21.2',
+    '1.21.3',
+    '1.21.3',
+    '1.21.4',
+    '1.21.4',
+    '1.21.5',
+    '1.21.5',
+    '1.21.6',
+    '1.21.6',
+    '1.21.7',
+    '1.21.7',
+    '1.21.8',
+    '1.21.8',
+    '1.21.9',
+    '1.21.9'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.14.4'
+
+[download]
+hash = 'cd707047bac56380a1ee90ae9cf04078dd42692340c3a519dc5c8d802c6ef767731e613857a6a5ccd9201b9201cd3ec79917ca65f3c630d27da219795acf391b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZM5PH9W6/versions/Fkco1T8D/guiretextures-1.14.4.zip'
+
+[update.modrinth]
+mod-id = 'ZM5PH9W6'
+version = 'Fkco1T8D'

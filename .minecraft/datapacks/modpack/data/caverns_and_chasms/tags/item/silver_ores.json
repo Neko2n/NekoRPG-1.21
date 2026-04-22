@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "galosphere:silver_ore",
+      "required": false
+    },
+    {
+      "id": "galosphere:deepslate_silver_ore",
+      "required": false
+    }
+  ]
+}

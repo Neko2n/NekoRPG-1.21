@@ -1,0 +1,84 @@
+{
+  "values": [
+    {
+      "id": "minecraft:spyglass",
+      "required": false
+    },
+    {
+      "id": "minecraft:totem_of_undying",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:tuning_fork",
+      "required": false
+    },
+    {
+      "id": "quark:pickarang",
+      "required": false
+    },
+    {
+      "id": "quark:flamerang",
+      "required": false
+    },
+    {
+      "id": "supplementaries:slingshot",
+      "required": false
+    },
+    {
+      "id": "suppsquared:key",
+      "required": false
+    },
+    {
+      "id": "suppsquared:heavy_key",
+      "required": false
+    },
+    {
+      "id": "etcetera:hammer",
+      "required": false
+    },
+    {
+      "id": "etcetera:wrench",
+      "required": false
+    },
+    {
+      "id": "supplementaries:bubble_blower",
+      "required": false
+    },
+    {
+      "id": "quark:trowel",
+      "required": false
+    },
+    {
+      "id": "minecraft:brush",
+      "required": false
+    },
+    {
+      "id": "etcetera:chisel",
+      "required": false
+    },
+    {
+      "id": "etcetera:handbell",
+      "required": false
+    },
+    {
+      "id": "supplementaries:flute",
+      "required": false
+    },
+    {
+      "id": "galosphere:glow_flare",
+      "required": false
+    },
+    {
+      "id": "galosphere:spectre_flare",
+      "required": false
+    },
+    {
+      "id": "minecraft:flint_and_steel",
+      "required": false
+    },
+    {
+      "id": "blazegear:flint_and_brimsteel",
+      "required": false
+    }
+  ]
+}

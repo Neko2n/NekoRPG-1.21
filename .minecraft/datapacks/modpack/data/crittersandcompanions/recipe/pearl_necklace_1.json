@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "crittersandcompanions:pearl"
+    },
+    {
+      "item": "crittersandcompanions:pearl"
+    },
+    {
+      "item": "crittersandcompanions:pearl"
+    },
+    {
+      "item": "crittersandcompanions:pearl"
+    }
+  ],
+  "result": {
+    "id": "alexscaves:pearl",
+    "count": 1
+  }
+}

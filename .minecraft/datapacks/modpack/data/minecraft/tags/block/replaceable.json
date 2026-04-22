@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:soul_swirls",
+      "required": false
+    },
+    {
+      "id": "netherexp:shale_swirls",
+      "required": false
+    },
+    {
+      "id": "netherexp:blight_swirls",
+      "required": false
+    }
+  ]
+}

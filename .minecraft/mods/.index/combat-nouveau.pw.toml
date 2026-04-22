@@ -1,0 +1,16 @@
+filename = 'CombatNouveau-v21.1.1-1.21.1-NeoForge.jar'
+name = 'Combat Nouveau'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '11cff4ff6ca24cf0889d73c2465a922564afe0dd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5731866
+project-id = 969425

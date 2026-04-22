@@ -1,0 +1,17 @@
+{
+  "name": "block_factorys_bosses:underworld_arena_peak_tower",
+  "fallback": "block_factorys_bosses:underworld_arena_peak_tower",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "block_factorys_bosses:underworld_arena_peak_tower",
+        "projection": "rigid",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

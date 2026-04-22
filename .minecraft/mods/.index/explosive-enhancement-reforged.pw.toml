@@ -1,0 +1,16 @@
+filename = 'explosiveenhancement-neoforge-1.21.1-1.1.2.jar'
+name = 'Explosive Enhancement'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fee0be3ffe494189733ceaeb7163a38b03098ea5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6520579
+project-id = 1036246

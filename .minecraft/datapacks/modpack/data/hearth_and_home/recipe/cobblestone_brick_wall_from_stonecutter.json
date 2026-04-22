@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "hearth_and_home:cobblestone_bricks"
+  },
+  "result": {
+    "id": "hearth_and_home:cobblestone_brick_wall",
+    "count": 1
+  }
+}

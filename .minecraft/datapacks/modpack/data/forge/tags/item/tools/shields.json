@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cataclysm:azure_sea_shield",
+      "required": false
+    },
+    {
+      "id": "species:ricoshield",
+      "required": false
+    }
+  ]
+}

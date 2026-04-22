@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:arid_savanna",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:scorched_dunes",
+      "required": false
+    }
+  ]
+}

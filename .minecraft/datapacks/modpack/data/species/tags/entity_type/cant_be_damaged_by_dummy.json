@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "species:deflector_dummy",
+      "required": false
+    },
+    {
+      "id": "species:quake",
+      "required": false
+    }
+  ]
+}

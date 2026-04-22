@@ -1,0 +1,72 @@
+{
+  "values": [
+    {
+      "id": "natures_spirit:kaolin",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:white_kaolin",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:orange_kaolin",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:magenta_kaolin",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:light_blue_kaolin",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:yellow_kaolin",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:lime_kaolin",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:pink_kaolin",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:gray_kaolin",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:light_gray_kaolin",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:cyan_kaolin",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:purple_kaolin",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:blue_kaolin",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:brown_kaolin",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:green_kaolin",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:red_kaolin",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:black_kaolin",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "id": "minecraft:gold_ingot"
+  },
+  "base": {
+    "id": "irons_spellbooks:wandering_magician_boots"
+  },
+  "result": {
+    "id": "irons_spellbooks:priest_boots"
+  },
+  "template": {
+    "id": "irons_spellbooks:holy_rune"
+  }
+}

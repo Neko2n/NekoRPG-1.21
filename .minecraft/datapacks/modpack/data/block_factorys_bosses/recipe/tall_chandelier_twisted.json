@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tall_chandelier_twist",
+  "category": "building",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "block_factorys_bosses:tall_candles_cross"
+    }
+  },
+  "result": {
+    "id": "block_factorys_bosses:tall_candles",
+    "count": 1
+  }
+}

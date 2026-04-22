@@ -1,0 +1,17 @@
+filename = 'remapids-neoforge-1.21.1-1.3.0.jar'
+name = 'RemapIDs'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'RemapIDs 1.3.0 (NeoForge 1.21.1)'
+
+[download]
+hash = 'd4579c267a1e20fd19a58e2fe6726947f72f1fad'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7864297
+project-id = 1493230

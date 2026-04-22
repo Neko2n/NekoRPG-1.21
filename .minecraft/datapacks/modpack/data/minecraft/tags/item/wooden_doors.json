@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "bloomingnature:larch_door",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_door",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_door",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_door",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_door",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_door",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_door",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_door",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_door",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cactus_door",
+      "required": false
+    }
+  ]
+}

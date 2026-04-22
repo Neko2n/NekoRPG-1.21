@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "natures_spirit:white_chalk"
+    }
+  ],
+  "tool": {
+    "tag": "neoforge:tools/pickaxes"
+  },
+  "result": [
+    {
+      "id": "natures_spirit:chalk_powder",
+      "count": 4
+    }
+  ]
+}

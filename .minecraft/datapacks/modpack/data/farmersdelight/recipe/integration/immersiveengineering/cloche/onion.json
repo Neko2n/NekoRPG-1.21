@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "results": [
+    {
+      "id": "farmersdelight:onion",
+      "count": 2
+    }
+  ],
+  "input": {
+    "id": "farmersdelight:onion"
+  },
+  "soil": {
+    "id": "minecraft:dirt"
+  },
+  "time": 800,
+  "render": {
+    "type": "crop",
+    "block": "farmersdelight:onions"
+  }
+}

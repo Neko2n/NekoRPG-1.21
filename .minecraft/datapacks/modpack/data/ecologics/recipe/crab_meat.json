@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "ecologics:crab_claw"
+    }
+  ],
+  "tool": {
+    "tag": "neoforge:tools/pickaxes"
+  },
+  "result": [
+    {
+      "id": "ecologics:crab_meat"
+    },
+    {
+      "id": "quark:crab_shell"
+    }
+  ]
+}

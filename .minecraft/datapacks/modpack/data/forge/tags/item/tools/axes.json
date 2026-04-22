@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cataclysm:black_steel_axe",
+      "required": false
+    },
+    {
+      "id": "blazegear:brimsteel_axe",
+      "required": false
+    },
+    {
+      "id": "legendary_monsters:axe_of_lightning",
+      "required": false
+    },
+    {
+      "id": "legendary_monsters:golden_halbert",
+      "required": false
+    }
+  ]
+}

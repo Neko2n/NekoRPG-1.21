@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "natures_spirit:yellow_kaolin"
+  },
+  "result": {
+    "id": "natures_spirit:yellow_kaolin_bricks",
+    "count": 1
+  }
+}

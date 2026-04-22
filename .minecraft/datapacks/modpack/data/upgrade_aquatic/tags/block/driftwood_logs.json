@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "upgrade_aquatic:driftwood_log",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:driftwood",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:stripped_driftwood_log",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:stripped_driftwood",
+      "required": false
+    }
+  ]
+}

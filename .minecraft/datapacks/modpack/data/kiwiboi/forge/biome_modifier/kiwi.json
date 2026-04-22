@@ -1,0 +1,22 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "environmental:old_growth_pine_barrens",
+    "environmental:pine_barrens",
+    "minecraft:old_growth_pine_taiga",
+    "minecraft:old_growth_spruce_taiga",
+    "minecraft:taiga",
+    "natures_spirit:boreal_taiga",
+    "natures_spirit:coniferous_covert",
+    "natures_spirit:fir_forest",
+    "natures_spirit:redwood_forest",
+    "natures_spirit:snowy_fir_forest",
+    "natures_spirit:snowy_redwood_forest"
+  ],
+  "spawners": {
+    "type": "kiwiboi:kiwi",
+    "weight": 10,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

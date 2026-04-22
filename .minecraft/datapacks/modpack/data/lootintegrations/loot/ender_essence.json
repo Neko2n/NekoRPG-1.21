@@ -1,0 +1,8 @@
+{
+  "loot_table": "lootintegrations:ender_essence",
+  "integrated_loot_tables": {
+    "minecraft:entities/evoker": 1,
+    "irons_spellbooks:entities/archevoker": 1,
+    "minecraft:entities/elder_guardian": 1
+  }
+}

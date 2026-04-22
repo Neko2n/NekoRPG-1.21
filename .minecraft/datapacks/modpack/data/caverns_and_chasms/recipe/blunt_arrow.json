@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "sullysmod:jade"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "caverns_and_chasms:blunt_arrow"
+  }
+}

@@ -1,0 +1,17 @@
+filename = 'fieldguide-neoforge-1.21.1-1.6.9.jar'
+name = 'Field Guide'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Field Guide Neoforge 1.21.1 - 1.6.9'
+
+[download]
+hash = '4c705c5c2eda70d3f18bd1c34405f1ad61a0cc78'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7901867
+project-id = 1470590

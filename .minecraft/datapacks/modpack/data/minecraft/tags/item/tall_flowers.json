@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "bloomingnature:cardinal",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:tall_mountain_laurel",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:beach_bush_tall",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:wild_sunflower",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:tall_lupine_blue",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:tall_lupine_purple",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "loot_table": "lootintegrations:maps/ancient_factory",
+  "integrated_loot_tables": {
+    "minecraft:chests/mineshaft": 1,
+    "dungeons_arise:chests/mines_treasure_big": 1,
+    "endrem:chests/throne": 1,
+    "endrem:chests/biblio": 1,
+    "dungeoncrawl:chests/stage_4": 1,
+    "dungeoncrawl:chests/stage_5": 1,
+    "dungeoncrawl:chests/treasure": 1
+  }
+}

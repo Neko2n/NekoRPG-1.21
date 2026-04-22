@@ -1,0 +1,16 @@
+filename = 'TCTcore-1.21.1.jar'
+name = 'TCT Core'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3fb9f82e7a64f1eb6a410195086fca257976fe8a5cc635cff1ee1f5808a5c655b01315ad3057f0dfbf52cb8bef78a9642e3721006994791ef6bb541a05cc40b9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MlsBPB9a/versions/ZFDPM6AD/TCTcore-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'MlsBPB9a'
+version = 'ZFDPM6AD'

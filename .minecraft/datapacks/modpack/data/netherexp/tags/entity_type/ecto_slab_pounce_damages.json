@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:player",
+      "required": false
+    },
+    {
+      "id": "minecraft:piglin",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_golem",
+      "required": false
+    }
+  ]
+}

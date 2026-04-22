@@ -1,0 +1,17 @@
+filename = 'yo_hooks-neoforge-4.5.1.jar'
+name = "Yori3o's Grappling Hooks"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'yo_hooks-neoforge-4.5.1.jar'
+
+[download]
+hash = '08d5cb2d3d096e3147a7dc0531f61760870a3e49'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7946839
+project-id = 1376009

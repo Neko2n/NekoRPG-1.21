@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "0": {
+      "item": "ecologics:crab_meat"
+    },
+    "1": {
+      "tag": "forge:raw_fishes"
+    },
+    "2": {
+      "item": "minecraft:bone_meal"
+    }
+  },
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "result": {
+    "id": "quarkdelight:crab_bars",
+    "count": 4
+  }
+}

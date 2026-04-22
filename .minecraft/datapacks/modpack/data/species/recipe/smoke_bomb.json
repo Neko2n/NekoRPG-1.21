@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "species:wicked_wax"
+    },
+    {
+      "item": "supplementaries:bomb"
+    },
+    {
+      "item": "supplementaries:bomb"
+    }
+  ],
+  "result": {
+    "id": "species:smoke_bomb",
+    "count": 2
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:egg",
+      "required": false
+    },
+    {
+      "id": "minecraft:turtle_egg",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:crocodile_egg",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:terrapin_egg",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:caiman_egg",
+      "required": false
+    },
+    {
+      "id": "minecraft:sugar",
+      "required": false
+    },
+    {
+      "id": "supplementaries:candy",
+      "required": false
+    },
+    {
+      "id": "#forge:eggs",
+      "required": false
+    }
+  ]
+}

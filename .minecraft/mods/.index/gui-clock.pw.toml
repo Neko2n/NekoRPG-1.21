@@ -1,0 +1,16 @@
+filename = 'guiclock-1.21.1-4.7.jar'
+name = 'GUI Clock'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd3834b97b550ecae3a5f738f4c40e48dca9884fb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6225063
+project-id = 347529

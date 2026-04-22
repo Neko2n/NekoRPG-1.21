@@ -1,0 +1,28 @@
+{
+  "values": [
+    {
+      "id": "#minecraft:bypasses_armor",
+      "required": false
+    },
+    {
+      "id": "#minecraft:bypasses_resistance",
+      "required": false
+    },
+    {
+      "id": "#minecraft:bypasses_invulnerability",
+      "required": false
+    },
+    {
+      "id": "#minecraft:is_drowning",
+      "required": false
+    },
+    {
+      "id": "#minecraft:is_fire",
+      "required": false
+    },
+    {
+      "id": "#minecraft:is_lightning",
+      "required": false
+    }
+  ]
+}

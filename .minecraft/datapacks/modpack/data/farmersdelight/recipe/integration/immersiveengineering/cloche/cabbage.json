@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "results": [
+    {
+      "id": "farmersdelight:cabbage",
+      "count": 2
+    },
+    {
+      "id": "farmersdelight:cabbage_seeds"
+    }
+  ],
+  "input": {
+    "id": "farmersdelight:cabbage_seeds"
+  },
+  "soil": {
+    "id": "minecraft:dirt"
+  },
+  "time": 800,
+  "render": {
+    "type": "crop",
+    "block": "farmersdelight:cabbages"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:carrot",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_chicken",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_porkchop",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_rabbit",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_cod",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:olives",
+      "required": false
+    },
+    {
+      "id": "minecraft:beetroot",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_mushroom",
+      "required": false
+    }
+  ]
+}

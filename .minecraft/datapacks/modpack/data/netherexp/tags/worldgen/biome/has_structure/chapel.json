@@ -1,0 +1,61 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:soul_sand_valley",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_wastes",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_forest",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_forest",
+      "required": false
+    },
+    {
+      "id": "netherexp:black_ice_glaciers",
+      "required": false
+    },
+    {
+      "id": "cinderscapes:ashy_shoals",
+      "required": false
+    },
+    {
+      "id": "cinderscapes:blackstone_shales",
+      "required": false
+    },
+    {
+      "id": "cinderscapes:luminous_grove",
+      "required": false
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_forest",
+      "required": false
+    },
+    {
+      "id": "soulfulnether:fright_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:mycotoxic_undergrowth",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:glistering_meadow",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:infernal_holt",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:blackstone_basin",
+      "required": false
+    }
+  ]
+}

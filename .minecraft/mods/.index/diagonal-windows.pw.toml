@@ -1,0 +1,16 @@
+filename = 'DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar'
+name = 'Diagonal Windows'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a2d28a50756a297d77f0a0fb9a015f4c2c501700'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5918192
+project-id = 891328

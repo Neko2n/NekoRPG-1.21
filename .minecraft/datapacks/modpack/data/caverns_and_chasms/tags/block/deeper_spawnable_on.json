@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "id": "minecraft:gravel",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:fragile_stone",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:fragile_deepslate",
+      "required": false
+    },
+    {
+      "id": "#minecraft:base_stone_overworld",
+      "required": false
+    },
+    {
+      "id": "#forge:ores",
+      "required": false
+    }
+  ]
+}

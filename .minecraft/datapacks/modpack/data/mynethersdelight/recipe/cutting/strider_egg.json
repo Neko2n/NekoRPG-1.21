@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "mynethersdelight:strider_rock"
+    }
+  ],
+  "result": [
+    {
+      "id": "mynethersdelight:strider_egg"
+    },
+    {
+      "chance": 0.25,
+      "id": "minecraft:bone_meal"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/pickaxes"
+  }
+}

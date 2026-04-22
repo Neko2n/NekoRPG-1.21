@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": "Resource Pack adding Structure Markers for Antique Atlas 4 by x7bbbbbbb.",
+    "pack_format": 15,
+    "min_format": 15,
+    "max_format": 34,
+    "supported_formats": [15, 34]
+  }
+}

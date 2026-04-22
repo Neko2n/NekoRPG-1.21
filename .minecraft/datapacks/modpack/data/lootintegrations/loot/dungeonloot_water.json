@@ -1,0 +1,17 @@
+{
+  "loot_table": "lootintegrations:chests/water",
+  "max_result_itemcount": 16,
+  "integrated_loot_tables": {
+    "dungeons_enhanced:chests/castle/spring": 6,
+    "dungeons_enhanced:chests/elders_temple/elder_room": 12,
+    "dungeons_enhanced:chests/elders_temple/main": 6,
+    "dungeons_enhanced:chests/sunken_shrine": 6,
+    "dungeons_plus:chests/warped_garden/common": 6,
+    "dungeons_arise:chests/illager_galley/illager_galley_treasure": 16,
+    "dungeons_arise:chests/typhon/typhon_treasure": 16,
+    "philipsruins:chests/ocean_ruins_loot": 8,
+    "betteroceanmonuments:chests/upper_side_chamber": 12,
+    "cataclysm:chests/acropolis_treasure": 8,
+    "structory:mood/ocean": 4
+  }
+}

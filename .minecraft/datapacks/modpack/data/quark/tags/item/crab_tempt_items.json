@@ -1,0 +1,21 @@
+{
+  "replace": true,
+  "values": [
+    {
+      "id": "#minecraft:fishes",
+      "required": false
+    },
+    {
+      "id": "#forge:shrimps",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:lobster_tail",
+      "required": false
+    },
+    {
+      "id": "ecologics:crab_meat",
+      "required": false
+    }
+  ]
+}

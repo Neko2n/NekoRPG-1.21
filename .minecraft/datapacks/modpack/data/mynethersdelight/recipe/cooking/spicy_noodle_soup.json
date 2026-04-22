@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "forge:rice_pasta"
+    },
+    {
+      "tag": "forge:cooked_eggs"
+    },
+    {
+      "tag": "mynethersdelight:hot_spice"
+    },
+    {
+      "tag": "forge:raw_hoglin"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "mynethersdelight:spicy_noodle_soup"
+  }
+}

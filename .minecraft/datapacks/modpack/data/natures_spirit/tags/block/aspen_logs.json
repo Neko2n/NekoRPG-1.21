@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:stripped_aspen_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:aspen_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_aspen_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:aspen_wood",
+      "required": false
+    }
+  ]
+}

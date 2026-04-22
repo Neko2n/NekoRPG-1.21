@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "bloomingnature:larch_sapling",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_sapling",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_sapling",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_sapling",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_sapling",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_sapling",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_sapling",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_sapling",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_sapling",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_sprout",
+      "required": false
+    }
+  ]
+}

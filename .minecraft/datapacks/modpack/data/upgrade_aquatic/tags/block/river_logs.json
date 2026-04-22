@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "upgrade_aquatic:river_log",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:river_wood",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:stripped_river_log",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:stripped_river_wood",
+      "required": false
+    }
+  ]
+}

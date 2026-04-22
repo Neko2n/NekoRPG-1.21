@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:music_disc_cricket",
+      "required": false
+    },
+    {
+      "id": "netherexp:music_disc_buckshot_wonderland",
+      "required": false
+    }
+  ]
+}

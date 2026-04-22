@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:stripped_willow_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:willow_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_willow_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:willow_wood",
+      "required": false
+    }
+  ]
+}

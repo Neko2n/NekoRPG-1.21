@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "id": "minecraft:freeze",
+      "required": false
+    },
+    {
+      "id": "minecraft:starve",
+      "required": false
+    },
+    {
+      "id": "minecraft:on_fire",
+      "required": false
+    },
+    {
+      "id": "minecraft:wither",
+      "required": false
+    },
+    {
+      "id": "minecraft:magic",
+      "required": false
+    }
+  ]
+}

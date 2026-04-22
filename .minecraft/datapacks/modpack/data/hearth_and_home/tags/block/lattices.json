@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "hearth_and_home:oak_lattice",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:spruce_lattice",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:birch_lattice",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:jungle_lattice",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:acacia_lattice",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:dark_oak_lattice",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:mangrove_lattice",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:cherry_lattice",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:bamboo_lattice",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:crimson_lattice",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:warped_lattice",
+      "required": false
+    }
+  ]
+}

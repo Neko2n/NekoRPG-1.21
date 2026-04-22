@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "id": "blazegear:brimsteel_ingot"
+  },
+  "base": {
+    "id": "irons_spellbooks:wandering_magician_leggings"
+  },
+  "result": {
+    "id": "irons_spellbooks:pyromancer_leggings"
+  },
+  "template": {
+    "id": "irons_spellbooks:fire_rune"
+  }
+}

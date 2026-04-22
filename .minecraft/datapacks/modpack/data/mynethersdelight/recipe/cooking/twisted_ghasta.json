@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "mynethersdelight:ghasta"
+    },
+    [
+      {
+        "id": "minecraft:warped_fungus"
+      },
+      {
+        "id": "minecraft:twisting_vines"
+      }
+    ],
+    [
+      {
+        "id": "minecraft:warped_fungus"
+      },
+      {
+        "id": "minecraft:twisting_vines"
+      }
+    ]
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "mynethersdelight:twisted_ghasta"
+  }
+}

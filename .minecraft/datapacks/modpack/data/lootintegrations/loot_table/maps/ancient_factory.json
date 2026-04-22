@@ -1,0 +1,30 @@
+{
+  "pools": [
+    {
+      "name": "map_pool",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "furledMapData": {
+                  "destination": "cataclysm:ancient_factory",
+                  "description": "{\"translate\":\"[Forgotten Factory]\"}"
+                }
+              }
+            }
+          ],
+          "name": "irons_spellbooks:furled_map",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 96
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+filename = 'obscuraspanoramica-1.0.0.jar'
+name = "Obscura's Panoramica"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'obscuraspanoramica-1.0.0'
+
+[download]
+hash = 'd9c0d0f3ac61bfcf7dd307adf162636b0cca758a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7414195
+project-id = 1420121

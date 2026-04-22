@@ -1,0 +1,16 @@
+filename = 'immersivehotbar-1.1.1-neoforge-1.21-1.21.1.jar'
+name = 'Immersive Hotbar'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4f4a939b4dfc3664add2659e5981390c1ba199fc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7786266
+project-id = 1238099

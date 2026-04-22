@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:sniffer",
+      "required": false
+    },
+    {
+      "id": "species:springling",
+      "required": false
+    },
+    {
+      "id": "species:treeper",
+      "required": false
+    },
+    {
+      "id": "species:cruncher",
+      "required": false
+    },
+    {
+      "id": "species:goober",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:soarer",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:eater",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:walker",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:crusher",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:glider",
+      "required": false
+    }
+  ]
+}

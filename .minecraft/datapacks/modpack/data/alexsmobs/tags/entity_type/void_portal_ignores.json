@@ -1,0 +1,22 @@
+{
+  "__comment": "all non-worm entities that void portals ignore.",
+  "replace": false,
+  "values": [
+    {
+      "id": "alexsmobs:void_portal",
+      "required": false
+    },
+    {
+      "id": "minecraft:end_crystal",
+      "required": false
+    },
+    {
+      "id": "minecraft:ender_dragon",
+      "required": false
+    },
+    {
+      "id": "cataclysm:the_leviathan",
+      "required": false
+    }
+  ]
+}

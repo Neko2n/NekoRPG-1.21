@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "hearth_and_home:oak_parquet",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:spruce_parquet",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:birch_parquet",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:jungle_parquet",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:acacia_parquet",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:dark_oak_parquet",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:mangrove_parquet",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:cherry_parquet",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:bamboo_parquet",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:crimson_parquet",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:warped_parquet",
+      "required": false
+    }
+  ]
+}

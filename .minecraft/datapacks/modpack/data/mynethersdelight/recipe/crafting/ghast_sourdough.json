@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mynethersdelight:ghast_dough"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:dough"
+    }
+  ],
+  "result": {
+    "id": "mynethersdelight:ghast_sourdough"
+  }
+}

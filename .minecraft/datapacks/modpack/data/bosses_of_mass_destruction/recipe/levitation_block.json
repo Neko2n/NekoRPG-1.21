@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "GHG",
+    "CEC"
+  ],
+  "key": {
+    "E": {
+      "item": "alexsmobs:void_worm_eye"
+    },
+    "C": {
+      "item": "minecraft:obsidian"
+    },
+    "A": {
+      "item": "outer_end:levitation_core"
+    },
+    "H": {
+      "item": "bosses_of_mass_destruction:blazing_eye"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "id": "bosses_of_mass_destruction:levitation_block"
+  }
+}

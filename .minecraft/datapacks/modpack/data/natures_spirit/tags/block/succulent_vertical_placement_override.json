@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "minecraft:cactus",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:alluaudia",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_alluaudia",
+      "required": false
+    },
+    {
+      "id": "#minecraft:leaves",
+      "required": false
+    }
+  ]
+}

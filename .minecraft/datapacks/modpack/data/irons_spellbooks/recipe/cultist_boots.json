@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "id": "caverns_and_chasms:living_flesh"
+  },
+  "base": {
+    "id": "irons_spellbooks:wandering_magician_boots"
+  },
+  "result": {
+    "id": "irons_spellbooks:cultist_boots"
+  },
+  "template": {
+    "id": "irons_spellbooks:blood_rune"
+  }
+}

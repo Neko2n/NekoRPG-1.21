@@ -1,0 +1,28 @@
+{
+    "pools": [{
+        "name": "map_pool",
+        "rolls": 1,
+        "entries": [
+            {
+                "type": "minecraft:item",
+                "functions": [
+                    {
+                        "function": "minecraft:set_custom_data",
+                        "tag": {
+                            "furledMapData": {
+                                "destination": "cataclysm:cursed_pyramid",
+                                "description": "[Cursed Pyramid]"
+                            }
+                        }
+                    }
+                ],
+                "name": "irons_spellbooks:furled_map",
+                "weight": 10
+            },
+            {
+                "type": "minecraft:empty",
+                "weight": 90
+            }
+        ]
+    }]
+}

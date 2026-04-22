@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:stripped_alluaudia_bundle",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:alluaudia_bundle",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:alluaudia",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_alluaudia",
+      "required": false
+    }
+  ]
+}

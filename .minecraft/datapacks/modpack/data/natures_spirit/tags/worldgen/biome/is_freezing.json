@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:tundra",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:snowcapped_red_peaks",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:boreal_taiga",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:snowy_fir_forest",
+      "required": false
+    }
+  ]
+}

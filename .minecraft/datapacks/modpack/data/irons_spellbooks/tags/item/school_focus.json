@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#irons_spellbooks:fire_focus",
+      "required": false
+    },
+    {
+      "id": "#irons_spellbooks:ice_focus",
+      "required": false
+    },
+    {
+      "id": "#irons_spellbooks:lightning_focus",
+      "required": false
+    },
+    {
+      "id": "#irons_spellbooks:holy_focus",
+      "required": false
+    },
+    {
+      "id": "#irons_spellbooks:ender_focus",
+      "required": false
+    },
+    {
+      "id": "#irons_spellbooks:blood_focus",
+      "required": false
+    },
+    {
+      "id": "#irons_spellbooks:evocation_focus",
+      "required": false
+    },
+    {
+      "id": "#irons_spellbooks:nature_focus",
+      "required": false
+    },
+    {
+      "id": "#irons_spellbooks:eldritch_focus",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:soul_slate",
+      "required": false
+    },
+    {
+      "id": "netherexp:pale_soul_slate",
+      "required": false
+    },
+    {
+      "id": "netherexp:silica_sand",
+      "required": false
+    },
+    {
+      "id": "netherexp:silica_sandstone",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "block_factorys_bosses:dragon_bone"
+    }
+  },
+  "result": {
+    "id": "block_factorys_bosses:dragon_bones_boots",
+    "count": 1
+  }
+}

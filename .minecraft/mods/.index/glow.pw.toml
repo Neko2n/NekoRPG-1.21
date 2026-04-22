@@ -1,0 +1,17 @@
+filename = 'glow-1.3.0.jar'
+name = 'Glow'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Glow 1.3.0'
+
+[download]
+hash = '0bc0541db098a6532b494db27a3b5702da21a366'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7950219
+project-id = 1318311

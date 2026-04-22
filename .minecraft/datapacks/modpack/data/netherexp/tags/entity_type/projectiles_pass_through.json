@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:wisp",
+      "required": false
+    },
+    {
+      "id": "netherexp:apparition",
+      "required": false
+    }
+  ]
+}

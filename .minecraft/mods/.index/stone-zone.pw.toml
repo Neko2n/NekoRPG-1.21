@@ -1,0 +1,16 @@
+filename = 'stonezone-1.21-2.11.16-neoforge.jar'
+name = 'Stone Zone'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ac55fe6d399a7890f3542168a3b1b668214f0512'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7824607
+project-id = 1154622

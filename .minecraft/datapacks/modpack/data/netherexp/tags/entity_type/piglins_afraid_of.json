@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:vessel",
+      "required": false
+    },
+    {
+      "id": "netherexp:banshee",
+      "required": false
+    }
+  ]
+}

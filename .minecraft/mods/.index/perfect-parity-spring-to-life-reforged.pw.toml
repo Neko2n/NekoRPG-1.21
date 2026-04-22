@@ -1,0 +1,17 @@
+filename = 'perfectparity-1.21.1-NeoForge-1.0.2.jar'
+name = 'Perfect Parity: Spring To Life Reforged'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'perfectparity-1.21.1-NeoForge-1.0.2.jar'
+
+[download]
+hash = '2e3b134043c6d585d5d53c7c4d482c1c9418a225'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6640755
+project-id = 1276662

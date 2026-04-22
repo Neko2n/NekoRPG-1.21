@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:stone"
+    }
+  ],
+  "result": [
+    {
+      "id": "minecraft:cobblestone"
+    }
+  ],
+  "tool": {
+    "tag": "neoforge:tools/pickaxes"
+  }
+}

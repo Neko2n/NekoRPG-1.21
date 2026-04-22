@@ -1,0 +1,72 @@
+{
+  "values": [
+    {
+      "id": "upgrade_aquatic:bedroll",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:black_bedroll",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:blue_bedroll",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:brown_bedroll",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:cyan_bedroll",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:gray_bedroll",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:green_bedroll",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:light_blue_bedroll",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:light_gray_bedroll",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:lime_bedroll",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:magenta_bedroll",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:orange_bedroll",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:pink_bedroll",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:purple_bedroll",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:red_bedroll",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:yellow_bedroll",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:white_bedroll",
+      "required": false
+    }
+  ]
+}

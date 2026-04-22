@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:soul_sand",
+      "required": false
+    },
+    {
+      "id": "netherexp:ecto_soul_sand",
+      "required": false
+    },
+    {
+      "id": "netherexp:soul_permafrost",
+      "required": false
+    }
+  ]
+}

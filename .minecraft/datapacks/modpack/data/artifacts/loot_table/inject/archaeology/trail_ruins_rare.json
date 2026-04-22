@@ -1,0 +1,48 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:rooted_boots"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:snowshoes"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:steadfast_spikes"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:villager_hat"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:feral_claws"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:whoopee_cushion"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:flame_pendant"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:thorn_pendant"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:everlasting_beef"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "artifacts:inject/archaeology/trail_ruins_rare"
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#minecraft:mushroom_grow_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:grass_block",
+      "required": false
+    }
+  ]
+}

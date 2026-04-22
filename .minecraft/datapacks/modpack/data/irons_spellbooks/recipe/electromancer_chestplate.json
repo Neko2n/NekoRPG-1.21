@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "id": "irons_spellbooks:lightning_bottle"
+  },
+  "base": {
+    "id": "irons_spellbooks:wandering_magician_chestplate"
+  },
+  "result": {
+    "id": "irons_spellbooks:electromancer_chestplate"
+  },
+  "template": {
+    "id": "irons_spellbooks:lightning_rune"
+  }
+}

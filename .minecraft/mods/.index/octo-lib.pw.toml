@@ -1,0 +1,16 @@
+filename = 'OctoLib-NEOFORGE-0.6.1+1.21.jar'
+name = 'OctoLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '052b71b4897b3a76b4b10afda4d9342e66fb19f1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7724006
+project-id = 916747

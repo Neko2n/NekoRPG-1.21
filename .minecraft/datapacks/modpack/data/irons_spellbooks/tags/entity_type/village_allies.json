@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:iron_golem",
+      "required": false
+    },
+    {
+      "id": "minecraft:villager",
+      "required": false
+    },
+    {
+      "id": "minecraft:villager",
+      "required": false
+    },
+    {
+      "id": "irons_spellbooks:priest",
+      "required": false
+    },
+    {
+      "id": "guardvillagers:guard",
+      "required": false
+    }
+  ]
+}

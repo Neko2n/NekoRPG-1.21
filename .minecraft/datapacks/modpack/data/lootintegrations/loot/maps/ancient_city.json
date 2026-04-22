@@ -1,0 +1,12 @@
+{
+  "loot_table": "lootintegrations:maps/ancient_city",
+  "integrated_loot_tables": {
+    "philipsruins:chests/sculk_dungeon_loot": 1,
+    "artifacts:chests/campsite_chest": 1,
+    "dungeoncrawl:chests/stage_4": 1,
+    "dungeoncrawl:chests/stage_5": 1,
+    "dungeoncrawl:chests/library": 1,
+    "subterrestrial:chests/cabin/main": 1,
+    "dungeoncrawl:chests/treasure": 1
+  }
+}

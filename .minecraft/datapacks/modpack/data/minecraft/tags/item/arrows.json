@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:phasmo_arrow",
+      "required": false
+    }
+  ]
+}

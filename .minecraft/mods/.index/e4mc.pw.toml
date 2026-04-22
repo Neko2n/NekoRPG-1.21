@@ -1,0 +1,36 @@
+filename = 'e4mc-neoforge-6.1.0.jar'
+name = 'e4mc'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.10',
+    '1.21.11',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '26.1'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge] 6.1.0'
+
+[download]
+hash = '043f7ef49a74f9f51c1612df4ca0889ba71f1d0e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7843800
+project-id = 849519

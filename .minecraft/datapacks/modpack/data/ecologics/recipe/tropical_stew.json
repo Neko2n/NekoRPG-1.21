@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "natures_spirit:coconut_half"
+    },
+    {
+      "item": "ecologics:crab_meat"
+    }
+  ],
+  "result": {
+    "id": "ecologics:tropical_stew"
+  }
+}

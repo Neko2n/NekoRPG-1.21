@@ -1,0 +1,34 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 400,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "mynethersdelight:strider_slice"
+    },
+    {
+      "item": "minecraft:crimson_fungus"
+    },
+    {
+      "item": "minecraft:warped_fungus"
+    },
+    [
+      {
+        "id": "minecraft:warped_fungus"
+      },
+      {
+        "id": "minecraft:crimson_fungus"
+      },
+      {
+        "id": "minecraft:red_mushroom"
+      },
+      {
+        "id": "minecraft:brown_mushroom"
+      }
+    ]
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "mynethersdelight:strider_with_grilled_fungus"
+  }
+}

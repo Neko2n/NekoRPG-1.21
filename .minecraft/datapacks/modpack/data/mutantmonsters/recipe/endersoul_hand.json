@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": {
+      "item": "waystones:warp_stone"
+    },
+    "V": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "L": {
+      "item": "outer_end:levitation_core"
+    },
+    "P": {
+      "tag": "forge:ender_pearls"
+    }
+  },
+  "pattern": [
+    " VV",
+    "PWV",
+    "LP "
+  ],
+  "result": {
+    "id": "mutantmonsters:endersoul_hand"
+  },
+  "show_notification": true
+}

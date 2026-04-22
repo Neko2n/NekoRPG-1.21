@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    " a ",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "block_factorys_bosses:ancient_iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:gold_nugget"
+    },
+    "c": {
+      "item": "block_factorys_bosses:warrior_sword"
+    }
+  },
+  "result": {
+    "id": "block_factorys_bosses:large_sword",
+    "count": 1
+  }
+}

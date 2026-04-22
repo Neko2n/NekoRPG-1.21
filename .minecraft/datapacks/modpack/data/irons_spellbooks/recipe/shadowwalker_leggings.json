@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "id": "minecraft:crying_obsidian"
+  },
+  "base": {
+    "id": "irons_spellbooks:wandering_magician_leggings"
+  },
+  "result": {
+    "id": "irons_spellbooks:shadowwalker_leggings"
+  },
+  "template": {
+    "id": "irons_spellbooks:ender_rune"
+  }
+}

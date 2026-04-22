@@ -1,0 +1,221 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "chance": 0.2,
+          "condition": "minecraft:random_chance"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "max": 30.0,
+                "min": 15.0
+              },
+              "treasure": true
+            }
+          ],
+          "name": "minecraft:book",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_apple",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_golden_apple",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "chance": 0.3,
+          "condition": "minecraft:random_chance"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "artifacts:artifact-water"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:arcane_ingot",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:magic_cloth",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "chance": 0.02,
+          "condition": "minecraft:random_chance"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:lightning_rune"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:rotten_spell_book",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 9
+        }
+      ]
+    },
+    {
+      "rolls": 4,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:experience_bottle",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 8
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:lightning_bottle",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 4,
+          "value": "irons_spellbooks:scroll_gen"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 1,
+          "value": "irons_spellbooks:ring_gen"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 2,
+          "value": "irons_spellbooks:magic_items/basic_curios"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 4,
+          "value": "artifacts:artifact"
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 21
+        }
+      ]
+    },
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "weight": 1,
+          "value": "irons_spellbooks:magic_items/poor_ink"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 3,
+          "value": "irons_spellbooks:magic_items/random_potion_or_elixir"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 2,
+          "value": "irons_spellbooks:magic_items/decent_ink"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 3,
+          "value": "irons_spellbooks:magic_items/good_ink"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 1,
+          "value": "irons_spellbooks:magic_items/great_ink"
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 30
+        }
+      ]
+    },
+    {
+      "rolls": 4,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "weight": 2,
+          "value": "minecraft:chests/underwater_ruin_small"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 7,
+          "value": "minecraft:chests/underwater_ruin_big"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 5,
+          "value": "minecraft:chests/shipwreck_treasure"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 2,
+          "value": "minecraft:chests/shipwreck_supply"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 2,
+          "value": "minecraft:chests/shipwreck_map"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 3,
+          "value": "minecraft:chests/buried_treasure"
+        }
+      ]
+    }
+  ]
+}

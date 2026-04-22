@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "bloomingnature:travertin",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:laterit",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:slate",
+      "required": false
+    }
+  ]
+}

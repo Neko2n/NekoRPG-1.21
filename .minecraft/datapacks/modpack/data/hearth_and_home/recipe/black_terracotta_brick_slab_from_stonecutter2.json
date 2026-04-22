@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:black_terracotta"
+  },
+  "result": {
+    "id": "hearth_and_home:black_terracotta_brick_slab",
+    "count": 2
+  }
+}

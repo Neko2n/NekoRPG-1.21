@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    {
+      "id": "#minecraft:has_structure/end_city",
+      "required": false
+    }
+  ]
+}

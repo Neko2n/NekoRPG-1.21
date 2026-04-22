@@ -1,0 +1,48 @@
+{
+  "values": [
+    {
+      "id": "caverns_and_chasms:necromium_sword",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:necromium_pickaxe",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:necromium_axe",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:necromium_shovel",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:necromium_hoe",
+      "required": false
+    },
+    {
+      "id": "abnormals_delight:necromium_knife",
+      "required": false
+    },
+    {
+      "id": "legendary_monsters:soul_great_sword",
+      "required": false
+    },
+    {
+      "id": "cataclysm:cursium_helmet",
+      "required": false
+    },
+    {
+      "id": "cataclysm:cursium_chestplate",
+      "required": false
+    },
+    {
+      "id": "cataclysm:cursium_leggings",
+      "required": false
+    },
+    {
+      "id": "cataclysm:cursium_boots",
+      "required": false
+    }
+  ]
+}

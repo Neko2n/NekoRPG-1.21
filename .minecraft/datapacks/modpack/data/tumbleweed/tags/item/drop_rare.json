@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "id": "minecraft:iron_nugget",
+      "required": false
+    },
+    {
+      "id": "minecraft:gold_nugget",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_nugget",
+      "required": false
+    },
+    {
+      "id": "galosphere:silver_nugget",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:rattlesnake_rattle",
+      "required": false
+    }
+  ]
+}

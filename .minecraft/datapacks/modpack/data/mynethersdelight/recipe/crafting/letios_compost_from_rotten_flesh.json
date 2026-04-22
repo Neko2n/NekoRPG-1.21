@@ -1,0 +1,54 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    [
+      {
+        "id": "minecraft:soul_sand"
+      },
+      {
+        "id": "minecraft:soul_soil"
+      }
+    ],
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    [
+      {
+        "id": "minecraft:warped_roots"
+      },
+      {
+        "id": "minecraft:crimson_roots"
+      }
+    ],
+    [
+      {
+        "id": "minecraft:crimson_roots"
+      },
+      {
+        "id": "minecraft:warped_roots"
+      },
+      {
+        "id": "farmersdelight:straw"
+      }
+    ],
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    }
+  ],
+  "result": {
+    "id": "mynethersdelight:letios_compost"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:shotgun_fist",
+      "required": false
+    },
+    {
+      "id": "netherexp:pump_charge_shotgun",
+      "required": false
+    }
+  ]
+}

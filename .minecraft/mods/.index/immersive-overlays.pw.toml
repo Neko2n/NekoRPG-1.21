@@ -1,0 +1,17 @@
+filename = 'immersiveoverlays-1.6.3+1.21.1-neoforge.jar'
+name = 'Immersive Overlays'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Immersive Overlays 1.6.3 for 1.21.1 NeoForge'
+
+[download]
+hash = '6934d7f7fa16010ae4b27893e6bf4edabed40b27'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7847487
+project-id = 1245453

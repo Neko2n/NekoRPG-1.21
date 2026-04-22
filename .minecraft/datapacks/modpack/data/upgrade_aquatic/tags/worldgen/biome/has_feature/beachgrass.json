@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "minecraft:beach",
+      "required": false
+    },
+    {
+      "id": "#minecraft:is_river",
+      "required": false
+    }
+  ]
+}

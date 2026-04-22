@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:player",
+      "required": false
+    },
+    {
+      "id": "minecraft:armor_stand",
+      "required": false
+    }
+  ]
+}

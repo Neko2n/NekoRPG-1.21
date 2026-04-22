@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:carved_pumpkin",
+      "required": false
+    },
+    {
+      "id": "minecraft:jack_o_lantern",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:evil_carved_pumpkin",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:flaming_evil_pumpkin",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:infernal_evil_pumpkin",
+      "required": false
+    }
+  ]
+}

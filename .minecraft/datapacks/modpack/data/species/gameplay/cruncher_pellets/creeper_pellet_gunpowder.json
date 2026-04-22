@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:creeper",
+  "item": {
+    "id": "minecraft:gunpowder",
+    "Count": 1
+  },
+  "minTries": 8,
+  "maxTries": 12
+}

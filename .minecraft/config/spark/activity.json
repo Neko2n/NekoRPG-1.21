@@ -1,0 +1,54 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "NekoTune",
+      "uniqueId": "9452dedf-fa60-4f3d-90aa-ad2143366825"
+    },
+    "time": 1776687564267,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Da6zbf9kxi"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "NekoTune",
+      "uniqueId": "9452dedf-fa60-4f3d-90aa-ad2143366825"
+    },
+    "time": 1776651501586,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/jpleqhvOiL"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "NekoTune",
+      "uniqueId": "9452dedf-fa60-4f3d-90aa-ad2143366825"
+    },
+    "time": 1774683848787,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/6a8aZmT1CP"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "NekoTune",
+      "uniqueId": "9452dedf-fa60-4f3d-90aa-ad2143366825"
+    },
+    "time": 1774683389453,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/DGwdCaJJZD"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:chicken",
+      "required": false
+    },
+    {
+      "id": "minecraft:rabbit",
+      "required": false
+    },
+    {
+      "id": "minecraft:beef",
+      "required": false
+    },
+    {
+      "id": "minecraft:mutton",
+      "required": false
+    },
+    {
+      "id": "minecraft:porkchop",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:kangaroo_meat",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:moose_ribs",
+      "required": false
+    }
+  ]
+}

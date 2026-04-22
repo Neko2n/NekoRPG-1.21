@@ -1,0 +1,12 @@
+.minecraft/*
+!.minecraft/icon.png
+!.minecraft/emi.json
+!.minecraft/shaderpacks/
+!.minecraft/resourcepacks/
+!.minecraft/mods/
+!.minecraft/kubejs/
+!.minecraft/config/
+!.minecraft/datapacks/
+*.claude
+*.connector
+*.jar

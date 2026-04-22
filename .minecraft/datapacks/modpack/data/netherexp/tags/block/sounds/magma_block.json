@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:magma_block",
+      "required": false
+    },
+    {
+      "id": "rubinated_nether:molten_ruby_ore",
+      "required": false
+    }
+  ]
+}

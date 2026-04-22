@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:stripped_saxaul_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:saxaul_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_saxaul_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:saxaul_wood",
+      "required": false
+    }
+  ]
+}

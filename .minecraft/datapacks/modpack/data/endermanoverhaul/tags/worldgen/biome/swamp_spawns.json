@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "#minecraft:has_structure/swamp_hut",
+      "required": false
+    },
+    {
+      "id": "#c:swamp",
+      "required": false
+    },
+    {
+      "id": "#forge:is_swamp",
+      "required": false
+    }
+  ]
+}

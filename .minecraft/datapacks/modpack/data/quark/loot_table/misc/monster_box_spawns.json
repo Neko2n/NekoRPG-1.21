@@ -1,0 +1,59 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "endermanoverhaul:cave_enderman_spawn_egg"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "creeperoverhaul:cave_creeper_spawn_egg"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "quark:forgotten_spawn_egg"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "variantsandventures:verdant_spawn_egg"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "variantsandventures:thicket_spawn_egg"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "minecraft:husk_spawn_egg"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "minecraft:cave_spider_spawn_egg"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "minecraft:silverfish_spawn_egg"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "minecraft:skeleton_spawn_egg"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "minecraft:zombie_spawn_egg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "hearth_and_home:tiles",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:tile_slab",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:white_tiles",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:white_tile_slab",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:orange_tiles",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:orange_tile_slab",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:yellow_tiles",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:yellow_tile_slab",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:green_tiles",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:green_tile_slab",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:blue_tiles",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:blue_tile_slab",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:purple_tiles",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:purple_tile_slab",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:gray_tiles",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:gray_tile_slab",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:black_tiles",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:black_tile_slab",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:brown_tiles",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:brown_tile_slab",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:red_tiles",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:red_tile_slab",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:pink_tiles",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:pink_tile_slab",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:light_blue_tiles",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:light_blue_tile_slab",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:cyan_tiles",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:cyan_tile_slab",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:lime_tiles",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:lime_tile_slab",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:light_gray_tiles",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:light_gray_tile_slab",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:magenta_tiles",
+      "required": false
+    },
+    {
+      "id": "hearth_and_home:magenta_tile_slab",
+      "required": false
+    }
+  ]
+}

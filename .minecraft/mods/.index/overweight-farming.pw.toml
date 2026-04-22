@@ -1,0 +1,16 @@
+filename = 'OverweightFarming-1.21.1-2.2.0-NeoForge.jar'
+name = 'Overweight Farming'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '61fb634c5be1635abbc7b92756129de449864924'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7231471
+project-id = 591666

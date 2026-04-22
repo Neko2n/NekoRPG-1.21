@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:arid_highlands",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:shrubby_highlands",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:woody_highlands",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:sleeted_slopes",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:red_peaks",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:blooming_highlands",
+      "required": false
+    }
+  ]
+}

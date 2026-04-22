@@ -1,0 +1,17 @@
+filename = 'extra-mod-integrations-all-neoforge-1.0.3+1.21.1.jar'
+name = 'EMI Extra Integrations'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'exmi neoforge 1.0.3+1.21.1'
+
+[download]
+hash = '70429571ccf7faa4c1811092739fb7d645829eef'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6939681
+project-id = 739970

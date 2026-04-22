@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:ectoplasm",
+      "required": false
+    },
+    {
+      "id": "netherexp:flowing_ectoplasm",
+      "required": false
+    }
+  ]
+}

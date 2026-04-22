@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "block_factorys_bosses:ancient_iron_ingot"
+    }
+  },
+  "result": {
+    "id": "block_factorys_bosses:knight_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "blue_tenderloin_steak_group",
+  "ingredients": [
+    {
+      "tag": "mynethersdelight:cooked_hoglin_loin"
+    },
+    {
+      "item": "minecraft:warped_fungus"
+    },
+    [
+      {
+        "id": "minecraft:warped_fungus"
+      },
+      {
+        "id": "minecraft:warped_roots"
+      },
+      {
+        "id": "farmersdelight:straw"
+      }
+    ],
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "id": "mynethersdelight:blue_tenderloin_steak"
+  }
+}

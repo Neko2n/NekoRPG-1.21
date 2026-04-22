@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "p": {
+      "item": "minecraft:paper"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "ppp",
+    "prp",
+    "ppp"
+  ],
+  "result": {
+    "id": "minecraft:map"
+  },
+  "show_notification": true
+}

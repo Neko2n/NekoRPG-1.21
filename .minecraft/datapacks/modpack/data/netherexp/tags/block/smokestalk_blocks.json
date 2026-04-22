@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:smokestalk_block",
+      "required": false
+    },
+    {
+      "id": "netherexp:stripped_smokestalk_block",
+      "required": false
+    }
+  ]
+}

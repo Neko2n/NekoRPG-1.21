@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "block_factorys_bosses:bone_remains",
+      "required": false
+    },
+    {
+      "id": "block_factorys_bosses:bone_remains_legs",
+      "required": false
+    },
+    {
+      "id": "block_factorys_bosses:bone_remains_rib_cage",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "species:treeper",
+      "required": false
+    },
+    {
+      "id": "species:trooper",
+      "required": false
+    },
+    {
+      "id": "species:cruncher",
+      "required": false
+    },
+    {
+      "id": "species:roombug",
+      "required": false
+    },
+    {
+      "id": "minecraft:frog",
+      "required": false
+    },
+    {
+      "id": "minecraft:wandering_trader",
+      "required": false
+    }
+  ]
+}

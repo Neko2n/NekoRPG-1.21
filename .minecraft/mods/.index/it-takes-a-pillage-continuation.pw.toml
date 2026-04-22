@@ -1,0 +1,16 @@
+filename = 'takesapillage-neoforge-1.0.10+mc1.21.1.jar'
+name = 'It Takes a Pillage Continuation'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '207fa33a8c1a7c9ebecfd8817850d818794722c0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7417040
+project-id = 1111063

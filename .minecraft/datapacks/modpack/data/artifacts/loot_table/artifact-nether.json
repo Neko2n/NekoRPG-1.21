@@ -1,0 +1,50 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:cross_necklace",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:golden_hook",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:crystal_heart",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:fire_gauntlet",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:flame_pendant",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:obsidian_skull",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:pickaxe_heater",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:vampiric_glove",
+          "weight": 8
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

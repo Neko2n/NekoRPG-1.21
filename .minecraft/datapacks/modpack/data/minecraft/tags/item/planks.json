@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "bloomingnature:fir_planks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_planks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_planks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_planks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_planks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_planks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_planks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_planks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_planks",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cactus_planks",
+      "required": false
+    }
+  ]
+}

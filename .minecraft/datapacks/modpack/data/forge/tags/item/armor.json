@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "legendary_monsters:withered_ribcage",
+      "required": false
+    },
+    {
+      "id": "legendary_monsters:mossy_chestplate",
+      "required": false
+    },
+    {
+      "id": "legendary_monsters:atmospheric_boots",
+      "required": false
+    },
+    {
+      "id": "legendary_monsters:fiery_boots",
+      "required": false
+    },
+    {
+      "id": "legendary_monsters:shulker_helmet",
+      "required": false
+    },
+    {
+      "id": "legendary_monsters:chorus_mask",
+      "required": false
+    }
+  ]
+}

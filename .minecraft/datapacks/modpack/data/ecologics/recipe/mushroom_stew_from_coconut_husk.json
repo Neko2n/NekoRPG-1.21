@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minecraft:red_mushroom"
+    },
+    {
+      "item": "natures_spirit:coconut_shell"
+    }
+  ],
+  "result": {
+    "id": "minecraft:mushroom_stew"
+  }
+}

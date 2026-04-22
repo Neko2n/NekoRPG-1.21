@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:soul_bullet",
+      "required": false
+    },
+    {
+      "id": "netherexp:will_o_wisp",
+      "required": false
+    }
+  ]
+}

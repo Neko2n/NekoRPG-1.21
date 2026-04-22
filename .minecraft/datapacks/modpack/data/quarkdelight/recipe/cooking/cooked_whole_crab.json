@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "ecologics:crab_claw"
+    },
+    {
+      "item": "ecologics:crab_claw"
+    },
+    {
+      "item": "ecologics:crab_meat"
+    },
+    {
+      "item": "ecologics:crab_meat"
+    },
+    {
+      "item": "farmersdelight:rice"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "quarkdelight:cooked_whole_crab"
+  },
+  "container": {
+    "id": "minecraft:bowl"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:ghaf_leaves",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:olive_leaves",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:palo_verde_leaves",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:joshua_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:acacia_leaves",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "loot_table": "lootintegrations:ender_essence_boss",
+  "integrated_loot_tables": {
+    "minecraft:entities/wither": 7,
+    "minecraft:entities/ender_dragon": 7,
+    "alexscaves:entities/luxtructosaurus": 7,
+    "irons_spellbooks/entities/dead_king": 7
+  }
+}

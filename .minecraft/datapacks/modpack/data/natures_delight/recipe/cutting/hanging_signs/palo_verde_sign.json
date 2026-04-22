@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "natures_spirit:palo_verde_hanging_sign"
+    }
+  ],
+  "tool": {
+    "tag": "neoforge:tools/axes"
+  },
+  "result": [
+    {
+      "id": "natures_spirit:palo_verde_planks"
+    }
+  ]
+}

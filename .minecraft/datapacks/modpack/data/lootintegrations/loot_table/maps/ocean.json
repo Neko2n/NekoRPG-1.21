@@ -1,0 +1,46 @@
+{
+  "pools": [
+    {
+      "name": "map_pool",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "furledMapData": {
+                  "destination": "cataclysm:sunken_city",
+                  "description": "{\"translate\":\"[Sunken City]\"}"
+                }
+              }
+            }
+          ],
+          "name": "irons_spellbooks:furled_map",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "furledMapData": {
+                  "destination": "cataclysm:acropolis",
+                  "description": "{\"translate\":\"[Acropolis]\"}"
+                }
+              }
+            }
+          ],
+          "name": "irons_spellbooks:furled_map",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 86
+        }
+      ]
+    }
+  ]
+}

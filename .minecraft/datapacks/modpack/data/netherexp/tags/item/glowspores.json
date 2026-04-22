@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:lightspores",
+      "required": false
+    },
+    {
+      "id": "netherexp:nightspores",
+      "required": false
+    },
+    {
+      "id": "netherexp:brightspores",
+      "required": false
+    },
+    {
+      "id": "netherexp:blightspores",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+filename = 'clutternomore-1.1.9+1.21.1-neoforge.jar'
+name = 'Clutter No More'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.9+1.21.1-neoforge'
+
+[download]
+hash = '2df9dee0b781c542ffcc546980f0e0dc6e1fd989986a101bf8670a82c41bbf7665f25915daa05bac7b4520f37d780aae51867b9dd89e9a00e0afdc679917e594'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ewyjbmG4/versions/2RIDipWo/clutternomore-1.1.9%2B1.21.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'ewyjbmG4'
+version = '2RIDipWo'

@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "bloomingnature:larch_leaves",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_leaves",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_leaves",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_leaves",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_leaves",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_leaves",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:orange_leaves",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_leaves",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_leaves",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_leaves",
+      "required": false
+    }
+  ]
+}

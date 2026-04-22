@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:fossil_fuel",
+      "required": false
+    }
+  ]
+}

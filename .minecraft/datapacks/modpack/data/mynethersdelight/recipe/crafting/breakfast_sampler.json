@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mynethersdelight:roasted_sausage"
+    },
+    {
+      "item": "mynethersdelight:roasted_sausage"
+    },
+    [
+      {
+        "id": "minecraft:honey_bottle"
+      },
+      {
+        "id": "mynethersdelight:strider_egg"
+      }
+    ],
+    {
+      "tag": "forge:cooked_eggs"
+    },
+    {
+      "tag": "forge:cooked_eggs"
+    },
+    {
+      "tag": "forge:bread"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "id": "mynethersdelight:breakfast_sampler"
+  }
+}

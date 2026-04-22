@@ -1,0 +1,216 @@
+{
+  "values": [
+    {
+      "id": "#forge:ores/copper",
+      "required": false
+    },
+    {
+      "id": "#forge:storage_blocks/raw_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:exposed_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:weathered_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxidized_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_copper_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_cut_copper",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_cut_copper_slab",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_exposed_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_weathered_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "minecraft:waxed_oxidized_cut_copper_stairs",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:floodlight",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:exposed_floodlight",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:weathered_floodlight",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:oxidized_floodlight",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:waxed_floodlight",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:waxed_exposed_floodlight",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:waxed_weathered_floodlight",
+      "required": false
+    },
+    {
+      "id": "caverns_and_chasms:waxed_oxidized_floodlight",
+      "required": false
+    },
+    {
+      "id": "absentbydesign:slab_raw_copper",
+      "required": false
+    },
+    {
+      "id": "absentbydesign:stairs_raw_copper",
+      "required": false
+    },
+    {
+      "id": "absentbydesign:wall_raw_copper",
+      "required": false
+    },
+    {
+      "id": "alexscaves:copper_valve",
+      "required": false
+    },
+    {
+      "id": "quark:raw_copper_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:raw_copper_bricks_stairs",
+      "required": false
+    },
+    {
+      "id": "quark:raw_copper_bricks_slab",
+      "required": false
+    },
+    {
+      "id": "quark:raw_copper_bricks_wall",
+      "required": false
+    },
+    {
+      "id": "supplementaries:cog_block",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:hummingbird_feeder",
+      "required": false
+    },
+    {
+      "id": "suppsquared:copper_lantern",
+      "required": false
+    }
+  ]
+}

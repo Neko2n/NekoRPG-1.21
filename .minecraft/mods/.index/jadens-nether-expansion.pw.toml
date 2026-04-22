@@ -1,0 +1,16 @@
+filename = 'Jadens-Nether-Expansion-2.4.0-BETA.1.jar'
+name = "Jaden's Nether Expansion"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'eec8f474658b570499e0e7e86e8376c21bdf8148'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7858010
+project-id = 1111833

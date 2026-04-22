@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "netherexp:potted_soul_swirls",
+      "required": false
+    },
+    {
+      "id": "netherexp:potted_enigma_crown",
+      "required": false
+    },
+    {
+      "id": "netherexp:potted_smokestalk",
+      "required": false
+    },
+    {
+      "id": "netherexp:potted_red_scale_fungus",
+      "required": false
+    },
+    {
+      "id": "netherexp:potted_blue_scale_fungus",
+      "required": false
+    },
+    {
+      "id": "netherexp:potted_crimson_sporeshroom",
+      "required": false
+    },
+    {
+      "id": "netherexp:potted_warped_sporeshroom",
+      "required": false
+    },
+    {
+      "id": "netherexp:potted_soul_torchflower",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:stripped_cypress_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:cypress_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_cypress_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:cypress_wood",
+      "required": false
+    }
+  ]
+}

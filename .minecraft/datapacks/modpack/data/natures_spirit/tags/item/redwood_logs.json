@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "natures_spirit:stripped_redwood_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:redwood_log",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:stripped_redwood_wood",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:redwood_wood",
+      "required": false
+    }
+  ]
+}

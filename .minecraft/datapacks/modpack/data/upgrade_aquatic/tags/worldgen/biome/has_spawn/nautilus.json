@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "minecraft:deep_ocean",
+      "required": false
+    },
+    {
+      "id": "minecraft:deep_lukewarm_ocean",
+      "required": false
+    },
+    {
+      "id": "alexscaves:abyssal_chasm",
+      "required": false
+    }
+  ]
+}

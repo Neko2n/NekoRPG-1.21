@@ -1,0 +1,78 @@
+{
+  "pools": [
+    {
+      "name": "map_pool",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "furledMapData": {
+                  "destination": "cataclysm:burning_arena",
+                  "description": "{\"translate\":\"[Infernal Arena]\"}"
+                }
+              }
+            }
+          ],
+          "name": "irons_spellbooks:furled_map",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "furledMapData": {
+                  "destination": "block_factorys_bosses:underworld_arena",
+                  "description": "{\"translate\":\"[Fallen Coliseum]\"}"
+                }
+              }
+            }
+          ],
+          "name": "irons_spellbooks:furled_map",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "furledMapData": {
+                  "destination": "cataclysm:soul_black_smith",
+                  "description": "{\"translate\":\"[Soul Forge]\"}"
+                }
+              }
+            }
+          ],
+          "name": "irons_spellbooks:furled_map",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "furledMapData": {
+                  "destination": "bosses_of_mass_destruction:gauntlet_arena",
+                  "description": "{\"translate\":\"[Gauntlet]\"}"
+                }
+              }
+            }
+          ],
+          "name": "irons_spellbooks:furled_map",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 84
+        }
+      ]
+    }
+  ]
+}

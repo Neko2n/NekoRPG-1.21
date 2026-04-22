@@ -1,0 +1,46 @@
+{
+  "__comment": "all non-player targets of the warped toad mob.",
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:silverfish",
+      "required": false
+    },
+    {
+      "id": "minecraft:spider",
+      "required": false
+    },
+    {
+      "id": "sullysmod:jungle_spider",
+      "required": false
+    },
+    {
+      "id": "minecraft:cave_spider",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:crimson_mosquito",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:fly",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:cockroach",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:warped_mosco",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:leafcutter_ant",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:tarantula_hawk",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "id": "caverns_and_chasms:living_flesh"
+  },
+  "base": {
+    "id": "irons_spellbooks:wandering_magician_leggings"
+  },
+  "result": {
+    "id": "irons_spellbooks:cultist_leggings"
+  },
+  "template": {
+    "id": "irons_spellbooks:blood_rune"
+  }
+}

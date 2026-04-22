@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "bloomingnature:marsh_block",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:quicksand",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:termite_mound",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:mossy_laterit",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:sand",
+      "required": false
+    }
+  ]
+}

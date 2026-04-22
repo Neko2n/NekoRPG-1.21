@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "bloomingnature:larch_chest_boat",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_chest_boat",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_chest_boat",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_chest_boat",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fir_chest_boat",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_chest_boat",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_chest_boat",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_chest_boat",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_chest_boat",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:cactus_chest_boat",
+      "required": false
+    }
+  ]
+}

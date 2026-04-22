@@ -1,0 +1,13 @@
+{
+  "loot_table": "lootintegrations:chests/hard",
+  "integrated_loot_tables": {
+    "outer_end:chests/catacomb_treasure": 4,
+    "endrem:chests/treasure": 16,
+    "totw_additions:chests/end_tower/end_tower_chest": 16,
+    "dungeoncrawl:chests/treasure": 6,
+    "dungeoncrawl:chests/stage_5": 16,
+    "bosses_of_mass_destruction:chests/gauntlet": 12,
+    "irons_spellbooks:chests/catacombs/hidden_trough_treasure": 10,
+    "block_factorys_bosses:chests/dragon_trial": 6
+  }
+}

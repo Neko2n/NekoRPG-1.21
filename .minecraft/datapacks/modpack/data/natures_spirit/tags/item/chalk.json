@@ -1,0 +1,68 @@
+{
+  "values": [
+    {
+      "id": "natures_spirit:white_chalk",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:orange_chalk",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:magenta_chalk",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:light_blue_chalk",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:yellow_chalk",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:lime_chalk",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:pink_chalk",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:gray_chalk",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:light_gray_chalk",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:cyan_chalk",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:purple_chalk",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:blue_chalk",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:brown_chalk",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:green_chalk",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:red_chalk",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:black_chalk",
+      "required": false
+    }
+  ]
+}

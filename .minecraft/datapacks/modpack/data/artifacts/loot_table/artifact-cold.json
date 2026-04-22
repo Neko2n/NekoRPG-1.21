@@ -1,0 +1,35 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:digging_claws",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:lucky_scarf",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:scarf_of_invisibility",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:snowshoes",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:steadfast_spikes",
+          "weight": 4
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

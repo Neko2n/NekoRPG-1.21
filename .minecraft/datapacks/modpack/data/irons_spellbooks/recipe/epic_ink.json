@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "irons_spellbooks:rare_ink"
+    },
+    {
+      "item": "irons_spellbooks:rare_ink"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "quark:ancient_fruit"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "irons_spellbooks:arcane_essence"
+    },
+    {
+      "item": "irons_spellbooks:arcane_essence"
+    }
+  ],
+  "result": {
+    "id": "irons_spellbooks:epic_ink",
+    "count": 1
+  }
+}

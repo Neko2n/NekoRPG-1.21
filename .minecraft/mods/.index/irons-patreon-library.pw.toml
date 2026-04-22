@@ -1,0 +1,17 @@
+filename = 'irons_lib-1.21.1-1.0.2.jar'
+name = "Iron's Patreon Library"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'irons_lib-1.21.1-1.0.2.jar'
+
+[download]
+hash = 'ef92f362a352a30f927c30c2be72a2d843c41342'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7907336
+project-id = 1492763

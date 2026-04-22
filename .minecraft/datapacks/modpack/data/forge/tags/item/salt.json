@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "galosphere:pink_salt_shard",
+      "required": false
+    },
+    {
+      "id": "outer_end:halite_crystal",
+      "required": false
+    }
+  ]
+}

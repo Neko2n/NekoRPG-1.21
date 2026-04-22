@@ -1,0 +1,40 @@
+{
+  "values": [
+    {
+      "id": "bloomingnature:fir_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:baobab_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:larch_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:swamp_oak_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:aspen_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:fan_palm_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:chestnut_sign",
+      "required": false
+    },
+    {
+      "id": "bloomingnature:ebony_sign",
+      "required": false
+    }
+  ]
+}

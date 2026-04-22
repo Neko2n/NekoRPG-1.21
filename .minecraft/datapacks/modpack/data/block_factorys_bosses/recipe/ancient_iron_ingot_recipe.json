@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "block_factorys_bosses:ancient_iron_nugget"
+    }
+  },
+  "result": {
+    "id": "block_factorys_bosses:ancient_iron_ingot",
+    "count": 1
+  }
+}
