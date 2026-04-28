@@ -17,7 +17,7 @@
        "first_stripe": 29
      },
      "fallen_stars": {
-       "enable": true
+       "enable": false
      },
 
      "biomes": {
@@ -33,17 +33,17 @@
        //   "vanilla": The terrain will be left untouched, and Fabric's biome distribution will be used
        //   "automatic": Same as "custom", but will work like "nullscape" if it is loaded as a mod
        //     if using the datapack version, set this manually
-       "datapack_compatibility": "automatic",
+       "datapack_compatibility": "default",
        // Value to scale the End's biome generation with. Higher values mean bigger biomes. Must be greater than 0
-       "noise_scale": 2,
+       "noise_scale": 1.5,
 
        // Generation weights for the biomes. Please note this can't add new biomes alone, you need a datapack for that
        // Set to 0 to disable the corresponding biome
        "weights": {
-         "end_highlands": 1.2,
+         "end_highlands": 1.5,
 
-         "dreaming_den": 1.5,
-         "acidburnt_abysses": 1.2
+         "dreaming_den": 1.0,
+         "acidburnt_abysses": 0.8
        }
      }
    },

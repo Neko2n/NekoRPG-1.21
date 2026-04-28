@@ -1,17 +1,18 @@
-filename = 'ElysiumAPI-1.21.1-1.2.0-ALPHA.8.jar'
+filename = 'ElysiumAPI-1.21.1-1.2.0-ALPHA.12.jar'
 name = 'Elysium-API'
 side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'ElysiumAPI-1.21.1-1.2.0-ALPHA.8'
+x-prismlauncher-version-number = 'ElysiumAPI-1.21.1-1.2.0-ALPHA.12'
 
 [download]
-hash = 'b86e6857f02dd7fc08d4dd1c210a295e1bc90cfe'
+hash = '3e6cb9bf4b2113030c1f67abaed2c8a168e309fb'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7861315
+file-id = 7983590
 project-id = 1158628

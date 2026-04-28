@@ -1,0 +1,18 @@
+filename = 'betterphantoms-1.0.0.jar'
+name = 'Better Phantoms'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'betterphantoms-1.0.0-1.21.1.jar'
+
+[download]
+hash = 'acbab79e905ee7fc61433872e7f168963c61854d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7937457
+project-id = 1513419

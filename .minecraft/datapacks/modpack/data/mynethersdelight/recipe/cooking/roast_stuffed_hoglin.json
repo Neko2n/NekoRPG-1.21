@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "container": {
     "id": "minecraft:bowl"
@@ -10,7 +10,7 @@
       "tag": "mynethersdelight:hot_spice"
     },
     {
-      "tag": "mynethersdelight:stuffed_hoglin"
+      "item": "mynethersdelight:stuffed_hoglin"
     },
     {
       "item": "minecraft:crimson_fungus"

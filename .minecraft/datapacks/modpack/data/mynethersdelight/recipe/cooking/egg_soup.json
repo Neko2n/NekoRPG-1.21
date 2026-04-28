@@ -1,19 +1,19 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 200,
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "forge:boiled_egg"
+      "tag": "c:boiled_egg"
     },
     {
-      "tag": "forge:cooked_eggs"
+      "tag": "c:foods/cooked_egg"
     },
     {
-      "tag": "forge:cooked_eggs"
+      "tag": "c:foods/cooked_egg"
     },
     {
-      "tag": "forge:vegetables/onion"
+      "tag": "c:foods/vegetables/onion"
     }
   ],
   "recipe_book_tab": "meals",

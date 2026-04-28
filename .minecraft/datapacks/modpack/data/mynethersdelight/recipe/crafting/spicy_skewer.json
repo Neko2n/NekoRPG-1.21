@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
@@ -6,7 +6,7 @@
       "item": "mynethersdelight:bullet_pepper"
     },
     {
-      "tag": "forge:raw_strider"
+      "tag": "c:foods/raw_strider"
     },
     {
       "item": "minecraft:blaze_rod"

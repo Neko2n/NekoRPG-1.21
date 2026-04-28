@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "container": {
     "id": "minecraft:bowl"
@@ -10,7 +10,7 @@
       "item": "natures_spirit:shiitake_mushroom"
     },
     {
-      "tag": "forge:mushrooms"
+      "tag": "c:mushrooms"
     }
   ],
   "recipe_book_tab": "meals",

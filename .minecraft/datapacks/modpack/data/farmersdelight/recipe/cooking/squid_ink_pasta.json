@@ -1,16 +1,16 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 200,
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "forge:raw_fishes"
+      "tag": "c:foods/raw_fishes"
     },
     {
-      "tag": "forge:pasta"
+      "tag": "c:foods/pasta"
     },
     {
-      "tag": "forge:crops/tomato"
+      "tag": "c:foods/tomato"
     },
     {
       "item": "minecraft:ink_sac"

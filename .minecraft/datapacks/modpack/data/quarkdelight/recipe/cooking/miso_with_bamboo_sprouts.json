@@ -1,11 +1,11 @@
-{
+﻿{
   "conditions": [
     {
-      "type": "forge:mod_loaded",
+      "type": "c:mod_loaded",
       "modid": "farmersdelight"
     },
     {
-      "type": "forge:mod_loaded",
+      "type": "c:mod_loaded",
       "modid": "quark"
     }
   ],
@@ -17,10 +17,10 @@
       "item": "minecraft:stripped_bamboo_block"
     },
     {
-      "tag": "forge:raw_fishes"
+      "tag": "c:foods/raw_fishes"
     },
     {
-      "tag": "forge:crops/onion"
+      "tag": "c:foods/onion"
     },
     {
       "item": "quark:moss_paste"

@@ -1,0 +1,1 @@
+﻿{"conditions":[{"type":"neoforge:mod_loaded","modid":"_disabled"}],"type":"minecraft:smithing_transform","template":{"item":"minecraft:dirt"},"base":{"item":"minecraft:dirt"},"addition":{"item":"minecraft:dirt"},"result":{"id":"minecraft:dirt"}}

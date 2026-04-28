@@ -53,9 +53,6 @@
 		[types.wood_type.darkerdepths]
 			petrified = true
 
-		[types.wood_type.phantasm]
-			pream = true
-
 		[types.wood_type.netherexp]
 			claret = true
 
@@ -139,12 +136,6 @@
 			mahogany = true
 			saxaul = true
 
-		[types.leaves_type.phantasm]
-			pream = true
-
-		[types.leaves_type.galosphere]
-			opal = true
-
 		[types.leaves_type.primal]
 			thorny_acacia = true
 
@@ -187,11 +178,6 @@
 			jasper = true
 			shale = true
 			myalite = true
-
-		[types.stone_type.galosphere]
-			pink_salt = true
-			rose_pink_salt = true
-			pastel_pink_salt = true
 
 		[types.stone_type.natures_spirit]
 			white_kaolin = true
@@ -237,12 +223,6 @@
 			darkslate = true
 			grimestone = true
 
-		[types.stone_type.phantasm]
-			cirite = true
-
-		[types.stone_type.earth-and-water]
-			limestone = true
-
 		[types.stone_type.enderscape]
 			mirestone = true
 			veradite = true
@@ -258,6 +238,11 @@
 
 		[types.stone_type.aether]
 			holystone = true
+
+		[types.stone_type.incision]
+			clottage = true
+			weatherrack = true
+			goreshed = true
 
 		[types.mud_type.deep_aether]
 			aether_mud = true

@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 200,
   "experience": 1.0,
@@ -7,13 +7,13 @@
       "item": "farmersdelight:pumpkin_slice"
     },
     {
-      "tag": "forge:salad_ingredients"
+      "tag": "c:foods/cabbage"
     },
     {
-      "tag": "forge:raw_pork"
+      "tag": "c:foods/raw_pork"
     },
     {
-      "tag": "forge:milk"
+      "tag": "c:foods/milk"
     }
   ],
   "recipe_book_tab": "meals",

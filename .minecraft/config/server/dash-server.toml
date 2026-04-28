@@ -1,7 +1,0 @@
-
-#Dash Server/World Config
-[Enchantment]
-	#
-	# Cause damage to boots when dashing. (Affected by Unbreaking)
-	useDurability = false
-

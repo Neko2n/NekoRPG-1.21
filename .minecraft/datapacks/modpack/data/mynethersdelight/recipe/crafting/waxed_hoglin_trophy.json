@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shapeless",
   "category": "building",
   "group": "nether_trophy",
@@ -7,7 +7,7 @@
       "item": "mynethersdelight:hoglin_trophy"
     },
     {
-      "tag": "mynethersdelight:hoglin_waxed"
+      "item": "mynethersdelight:hoglin_waxed"
     }
   ],
   "result": {

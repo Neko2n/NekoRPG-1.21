@@ -1,0 +1,13 @@
+{
+  "replace": true,
+  "amount": 4,
+  "operation": "set",
+  "order": 500,
+  "icon": "accessories_compat_layer:gui/slot/pocket",
+  "validators": [
+    "accessories_compat_layer:all_accessories",
+    "accessories:tag",
+    "accessories:component",
+    "accessories:attribute"
+  ]
+}

@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "group": "fd_dough",
@@ -13,7 +13,7 @@
       "item": "minecraft:wheat"
     },
     {
-      "tag": "forge:eggs"
+      "tag": "c:foods/egg"
     }
   ],
   "result": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 400,
   "experience": 1.0,
@@ -13,10 +13,10 @@
       "item": "minecraft:crimson_fungus"
     },
     {
-      "tag": "forge:milk"
+      "tag": "c:foods/milk"
     },
     {
-      "tag": "forge:pasta/raw_pasta"
+      "tag": "c:foods/pasta"
     }
   ],
   "recipe_book_tab": "meals",

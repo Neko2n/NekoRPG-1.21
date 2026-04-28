@@ -1,4 +1,4 @@
-{
+﻿{
   "modifiers": [
     {
       "type": "criteria",
@@ -11,7 +11,7 @@
                   "condition": "minecraft:location_check",
                   "predicate": {
                     "block": {
-                      "tag": "forge:waxable_copper_blocks"
+                      "tag": "c:waxable_copper_blocks"
                     }
                   }
                 },

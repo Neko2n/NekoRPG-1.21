@@ -1,16 +1,16 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 200,
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "forge:raw_fishes"
+      "tag": "c:foods/raw_fishes"
     },
     {
       "item": "farmersdelight:tomato_sauce"
     },
     {
-      "tag": "forge:crops/onion"
+      "tag": "c:foods/onion"
     }
   ],
   "recipe_book_tab": "meals",

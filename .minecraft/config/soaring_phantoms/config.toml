@@ -1,0 +1,13 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+doAltitudeBasedSpawning = false
+passivePhantomsBeforeEnderDragon = true
+alwaysAggressiveInEnd = true
+spawnStartHeight = 60
+passiveSpawnStartHeight = 60
+spawnFrequencyBase = 20
+spawnFrequencyRandomOffsetBound = 20
+phantomsRepelledByItem = false
+repellentItems = [
+    "minecraft:phantom_membrane"
+]

@@ -1,0 +1,10 @@
+﻿{
+  "type": "c:add_features",
+  "biomes": "#minecraft:is_taiga",
+  "features": [
+    "opposing_force:powder_gnome"
+  ],
+  "step": "vegetal_decoration"
+}
+
+

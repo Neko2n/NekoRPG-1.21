@@ -1,0 +1,6 @@
+# Default: 1000
+# Range: > 1
+teleportRadius = 1000
+# Default: 384
+# Range: > -64
+teleportMaxHeight = 384

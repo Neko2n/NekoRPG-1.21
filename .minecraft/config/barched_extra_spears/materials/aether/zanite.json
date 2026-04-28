@@ -1,0 +1,11 @@
+{
+  "swingSeconds": 0.8636,
+  "kineticDamageMultiplier": 1.045,
+  "delaySeconds": 0.5455,
+  "damageCondDurationSeconds": 2.75,
+  "damageCondMinSpeed": 7.2727,
+  "knockbackCondDurationSeconds": 7.425,
+  "knockbackCondMinSpeed": 4.6364,
+  "dismountCondDurationSeconds": 12.375,
+  "dismountCondMinRelativeSpeed": 4.1818
+}

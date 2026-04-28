@@ -3,3 +3,5 @@
 	showAddedByTooltip = false
 	#How fast items will switch in the enchanting table tooltip (in milliseconds).
 	itemCarouselSpeed = 700
+	#Play node hover sounds in the enchanting table GUI.
+	playNodeHoverSounds = true

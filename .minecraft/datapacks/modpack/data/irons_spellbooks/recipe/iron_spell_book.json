@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "CLL",
@@ -10,7 +10,7 @@
       "item": "minecraft:chain"
     },
     "L": {
-      "tag": "forge:leather"
+      "tag": "c:leather"
     },
     "P": {
       "item": "minecraft:paper"

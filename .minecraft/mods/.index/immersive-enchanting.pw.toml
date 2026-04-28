@@ -1,16 +1,18 @@
-filename = 'immersiveenchanting-4.0.3-neoforge-1.21.1.jar'
+filename = 'immersiveenchanting-5.0.0-neoforge-1.21.1.jar'
 name = 'Immersive Enchanting'
-side = 'both'
+side = 'server'
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'immersiveenchanting-5.0.0-neoforge-1.21.1.jar'
 
 [download]
-hash = 'b395dc818700377cd03f73ac0c654a109732ad94'
+hash = '4ffa1f6e9f45a50936444c75d87b73cb760c9ffb'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7761057
+file-id = 8001661
 project-id = 1354719

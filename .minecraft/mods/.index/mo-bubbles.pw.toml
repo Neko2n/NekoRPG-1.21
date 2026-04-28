@@ -1,0 +1,18 @@
+filename = 'mo_bubbles-1.3.3-neoforge-1.21.1.jar'
+name = "Mo' Bubbles"
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'mo_bubbles-1.3.3-neoforge-1.21.1.jar'
+
+[download]
+hash = 'b124a9c2a1d84c27f13c28b803299b4303d23718'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7991026
+project-id = 1481242

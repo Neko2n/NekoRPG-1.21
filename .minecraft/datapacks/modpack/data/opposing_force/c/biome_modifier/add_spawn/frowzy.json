@@ -1,0 +1,10 @@
+﻿{
+  "type": "c:add_spawns",
+  "biomes": "#opposing_force:has_monster/frowzy",
+  "spawners": {
+    "type": "opposing_force:frowzy",
+    "maxCount": 4,
+    "minCount": 4,
+    "weight": 60
+  }
+}

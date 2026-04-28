@@ -1,11 +1,11 @@
-{
+﻿{
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "forge:ingots/gold"
+      "tag": "c:ingots/gold"
     },
     {
-      "tag": "forge:ingots/silver"
+      "tag": "c:ingots/silver"
     }
   ],
   "result": {

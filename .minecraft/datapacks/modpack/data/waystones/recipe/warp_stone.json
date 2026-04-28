@@ -1,4 +1,4 @@
-{
+﻿{
   "result": {
     "id": "waystones:warp_stone",
     "count": 1
@@ -9,7 +9,7 @@
       "item": "minecraft:amethyst_shard"
     },
     {
-      "tag": "forge:ender_pearls"
+      "tag": "c:ender_pearls"
     },
     {
       "count": 2,

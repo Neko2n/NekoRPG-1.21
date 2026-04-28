@@ -1,12 +1,12 @@
-{
+﻿{
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
     {
-      "tag": "forge:crops/tomato"
+      "tag": "c:foods/tomato"
     },
     {
-      "tag": "forge:crops/onion"
+      "tag": "c:foods/onion"
     },
     [
       {

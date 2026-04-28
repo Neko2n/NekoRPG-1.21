@@ -1,10 +1,10 @@
-{
+﻿{
   "type": "minecraft:crafting_shapeless",
   "category": "building",
   "group": "planks",
   "ingredients": [
     {
-      "tag": "mynethersdelight:block_of_powdery"
+      "item": "mynethersdelight:block_of_powdery"
     }
   ],
   "result": {

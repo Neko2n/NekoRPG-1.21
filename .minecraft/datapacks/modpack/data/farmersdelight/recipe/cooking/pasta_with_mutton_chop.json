@@ -1,13 +1,13 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 200,
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "forge:raw_mutton"
+      "tag": "c:foods/raw_mutton"
     },
     {
-      "tag": "forge:pasta"
+      "tag": "c:foods/pasta"
     },
     {
       "item": "farmersdelight:tomato_sauce"

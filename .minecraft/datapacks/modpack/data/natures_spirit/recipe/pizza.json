@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
@@ -6,7 +6,7 @@
       "item": "natures_spirit:cheese_bucket"
     },
     "X": {
-      "tag": "forge:dough"
+      "tag": "c:foods/dough"
     },
     "Y": {
       "item": "farmersdelight:tomato_sauce"

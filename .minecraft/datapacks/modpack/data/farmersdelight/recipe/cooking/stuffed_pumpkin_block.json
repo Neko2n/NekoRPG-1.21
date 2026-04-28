@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "container": {
     "id": "minecraft:pumpkin"
@@ -7,10 +7,10 @@
   "experience": 2.0,
   "ingredients": [
     {
-      "tag": "forge:crops/rice"
+      "tag": "c:foods/rice"
     },
     {
-      "tag": "forge:crops/onion"
+      "tag": "c:foods/onion"
     },
     {
       "item": "minecraft:brown_mushroom"
@@ -19,10 +19,10 @@
       "item": "minecraft:potato"
     },
     {
-      "tag": "forge:berries"
+      "tag": "c:foods/berries"
     },
     {
-      "tag": "forge:vegetables"
+      "tag": "c:foods/vegetables"
     }
   ],
   "recipe_book_tab": "meals",

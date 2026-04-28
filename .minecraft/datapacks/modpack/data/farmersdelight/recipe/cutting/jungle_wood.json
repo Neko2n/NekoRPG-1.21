@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "farmersdelight:cutting",
   "ingredients": [
     {
@@ -15,6 +15,6 @@
   ],
   "sound": "minecraft:item.axe.strip",
   "tool": {
-    "tag": "neoforge:tools/axes"
+    "tag": "c:tools/axes"
   }
 }

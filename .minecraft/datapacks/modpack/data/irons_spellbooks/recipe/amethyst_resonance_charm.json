@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "pattern": [
     " L ",
@@ -7,10 +7,10 @@
   ],
   "key": {
     "L": {
-      "tag": "forge:leather"
+      "tag": "c:leather"
     },
     "A": {
-      "tag": "forge:gems/amethyst"
+      "tag": "c:gems/amethyst"
     }
   },
   "result": {

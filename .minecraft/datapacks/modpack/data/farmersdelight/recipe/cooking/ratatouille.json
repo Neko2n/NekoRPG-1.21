@@ -1,19 +1,19 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 200,
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "forge:crops/tomato"
+      "tag": "c:foods/tomato"
     },
     {
-      "tag": "forge:crops/onion"
+      "tag": "c:foods/onion"
     },
     {
       "item": "minecraft:beetroot"
     },
     {
-      "tag": "forge:vegetables"
+      "tag": "c:foods/vegetables"
     }
   ],
   "recipe_book_tab": "meals",

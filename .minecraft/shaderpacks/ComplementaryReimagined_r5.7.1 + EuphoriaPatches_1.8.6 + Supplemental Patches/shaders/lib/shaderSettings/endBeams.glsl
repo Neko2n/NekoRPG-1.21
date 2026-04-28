@@ -1,9 +1,0 @@
-#ifndef END_BEAMS_SETTINGS_FILE
-#define END_BEAMS_SETTINGS_FILE
-
-#define END_BEAMS
-//#define BEAMS_NEAR_PLAYER
-
-#define SUBTLER_END_BEAMS 1 //[0 1 2]
-
-#endif

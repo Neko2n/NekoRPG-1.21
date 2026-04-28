@@ -1,12 +1,12 @@
-{
+﻿{
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
     {
-      "tag": "forge:salad_ingredients"
+      "tag": "c:foods/cabbage"
     },
     {
-      "tag": "forge:crops/tomato"
+      "tag": "c:foods/tomato"
     },
     {
       "item": "minecraft:beetroot"

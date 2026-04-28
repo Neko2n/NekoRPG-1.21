@@ -1,16 +1,16 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 150,
   "experience": 0.35,
   "ingredients": [
     {
-      "tag": "forge:raw_chicken"
+      "tag": "c:foods/raw_chicken"
     },
     {
       "tag": "mynethersdelight:hot_spice"
     },
     {
-      "tag": "forge:crops/onion"
+      "tag": "c:foods/onion"
     }
   ],
   "recipe_book_tab": "meals",

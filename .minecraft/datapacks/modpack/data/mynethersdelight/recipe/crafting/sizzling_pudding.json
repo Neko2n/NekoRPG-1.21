@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
@@ -6,10 +6,10 @@
       "item": "mynethersdelight:ghasmati"
     },
     {
-      "tag": "forge:milk"
+      "tag": "c:foods/milk"
     },
     {
-      "tag": "forge:eggs"
+      "tag": "c:foods/egg"
     },
     {
       "item": "minecraft:blaze_powder"

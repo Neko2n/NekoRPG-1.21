@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 200,
   "experience": 1.0,
@@ -13,7 +13,7 @@
       "item": "minecraft:beetroot"
     },
     {
-      "tag": "forge:salad_ingredients"
+      "tag": "c:foods/cabbage"
     }
   ],
   "recipe_book_tab": "meals",

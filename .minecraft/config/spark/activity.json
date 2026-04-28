@@ -5,6 +5,45 @@
       "name": "NekoTune",
       "uniqueId": "9452dedf-fa60-4f3d-90aa-ad2143366825"
     },
+    "time": 1777034041612,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/XFCt5Rgoja"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "NekoTune",
+      "uniqueId": "9452dedf-fa60-4f3d-90aa-ad2143366825"
+    },
+    "time": 1777031331293,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/2yK75mxkyQ"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "NekoTune",
+      "uniqueId": "9452dedf-fa60-4f3d-90aa-ad2143366825"
+    },
+    "time": 1777022749989,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/gki2zXwwbW"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "NekoTune",
+      "uniqueId": "9452dedf-fa60-4f3d-90aa-ad2143366825"
+    },
     "time": 1776687564267,
     "type": "Profiler",
     "data": {

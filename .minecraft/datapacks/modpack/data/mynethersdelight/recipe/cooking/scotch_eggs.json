@@ -1,13 +1,13 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 200,
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "forge:boiled_egg"
+      "tag": "c:boiled_egg"
     },
     {
-      "tag": "forge:boiled_egg"
+      "tag": "c:boiled_egg"
     },
     [
       {
@@ -18,7 +18,7 @@
       }
     ],
     {
-      "tag": "forge:bread"
+      "tag": "c:foods/bread"
     }
   ],
   "recipe_book_tab": "meals",

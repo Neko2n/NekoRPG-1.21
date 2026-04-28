@@ -1,16 +1,16 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 200,
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "forge:dough"
+      "tag": "c:foods/dough"
     },
     {
-      "tag": "forge:crops/cabbage"
+      "tag": "c:foods/cabbage"
     },
     {
-      "tag": "forge:crops/onion"
+      "tag": "c:foods/onion"
     },
     [
       {

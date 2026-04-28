@@ -1,11 +1,11 @@
-{
+﻿{
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "forge:raw_materials/iron"
+      "tag": "c:raw_materials/iron"
     },
     {
-      "tag": "forge:gems/amethyst"
+      "tag": "c:gems/amethyst"
     }
   ],
   "result": {

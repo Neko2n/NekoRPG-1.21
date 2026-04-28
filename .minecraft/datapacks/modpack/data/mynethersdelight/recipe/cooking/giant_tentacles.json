@@ -1,16 +1,16 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 200,
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "forge:giant_tentacles"
+      "tag": "c:giant_tentacles"
     },
     {
-      "tag": "forge:giant_tentacles"
+      "tag": "c:giant_tentacles"
     },
     {
-      "tag": "forge:dough"
+      "tag": "c:foods/dough"
     },
     {
       "item": "farmersdelight:onion"

@@ -1,9 +1,9 @@
-{
+﻿{
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
     {
-      "tag": "mynethersdelight:cooked_hoglin_loin"
+      "item": "mynethersdelight:cooked_hoglin_loin"
     },
     {
       "item": "minecraft:crimson_fungus"

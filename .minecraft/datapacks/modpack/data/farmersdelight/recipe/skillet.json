@@ -1,9 +1,9 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
     "#": {
-      "tag": "forge:ingots/iron"
+      "tag": "c:ingots/iron"
     },
     "/": {
       "item": "minecraft:brick"

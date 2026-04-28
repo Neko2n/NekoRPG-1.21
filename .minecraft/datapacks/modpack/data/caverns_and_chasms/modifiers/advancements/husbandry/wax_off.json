@@ -1,4 +1,4 @@
-{
+﻿{
   "modifiers": [
     {
       "type": "display",
@@ -23,7 +23,7 @@
                       "state": {
                         "powered": "false"
                       },
-                      "tag": "forge:waxed_copper_blocks"
+                      "tag": "c:waxed_copper_blocks"
                     }
                   }
                 },

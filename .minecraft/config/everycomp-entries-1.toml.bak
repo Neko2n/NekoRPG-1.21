@@ -53,9 +53,6 @@
 		[types.wood_type.darkerdepths]
 			petrified = true
 
-		[types.wood_type.phantasm]
-			pream = true
-
 		[types.wood_type.netherexp]
 			claret = true
 
@@ -138,9 +135,6 @@
 			larch = true
 			mahogany = true
 			saxaul = true
-
-		[types.leaves_type.phantasm]
-			pream = true
 
 		[types.leaves_type.galosphere]
 			opal = true
@@ -237,12 +231,6 @@
 			darkslate = true
 			grimestone = true
 
-		[types.stone_type.phantasm]
-			cirite = true
-
-		[types.stone_type.earth-and-water]
-			limestone = true
-
 		[types.stone_type.enderscape]
 			mirestone = true
 			veradite = true
@@ -258,6 +246,11 @@
 
 		[types.stone_type.aether]
 			holystone = true
+
+		[types.stone_type.incision]
+			clottage = true
+			weatherrack = true
+			goreshed = true
 
 		[types.mud_type.deep_aether]
 			aether_mud = true
@@ -288,22 +281,17 @@
 			chiseled_bookshelf = true
 			ladder = true
 
-		[entries.wood_type.unusual_furniture]
-			railing = true
-			celling_lamp = true
-			carved = true
-			stool = true
-			bench = true
-			drawer = true
-			coffee_table = true
-			beam = true
-			table = true
-			shelf = true
-			open_riser_stairs = true
-			chair = true
-
 		[entries.wood_type.copperagebackport]
 			shelf = true
+
+		[entries.wood_type.another_furniture]
+			flower_box = true
+			shelf = true
+			shutter = true
+			bench = true
+			table = true
+			drawer = true
+			chair = true
 
 		[entries.leaves_type.quark]
 			hedge = false

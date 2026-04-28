@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 200,
   "experience": 1.0,
@@ -10,13 +10,13 @@
       "item": "minecraft:brown_mushroom"
     },
     {
-      "tag": "forge:pasta"
+      "tag": "c:foods/pasta"
     },
     {
-      "tag": "forge:salad_ingredients"
+      "tag": "c:foods/cabbage"
     },
     {
-      "tag": "forge:vegetables"
+      "tag": "c:foods/vegetables"
     }
   ],
   "recipe_book_tab": "meals",

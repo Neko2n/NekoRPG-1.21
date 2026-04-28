@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
@@ -6,13 +6,13 @@
       "item": "minecraft:wooden_shovel"
     },
     "W": {
-      "tag": "forge:buckets/water"
+      "tag": "c:buckets/water"
     },
     "b": {
       "item": "minecraft:brick"
     },
     "i": {
-      "tag": "forge:ingots/iron"
+      "tag": "c:ingots/iron"
     }
   },
   "pattern": [

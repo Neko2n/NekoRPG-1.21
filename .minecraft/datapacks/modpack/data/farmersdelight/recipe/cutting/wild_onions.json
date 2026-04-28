@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "farmersdelight:cutting",
   "ingredients": [
     {
@@ -19,6 +19,6 @@
     }
   ],
   "tool": {
-    "tag": "forge:tools/knives"
+    "tag": "c:tools/knives"
   }
 }

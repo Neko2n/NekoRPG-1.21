@@ -1,7 +1,7 @@
-{
+﻿{
   "conditions": [
     {
-      "type": "forge:mod_loaded",
+      "type": "c:mod_loaded",
       "modid": "silentgear"
     }
   ],
@@ -12,7 +12,7 @@
     }
   ],
   "tool": {
-    "tag": "neoforge:tools/axes"
+    "tag": "c:tools/axes"
   },
   "result": [
     {

@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "group": "fd_hanging_canvas_sign",
@@ -7,7 +7,7 @@
       "tag": "farmersdelight:hanging_canvas_signs"
     },
     {
-      "tag": "forge:dyes/blue"
+      "tag": "c:dyes/blue"
     }
   ],
   "result": {

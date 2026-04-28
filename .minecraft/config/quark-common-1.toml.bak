@@ -19,8 +19,10 @@
 	"Enable Onboarding" = false
 	#The amount of slots the chest button system should seek when trying to figure out if a container should be eligible for them.
 	"Chest Button Slot Target" = 27
-	#Set this to false to not generate the Quark Programmer Art resource pack
+	#Set this to false to not show the Quark Programmer Art resource pack in the resource pack selection screen
 	"Generate Programmer Art" = false
+	#Set this to false to prevent Quark from ever disabling any vanilla data files. This will break certain modules, so only do this if you know what you're doing!
+	"Quark V D O" = true
 
 	[general.chest_button_offsets]
 		"Player X" = 0
@@ -1585,8 +1587,8 @@
 		"Map Require Shift" = false
 		#The value of each shank of food.
 		#Tweak this when using mods like Hardcore Hunger which change that value.
-		"Food Divisor" = 2
-		"Show Saturation" = true
+		"Food Divisor" = 4
+		"Show Saturation" = false
 		"Food Compression Threshold" = 4
 		"Fuel Time Divisor" = 200
 		#Should item attributes be colored relative to your current equipped item?
@@ -1641,7 +1643,7 @@
 	"Overlay Shader" = false
 	"Spawner Replacer" = false
 	#Allows placing variant blocks automatically via a selector menu triggered from a keybind
-	"Variant Selector" = true
+	"Variant Selector" = false
 	"Villager Rerolling Rework" = false
 
 	[experimental.adjustable_chat]
@@ -1715,9 +1717,9 @@
 	#Allows placing variant blocks automatically via a selector menu triggered from a keybind
 	[experimental.variant_selector]
 		#Set this to true to automatically convert any dropped variant items into their originals. Do this ONLY if you intend to take control of every recipe via a data pack or equivalent, as this will introduce dupes otherwise.
-		"Convert Variant Items" = true
+		"Convert Variant Items" = false
 		#Enable the hammer, allowing variants to be swapped between eachother, including the original block. Do this ONLY under the same circumstances as Convert Variant Items.
-		"Enable Hammer" = true
+		"Enable Hammer" = false
 		"Show Tooltip" = true
 		"Align Hud To Hotbar" = false
 		"Show Simple Hud" = false
@@ -1775,8 +1777,8 @@
 	Magnets = false
 	"Matrix Enchanting" = false
 	Pipes = true
-	"Tiny Potato" = true
-	"Totem Of Holding" = true
+	"Tiny Potato" = false
+	"Totem Of Holding" = false
 
 	[oddities.backpack]
 		#Set this to true to allow the backpacks to be unequipped even with items in them

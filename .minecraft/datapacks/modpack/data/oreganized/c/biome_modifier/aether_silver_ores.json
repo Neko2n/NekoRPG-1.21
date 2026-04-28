@@ -1,0 +1,9 @@
+﻿{
+  "type": "c:add_features",
+  "biomes": "#aether:is_aether",
+  "features": [
+    "oreganized:silver_ore",
+    "oreganized:silver_ore_extra"
+  ],
+  "step": "underground_ores"
+}

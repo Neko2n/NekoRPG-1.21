@@ -1,9 +1,9 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
     "#": {
-      "tag": "mynethersdelight:powder_cannon"
+      "item": "mynethersdelight:powder_cannon"
     },
     "P": {
       "item": "mynethersdelight:bullet_pepper"

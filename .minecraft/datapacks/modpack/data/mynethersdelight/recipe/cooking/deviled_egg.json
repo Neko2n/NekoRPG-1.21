@@ -1,10 +1,10 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 100,
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "forge:boiled_egg"
+      "tag": "c:boiled_egg"
     },
     {
       "tag": "mynethersdelight:hot_spice"

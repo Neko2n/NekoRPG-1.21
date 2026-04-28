@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "DA ",
@@ -10,7 +10,7 @@
       "item": "irons_spellbooks:arcane_ingot"
     },
     "D": {
-      "tag": "forge:gems/diamond"
+      "tag": "c:gems/diamond"
     }
   },
   "result": {

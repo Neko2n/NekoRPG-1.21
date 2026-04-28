@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
@@ -6,10 +6,10 @@
       "item": "minecraft:chorus_fruit"
     },
     {
-      "tag": "forge:salt"
+      "tag": "c:foods/salt"
     },
     {
-      "tag": "forge:salt"
+      "tag": "c:foods/salt"
     }
   ],
   "result": {

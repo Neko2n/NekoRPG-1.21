@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
@@ -17,13 +17,13 @@
       }
     ],
     {
-      "tag": "forge:cooked_eggs"
+      "tag": "c:foods/cooked_egg"
     },
     {
-      "tag": "forge:cooked_eggs"
+      "tag": "c:foods/cooked_egg"
     },
     {
-      "tag": "forge:bread"
+      "tag": "c:foods/bread"
     },
     {
       "item": "minecraft:bowl"

@@ -1,16 +1,65 @@
-filename = 'abnormals_delight-1.21.1-6.0.1.jar'
+filename = 'abnormals_delight-1.21.1-6.0.2.jar'
 name = 'Abnormals Delight'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Abnormals Delight 1.21.1 - 6.0.2'
 
 [download]
-hash = '62c8a368718e03adb52d6fd63f7a1f60c5564568'
+hash = '9dbe26e0558c8dfcc73b81357f69b84010512f62'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7123873
+file-id = 8002420
 project-id = 442719
+
+[[x-prismlauncher-dependencies]]
+addonId = '382216'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '565160'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '291509'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '382016'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '326895'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '388992'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '365045'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '362393'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '355458'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '438005'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '361718'
+type = 'OPTIONAL'

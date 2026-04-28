@@ -1,7 +1,7 @@
-{
+﻿{
   "conditions": [
     {
-      "type": "forge:mod_loaded",
+      "type": "c:mod_loaded",
       "modid": "create"
     }
   ],
@@ -17,7 +17,7 @@
       "item": "create:wheat_flour"
     },
     {
-      "fluidTag": "forge:milk",
+      "fluidTag": "c:foods/milk",
       "amount": 250
     }
   ],

@@ -1,4 +1,4 @@
-{
+﻿{
   "modifiers": [
     {
       "type": "criteria",
@@ -11,14 +11,14 @@
                   "condition": "minecraft:location_check",
                   "predicate": {
                     "block": {
-                      "tag": "forge:waxed_copper_blocks"
+                      "tag": "c:waxed_copper_blocks"
                     }
                   }
                 },
                 {
                   "condition": "minecraft:match_tool",
                   "predicate": {
-                    "tag": "forge:tools/axes"
+                    "tag": "c:tools/axes"
                   }
                 }
               ]

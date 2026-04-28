@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
@@ -6,13 +6,13 @@
       "item": "mynethersdelight:ghast_dough"
     },
     {
-      "tag": "forge:dough"
+      "tag": "c:foods/dough"
     },
     {
-      "tag": "forge:dough"
+      "tag": "c:foods/dough"
     },
     {
-      "tag": "forge:dough"
+      "tag": "c:foods/dough"
     }
   ],
   "result": {

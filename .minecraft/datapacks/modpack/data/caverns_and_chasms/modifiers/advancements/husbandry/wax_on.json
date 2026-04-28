@@ -1,4 +1,4 @@
-{
+﻿{
   "modifiers": [
     {
       "type": "display",
@@ -23,7 +23,7 @@
                       "state": {
                         "powered": "false"
                       },
-                      "tag": "forge:waxable_copper_blocks"
+                      "tag": "c:waxable_copper_blocks"
                     }
                   }
                 },

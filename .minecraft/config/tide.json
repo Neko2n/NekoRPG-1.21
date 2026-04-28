@@ -7,19 +7,19 @@
     "ambientVoidParticles": true,
     "fishableVoidHeights": [
       {
-        "dimension": "minecraft:overworld",
+        "dimension": "aether:the_aether",
         "type": "RELATIVE_TO_BOTTOM",
-        "height": -6
+        "height": 100
       },
       {
-        "dimension": "minecraft:the_nether",
+        "dimension": "aether:the_aether",
         "type": "RELATIVE_TO_BOTTOM",
-        "height": -6
+        "height": 100
       },
       {
-        "dimension": "minecraft:the_end",
+        "dimension": "aether:the_aether",
         "type": "RELATIVE_TO_BOTTOM",
-        "height": 50
+        "height": 100
       }
     ],
     "autoFishDataBlacklist": [],

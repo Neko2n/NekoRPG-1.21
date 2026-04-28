@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "DDD",
@@ -10,7 +10,7 @@
       "item": "irons_spellbooks:arcane_essence"
     },
     "W": {
-      "tag": "forge:ingots/silver"
+      "tag": "c:ingots/silver"
     }
   },
   "result": {

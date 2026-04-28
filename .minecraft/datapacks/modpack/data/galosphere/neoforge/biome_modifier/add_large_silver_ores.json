@@ -1,6 +1,0 @@
-{
-  "type": "neoforge:add_features",
-  "biomes": [],
-  "features": "galosphere:ore_silver_large",
-  "step": "underground_ores"
-}

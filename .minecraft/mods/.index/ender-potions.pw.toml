@@ -1,0 +1,18 @@
+filename = 'ender_potions-1.1.0+1.21.1.jar'
+name = 'Ender Potions'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0 for NeoForge 1.21.1'
+
+[download]
+hash = '40b93e243de16f9d249ac2acbb2ea689a30b231c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6506309
+project-id = 1188554

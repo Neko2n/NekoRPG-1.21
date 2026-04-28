@@ -121,6 +121,30 @@
 	#Adds compatibility with the "chainsaw" enchantment.
 	apotheosis = true
 
+	#A set of alternate tree detection strategies for oddly shaped trees
+	#For block lists, specify using registry names (mod:block), tags (#mod:tag), namespaces (@mod), and Java-style regular expressions
+	#Regular expressions must match the whole resource name, including the colon. Some simple examples are:
+	# - To match any block ending in _log: ".*_log", where .* is a wildcard
+	# - You can also specify a mod: "treemod:.*_log"
+	# - To also match stripped versions: ".*_log(_stripped)?", where ? means that the text in the parenthesis is optional
+	#For more help, see https://github.com/hammertater/treechop/wiki/Configuration
+	[compatibility.trees]
+		#Leaves in this list will break instead of decaying. This gives players credit for breaking leaves, which is potentially useful for advanced loot tables and functionalities added by other mods.
+		#Specify using registry names (mod:block), tags (#mod:tag), and namespaces (@mod)
+		leafDecayExceptions = ["#spectrum:colored_leaves"]
+
+		[compatibility.trees.problematicLeavesTrees]
+			leaves = ["tropicraft:.*_leaves(_.*)?", "betternether:.*_leaves", "regions_unexplored:brimwood_leaves", "biomesoplenty:palm_leaves", "ecologics:coconut_leaves", "natures_spirit:olive_branch"]
+			logs = ["tropicraft:.*_log(_.*)?", "mysticbiomes:.*_log", "betternether:.*_bark", "betternether:.*_log", "alexscaves:.*_log", "alexscaves:pewen_wood"]
+
+		[compatibility.trees.hugeMushrooms]
+			logs = ["#forge:mushroom_stems"]
+			leaves = ["#forge:mushroom_caps"]
+
+		[compatibility.trees.hugeFungi]
+			logs = ["#minecraft:crimson_stems", "#minecraft:warped_stems"]
+			leaves = ["#minecraft:wart_blocks", "minecraft:shroomlight"]
+
 	[compatibility.general]
 		#Only chop when using the correct tool for drops, if any (does nothing in vanilla, but some mods add tool requirements to logs
 		choppingRequiresCorrectToolForDrops = true
@@ -137,37 +161,13 @@
 			blacklistOrWhitelist = "BLACKLIST"
 			#List of item registry names (mod:item), tags (#mod:tag), and namespaces (@mod) for items that should not chop when used to break a log
 			#- Items in this list that have special support for TreeChop will not be blacklisted; see https://github.com/hammertater/treechop/blob/main/docs/compatibility.md#blacklist
-			items = ["botania:terra_axe", "mekanism:atomic_disassembler", "@lumberjack", "practicaltools:iron_greataxe", "practicaltools:golden_greataxe", "practicaltools:diamond_greataxe", "practicaltools:netherite_greataxe"]
+			items = ["botania:terra_axe", "@lumberjack", "mekanism:atomic_disassembler", "practicaltools:diamond_greataxe", "practicaltools:golden_greataxe", "practicaltools:iron_greataxe", "practicaltools:netherite_greataxe", "twilightforest:giant_pickaxe"]
 
 		#The chop settings used by non-player entities, such as robots and machine blocks
 		[compatibility.general.fakePlayerChopSettings]
 			#Use with caution! May cause conflicts with some mods, e.g. https://github.com/hammertater/treechop/issues/71
 			choppingEnabled = false
 			treesMustHaveLeaves = true
-
-	#A set of alternate tree detection strategies for oddly shaped trees
-	#For block lists, specify using registry names (mod:block), tags (#mod:tag), namespaces (@mod), and Java-style regular expressions
-	#Regular expressions must match the whole resource name, including the colon. Some simple examples are:
-	# - To match any block ending in _log: ".*_log", where .* is a wildcard
-	# - You can also specify a mod: "treemod:.*_log"
-	# - To also match stripped versions: ".*_log(_stripped)?", where ? means that the text in the parenthesis is optional
-	#For more help, see https://github.com/hammertater/treechop/wiki/Configuration
-	[compatibility.trees]
-		#Leaves in this list will break instead of decaying. This gives players credit for breaking leaves, which is potentially useful for advanced loot tables and functionalities added by other mods.
-		#Specify using registry names (mod:block), tags (#mod:tag), and namespaces (@mod)
-		leafDecayExceptions = ["#spectrum:colored_leaves"]
-
-		[compatibility.trees.hugeMushrooms]
-			logs = ["#forge:mushroom_stems"]
-			leaves = ["#forge:mushroom_caps"]
-
-		[compatibility.trees.hugeFungi]
-			logs = ["#minecraft:crimson_stems", "#minecraft:warped_stems"]
-			leaves = ["#minecraft:wart_blocks", "minecraft:shroomlight"]
-
-		[compatibility.trees.problematicLeavesTrees]
-			logs = ["tropicraft:.*_log(_.*)?", "mysticbiomes:.*_log", "betternether:.*_bark", "betternether:.*_log", "biomesoplenty:palm_logs", "ecologics:coconut_logs"]
-			leaves = ["tropicraft:.*_leaves(_.*)?", "betternether:.*_leaves", "regions_unexplored:brimwood_leaves", "biomesoplenty:palm_leaves", "ecologics:coconut_leaves"]
 
 	[compatibility.silentgear]
 		#https://www.curseforge.com/minecraft/mc-mods/tinkers-construct

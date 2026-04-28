@@ -1,16 +1,18 @@
-filename = 'bbsf-neoforge-1.21.1-1.0.0.jar'
+filename = 'bbsf-neoforge-1.21.1-1.2.0.jar'
 name = 'Better Block Sounds Fork'
-side = 'both'
+side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'bbsf-neoforge-1.21.1-1.2.0.jar'
 
 [download]
-hash = '3ccc769c0741640b3f17d606c589e1e083c108f9'
+hash = 'dcecc4f3680ac2115ac8c2893396ccef46a1eb6c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6367566
+file-id = 7970402
 project-id = 1232054

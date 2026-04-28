@@ -1,8 +1,8 @@
-{
+﻿{
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "forge:eggs"
+      "tag": "c:foods/egg"
     },
     {
       "item": "species:ichor_bottle"

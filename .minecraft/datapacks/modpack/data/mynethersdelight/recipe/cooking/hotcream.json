@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "container": {
     "id": "minecraft:bucket"
@@ -10,7 +10,7 @@
       "tag": "mynethersdelight:hot_spice"
     },
     {
-      "tag": "forge:eggs"
+      "tag": "c:foods/egg"
     },
     {
       "item": "mynethersdelight:bullet_pepper"

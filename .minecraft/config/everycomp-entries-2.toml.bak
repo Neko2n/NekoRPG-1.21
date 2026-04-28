@@ -53,19 +53,6 @@
 		[types.wood_type.darkerdepths]
 			petrified = true
 
-		[types.wood_type.phantasm]
-			pream = true
-
-		[types.wood_type.twilightforest]
-			twilight_oak = true
-			canopy = true
-			mangrove = true
-			dark = true
-			time = true
-			transformation = true
-			mining = true
-			sorting = true
-
 		[types.wood_type.netherexp]
 			claret = true
 
@@ -78,10 +65,6 @@
 			celestial = true
 			murublight = true
 
-		[types.wood_type.gardens_of_the_dead]
-			whistlecane = true
-			soulblight = true
-
 		[types.wood_type.aether]
 			skyroot = true
 
@@ -91,6 +74,9 @@
 			cruderoot = true
 			conberry = true
 			sunroot = true
+
+		[types.wood_type.phantasm]
+			pream = true
 
 		[types.leaves_type.ecologics]
 			coconut = false
@@ -153,22 +139,6 @@
 			mahogany = true
 			saxaul = true
 
-		[types.leaves_type.phantasm]
-			pream = true
-
-		[types.leaves_type.twilightforest]
-			thorn = true
-			beanstalk = true
-			twilight_oak = true
-			canopy = true
-			mangrove = true
-			dark = true
-			rainbow_oak = true
-			time = true
-			transformation = true
-			mining = true
-			sorting = true
-
 		[types.leaves_type.galosphere]
 			opal = true
 
@@ -197,6 +167,9 @@
 			cruderoot = true
 			conberry = true
 			sunroot = true
+
+		[types.leaves_type.phantasm]
+			pream = true
 
 		[types.cake.natures_spirit]
 			cheese_block = true
@@ -258,21 +231,11 @@
 			chert = true
 			kaolin = true
 
-		[types.stone_type.twilightforest]
-			deadrock = true
-			mazestone = true
-
 		[types.stone_type.darkerdepths]
 			aridrock = true
 			duskrock = true
 			darkslate = true
 			grimestone = true
-
-		[types.stone_type.phantasm]
-			cirite = true
-
-		[types.stone_type.earth-and-water]
-			limestone = true
 
 		[types.stone_type.enderscape]
 			mirestone = true
@@ -289,6 +252,14 @@
 
 		[types.stone_type.aether]
 			holystone = true
+
+		[types.stone_type.incision]
+			clottage = true
+			weatherrack = true
+			goreshed = true
+
+		[types.stone_type.phantasm]
+			cirite = true
 
 		[types.mud_type.deep_aether]
 			aether_mud = true
@@ -319,29 +290,17 @@
 			chiseled_bookshelf = true
 			ladder = true
 
-		[entries.wood_type.unusual_furniture]
-			railing = true
-			celling_lamp = true
-			carved = true
-			stool = true
-			bench = true
-			drawer = true
-			coffee_table = true
-			beam = true
-			table = true
-			shelf = true
-			open_riser_stairs = true
-			chair = true
-
-		[entries.wood_type.twilightforest]
-			hollow_log_horizontal = true
-			hollow_log_vertical = true
-			banister = true
-			hollow_log_climbable = true
-			hollow_log = true
-
 		[entries.wood_type.copperagebackport]
 			shelf = true
+
+		[entries.wood_type.another_furniture]
+			flower_box = true
+			shelf = true
+			shutter = true
+			bench = true
+			table = true
+			drawer = true
+			chair = true
 
 		[entries.leaves_type.quark]
 			hedge = false

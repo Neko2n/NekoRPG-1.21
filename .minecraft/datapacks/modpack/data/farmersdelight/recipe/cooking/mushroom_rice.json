@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 200,
   "experience": 1.0,
@@ -13,7 +13,7 @@
       "item": "natures_spirit:shiitake_mushroom"
     },
     {
-      "tag": "forge:crops/rice"
+      "tag": "c:foods/rice"
     },
     [
       {

@@ -1,17 +1,17 @@
-{
+﻿{
   "conditions": [
     {
-      "type": "forge:mod_loaded",
+      "type": "c:mod_loaded",
       "modid": "create"
     }
   ],
   "type": "create:mixing",
   "ingredients": [
     {
-      "tag": "forge:crops/tomato"
+      "tag": "c:foods/tomato"
     },
     {
-      "tag": "forge:crops/tomato"
+      "tag": "c:foods/tomato"
     },
     {
       "item": "minecraft:bowl"

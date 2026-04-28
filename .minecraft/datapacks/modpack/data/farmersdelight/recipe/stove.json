@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
@@ -9,7 +9,7 @@
       "item": "minecraft:campfire"
     },
     "i": {
-      "tag": "forge:ingots/iron"
+      "tag": "c:ingots/iron"
     }
   },
   "pattern": [

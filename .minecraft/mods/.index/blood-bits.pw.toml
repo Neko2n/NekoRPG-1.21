@@ -1,17 +1,18 @@
-filename = 'bloodbits-2.0.1-neoforge-1.21.1.jar'
+filename = 'bloodbits-2.1.1-neoforge-1.21.1.jar'
 name = 'Blood Bits'
 side = 'server'
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'bloodbits-2.0.1-neoforge-1.21.1.jar'
+x-prismlauncher-version-number = 'bloodbits-2.1.1-neoforge-1.21.1.jar'
 
 [download]
-hash = '390e260cc2bbbe4b98dd0eb08e3bc82bce40cf96'
+hash = '715633ef6c95361a8668b9a42eb2c8393bbb8ecd'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7416389
+file-id = 7979242
 project-id = 984445

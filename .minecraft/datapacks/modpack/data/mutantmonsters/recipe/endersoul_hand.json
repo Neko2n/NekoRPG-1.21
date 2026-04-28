@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
@@ -12,7 +12,7 @@
       "item": "outer_end:levitation_core"
     },
     "P": {
-      "tag": "forge:ender_pearls"
+      "tag": "c:ender_pearls"
     }
   },
   "pattern": [

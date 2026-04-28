@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "farmersdelight:cutting",
   "ingredients": [
     {
@@ -15,6 +15,6 @@
     }
   ],
   "tool": {
-    "tag": "neoforge:tools/shovels"
+    "tag": "c:tools/shovels"
   }
 }

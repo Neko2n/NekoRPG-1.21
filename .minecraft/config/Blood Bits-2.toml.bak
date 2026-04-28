@@ -28,3 +28,6 @@
 [black_list]
 	#Uses registry name of the entity
 	"Entity Black List" = ["-"]
+	"Nether Blood List" = [" "]
+	"Red Blood List" = [" "]
+	"End Blood List" = [" "]

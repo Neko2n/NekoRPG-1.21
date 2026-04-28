@@ -510,11 +510,11 @@
 	#Spawn Weight, added to a pool of other mobs for each biome. Higher number = higher chance of spawning. 0 = disable spawn
 	# Default: 4
 	# Range: 0 ~ 1000
-	enderiophageSpawnWeight = 4
+	enderiophageSpawnWeight = 0
 	#Random roll chance to enable mob spawning. Higher number = lower chance of spawning
 	# Default: 2
 	# Range: > 0
-	enderiophageSpawnRolls = 2
+	enderiophageSpawnRolls = 0
 	#Spawn Weight, added to a pool of other mobs for each biome. Higher number = higher chance of spawning. 0 = disable spawn
 	# Default: 15
 	# Range: 0 ~ 1000
@@ -686,7 +686,7 @@
 	#Spawn Weight, added to a pool of other mobs for each biome. Higher number = higher chance of spawning. 0 = disable spawn
 	# Default: 5
 	# Range: 0 ~ 1000
-	cosmicCodSpawnWeight = 5
+	cosmicCodSpawnWeight = 7
 	#Random roll chance to enable mob spawning. Higher number = lower chance of spawning
 	# Default: 0
 	# Range: > 0

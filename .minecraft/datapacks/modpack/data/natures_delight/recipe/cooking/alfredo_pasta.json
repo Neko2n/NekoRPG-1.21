@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 200,
   "experience": 1.0,
@@ -7,7 +7,7 @@
       "item": "farmersdelight:chicken_cuts"
     },
     {
-      "tag": "forge:pasta/raw_pasta"
+      "tag": "c:foods/pasta"
     },
     {
       "item": "natures_spirit:cheese_bucket"

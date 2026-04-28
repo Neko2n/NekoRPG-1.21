@@ -1,12 +1,12 @@
-{
+﻿{
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
     {
-      "tag": "forge:bread"
+      "tag": "c:foods/bread"
     },
     {
-      "tag": "mynethersdelight:cooked_hoglin_loin"
+      "item": "mynethersdelight:cooked_hoglin_loin"
     },
     {
       "item": "minecraft:twisting_vines"

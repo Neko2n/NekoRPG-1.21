@@ -1,19 +1,19 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 200,
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "forge:rice_pasta"
+      "tag": "c:rice_pasta"
     },
     {
-      "tag": "forge:cooked_eggs"
+      "tag": "c:foods/cooked_egg"
     },
     {
       "tag": "mynethersdelight:hot_spice"
     },
     {
-      "tag": "forge:raw_hoglin"
+      "tag": "c:foods/raw_hoglin"
     }
   ],
   "recipe_book_tab": "meals",

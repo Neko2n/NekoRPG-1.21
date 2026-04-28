@@ -1,21 +1,21 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
     "#": {
-      "tag": "mynethersdelight:hoglin_hide"
+      "item": "mynethersdelight:hoglin_hide"
     },
     "c": {
-      "tag": "mynethersdelight:crimson_colony"
+      "item": "mynethersdelight:crimson_colony"
     },
     "h": {
       "item": "farmersdelight:ham"
     },
     "l": {
-      "tag": "mynethersdelight:raw_hoglin_loin"
+      "item": "mynethersdelight:raw_hoglin_loin"
     },
     "w": {
-      "tag": "mynethersdelight:warped_colony"
+      "item": "mynethersdelight:warped_colony"
     }
   },
   "pattern": [

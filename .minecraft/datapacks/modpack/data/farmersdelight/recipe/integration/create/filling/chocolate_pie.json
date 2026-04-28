@@ -1,7 +1,7 @@
-{
+﻿{
   "conditions": [
     {
-      "type": "forge:mod_loaded",
+      "type": "c:mod_loaded",
       "modid": "create"
     }
   ],
@@ -11,7 +11,7 @@
       "item": "farmersdelight:pie_crust"
     },
     {
-      "fluidTag": "forge:chocolate",
+      "fluidTag": "c:chocolate",
       "amount": 500
     }
   ],

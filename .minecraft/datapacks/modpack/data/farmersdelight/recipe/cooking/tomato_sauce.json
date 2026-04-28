@@ -1,13 +1,13 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 100,
   "experience": 0.35,
   "ingredients": [
     {
-      "tag": "forge:crops/tomato"
+      "tag": "c:foods/tomato"
     },
     {
-      "tag": "forge:crops/tomato"
+      "tag": "c:foods/tomato"
     }
   ],
   "recipe_book_tab": "misc",

@@ -1,16 +1,18 @@
 filename = 'coolrain-1.21.1-NeoForge-1.0.1.jar'
 name = 'Cool Rain Reforged'
-side = 'both'
+side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'coolrain-1.20.1-Forge-1.0.3.jar'
 
 [download]
-hash = 'bfd5e797ec4584db7df08671cb5510b1ca41bf97df8302dc0c4344978c4453b4000c68d7f1fe8b0a09003528f04186a767f5e573918ab14a57c01adb658b8580'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/IgftU6Mn/versions/8UlyMRh2/coolrain-1.21.1-NeoForge-1.0.1.jar'
+hash = 'a15df749534b7b2003282ffb5950dcf3767d1243'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'IgftU6Mn'
-version = '8UlyMRh2'
+[update.curseforge]
+file-id = 7270449
+project-id = 1346978

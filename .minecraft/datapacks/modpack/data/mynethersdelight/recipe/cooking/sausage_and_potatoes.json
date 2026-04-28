@@ -1,10 +1,10 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 200,
   "experience": 0.35,
   "ingredients": [
     {
-      "tag": "forge:crops/potato"
+      "tag": "c:foods/potato"
     },
     {
       "item": "mynethersdelight:hoglin_sausage"

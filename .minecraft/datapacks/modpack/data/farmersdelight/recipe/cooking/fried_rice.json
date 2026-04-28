@@ -1,19 +1,19 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 200,
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "forge:crops/rice"
+      "tag": "c:foods/rice"
     },
     {
-      "tag": "forge:eggs"
+      "tag": "c:foods/egg"
     },
     {
       "item": "minecraft:carrot"
     },
     {
-      "tag": "forge:crops/onion"
+      "tag": "c:foods/onion"
     },
     {
       "item": "immersive_weathering:tallow"

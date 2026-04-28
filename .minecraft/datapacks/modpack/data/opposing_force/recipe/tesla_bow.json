@@ -1,9 +1,9 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
     "#": {
-      "tag": "forge:ingots/gold"
+      "tag": "c:ingots/gold"
     },
     "A": {
       "item": "irons_spellbooks:lightning_rune"
@@ -12,7 +12,7 @@
       "item": "opposing_force:deep_silk"
     },
     "Y": {
-      "tag": "forge:rods/wooden"
+      "tag": "c:rods/wooden"
     },
     "Z": {
       "item": "minecraft:tripwire_hook"

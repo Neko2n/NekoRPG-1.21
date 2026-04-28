@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 200,
   "experience": 1.0,
@@ -7,16 +7,16 @@
       "tag": "mynethersdelight:curry_meats"
     },
     {
-      "tag": "natures_delight:coconut_sauce"
+      "item": "natures_delight:coconut_sauce"
     },
     {
       "tag": "mynethersdelight:hot_spice"
     },
     {
-      "tag": "forge:crops/rice"
+      "tag": "c:foods/rice"
     },
     {
-      "tag": "forge:vegetables"
+      "tag": "c:foods/vegetables"
     },
     [
       {

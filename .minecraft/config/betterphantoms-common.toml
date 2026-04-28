@@ -1,0 +1,52 @@
+#Disable natural phantom spawning in the Overworld.
+disableOverworldPhantomSpawning = true
+#Disable vanilla insomnia-based phantom spawning.
+disableInsomniaPhantomSpawning = true
+#Enable crystal-triggered phantom waves during the dragon fight.
+enableDragonFightPhantomWaves = false
+#Minimum phantoms spawned per crystal wave.
+# Default: 2
+# Range: 0 ~ 32
+phantomsPerCrystalWaveMin = 2
+#Maximum phantoms spawned per crystal wave.
+# Default: 3
+# Range: 0 ~ 32
+phantomsPerCrystalWaveMax = 3
+#Maximum number of active fight phantoms.
+# Default: 10
+# Range: 1 ~ 64
+activeFightPhantomCap = 10
+#Frenzy duration in seconds after the final crystal is destroyed.
+# Default: 12
+# Range: 1 ~ 120
+frenzyDurationSeconds = 12
+#Enable natural End phantom spawning after dragon defeat.
+enableNaturalEndSpawningAfterDragonDeath = true
+#Baseline natural spawn weight for phantoms in the general End.
+# Default: 12
+# Range: 0 ~ 200
+generalEndSpawnWeight = 12
+#Spawn density multiplier for phantoms near End Cities.
+# Default: 1.6
+# Range: 0.0 ~ 10.0
+endCitySpawnDensityMultiplier = 1.6
+#Preferred high patrol altitude for End phantoms.
+# Default: 96
+# Range: 16 ~ 320
+highPatrolAltitude = 96
+#Additional dive speed bonus for phantoms near End Cities.
+# Default: 0.12
+# Range: 0.0 ~ 2.0
+endCityDiveSpeedBonus = 0.12
+#Health multiplier for End phantoms.
+# Default: 0.85
+# Range: 0.5 ~ 1.0
+phantomHealthMultiplier = 0.85
+#Health multiplier for dragon fight crystal-wave phantoms.
+# Default: 0.75
+# Range: 0.25 ~ 1.0
+dragonFightPhantomHealthMultiplier = 0.75
+#Repair effectiveness multiplier for Elytra repaired with Phantom Membrane.
+# Default: 0.6
+# Range: 0.1 ~ 1.0
+elytraRepairEffectiveness = 0.6

@@ -1,0 +1,7 @@
+#Blackboard Animation Type
+#Allowed Values: WRITE, EAT
+blackboard_animation_type = "WRITE"
+#Low-Cost Rendering
+render_low_cost = false
+#Render Telephone Boost Position
+render_telephone_boost_position = true

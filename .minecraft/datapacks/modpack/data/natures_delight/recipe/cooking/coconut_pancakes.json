@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "farmersdelight:cooking",
   "cookingtime": 200,
   "experience": 1.0,
@@ -7,13 +7,13 @@
       "tag": "natures_spirit:coconut_sauce"
     },
     {
-      "tag": "forge:milk"
+      "tag": "c:foods/milk"
     },
     {
       "item": "farmersdelight:wheat_dough"
     },
     {
-      "tag": "forge:crops/rice"
+      "tag": "c:foods/rice"
     }
   ],
   "recipe_book_tab": "meals",

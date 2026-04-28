@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
@@ -6,7 +6,7 @@
       "item": "mynethersdelight:roasted_sausage"
     },
     {
-      "tag": "forge:bread"
+      "tag": "c:foods/bread"
     }
   ],
   "result": {
