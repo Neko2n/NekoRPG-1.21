@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:story/diamond/root",
+	"criteria": {
+		"blaze_rod": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:ender_pearl"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"blaze_rod"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:ender_pearl"
+		},
+		"title": "Void's Calling",
+		"description": "Obtain an "
+	}
+}

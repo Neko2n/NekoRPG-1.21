@@ -1,0 +1,23 @@
+{
+	"parent": "modpack:story/mine_stone",
+	"criteria": {
+		"consumed_item": {
+			"trigger": "minecraft:consume_item",
+			"conditions": {}
+		}
+	},
+	"requirements": [
+		[
+			"consumed_item"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": false,
+		"icon": {
+			"id": "minecraft:bread"
+		},
+		"title": "Bon Appetit!",
+		"description": "Eat food to heal yourself"
+	}
+}

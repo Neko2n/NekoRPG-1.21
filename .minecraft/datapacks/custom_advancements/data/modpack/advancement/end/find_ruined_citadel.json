@@ -1,0 +1,35 @@
+{
+	"parent": "modpack:end/voidic_eye",
+	"criteria": {
+		"citadel": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"location": {
+								"structure": "cataclysm:ruined_citadel"
+							}
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"citadel"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "cataclysm:chiseled_end_stone_bricks"
+		},
+		"title": "Find Ruined Citadel",
+		"description": "Find Ruined Citadel"
+	}
+}

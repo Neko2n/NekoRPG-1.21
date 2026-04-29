@@ -1,0 +1,30 @@
+{
+	"criteria": {
+		"c1": {
+			"trigger": "minecraft:tick"
+		}
+	},
+	"requirements": [
+		[
+			"c1"
+		]
+	],
+	"display": {
+		"show_toast": false,
+		"announce_to_chat": false,
+		"icon": {
+			"id": "minecraft:grass_block",
+			"count": 1
+		},
+		"title": "Overworld",
+		"description": "New beginnings"
+	},
+	"better_tab": {
+		"title": "Overworld",
+		"background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+		"static_background": false,
+		"bg_width": 16,
+		"bg_height": 16,
+		"index": 5
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"parent": "modpack:end/void_worm_summon",
+	"criteria": {
+		"ex": {
+			"trigger": "alexsmobs:void_worm_split",
+			"conditions": {}
+		}
+	},
+	"requirements": [
+		[
+			"ex"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "alexsmobs:void_worm_eye"
+		},
+		"title": "Void Worm Split",
+		"description": "Void Worm Split"
+	}
+}

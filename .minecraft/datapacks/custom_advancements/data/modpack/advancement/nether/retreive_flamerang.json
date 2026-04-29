@@ -1,0 +1,23 @@
+{
+	"parent": "modpack:nether/gauntlet_defeat",
+	"criteria": {
+		"retreive_flamerang": {
+			"trigger": "quark:use_flamerang",
+			"conditions": {}
+		}
+	},
+	"requirements": [
+		[
+			"retreive_flamerang"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "quark:flamerang"
+		},
+		"title": "Retreive Flamerang",
+		"description": "Retreive Flamerang"
+	}
+}

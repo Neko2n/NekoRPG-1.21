@@ -1,0 +1,22 @@
+{
+	"parent": "modpack:nether/soul_sand_valley/rattling_remnants",
+	"criteria": {
+		"has_item": {
+			"trigger": "netherexp:broken_fossil_fuel_ore"
+		}
+	},
+	"requirements": [
+		[
+			"has_item"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "netherexp:fossil_fuel"
+		},
+		"title": "Gravedigger",
+		"description": "Gravedigger"
+	}
+}

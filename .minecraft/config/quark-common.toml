@@ -119,12 +119,12 @@
 	"Soul Sandstone" = true
 	Stools = true
 	"Sturdy Stone" = true
-	Thatch = true
-	"Variant Bookshelves" = true
-	"Variant Chests" = true
+	Thatch = false
+	"Variant Bookshelves" = false
+	"Variant Chests" = false
 	"Variant Furnaces" = true
-	"Variant Ladders" = true
-	"Vertical Planks" = true
+	"Variant Ladders" = false
+	"Vertical Planks" = false
 	"Vertical Slabs" = true
 	"Wooden Posts" = true
 	"More Stone Variants" = true

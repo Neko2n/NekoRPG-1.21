@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:nether/soul_sand_valley/root",
+	"criteria": {
+		"has_item": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"netherexp:ectoplasm_bucket"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_item"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "netherexp:ectoplasm_bucket"
+		},
+		"title": "Ghost Mucus",
+		"description": "Ghost Mucus"
+	}
+}

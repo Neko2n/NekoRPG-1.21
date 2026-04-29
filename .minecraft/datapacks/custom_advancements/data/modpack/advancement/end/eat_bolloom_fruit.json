@@ -1,0 +1,29 @@
+{
+	"parent": "modpack:end/find_poise_forest",
+	"criteria": {
+		"bolloom_fruit": {
+			"trigger": "minecraft:consume_item",
+			"conditions": {
+				"item": {
+					"items": [
+						"endergetic:bolloom_fruit"
+					]
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"bolloom_fruit"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "endergetic:bolloom_fruit"
+		},
+		"title": "Eat Bolloom Fruit",
+		"description": "Eat Bolloom Fruit"
+	}
+}

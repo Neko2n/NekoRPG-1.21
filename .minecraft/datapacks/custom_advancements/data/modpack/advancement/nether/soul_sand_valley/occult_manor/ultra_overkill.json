@@ -1,0 +1,22 @@
+{
+	"parent": "modpack:nether/soul_sand_valley/occult_manor/the_nether_is_full",
+	"criteria": {
+		"has_item": {
+			"trigger": "netherexp:killed_with_pump_charge"
+		}
+	},
+	"requirements": [
+		[
+			"has_item"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "netherexp:shotgun_core"
+		},
+		"title": "Ultrakill",
+		"description": "Ultrakill"
+	}
+}

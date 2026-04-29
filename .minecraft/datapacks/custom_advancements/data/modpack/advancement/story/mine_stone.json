@@ -1,0 +1,29 @@
+{
+	"parent": "modpack:story/time_to_craft",
+	"criteria": {
+		"get_stone": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"tag": "minecraft:stone_tool_materials"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"get_stone"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": false,
+		"icon": {
+			"id": "minecraft:wooden_pickaxe"
+		},
+		"title": "Stone Age",
+		"description": "Mine stone with a pickaxe"
+	}
+}

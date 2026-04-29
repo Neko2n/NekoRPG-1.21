@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:nether/bastion/distract_piglin",
+	"criteria": {
+		"travelers_compass": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"piglinproliferation:travelers_compass"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"travelers_compass"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "piglinproliferation:travelers_compass"
+		},
+		"title": "Obtain Travelers Compass",
+		"description": "Obtain Travelers Compass"
+	}
+}

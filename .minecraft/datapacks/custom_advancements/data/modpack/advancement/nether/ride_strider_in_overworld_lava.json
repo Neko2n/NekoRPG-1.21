@@ -1,0 +1,43 @@
+{
+	"parent": "modpack:nether/ride_strider",
+	"criteria": {
+		"ride_entity_distance": {
+			"trigger": "minecraft:ride_entity_in_lava",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"location": {
+								"dimension": "minecraft:overworld"
+							},
+							"vehicle": {
+								"type": "minecraft:strider"
+							}
+						},
+						"entity": "this"
+					}
+				],
+				"distance": {
+					"horizontal": {
+						"min": 50.0
+					}
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"ride_entity_distance"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:warped_fungus_on_a_stick"
+		},
+		"title": "Feels Like Home",
+		"description": "Take a Strider for a trip on a lava lake in the Overworld"
+	}
+}

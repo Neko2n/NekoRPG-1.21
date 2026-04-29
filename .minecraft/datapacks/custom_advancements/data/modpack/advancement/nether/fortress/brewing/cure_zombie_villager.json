@@ -1,0 +1,23 @@
+{
+	"parent": "modpack:nether/fortress/brewing/root",
+	"criteria": {
+		"cured_zombie": {
+			"trigger": "minecraft:cured_zombie_villager",
+			"conditions": {}
+		}
+	},
+	"requirements": [
+		[
+			"cured_zombie"
+		]
+	],
+	"display": {
+		"show_toast": false,
+		"announce_to_chat": false,
+		"icon": {
+			"id": "minecraft:golden_apple"
+		},
+		"title": "Zombie Doctor",
+		"description": "Weaken and then cure a Zombie Villager"
+	}
+}

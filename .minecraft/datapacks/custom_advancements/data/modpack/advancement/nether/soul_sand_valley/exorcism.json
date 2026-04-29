@@ -1,0 +1,22 @@
+{
+	"parent": "modpack:nether/soul_sand_valley/ghost_mucus",
+	"criteria": {
+		"has_item": {
+			"trigger": "netherexp:exorcism"
+		}
+	},
+	"requirements": [
+		[
+			"has_item"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "netherexp:wisp_bottle"
+		},
+		"title": "Exorcism",
+		"description": "Exorcism"
+	}
+}

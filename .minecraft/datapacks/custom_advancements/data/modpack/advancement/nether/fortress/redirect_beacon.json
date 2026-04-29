@@ -1,0 +1,23 @@
+{
+	"parent": "modpack:nether/fortress/create_beacon",
+	"criteria": {
+		"redirect_beacon": {
+			"trigger": "quark:redirect_beacon",
+			"conditions": {}
+		}
+	},
+	"requirements": [
+		[
+			"redirect_beacon"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:beacon"
+		},
+		"title": "Redirect Beacon",
+		"description": "Redirect Beacon"
+	}
+}

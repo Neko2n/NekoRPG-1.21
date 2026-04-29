@@ -1,0 +1,70 @@
+{
+	"parent": "modpack:story/diamond/root",
+	"criteria": {
+		"diamond_leggings": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:diamond_leggings"
+						]
+					}
+				]
+			}
+		},
+		"diamond_helmet": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:diamond_helmet"
+						]
+					}
+				]
+			}
+		},
+		"diamond_chestplate": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:diamond_chestplate"
+						]
+					}
+				]
+			}
+		},
+		"diamond_boots": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:diamond_boots"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"diamond_helmet",
+			"diamond_chestplate",
+			"diamond_leggings",
+			"diamond_boots"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:diamond_chestplate"
+		},
+		"title": "Cover Me with Diamonds",
+		"description": "Diamond armor saves lives"
+	}
+}

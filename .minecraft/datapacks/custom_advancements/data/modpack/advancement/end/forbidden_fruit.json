@@ -1,0 +1,29 @@
+{
+	"parent": "modpack:end/root",
+	"criteria": {
+		"forbidden_fruit": {
+			"trigger": "minecraft:consume_item",
+			"conditions": {
+				"item": {
+					"items": [
+						"atmospheric:ender_dragon_fruit"
+					]
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"forbidden_fruit"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "atmospheric:ender_dragon_fruit"
+		},
+		"title": "Forbidden Fruit",
+		"description": "Forbidden Fruit"
+	}
+}

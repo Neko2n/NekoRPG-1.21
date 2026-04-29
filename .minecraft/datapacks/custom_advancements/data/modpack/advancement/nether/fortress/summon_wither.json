@@ -1,0 +1,33 @@
+{
+	"parent": "modpack:nether/fortress/get_wither_skull",
+	"criteria": {
+		"summoned": {
+			"trigger": "minecraft:summoned_entity",
+			"conditions": {
+				"entity": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"type": "minecraft:wither"
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"summoned"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:nether_star"
+		},
+		"title": "Bring Home the Beacon",
+		"description": "Construct and place a Beacon"
+	}
+}

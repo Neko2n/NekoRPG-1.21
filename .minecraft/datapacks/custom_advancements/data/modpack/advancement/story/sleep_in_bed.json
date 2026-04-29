@@ -1,0 +1,23 @@
+{
+	"parent": "modpack:story/food",
+	"criteria": {
+		"slept_in_bed": {
+			"trigger": "minecraft:slept_in_bed",
+			"conditions": {}
+		}
+	},
+	"requirements": [
+		[
+			"slept_in_bed"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": false,
+		"icon": {
+			"id": "minecraft:red_bed"
+		},
+		"title": "Sleep In Bed",
+		"description": "Sleep in a bed"
+	}
+}

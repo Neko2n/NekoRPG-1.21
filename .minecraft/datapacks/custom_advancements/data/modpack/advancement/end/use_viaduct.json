@@ -1,0 +1,23 @@
+{
+	"parent": "modpack:end/enter_end_gateway",
+	"criteria": {
+		"use_viaduct": {
+			"trigger": "quark:use_viaduct",
+			"conditions": {}
+		}
+	},
+	"requirements": [
+		[
+			"use_viaduct"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "quark:myalite_crystal"
+		},
+		"title": "Use Viaduct",
+		"description": "Use Viaduct"
+	}
+}

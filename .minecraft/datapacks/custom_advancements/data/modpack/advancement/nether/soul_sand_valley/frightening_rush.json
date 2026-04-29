@@ -1,0 +1,25 @@
+{
+	"parent": "modpack:nether/soul_sand_valley/root",
+	"criteria": {
+		"condition": {
+			"trigger": "minecraft:enter_block",
+			"conditions": {
+				"block": "netherexp:soul_swirls"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"condition"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "netherexp:soul_swirls"
+		},
+		"title": "Frightening Rush",
+		"description": "Frightening Rush"
+	}
+}

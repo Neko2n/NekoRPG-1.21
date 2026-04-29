@@ -1,0 +1,34 @@
+{
+  "criteria": {
+    "entered_nether": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:the_nether"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "entered_nether"
+    ]
+  ],
+  "display": {
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true,
+    "icon": {
+      "id": "minecraft:blaze_powder",
+      "count": 1
+    },
+    "title": "Nether",
+    "description": "A fiery place"
+  },
+  "better_tab": {
+    "title": "Nether",
+    "background": "minecraft:textures/gui/advancements/backgrounds/nether.png",
+    "static_background": false,
+    "bg_width": 16,
+    "bg_height": 16,
+    "index": 5
+  }
+}

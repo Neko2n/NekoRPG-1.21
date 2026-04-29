@@ -1,0 +1,26 @@
+{
+	"parent": "modpack:nether/soul_sand_valley/root",
+	"criteria": {
+		"soul_heart": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"alexsmobs:soul_heart"
+						]
+					}
+				]
+			}
+		}
+	},
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": false,
+		"icon": {
+			"id": "alexsmobs:soul_heart"
+		},
+		"title": "Soul Heart",
+		"description": "Soul Heart"
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:story/diamond/enter_the_nether",
+	"criteria": {
+		"blaze_rod": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:blaze_rod"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"blaze_rod"
+		]
+	],
+	"display": {
+		"show_toast": false,
+		"announce_to_chat": false,
+		"icon": {
+			"id": "minecraft:blaze_rod"
+		},
+		"title": "Into Fire",
+		"description": "Relieve a Blaze of its rod"
+	}
+}

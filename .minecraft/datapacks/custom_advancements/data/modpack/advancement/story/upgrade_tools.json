@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:story/mine_stone",
+	"criteria": {
+		"stone_pickaxe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:stone_pickaxe"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"stone_pickaxe"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": false,
+		"icon": {
+			"id": "minecraft:stone_pickaxe"
+		},
+		"title": "Getting an Upgrade",
+		"description": "Construct a better pickaxe"
+	}
+}

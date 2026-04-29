@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:story/craft_chest",
+	"criteria": {
+		"1": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"supplementaries:sack"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"1"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": false,
+		"icon": {
+			"id": "supplementaries:sack"
+		},
+		"title": "Inventory Management",
+		"description": "Obtain a Sack to help carry extra items."
+	}
+}

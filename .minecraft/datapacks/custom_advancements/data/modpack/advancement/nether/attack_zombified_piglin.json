@@ -1,0 +1,33 @@
+{
+	"parent": "modpack:nether/root",
+	"criteria": {
+		"silk_touch_nest": {
+			"trigger": "minecraft:player_hurt_entity",
+			"conditions": {
+				"entity": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"type": "minecraft:zombified_piglin"
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"silk_touch_nest"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:golden_sword"
+		},
+		"title": "Not So Friendly",
+		"description": "Attack a "
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:nether/fortress/root",
+	"criteria": {
+		"wither_skull": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:wither_skeleton_skull"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"wither_skull"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:wither_skeleton_skull"
+		},
+		"title": "Spooky Scary Skeleton",
+		"description": "Obtain a Wither Skeleton's skull"
+	}
+}

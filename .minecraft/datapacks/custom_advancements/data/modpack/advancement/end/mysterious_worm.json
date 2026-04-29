@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:end/capsid",
+	"criteria": {
+		"mysterious_worm": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"alexsmobs:mysterious_worm"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"mysterious_worm"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "alexsmobs:mysterious_worm"
+		},
+		"title": "Mysterious Worm",
+		"description": "Mysterious Worm"
+	}
+}

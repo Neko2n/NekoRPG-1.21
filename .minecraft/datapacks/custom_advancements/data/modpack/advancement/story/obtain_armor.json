@@ -1,0 +1,70 @@
+{
+	"parent": "modpack:story/smelt_iron",
+	"criteria": {
+		"iron_boots": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:iron_boots"
+						]
+					}
+				]
+			}
+		},
+		"iron_chestplate": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:iron_chestplate"
+						]
+					}
+				]
+			}
+		},
+		"iron_leggings": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:iron_leggings"
+						]
+					}
+				]
+			}
+		},
+		"iron_helmet": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:iron_helmet"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"iron_helmet",
+			"iron_chestplate",
+			"iron_leggings",
+			"iron_boots"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:iron_chestplate"
+		},
+		"title": "Suit Up",
+		"description": "Protect yourself with a piece of iron armor"
+	}
+}

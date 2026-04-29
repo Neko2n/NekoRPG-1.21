@@ -1,0 +1,23 @@
+{
+	"parent": "modpack:nether/fortress/obtain_blaze_rod",
+	"criteria": {
+		"potion": {
+			"trigger": "minecraft:brewed_potion",
+			"conditions": {}
+		}
+	},
+	"requirements": [
+		[
+			"potion"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:potion"
+		},
+		"title": "Local Brewery",
+		"description": "Brew a potion"
+	}
+}

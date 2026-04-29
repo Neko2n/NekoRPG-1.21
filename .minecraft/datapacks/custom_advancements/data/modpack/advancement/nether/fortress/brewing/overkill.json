@@ -1,0 +1,38 @@
+{
+	"parent": "modpack:nether/fortress/brewing/root",
+	"criteria": {
+		"overkill": {
+			"trigger": "minecraft:player_hurt_entity",
+			"conditions": {
+				"damage": {
+					"dealt": {
+						"min": 20
+					},
+					"type": {
+						"tags": [
+							{
+								"id": "netherexp:overkill_valid",
+								"expected": true
+							}
+						]
+					}
+				},
+				"entity": []
+			}
+		}
+	},
+	"requirements": [
+		[
+			"overkill"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:golden_sword"
+		},
+		"title": "Overkill",
+		"description": "Overkill"
+	}
+}

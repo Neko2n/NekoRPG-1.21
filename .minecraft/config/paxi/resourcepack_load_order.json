@@ -1,36 +1,3 @@
 {
-  "loadOrder": [
-    "guiretextures-1.14.4.zip",
-    "Gold title 1.16+",
-    "Visual Titles 1.3.zip",
-    "Icons - Numerals v.1.1.zip",
-    "quiet-phantom.zip",
-    "More Quark Tooltip Attributes.zip",
-    "quarkconnectedfusion.zip",
-    "SE Vanilla Consistency 1.20.1.zip",
-    "Enchantment Outlines.zip",
-    "Os' Colorful Cobblestone.zip",
-    "Fancy Crops v1.2.zip",
-    "Gray's Cosier Critters.zip",
-    "BB'sBOMDTweaks0.5.zip",
-    "BOP_Renewed_v1.6.zip",
-    "Better_Enderdragon.zip",
-    "Fire_Rekindled_v0.16.zip",
-    "Rekindled_CTM-0.1.2.zip",
-    "Antique Atlas 4 Compat",
-    "waystones_1.21.11.zip",
-    "Recrafted table.zip",
-    "Fine Armoury v1.5.zip",
-    "Aether_Revamp_v0.0.zip",
-    "Jappafied Aethers 1.12.zip",
-    "AetherAdornments v.1.0.zip",
-    "MyMoa.zip",
-    "§eTorches§8-§eReimagined§0_§8[v1.7.2]§0.zip",
-    "§c1.21.2 Redstone Torch§r.zip",
-    "HyperPunchy-v2.4+.zip",
-    "Drigo 3D Lantern's x Punchy.zip",
-    "Fresh End Crystal X Punchy.zip",
-    "Modded Swords x Punchy! 1.2.6.zip",
-    "Pack Resources"
-  ]
+  "loadOrder": []
 }

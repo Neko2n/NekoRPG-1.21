@@ -1,0 +1,23 @@
+{
+	"parent": "modpack:nether/straddle_saddle",
+	"criteria": {
+		"ex": {
+			"trigger": "alexsmobs:laviathan_four_passengers",
+			"conditions": {}
+		}
+	},
+	"requirements": [
+		[
+			"ex"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "alexsmobs:tab_icon"
+		},
+		"title": "Laviathan Four Passengers",
+		"description": "Laviathan Four Passengers"
+	}
+}

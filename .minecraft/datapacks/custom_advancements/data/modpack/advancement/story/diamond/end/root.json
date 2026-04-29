@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:story/diamond/a_ender_pearl",
+	"criteria": {
+		"essence": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"waystones:warp_dust"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"essence"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "waystones:warp_dust"
+		},
+		"title": "Anomaly",
+		"description": "Obtain Ender Essence"
+	}
+}

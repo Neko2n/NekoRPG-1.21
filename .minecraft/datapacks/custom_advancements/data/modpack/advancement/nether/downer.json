@@ -1,0 +1,25 @@
+{
+	"parent": "modpack:nether/explore_nether",
+	"criteria": {
+		"dorcel": {
+			"trigger": "minecraft:enter_block",
+			"conditions": {
+				"block": "regions_unexplored:dorcel"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"dorcel"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "regions_unexplored:dorcel"
+		},
+		"title": "Downer",
+		"description": "Downer"
+	}
+}

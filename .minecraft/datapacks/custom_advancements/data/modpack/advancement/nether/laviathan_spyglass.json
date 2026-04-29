@@ -1,0 +1,43 @@
+{
+	"parent": "modpack:nether/root",
+	"criteria": {
+		"spyglass_at_bison": {
+			"trigger": "minecraft:using_item",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"type_specific": {
+								"looking_at": {
+									"type": "alexsmobs:laviathan"
+								},
+								"type": "player"
+							}
+						},
+						"entity": "this"
+					}
+				],
+				"item": {
+					"items": [
+						"minecraft:spyglass"
+					]
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"spyglass_at_bison"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:spyglass"
+		},
+		"title": "Laviathan Spyglass",
+		"description": "Laviathan Spyglass"
+	}
+}

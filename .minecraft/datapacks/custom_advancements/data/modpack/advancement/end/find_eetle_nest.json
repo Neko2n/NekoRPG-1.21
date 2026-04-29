@@ -1,0 +1,35 @@
+{
+	"parent": "modpack:end/enter_end_gateway",
+	"criteria": {
+		"in_eetle_nest": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"location": {
+								"structure": "endergetic:eetle_nest"
+							}
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"in_eetle_nest"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "endergetic:end_corrock_block"
+		},
+		"title": "Find Eetle Nest",
+		"description": "Find Eetle Nest"
+	}
+}

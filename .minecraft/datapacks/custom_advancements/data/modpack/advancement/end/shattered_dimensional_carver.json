@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:end/dimensional_carver",
+	"criteria": {
+		"dimensional_carver": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"alexsmobs:shattered_dimensional_carver"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"dimensional_carver"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "alexsmobs:shattered_dimensional_carver"
+		},
+		"title": "Shattered Dimensional Carver",
+		"description": "Shattered Dimensional Carver"
+	}
+}

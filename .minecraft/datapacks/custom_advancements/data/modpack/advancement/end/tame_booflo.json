@@ -1,0 +1,22 @@
+{
+	"parent": "modpack:end/find_poise_forest",
+	"criteria": {
+		"tamed_booflo": {
+			"trigger": "endergetic:tamed_booflo"
+		}
+	},
+	"requirements": [
+		[
+			"tamed_booflo"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "endergetic:booflo_hide"
+		},
+		"title": "Tame Booflo",
+		"description": "Tame Booflo"
+	}
+}

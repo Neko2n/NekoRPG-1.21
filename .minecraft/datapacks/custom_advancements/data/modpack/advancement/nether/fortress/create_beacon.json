@@ -1,0 +1,27 @@
+{
+	"parent": "modpack:nether/fortress/summon_wither",
+	"criteria": {
+		"beacon": {
+			"trigger": "minecraft:construct_beacon",
+			"conditions": {
+				"level": {
+					"min": 1
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"beacon"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:beacon"
+		},
+		"title": "Bring Home the Beacon",
+		"description": "Construct and place a Beacon"
+	}
+}

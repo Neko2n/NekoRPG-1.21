@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:nether/fortress/root",
+	"criteria": {
+		"blaze_rod": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:blaze_rod"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"blaze_rod"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:blaze_rod"
+		},
+		"title": "Into Fire",
+		"description": "Relieve a Blaze of its rod"
+	}
+}

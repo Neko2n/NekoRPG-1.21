@@ -1,0 +1,22 @@
+{
+	"parent": "modpack:nether/fortress/brewing/root",
+	"criteria": {
+		"unlock": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"requirements": [
+		[
+			"unlock"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "supplementaries:goblet"
+		},
+		"title": "Goblet",
+		"description": "Goblet"
+	}
+}

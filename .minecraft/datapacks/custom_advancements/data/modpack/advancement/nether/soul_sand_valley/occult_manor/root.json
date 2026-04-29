@@ -1,0 +1,35 @@
+{
+	"parent": "modpack:nether/soul_sand_valley/emf_raider",
+	"criteria": {
+		"structure": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"entity": "this",
+						"predicate": {
+							"location": {
+								"structure": "netherexp:sanctum"
+							}
+						}
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"structure"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "netherexp:chiseled_soul_slate_tiles"
+		},
+		"title": "Castlemania",
+		"description": "Castlemania"
+	}
+}

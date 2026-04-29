@@ -1,0 +1,37 @@
+{
+	"parent": "modpack:nether/soul_sand_valley/ssv_sub_biomes",
+	"criteria": {
+		"shot_arrow": {
+			"trigger": "minecraft:player_hurt_entity",
+			"conditions": {
+				"damage": {
+					"type": {
+						"tags": [
+							{
+								"id": "minecraft:is_projectile",
+								"expected": true
+							}
+						],
+						"direct_entity": {
+							"type": "netherexp:black_icicle"
+						}
+					}
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"shot_arrow"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "netherexp:black_icicle"
+		},
+		"title": "Black Ice Black Everything Black",
+		"description": "Black Ice Black Everything Black"
+	}
+}

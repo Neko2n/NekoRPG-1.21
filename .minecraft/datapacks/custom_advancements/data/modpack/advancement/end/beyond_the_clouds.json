@@ -1,0 +1,47 @@
+{
+	"parent": "modpack:end/elytra",
+	"criteria": {
+		"elytra": {
+			"trigger": "minecraft:tick",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"location": {
+								"position": {
+									"y": {
+										"min": 322.0
+									}
+								},
+								"dimension": "minecraft:overworld"
+							},
+							"equipment": {
+								"chest": {
+									"items": [
+										"minecraft:elytra"
+									]
+								}
+							}
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"elytra"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:firework_rocket"
+		},
+		"title": "Beyond the Clouds",
+		"description": "Fly beyond the Overworld build limit with your "
+	}
+}

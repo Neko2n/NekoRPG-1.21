@@ -1,0 +1,33 @@
+{
+	"parent": "modpack:nether/root",
+	"criteria": {
+		"bosses_of_mass_destruction:gauntlet": {
+			"trigger": "minecraft:player_killed_entity",
+			"conditions": {
+				"entity": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"type": "bosses_of_mass_destruction:gauntlet"
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"bosses_of_mass_destruction:gauntlet"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "bosses_of_mass_destruction:gauntlet_blackstone"
+		},
+		"title": "Gauntlet Defeat",
+		"description": "Gauntlet Defeat"
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"parent": "modpack:story/time_to_craft",
+	"criteria": {
+		"c1": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"tag": "forge:chests"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"c1"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": false,
+		"icon": {
+			"id": "woodworks:oak_chest"
+		},
+		"title": "Storage",
+		"description": "Craft a Chest with 8 Wood Planks"
+	}
+}

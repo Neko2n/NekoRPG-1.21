@@ -1,0 +1,22 @@
+{
+	"parent": "modpack:nether/soul_sand_valley/root",
+	"criteria": {
+		"has_item": {
+			"trigger": "netherexp:activate_sanctum_compass"
+		}
+	},
+	"requirements": [
+		[
+			"has_item"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "netherexp:sanctum_compass"
+		},
+		"title": "Emf Raider",
+		"description": "Emf Raider"
+	}
+}

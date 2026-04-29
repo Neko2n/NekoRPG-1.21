@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:story/smelt_iron",
+	"criteria": {
+		"iron_pickaxe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:iron_pickaxe"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"iron_pickaxe"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:iron_pickaxe"
+		},
+		"title": "Isn't It Iron Pick",
+		"description": "Upgrade your pickaxe"
+	}
+}

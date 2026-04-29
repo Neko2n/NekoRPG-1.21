@@ -1,0 +1,22 @@
+{
+	"parent": "modpack:end/eat_bolloom_fruit",
+	"criteria": {
+		"up_up_and_away": {
+			"trigger": "endergetic:up_up_and_away"
+		}
+	},
+	"requirements": [
+		[
+			"up_up_and_away"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "endergetic:bolloom_balloon"
+		},
+		"title": "Up Up And Away",
+		"description": "Up Up And Away"
+	}
+}

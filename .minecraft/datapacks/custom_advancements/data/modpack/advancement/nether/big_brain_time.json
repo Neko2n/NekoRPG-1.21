@@ -1,0 +1,22 @@
+{
+	"parent": "modpack:nether/brain_food",
+	"criteria": {
+		"used_item": {
+			"trigger": "netherexp:grow_cerebrage_claret"
+		}
+	},
+	"requirements": [
+		[
+			"used_item"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "netherexp:cerebrage_claret_stem"
+		},
+		"title": "Big Brain Time",
+		"description": "Big Brain Time"
+	}
+}

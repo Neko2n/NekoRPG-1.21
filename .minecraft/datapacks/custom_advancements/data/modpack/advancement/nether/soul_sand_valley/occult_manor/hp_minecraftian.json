@@ -1,0 +1,22 @@
+{
+	"parent": "modpack:nether/soul_sand_valley/occult_manor/root",
+	"criteria": {
+		"has_item": {
+			"trigger": "netherexp:revive_carcass"
+		}
+	},
+	"requirements": [
+		[
+			"has_item"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:flint_and_steel"
+		},
+		"title": "Hp Minecraftian",
+		"description": "Hp Minecraftian"
+	}
+}

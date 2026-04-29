@@ -1,0 +1,22 @@
+{
+	"parent": "modpack:nether/fortress/brewing/root",
+	"criteria": {
+		"convert_phantom": {
+			"trigger": "upgrade_aquatic:convert_phantom"
+		}
+	},
+	"requirements": [
+		[
+			"convert_phantom"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:splash_potion"
+		},
+		"title": "Sleepless Slave",
+		"description": "Sleepless Slave"
+	}
+}

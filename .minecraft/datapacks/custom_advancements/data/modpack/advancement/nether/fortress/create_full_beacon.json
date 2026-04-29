@@ -1,0 +1,25 @@
+{
+	"parent": "modpack:nether/fortress/create_beacon",
+	"criteria": {
+		"beacon": {
+			"trigger": "minecraft:construct_beacon",
+			"conditions": {
+				"level": 4
+			}
+		}
+	},
+	"requirements": [
+		[
+			"beacon"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:beacon"
+		},
+		"title": "Beaconator",
+		"description": "Bring a Beacon to full power"
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"parent": "modpack:nether/fortress/brewing/root",
+	"criteria": {
+		"tame_foxhound": {
+			"trigger": "minecraft:tame_animal",
+			"conditions": {
+				"entity": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"type": "quark:foxhound"
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"tame_foxhound"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:coal"
+		},
+		"title": "Tame Foxhound",
+		"description": "Tame Foxhound"
+	}
+}

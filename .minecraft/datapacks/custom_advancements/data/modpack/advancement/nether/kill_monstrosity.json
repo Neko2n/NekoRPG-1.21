@@ -1,0 +1,33 @@
+{
+	"parent": "modpack:nether/root",
+	"criteria": {
+		"netheritemonstrosity": {
+			"trigger": "minecraft:player_killed_entity",
+			"conditions": {
+				"entity": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"type": "cataclysm:netherite_monstrosity"
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"netheritemonstrosity"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "cataclysm:infernal_forge"
+		},
+		"title": "Kill Monstrosity",
+		"description": "Kill Monstrosity"
+	}
+}

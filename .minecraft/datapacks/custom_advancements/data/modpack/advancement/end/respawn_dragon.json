@@ -1,0 +1,33 @@
+{
+	"parent": "modpack:end/kill_dragon",
+	"criteria": {
+		"summoned_dragon": {
+			"trigger": "minecraft:summoned_entity",
+			"conditions": {
+				"entity": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"type": "minecraft:ender_dragon"
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"summoned_dragon"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:end_crystal"
+		},
+		"title": "The End... Again...",
+		"description": "Respawn the Ender Dragon"
+	}
+}

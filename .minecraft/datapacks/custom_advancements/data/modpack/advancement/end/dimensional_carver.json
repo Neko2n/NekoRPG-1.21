@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:end/void_worm_kill",
+	"criteria": {
+		"dimensional_carver": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"alexsmobs:dimensional_carver"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"dimensional_carver"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "citadel:fancy_item"
+		},
+		"title": "Dimensional Carver",
+		"description": "Dimensional Carver"
+	}
+}

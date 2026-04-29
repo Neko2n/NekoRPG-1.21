@@ -1,0 +1,228 @@
+{
+	"parent": "modpack:nether/ride_strider",
+	"criteria": {
+		"0": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"location": {
+								"biome": "minecraft:crimson_forest"
+							}
+						},
+						"entity": "this"
+					}
+				]
+			}
+		},
+		"1": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"location": {
+								"biome": "minecraft:nether_wastes"
+							}
+						},
+						"entity": "this"
+					}
+				]
+			}
+		},
+		"2": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"location": {
+								"biome": "minecraft:soul_sand_valley"
+							}
+						},
+						"entity": "this"
+					}
+				]
+			}
+		},
+		"3": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"location": {
+								"biome": "minecraft:basalt_deltas"
+							}
+						},
+						"entity": "this"
+					}
+				]
+			}
+		},
+		"4": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"location": {
+								"biome": "minecraft:warped_forest"
+							}
+						},
+						"entity": "this"
+					}
+				]
+			}
+		},
+		"5": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"location": {
+								"biome": "biomesoplenty:erupting_inferno"
+							}
+						},
+						"entity": "this"
+					}
+				]
+			}
+		},
+		"6": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"location": {
+								"biome": "biomesoplenty:crystalline_chasm"
+							}
+						},
+						"entity": "this"
+					}
+				]
+			}
+		},
+		"7": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"location": {
+								"biome": "biomesoplenty:visceral_heap"
+							}
+						},
+						"entity": "this"
+					}
+				]
+			}
+		},
+		"8": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"location": {
+								"biome": "biomesoplenty:undergrowth"
+							}
+						},
+						"entity": "this"
+					}
+				]
+			}
+		},
+		"9": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"location": {
+								"biome": "regions_unexplored:blackstone_basin"
+							}
+						},
+						"entity": "this"
+					}
+				]
+			}
+		},
+		"10": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"location": {
+								"biome": "regions_unexplored:infernal_holt"
+							}
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"0"
+		],
+		[
+			"1"
+		],
+		[
+			"2"
+		],
+		[
+			"3"
+		],
+		[
+			"4"
+		],
+		[
+			"5"
+		],
+		[
+			"6"
+		],
+		[
+			"7"
+		],
+		[
+			"8"
+		],
+		[
+			"9"
+		],
+		[
+			"10"
+		]
+	],
+	"rewards": {
+		"experience": 500
+	},
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:netherite_boots"
+		},
+		"title": "Hot Tourist Destinations",
+		"description": "Explore all Nether biomes"
+	}
+}

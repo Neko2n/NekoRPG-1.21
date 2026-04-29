@@ -1,0 +1,39 @@
+{
+	"parent": "modpack:nether/return_to_sender",
+	"criteria": {
+		"killed_ghast": {
+			"trigger": "minecraft:player_killed_entity",
+			"conditions": {
+				"entity": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"type": "minecraft:ghast",
+							"location": {
+								"dimension": "minecraft:overworld"
+							}
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"killed_ghast"
+		]
+	],
+	"rewards": {
+		"experience": 100
+	},
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:ghast_tear"
+		},
+		"title": "Uneasy Alliance",
+		"description": "Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it"
+	}
+}

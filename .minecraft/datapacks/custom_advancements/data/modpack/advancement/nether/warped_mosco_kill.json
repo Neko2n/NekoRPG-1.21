@@ -1,0 +1,33 @@
+{
+	"parent": "modpack:nether/crimson_mosquito_sick",
+	"criteria": {
+		"killed": {
+			"trigger": "minecraft:player_killed_entity",
+			"conditions": {
+				"entity": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"type": "alexsmobs:warped_mosco"
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"killed"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "alexsmobs:tab_icon"
+		},
+		"title": "Warped Mosco Kill",
+		"description": "Warped Mosco Kill"
+	}
+}

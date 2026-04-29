@@ -1,0 +1,32 @@
+{
+	"parent": "modpack:end/find_end_city",
+	"criteria": {
+		"levitated": {
+			"trigger": "minecraft:levitation",
+			"conditions": {
+				"distance": {
+					"y": {
+						"min": 50.0
+					}
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"levitated"
+		]
+	],
+	"rewards": {
+		"experience": 50
+	},
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:shulker_shell"
+		},
+		"title": "Great View From Up Here",
+		"description": "Levitate up 50 blocks from the attacks of a Shulker"
+	}
+}

@@ -1,0 +1,47 @@
+{
+	"parent": "modpack:nether/obtain_crying_obsidian",
+	"criteria": {
+		"charge_respawn_anchor": {
+			"trigger": "minecraft:item_used_on_block",
+			"conditions": {
+				"location": [
+					{
+						"condition": "minecraft:location_check",
+						"predicate": {
+							"block": {
+								"blocks": [
+									"minecraft:respawn_anchor"
+								],
+								"state": {
+									"charges": "4"
+								}
+							}
+						}
+					},
+					{
+						"condition": "minecraft:match_tool",
+						"predicate": {
+							"items": [
+								"minecraft:glowstone"
+							]
+						}
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"charge_respawn_anchor"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:respawn_anchor"
+		},
+		"title": "Not Quite \"Nine Lives\"",
+		"description": "Charge a Respawn Anchor to the maximum"
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"parent": "modpack:story/diamond/form_obsidian",
+	"criteria": {
+		"enchanted_item": {
+			"trigger": "minecraft:enchanted_item",
+			"conditions": {}
+		}
+	},
+	"requirements": [
+		[
+			"enchanted_item"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:enchanted_book"
+		},
+		"title": "Enchanter",
+		"description": "Enchant an item at an Enchanting Table"
+	}
+}

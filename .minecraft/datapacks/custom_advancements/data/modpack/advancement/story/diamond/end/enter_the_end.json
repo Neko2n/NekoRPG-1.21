@@ -1,0 +1,25 @@
+{
+	"parent": "modpack:story/diamond/end/find_stronghold",
+	"criteria": {
+		"entered_end": {
+			"trigger": "minecraft:changed_dimension",
+			"conditions": {
+				"to": "minecraft:the_end"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"entered_end"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:end_stone"
+		},
+		"title": "The End?",
+		"description": "Enter an End Portal"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"parent": "modpack:nether/soul_sand_valley/exorcism",
+	"criteria": {
+		"used_item": {
+			"trigger": "netherexp:tame_stampede"
+		}
+	},
+	"requirements": [
+		[
+			"used_item"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "netherexp:skull_on_a_stick"
+		},
+		"title": "Rodeo Stampede",
+		"description": "Rodeo Stampede"
+	}
+}

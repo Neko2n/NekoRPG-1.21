@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:nether/warped_mosco_kill",
+	"criteria": {
+		"hemolymph_blaster": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"alexsmobs:hemolymph_blaster"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"hemolymph_blaster"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "citadel:fancy_item"
+		},
+		"title": "Hemolymph Blaster",
+		"description": "Hemolymph Blaster"
+	}
+}

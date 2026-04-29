@@ -1,0 +1,43 @@
+{
+	"parent": "modpack:nether/soul_sand_valley/ssv_sub_biomes",
+	"criteria": {
+		"fall_from_world_height": {
+			"conditions": {
+				"distance": {
+					"y": {
+						"min": 23
+					}
+				},
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"entity": "this",
+						"predicate": {}
+					}
+				],
+				"start_position": {
+					"block": {
+						"blocks": [
+							"netherexp:black_ice"
+						]
+					}
+				}
+			},
+			"trigger": "minecraft:fall_from_height"
+		}
+	},
+	"requirements": [
+		[
+			"fall_from_world_height"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "netherexp:thin_black_ice"
+		},
+		"title": "Witwicky",
+		"description": "Witwicky"
+	}
+}

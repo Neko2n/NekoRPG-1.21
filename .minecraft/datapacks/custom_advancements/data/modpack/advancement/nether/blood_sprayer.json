@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:nether/explore_nether",
+	"criteria": {
+		"blood_sprayer": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"alexsmobs:blood_sprayer"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"blood_sprayer"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "alexsmobs:blood_sprayer"
+		},
+		"title": "Blood Sprayer",
+		"description": "Blood Sprayer"
+	}
+}

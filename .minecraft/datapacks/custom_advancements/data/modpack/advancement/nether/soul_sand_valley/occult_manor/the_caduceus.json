@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:nether/soul_sand_valley/occult_manor/root",
+	"criteria": {
+		"c1": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"netherexp:antidote"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"c1"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": false,
+		"icon": {
+			"id": "netherexp:antidote"
+		},
+		"title": "The Caduceus",
+		"description": "The Caduceus"
+	}
+}

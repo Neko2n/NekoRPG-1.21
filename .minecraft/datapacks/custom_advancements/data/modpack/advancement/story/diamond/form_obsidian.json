@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:story/diamond/diamond_pickaxe",
+	"criteria": {
+		"obsidian": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:obsidian"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"obsidian"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:obsidian"
+		},
+		"title": "Ice Bucket Challenge",
+		"description": "Obtain a block of obsidian"
+	}
+}

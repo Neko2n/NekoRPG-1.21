@@ -1,0 +1,32 @@
+{
+	"parent": "modpack:nether/root",
+	"criteria": {
+		"travelled": {
+			"trigger": "minecraft:nether_travel",
+			"conditions": {
+				"distance": {
+					"horizontal": {
+						"min": 7000.0
+					}
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"travelled"
+		]
+	],
+	"rewards": {
+		"experience": 100
+	},
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:map"
+		},
+		"title": "Subspace Bubble",
+		"description": "Use the Nether to travel 7 km in the Overworld"
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"parent": "modpack:end/mysterious_worm",
+	"criteria": {
+		"ex": {
+			"trigger": "alexsmobs:void_worm_summon",
+			"conditions": {}
+		}
+	},
+	"requirements": [
+		[
+			"ex"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "alexsmobs:tab_icon"
+		},
+		"title": "Void Worm Summon",
+		"description": "Void Worm Summon"
+	}
+}

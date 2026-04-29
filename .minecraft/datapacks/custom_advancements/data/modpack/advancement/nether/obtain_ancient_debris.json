@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:nether/root",
+	"criteria": {
+		"ancient_debris": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:ancient_debris"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"ancient_debris"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:ancient_debris"
+		},
+		"title": "Hidden in the Depths",
+		"description": "Obtain Ancient Debris"
+	}
+}

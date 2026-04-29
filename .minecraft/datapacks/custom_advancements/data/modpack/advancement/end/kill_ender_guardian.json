@@ -1,0 +1,33 @@
+{
+	"parent": "modpack:end/kill_ender_golem",
+	"criteria": {
+		"enderguardian": {
+			"trigger": "minecraft:player_killed_entity",
+			"conditions": {
+				"entity": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"type": "cataclysm:ender_guardian"
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"enderguardian"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "cataclysm:gauntlet_of_guard"
+		},
+		"title": "Kill Ender Guardian",
+		"description": "Kill Ender Guardian"
+	}
+}

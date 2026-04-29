@@ -1,0 +1,38 @@
+{
+	"parent": "modpack:story/diamond/enchant_item",
+	"criteria": {
+		"get_stone": {
+			"trigger": "minecraft:tick",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"type_specific": {
+								"level": {
+									"min": 30
+								},
+								"type": "player"
+							}
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"get_stone"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:experience_bottle"
+		},
+		"title": "Filled With Experience",
+		"description": "Reach experience level 30"
+	}
+}

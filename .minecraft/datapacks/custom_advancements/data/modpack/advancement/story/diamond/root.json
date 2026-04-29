@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:story/iron_tools",
+	"criteria": {
+		"diamond": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:diamond"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"diamond"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:diamond"
+		},
+		"title": "We Need to Go Deeper",
+		"description": "Build, explore, or find a Nether portal"
+	}
+}

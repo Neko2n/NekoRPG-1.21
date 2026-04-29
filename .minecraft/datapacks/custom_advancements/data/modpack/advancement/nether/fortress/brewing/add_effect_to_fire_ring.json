@@ -1,0 +1,23 @@
+{
+	"parent": "modpack:nether/fortress/brewing/root",
+	"criteria": {
+		"add_effect": {
+			"trigger": "piglinproliferation:add_effect_to_fire_ring",
+			"conditions": {}
+		}
+	},
+	"requirements": [
+		[
+			"add_effect"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "piglinproliferation:blackstone_fire_ring"
+		},
+		"title": "Add Effect To Fire Ring",
+		"description": "Add Effect To Fire Ring"
+	}
+}

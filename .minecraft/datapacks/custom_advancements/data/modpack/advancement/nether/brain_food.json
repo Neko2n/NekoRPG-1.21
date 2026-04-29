@@ -1,0 +1,22 @@
+{
+	"parent": "modpack:nether/explore_nether",
+	"criteria": {
+		"used_item": {
+			"trigger": "netherexp:planted_cerebrage"
+		}
+	},
+	"requirements": [
+		[
+			"used_item"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "netherexp:cerebrage"
+		},
+		"title": "Brain Food",
+		"description": "Brain Food"
+	}
+}

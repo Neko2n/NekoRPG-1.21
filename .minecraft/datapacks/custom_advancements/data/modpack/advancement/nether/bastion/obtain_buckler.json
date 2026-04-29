@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:nether/bastion/root",
+	"criteria": {
+		"buckler": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"piglinproliferation:buckler"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"buckler"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "piglinproliferation:buckler"
+		},
+		"title": "Obtain Buckler",
+		"description": "Obtain Buckler"
+	}
+}

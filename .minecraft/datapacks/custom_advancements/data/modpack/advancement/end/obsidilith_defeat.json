@@ -1,0 +1,33 @@
+{
+	"parent": "modpack:end/kill_dragon",
+	"criteria": {
+		"bosses_of_mass_destruction:obsidilith": {
+			"trigger": "minecraft:player_killed_entity",
+			"conditions": {
+				"entity": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"type": "bosses_of_mass_destruction:obsidilith"
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"bosses_of_mass_destruction:obsidilith"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "bosses_of_mass_destruction:obsidilith_rune"
+		},
+		"title": "Obsidilith Defeat",
+		"description": "Obsidilith Defeat"
+	}
+}

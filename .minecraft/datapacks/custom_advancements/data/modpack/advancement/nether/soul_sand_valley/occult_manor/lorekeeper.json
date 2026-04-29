@@ -1,0 +1,76 @@
+{
+	"parent": "modpack:nether/soul_sand_valley/occult_manor/hp_minecraftian",
+	"criteria": {
+		"froglights": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"netherexp:ossified_gargoyle_statue"
+						]
+					},
+					{
+						"items": [
+							"netherexp:trample_gargoyle_statue"
+						]
+					},
+					{
+						"items": [
+							"netherexp:phase_gargoyle_statue"
+						]
+					},
+					{
+						"items": [
+							"netherexp:ghoul_gargoyle_statue"
+						]
+					},
+					{
+						"items": [
+							"netherexp:wretched_gargoyle_statue"
+						]
+					},
+					{
+						"items": [
+							"netherexp:sealed_gargoyle_statue"
+						]
+					},
+					{
+						"items": [
+							"netherexp:occult_gargoyle_statue"
+						]
+					},
+					{
+						"items": [
+							"netherexp:treacherous_gargoyle_statue"
+						]
+					},
+					{
+						"items": [
+							"netherexp:cirripedia_gargoyle_statue"
+						]
+					},
+					{
+						"items": [
+							"netherexp:obfuscated_gargoyle_statue"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"froglights"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "netherexp:ossified_gargoyle_statue"
+		},
+		"title": "Lorekeeper",
+		"description": "Lorekeeper"
+	}
+}

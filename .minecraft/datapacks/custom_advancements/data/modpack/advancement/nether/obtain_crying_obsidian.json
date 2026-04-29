@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:nether/root",
+	"criteria": {
+		"crying_obsidian": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:crying_obsidian"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"crying_obsidian"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:crying_obsidian"
+		},
+		"title": "Those Were the Days",
+		"description": "Enter a Bastion Remnant"
+	}
+}

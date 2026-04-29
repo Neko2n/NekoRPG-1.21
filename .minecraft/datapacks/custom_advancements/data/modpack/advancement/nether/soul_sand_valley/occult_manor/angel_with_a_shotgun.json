@@ -1,0 +1,29 @@
+{
+	"parent": "modpack:nether/soul_sand_valley/occult_manor/eldritch_manipulation",
+	"criteria": {
+		"shot_trident": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"tag": "netherexp:shotguns"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"shot_trident"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "netherexp:shotgun_fist"
+		},
+		"title": "Angel With A Shotgun",
+		"description": "Angel With A Shotgun"
+	}
+}

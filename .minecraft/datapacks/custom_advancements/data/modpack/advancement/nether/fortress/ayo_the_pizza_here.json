@@ -1,0 +1,38 @@
+{
+	"parent": "modpack:nether/fortress/pizza_hunt",
+	"criteria": {
+		"allay_deliver_item_to_player": {
+			"trigger": "minecraft:thrown_item_picked_up_by_player",
+			"conditions": {
+				"entity": [
+					{
+						"condition": "minecraft:entity_properties",
+						"entity": "this",
+						"predicate": {
+							"type": "minecraft:allay"
+						}
+					}
+				],
+				"item": {
+					"items": [
+						"netherexp:nether_pizza"
+					]
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"allay_deliver_item_to_player"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "netherexp:nether_pizza"
+		},
+		"title": "Ayo The Pizza Here",
+		"description": "Ayo The Pizza Here"
+	}
+}

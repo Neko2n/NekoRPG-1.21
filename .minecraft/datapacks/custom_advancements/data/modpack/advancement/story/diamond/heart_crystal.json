@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:story/diamond/root",
+	"criteria": {
+		"diamond": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"scalinghealth:heart_crystal"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"diamond"
+		]
+	],
+	"display": {
+		"show_toast": false,
+		"announce_to_chat": false,
+		"icon": {
+			"id": "scalinghealth:heart_crystal"
+		},
+		"title": "Empowered",
+		"description": "Restore a heart crystal from shards found deep beneath the surface"
+	}
+}

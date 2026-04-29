@@ -1,0 +1,33 @@
+{
+	"parent": "modpack:story/diamond/end/enter_the_end",
+	"criteria": {
+		"killed_dragon": {
+			"trigger": "minecraft:player_killed_entity",
+			"conditions": {
+				"entity": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"type": "minecraft:ender_dragon"
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"killed_dragon"
+		]
+	],
+	"display": {
+		"show_toast": false,
+		"announce_to_chat": false,
+		"icon": {
+			"id": "minecraft:dragon_head"
+		},
+		"title": "Free the End",
+		"description": "Defeat the "
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"parent": "modpack:end/find_ruined_citadel",
+	"criteria": {
+		"endergolem": {
+			"trigger": "minecraft:player_killed_entity",
+			"conditions": {
+				"entity": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"type": "cataclysm:ender_golem"
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"endergolem"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "cataclysm:void_core"
+		},
+		"title": "Kill Ender Golem",
+		"description": "Kill Ender Golem"
+	}
+}

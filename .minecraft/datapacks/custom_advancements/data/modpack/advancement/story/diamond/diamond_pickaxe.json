@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:story/diamond/root",
+	"criteria": {
+		"c1": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:diamond_pickaxe"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"c1"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:diamond_pickaxe"
+		},
+		"title": "Diamond is Unbreakable",
+		"description": "Craft a diamond pickaxe"
+	}
+}

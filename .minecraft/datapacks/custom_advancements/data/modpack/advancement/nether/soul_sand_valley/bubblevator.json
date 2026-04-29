@@ -1,0 +1,42 @@
+{
+	"parent": "modpack:nether/soul_sand_valley/root",
+	"criteria": {
+		"1": {
+			"trigger": "minecraft:tick",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"location": {
+								"block": {
+									"blocks": [
+										"minecraft:bubble_column"
+									],
+									"state": {
+										"drag": "false"
+									}
+								}
+							}
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"1"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:soul_sand"
+		},
+		"title": "Bubblevator",
+		"description": "Place "
+	}
+}

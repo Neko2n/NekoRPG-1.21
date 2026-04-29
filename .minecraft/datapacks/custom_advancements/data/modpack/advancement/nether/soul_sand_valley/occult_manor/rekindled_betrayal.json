@@ -1,0 +1,44 @@
+{
+	"parent": "modpack:nether/soul_sand_valley/occult_manor/root",
+	"criteria": {
+		"used_item": {
+			"trigger": "minecraft:item_used_on_block",
+			"conditions": {
+				"location": [
+					{
+						"condition": "minecraft:location_check",
+						"predicate": {
+							"block": {
+								"blocks": [
+									"netherexp:treacherous_candle"
+								]
+							}
+						}
+					},
+					{
+						"condition": "minecraft:match_tool",
+						"predicate": {
+							"items": [
+								"minecraft:flint_and_steel"
+							]
+						}
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"used_item"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "netherexp:treacherous_flame"
+		},
+		"title": "Rekindled Betrayal",
+		"description": "Rekindled Betrayal"
+	}
+}

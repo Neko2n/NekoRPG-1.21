@@ -1,0 +1,138 @@
+{
+	"parent": "modpack:nether/fortress/brewing/root",
+	"criteria": {
+		"1": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:potion"
+						]
+					}
+				]
+			}
+		},
+		"2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:potion"
+						]
+					}
+				]
+			}
+		},
+		"3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:potion"
+						]
+					}
+				]
+			}
+		},
+		"4": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:splash_potion"
+						]
+					}
+				]
+			}
+		},
+		"5": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:splash_potion"
+						]
+					}
+				]
+			}
+		},
+		"6": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:splash_potion"
+						]
+					}
+				]
+			}
+		},
+		"7": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:lingering_potion"
+						]
+					}
+				]
+			}
+		},
+		"8": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:lingering_potion"
+						]
+					}
+				]
+			}
+		},
+		"9": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:lingering_potion"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"8",
+			"9"
+		]
+	],
+	"rewards": {
+		"experience": 100
+	},
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:lingering_potion"
+		},
+		"title": "Vibe Check",
+		"description": "Vibe Check"
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"parent": "modpack:story/root",
+	"criteria": {
+		"c1": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:crafting_table",
+						"count": {
+							"min": 1
+						}
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"c1"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": false,
+		"icon": {
+			"id": "minecraft:crafting_table"
+		},
+		"title": "Crafting Time",
+		"description": "Create a Crafting Table with 4 Wood Planks"
+	}
+}

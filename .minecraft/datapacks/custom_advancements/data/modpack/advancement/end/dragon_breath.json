@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:end/kill_dragon",
+	"criteria": {
+		"dragon_breath": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:dragon_breath"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"dragon_breath"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:dragon_breath"
+		},
+		"title": "You Need a Mint",
+		"description": "Collect dragon's breath in a Glass Bottle"
+	}
+}

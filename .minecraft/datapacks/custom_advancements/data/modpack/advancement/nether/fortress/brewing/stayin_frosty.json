@@ -1,0 +1,38 @@
+{
+	"parent": "modpack:nether/fortress/brewing/root",
+	"criteria": {
+		"c1": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": {
+					"type": "minecraft:player",
+					"location": {
+						"block": {
+							"blocks": [
+								"minecraft:lava"
+							]
+						}
+					},
+					"effects": {
+						"minecraft:fire_resistance": {}
+					}
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"c1"
+		]
+	],
+	"rewards": {},
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:lava_bucket"
+		},
+		"title": "Stayin Frosty",
+		"description": "Stayin Frosty"
+	}
+}

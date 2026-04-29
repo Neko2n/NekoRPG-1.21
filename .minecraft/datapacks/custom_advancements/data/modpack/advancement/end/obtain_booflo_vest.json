@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:end/find_poise_forest",
+	"criteria": {
+		"booflo_vest": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"endergetic:booflo_vest"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"booflo_vest"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "endergetic:booflo_vest"
+		},
+		"title": "Obtain Booflo Vest",
+		"description": "Obtain Booflo Vest"
+	}
+}

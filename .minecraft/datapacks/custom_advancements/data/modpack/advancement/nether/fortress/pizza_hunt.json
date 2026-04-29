@@ -1,0 +1,32 @@
+{
+	"parent": "modpack:nether/fortress/root",
+	"criteria": {
+		"term": {
+			"trigger": "minecraft:consume_item",
+			"conditions": {
+				"item": {
+					"items": [
+						"netherexp:nether_pizza_slice"
+					]
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"term"
+		]
+	],
+	"rewards": {
+		"experience": 60
+	},
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "netherexp:nether_pizza_slice"
+		},
+		"title": "Pizza Hunt",
+		"description": "Pizza Hunt"
+	}
+}

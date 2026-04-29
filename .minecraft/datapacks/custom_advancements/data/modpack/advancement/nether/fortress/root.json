@@ -1,0 +1,36 @@
+{
+	"parent": "modpack:nether/root",
+	"criteria": {
+		"in_better_fortress": {
+			"trigger": "yungsapi:structure_location",
+			"conditions": {
+				"location": {
+					"feature": "betterfortresses:fortress"
+				}
+			}
+		},
+		"in_fortress": {
+			"trigger": "yungsapi:structure_location",
+			"conditions": {
+				"location": {
+					"feature": "minecraft:fortress"
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"in_fortress",
+			"in_better_fortress"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:nether_bricks"
+		},
+		"title": "A Terrible Fortress",
+		"description": "Break your way into a Nether Fortress"
+	}
+}

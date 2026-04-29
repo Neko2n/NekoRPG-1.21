@@ -1,0 +1,50 @@
+{
+	"parent": "modpack:end/beyond_the_clouds",
+	"criteria": {
+		"elytra": {
+			"trigger": "minecraft:tick",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"location": {
+								"position": {
+									"y": {
+										"max": -65.0
+									}
+								},
+								"dimension": "minecraft:overworld"
+							},
+							"equipment": {
+								"chest": {
+									"items": [
+										"minecraft:elytra"
+									]
+								}
+							}
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"elytra"
+		]
+	],
+	"rewards": {
+		"experience": 50
+	},
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:bedrock"
+		},
+		"title": "Soaring Below the World",
+		"description": "Fly below the Overworld's bedrock layer with your Elytra"
+	}
+}

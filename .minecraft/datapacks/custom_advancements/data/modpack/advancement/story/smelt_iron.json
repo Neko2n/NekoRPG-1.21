@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:story/upgrade_tools",
+	"criteria": {
+		"iron": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:iron_ingot"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"iron"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:iron_ingot"
+		},
+		"title": "Acquire Hardware",
+		"description": "Smelt an iron ingot"
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:end/find_end_city",
+	"criteria": {
+		"elytra": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:elytra"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"elytra"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:elytra"
+		},
+		"title": "Sky's the Limit",
+		"description": "Find and wear Elytra"
+	}
+}

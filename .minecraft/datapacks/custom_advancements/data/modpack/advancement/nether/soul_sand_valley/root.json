@@ -1,0 +1,29 @@
+{
+	"parent": "modpack:nether/explore_nether",
+	"criteria": {
+		"condition": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player": {
+					"location": {
+						"biome": "minecraft:soul_sand_valley"
+					}
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"condition"
+		]
+	],
+	"display": {
+		"show_toast": false,
+		"announce_to_chat": false,
+		"icon": {
+			"id": "minecraft:soul_sand"
+		},
+		"title": "Soul Sand Valley",
+		"description": "Explore the Soul Sand Valley biome"
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"parent": "modpack:nether/explore_nether",
+	"criteria": {
+		"earlight": {
+			"trigger": "minecraft:consume_item",
+			"conditions": {
+				"item": {
+					"items": [
+						"regions_unexplored:hanging_earlight_fruit"
+					]
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"earlight"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "regions_unexplored:hanging_earlight_fruit"
+		},
+		"title": "Light Snack",
+		"description": "Light Snack"
+	}
+}

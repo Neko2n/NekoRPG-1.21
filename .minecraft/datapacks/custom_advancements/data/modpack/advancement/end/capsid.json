@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:end/ender_flu",
+	"criteria": {
+		"capsid": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"alexsmobs:capsid"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"capsid"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "alexsmobs:capsid"
+		},
+		"title": "Capsid",
+		"description": "Capsid"
+	}
+}

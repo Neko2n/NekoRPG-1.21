@@ -1,0 +1,44 @@
+{
+	"parent": "modpack:nether/soul_sand_valley/occult_manor/rekindled_betrayal",
+	"criteria": {
+		"used_item": {
+			"trigger": "minecraft:item_used_on_block",
+			"conditions": {
+				"location": [
+					{
+						"condition": "minecraft:location_check",
+						"predicate": {
+							"block": {
+								"blocks": [
+									"netherexp:brazier_chest"
+								]
+							}
+						}
+					},
+					{
+						"condition": "minecraft:match_tool",
+						"predicate": {
+							"items": [
+								"netherexp:treacherous_flame"
+							]
+						}
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"used_item"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "netherexp:brazier_chest"
+		},
+		"title": "Eldritch Manipulation",
+		"description": "Eldritch Manipulation"
+	}
+}

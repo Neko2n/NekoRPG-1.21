@@ -1,0 +1,34 @@
+{
+  "criteria": {
+    "entered_end": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:the_end"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "entered_end"
+    ]
+  ],
+  "display": {
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true,
+    "icon": {
+      "id": "minecraft:ender_eye",
+      "count": 1
+    },
+    "title": "The End",
+    "description": "Or the beginning?"
+  },
+  "better_tab": {
+    "title": "The End",
+    "background": "minecraft:textures/gui/advancements/backgrounds/end.png",
+    "static_background": false,
+    "bg_width": 16,
+    "bg_height": 16,
+    "index": 5
+  }
+}

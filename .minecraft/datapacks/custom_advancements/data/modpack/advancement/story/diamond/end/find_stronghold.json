@@ -1,0 +1,35 @@
+{
+	"parent": "modpack:story/diamond/end/ender_eye",
+	"criteria": {
+		"0": {
+			"trigger": "minecraft:tick",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"predicate": {
+							"location": {
+								"structure": "betterstrongholds:stronghold"
+							}
+						},
+						"entity": "this"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"0"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:stone_bricks"
+		},
+		"title": "Sealed Away",
+		"description": "Discover the Stronghold"
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:story/diamond/end/root",
+	"criteria": {
+		"eye": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:ender_eye"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"eye"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:ender_eye"
+		},
+		"title": "Eye Spy",
+		"description": "Obtain an Eye of Ender"
+	}
+}

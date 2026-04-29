@@ -1,0 +1,25 @@
+{
+	"parent": "modpack:end/elytra",
+	"criteria": {
+		"elytra": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"requirements": [
+		[
+			"elytra"
+		]
+	],
+	"rewards": {
+		"experience": 50
+	},
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "minecraft:elytra"
+		},
+		"title": "Mid-Air Battle",
+		"description": "Whilst flying with your Elytra, kill 10 hostile mobs without touching the ground"
+	}
+}

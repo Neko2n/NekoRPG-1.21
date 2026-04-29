@@ -1,0 +1,31 @@
+{
+	"parent": "modpack:end/capsid",
+	"criteria": {
+		"enderiophage_rocket": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"alexsmobs:enderiophage_rocket"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"enderiophage_rocket"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": true,
+		"icon": {
+			"id": "alexsmobs:enderiophage_rocket"
+		},
+		"title": "Enderiophage Rocket",
+		"description": "Enderiophage Rocket"
+	}
+}

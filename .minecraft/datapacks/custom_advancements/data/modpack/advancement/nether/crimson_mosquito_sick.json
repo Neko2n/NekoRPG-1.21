@@ -1,0 +1,22 @@
+{
+	"parent": "modpack:nether/explore_nether",
+	"criteria": {
+		"ex": {
+			"trigger": "alexsmobs:mosquito_sick"
+		}
+	},
+	"requirements": [
+		[
+			"ex"
+		]
+	],
+	"display": {
+		"show_toast": true,
+		"announce_to_chat": false,
+		"icon": {
+			"id": "citadel:fancy_item"
+		},
+		"title": "Crimson Mosquito Sick",
+		"description": "Crimson Mosquito Sick"
+	}
+}

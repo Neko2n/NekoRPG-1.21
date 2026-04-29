@@ -1,0 +1,2244 @@
+{
+  "positions": {
+    "minecraft:story/upgrade_tools": [
+      64,
+      62
+    ],
+    "minecraft:story/smelt_iron": [
+      96,
+      124
+    ],
+    "minecraft:story/lava_bucket": [
+      128,
+      121
+    ],
+    "minecraft:story/form_obsidian": [
+      160,
+      121
+    ],
+    "minecraft:story/enter_the_nether": [
+      192,
+      121
+    ],
+    "minecraft:story/cure_zombie_villager": [
+      224,
+      108
+    ],
+    "minecraft:story/follow_ender_eye": [
+      224,
+      135
+    ],
+    "minecraft:story/enter_the_end": [
+      256,
+      135
+    ],
+    "oreganized:adventure/mirror_mirror": [
+      32,
+      972
+    ],
+    "minecraft:nether/return_to_sender": [
+      32,
+      0
+    ],
+    "minecraft:nether/find_bastion": [
+      32,
+      560
+    ],
+    "minecraft:nether/fast_travel": [
+      32,
+      587
+    ],
+    "minecraft:nether/obtain_ancient_debris": [
+      32,
+      506
+    ],
+    "minecraft:nether/uneasy_alliance": [
+      64,
+      0
+    ],
+    "minecraft:nether/netherite_armor": [
+      64,
+      519
+    ],
+    "minecraft:nether/distract_piglin": [
+      32,
+      54
+    ],
+    "minecraft:nether/loot_bastion": [
+      64,
+      560
+    ],
+    "minecraft:nether/find_fortress": [
+      32,
+      405
+    ],
+    "netherexp:nether/soul_sand_valley/soul_sand_valley": [
+      32,
+      212
+    ],
+    "minecraft:nether/obtain_crying_obsidian": [
+      32,
+      27
+    ],
+    "minecraft:nether/ride_strider": [
+      32,
+      81
+    ],
+    "netherexp:nether/add_spores_to_block": [
+      32,
+      533
+    ],
+    "netherexp:nether/soul_sand_valley/ghost_mucus": [
+      64,
+      209
+    ],
+    "netherexp:nether/soul_sand_valley/emf_raider": [
+      64,
+      121
+    ],
+    "bosses_of_mass_destruction:nether/gauntlet_defeat": [
+      32,
+      308
+    ],
+    "minecraft:nether/get_wither_skull": [
+      64,
+      344
+    ],
+    "netherexp:nether/pizza_hunt": [
+      64,
+      465
+    ],
+    "netherexp:nether/soul_sand_valley/frightening_rush": [
+      64,
+      303
+    ],
+    "minecraft:nether/use_lodestone": [
+      64,
+      492
+    ],
+    "minecraft:nether/explore_nether": [
+      64,
+      94
+    ],
+    "netherexp:nether/soul_sand_valley/enter_soul_glass": [
+      96,
+      317
+    ],
+    "minecraft:nether/obtain_blaze_rod": [
+      64,
+      425
+    ],
+    "minecraft:nether/charge_respawn_anchor": [
+      64,
+      27
+    ],
+    "netherexp:nether/soul_sand_valley/exorcism": [
+      96,
+      209
+    ],
+    "netherexp:nether/soul_sand_valley/occult_manor": [
+      96,
+      121
+    ],
+    "netherexp:nether/soul_sand_valley/rattling_remnants": [
+      64,
+      263
+    ],
+    "netherexp:nether/soul_sand_valley/ssv_sub_biomes": [
+      64,
+      236
+    ],
+    "minecraft:nether/ride_strider_in_overworld_lava": [
+      64,
+      67
+    ],
+    "netherexp:nether/soul_sand_valley/blind_shot": [
+      96,
+      290
+    ],
+    "minecraft:nether/summon_wither": [
+      96,
+      344
+    ],
+    "netherexp:nether/soul_sand_valley/gravedigger": [
+      96,
+      263
+    ],
+    "netherexp:nether/soul_sand_valley/hp_minecraftian": [
+      128,
+      114
+    ],
+    "quark:content/watcher_center": [
+      96,
+      411
+    ],
+    "netherexp:nether/soul_sand_valley/lorekeeper": [
+      160,
+      87
+    ],
+    "minecraft:nether/brew_potion": [
+      96,
+      438
+    ],
+    "netherexp:nether/soul_sand_valley/the_caduceus": [
+      128,
+      60
+    ],
+    "netherexp:nether/soul_sand_valley/sanctum_of_wax": [
+      160,
+      141
+    ],
+    "netherexp:nether/soul_sand_valley/no_skin": [
+      160,
+      114
+    ],
+    "netherexp:nether/soul_sand_valley/rekindled_betrayal": [
+      128,
+      182
+    ],
+    "netherexp:nether/soul_sand_valley/black_ice_black_everything_black": [
+      96,
+      236
+    ],
+    "netherexp:nether/soul_sand_valley/plague_doctor": [
+      160,
+      60
+    ],
+    "netherexp:nether/soul_sand_valley/eldritch_manipulation": [
+      160,
+      195
+    ],
+    "netherexp:nether/soul_sand_valley/back_with_a_vengeance": [
+      160,
+      168
+    ],
+    "minecraft:end/kill_dragon": [
+      32,
+      209
+    ],
+    "minecraft:end/dragon_breath": [
+      64,
+      182
+    ],
+    "minecraft:end/respawn_dragon": [
+      64,
+      263
+    ],
+    "minecraft:end/dragon_egg": [
+      64,
+      236
+    ],
+    "bosses_of_mass_destruction:end/obsidilith_defeat": [
+      64,
+      209
+    ],
+    "minecraft:end/enter_end_gateway": [
+      64,
+      155
+    ],
+    "the_beyond:the_beyond/gift_enadrake": [
+      96,
+      310
+    ],
+    "minecraft:end/find_end_city": [
+      96,
+      202
+    ],
+    "enderscape:craft_nebulite": [
+      96,
+      108
+    ],
+    "the_beyond:the_beyond/complete_refuge": [
+      128,
+      310
+    ],
+    "enderscape:mirror_teleport": [
+      128,
+      94
+    ],
+    "minecraft:end/levitate": [
+      128,
+      216
+    ],
+    "enderscape:long_distance": [
+      160,
+      94
+    ],
+    "enderscape:transdimensional": [
+      192,
+      94
+    ],
+    "artificers_armory:blight_use": [
+      32,
+      108
+    ],
+    "artificers_armory:netherite_blight_get": [
+      64,
+      108
+    ],
+    "artificers_armory:chime_summon": [
+      32,
+      256
+    ],
+    "artificers_armory:spirit_candle_raise_minion": [
+      32,
+      0
+    ],
+    "artificers_armory:protector_summon": [
+      64,
+      324
+    ],
+    "artificers_armory:sprig_use": [
+      32,
+      148
+    ],
+    "artificers_armory:firebrand_shoot": [
+      32,
+      27
+    ],
+    "artificers_armory:bruiser_summon": [
+      64,
+      270
+    ],
+    "artificers_armory:censer_use": [
+      32,
+      67
+    ],
+    "artificers_armory:prankster_summon": [
+      64,
+      297
+    ],
+    "artificers_armory:netherite_chime_get": [
+      64,
+      243
+    ],
+    "artificers_armory:netherite_spirit_candle_get": [
+      64,
+      0
+    ],
+    "artificers_armory:healer_summon": [
+      64,
+      216
+    ],
+    "artificers_armory:netherite_sprig_get": [
+      64,
+      162
+    ],
+    "artificers_armory:netherite_firebrand_get": [
+      64,
+      27
+    ],
+    "artificers_armory:mandrake_summon": [
+      64,
+      135
+    ],
+    "artificers_armory:calling_card_get": [
+      64,
+      189
+    ],
+    "artificers_armory:censer_golem_create": [
+      64,
+      81
+    ],
+    "artificers_armory:netherite_censer_get": [
+      64,
+      54
+    ],
+    "mowziesmobs:kill_naga": [
+      32,
+      81
+    ],
+    "mowziesmobs:kill_grottol": [
+      32,
+      175
+    ],
+    "mowziesmobs:kill_bluff": [
+      32,
+      202
+    ],
+    "mowziesmobs:kill_frostmaw": [
+      32,
+      256
+    ],
+    "mowziesmobs:sculptor_challenge": [
+      32,
+      54
+    ],
+    "mowziesmobs:kill_elokosa_howler": [
+      32,
+      229
+    ],
+    "mowziesmobs:kill_umvuthi": [
+      32,
+      135
+    ],
+    "mowziesmobs:kill_foliaath": [
+      32,
+      0
+    ],
+    "mowziesmobs:kill_umvuthana_raptor": [
+      32,
+      108
+    ],
+    "mowziesmobs:kill_ferrous_wroughtnaut": [
+      32,
+      27
+    ],
+    "mowziesmobs:sculptor_failure": [
+      64,
+      54
+    ],
+    "darkerdepths:visited/molten_cavern": [
+      32,
+      94
+    ],
+    "darkerdepths:visited/glowshroom_forest": [
+      32,
+      0
+    ],
+    "darkerdepths:visited/sandy_catacombs": [
+      32,
+      40
+    ],
+    "darkerdepths:activities/obtain_glowshroom_cap": [
+      64,
+      0
+    ],
+    "darkerdepths:visited/structure/visited_catacombs": [
+      64,
+      27
+    ],
+    "darkerdepths:activities/bottle_void_soul": [
+      64,
+      54
+    ],
+    "darkerdepths:activities/elytra_boosted_by_geyser": [
+      64,
+      108
+    ],
+    "darkerdepths:activities/insert_diamond_into_crystal_husk": [
+      64,
+      81
+    ],
+    "betterdungeons:all_dungeons": [
+      32,
+      27
+    ],
+    "betterdungeons:spider_dungeon": [
+      32,
+      0
+    ],
+    "betterdungeons:small_dungeon": [
+      32,
+      135
+    ],
+    "betterdungeons:zombie_dungeon": [
+      32,
+      54
+    ],
+    "betterdungeons:skeleton_dungeon": [
+      32,
+      81
+    ],
+    "betterdeserttemples:temple_entry": [
+      32,
+      0
+    ],
+    "betterdeserttemples:temple_clear": [
+      64,
+      0
+    ],
+    "yungscavebiomes:lost_caves": [
+      32,
+      81
+    ],
+    "yungscavebiomes:frosted_caves": [
+      32,
+      13
+    ],
+    "yungscavebiomes:the_snack_that_bites_back": [
+      64,
+      108
+    ],
+    "yungscavebiomes:frost_potion": [
+      64,
+      0
+    ],
+    "yungscavebiomes:mine_enchanted_ice": [
+      64,
+      27
+    ],
+    "yungscavebiomes:sandstorm_end": [
+      64,
+      54
+    ],
+    "farmersdelight:main/get_fd_seed": [
+      32,
+      162
+    ],
+    "farmersdelight:main/place_campfire": [
+      32,
+      13
+    ],
+    "farmersdelight:main/craft_knife": [
+      32,
+      81
+    ],
+    "farmersdelight:main/harvest_ropelogged_tomato": [
+      64,
+      162
+    ],
+    "farmersdelight:main/place_cooking_pot": [
+      64,
+      0
+    ],
+    "farmersdelight:main/plant_rice": [
+      64,
+      189
+    ],
+    "farmersdelight:main/get_mushroom_colony": [
+      64,
+      135
+    ],
+    "farmersdelight:main/use_cutting_board": [
+      64,
+      81
+    ],
+    "farmersdelight:main/use_skillet": [
+      64,
+      27
+    ],
+    "farmersdelight:main/harvest_straw": [
+      64,
+      54
+    ],
+    "farmersdelight:main/get_ham": [
+      64,
+      108
+    ],
+    "aether:enter_aether": [
+      32,
+      81
+    ],
+    "deep_aether:explore_aether": [
+      64,
+      81
+    ],
+    "aether:zanite": [
+      64,
+      135
+    ],
+    "aether:read_lore": [
+      64,
+      108
+    ],
+    "deep_aether:transform_poison": [
+      64,
+      54
+    ],
+    "aether:blue_aercloud": [
+      64,
+      27
+    ],
+    "aether:craft_altar": [
+      96,
+      135
+    ],
+    "aether:mount_phyg": [
+      96,
+      40
+    ],
+    "aether:obtain_egg": [
+      96,
+      13
+    ],
+    "minecraft:story/obtain_armor": [
+      128,
+      148
+    ],
+    "minecraft:story/deflect_arrow": [
+      160,
+      148
+    ],
+    "minecraft:story/iron_tools": [
+      128,
+      47
+    ],
+    "oreganized:story/melting_point": [
+      96,
+      243
+    ],
+    "quark:content/get_all_corundum": [
+      128,
+      216
+    ],
+    "irons_spellbooks:make_inscription_table": [
+      64,
+      104
+    ],
+    "oreganized:story/like_the_romans": [
+      96,
+      20
+    ],
+    "minecraft:story/mine_diamond": [
+      160,
+      81
+    ],
+    "oreganized:story/disc_smith": [
+      128,
+      243
+    ],
+    "oreganized:story/obtain_silver": [
+      160,
+      13
+    ],
+    "shieldexp:get_diamond_shield": [
+      192,
+      148
+    ],
+    "minecraft:story/shiny_gear": [
+      192,
+      81
+    ],
+    "oreganized:story/profound_brain_damage": [
+      128,
+      20
+    ],
+    "minecraft:story/enchant_item": [
+      192,
+      108
+    ],
+    "quark:content/apply_color_rune": [
+      224,
+      94
+    ],
+    "shieldexp:get_netherite_shield": [
+      224,
+      148
+    ],
+    "quark:content/overlevel_enchant": [
+      224,
+      121
+    ],
+    "oreganized:story/electrum_gear": [
+      192,
+      27
+    ],
+    "oreganized:adventure/terminal_velocity": [
+      192,
+      0
+    ],
+    "quark:content/throw_pickarang": [
+      192,
+      54
+    ],
+    "quark:content/instamine_deepslate": [
+      256,
+      121
+    ],
+    "quark:content/wear_full_rainbow": [
+      256,
+      94
+    ],
+    "quark:content/retreive_flamerang": [
+      224,
+      54
+    ],
+    "minecraft:husbandry/safely_harvest_honey": [
+      32,
+      1053
+    ],
+    "minecraft:primal/get_eagle_egg": [
+      32,
+      189
+    ],
+    "buzzier_bees:husbandry/use_honey_bread": [
+      64,
+      1093
+    ],
+    "minecraft:primal/snake_fill_bottle": [
+      32,
+      162
+    ],
+    "minecraft:husbandry/breed_an_animal": [
+      32,
+      621
+    ],
+    "minecraft:husbandry/ride_a_boat_with_a_goat": [
+      32,
+      1026
+    ],
+    "minecraft:husbandry/tame_an_animal": [
+      32,
+      405
+    ],
+    "minecraft:primal/snake_chest": [
+      32,
+      216
+    ],
+    "minecraft:primal/give_petrified_fruit": [
+      32,
+      27
+    ],
+    "minecraft:husbandry/remove_wolf_armor": [
+      64,
+      378
+    ],
+    "minecraft:primal/tame_walrus": [
+      64,
+      297
+    ],
+    "buzzier_bees:husbandry/use_honey_apple": [
+      64,
+      1012
+    ],
+    "minecraft:husbandry/bred_all_animals": [
+      64,
+      648
+    ],
+    "buzzier_bees:husbandry/use_glazed_porkchop": [
+      64,
+      1066
+    ],
+    "minecraft:primal/all_exotic_fruits": [
+      64,
+      27
+    ],
+    "upgrade_aquatic:husbandry/eat_pickerelweed": [
+      32,
+      945
+    ],
+    "minecraft:primal/punch_crocodile": [
+      32,
+      837
+    ],
+    "minecraft:husbandry/obtain_sniffer_egg": [
+      32,
+      783
+    ],
+    "minecraft:primal/walrus_plays": [
+      32,
+      891
+    ],
+    "minecraft:husbandry/plant_seed": [
+      32,
+      243
+    ],
+    "quark:content/ancient_apple_overlevel": [
+      64,
+      270
+    ],
+    "minecraft:primal/clock_croc": [
+      32,
+      810
+    ],
+    "minecraft:husbandry/balanced_diet": [
+      64,
+      243
+    ],
+    "minecraft:primal/eagle_attacks_snake": [
+      32,
+      756
+    ],
+    "quark:content/throw_parrot_egg": [
+      64,
+      675
+    ],
+    "minecraft:primal/swim_with_shark": [
+      32,
+      594
+    ],
+    "minecraft:primal/eat_apple_fritter": [
+      32,
+      702
+    ],
+    "minecraft:primal/survive_shark": [
+      32,
+      675
+    ],
+    "minecraft:husbandry/allay_deliver_item_to_player": [
+      32,
+      81
+    ],
+    "minecraft:primal/get_cassowary_egg": [
+      32,
+      0
+    ],
+    "minecraft:husbandry/make_a_sign_glow": [
+      32,
+      918
+    ],
+    "oreganized:husbandry/shake_it_off": [
+      32,
+      540
+    ],
+    "minecraft:husbandry/whole_pack": [
+      64,
+      432
+    ],
+    "minecraft:primal/tickle_crocodile": [
+      32,
+      729
+    ],
+    "ecologics:husbandry/breed_penguin": [
+      64,
+      567
+    ],
+    "minecraft:primal/deer_disc": [
+      32,
+      108
+    ],
+    "minecraft:husbandry/fishy_business": [
+      32,
+      864
+    ],
+    "minecraft:primal/kill_captain": [
+      32,
+      472
+    ],
+    "minecraft:primal/feed_shark": [
+      32,
+      54
+    ],
+    "overweight_farming:husbandry/peel_overweight_onion": [
+      32,
+      567
+    ],
+    "oreganized:husbandry/groovy": [
+      32,
+      999
+    ],
+    "minecraft:husbandry/silk_touch_nest": [
+      32,
+      648
+    ],
+    "minecraft:husbandry/tadpole_in_a_bucket": [
+      32,
+      135
+    ],
+    "quark:content/shiba_help": [
+      64,
+      513
+    ],
+    "overweight_farming:husbandry/unpeel_vegetables": [
+      32,
+      972
+    ],
+    "minecraft:primal/tame_lion": [
+      64,
+      351
+    ],
+    "minecraft:primal/tame_all_birds": [
+      64,
+      459
+    ],
+    "minecraft:husbandry/allay_deliver_cake_to_note_block": [
+      64,
+      81
+    ],
+    "minecraft:husbandry/wax_on": [
+      64,
+      1039
+    ],
+    "ecologics:husbandry/sandcastle": [
+      64,
+      594
+    ],
+    "minecraft:primal/tame_bear": [
+      64,
+      486
+    ],
+    "quark:content/poison_baby": [
+      64,
+      621
+    ],
+    "minecraft:husbandry/complete_catalogue": [
+      64,
+      405
+    ],
+    "minecraft:husbandry/repair_wolf_armor": [
+      64,
+      324
+    ],
+    "minecraft:husbandry/tactical_fishing": [
+      64,
+      864
+    ],
+    "minecraft:husbandry/feed_snifflet": [
+      64,
+      783
+    ],
+    "minecraft:primal/lion_nap": [
+      96,
+      351
+    ],
+    "minecraft:husbandry/obtain_netherite_hoe": [
+      64,
+      216
+    ],
+    "minecraft:husbandry/plant_any_sniffer_seed": [
+      96,
+      783
+    ],
+    "minecraft:husbandry/axolotl_in_a_bucket": [
+      96,
+      864
+    ],
+    "upgrade_aquatic:adventure/collect_all_pike": [
+      96,
+      891
+    ],
+    "oreganized:husbandry/thermal_shock": [
+      64,
+      540
+    ],
+    "minecraft:husbandry/leash_all_frog_variants": [
+      64,
+      135
+    ],
+    "minecraft:husbandry/wax_off": [
+      96,
+      1039
+    ],
+    "quark:content/crab_in_a_bucket": [
+      96,
+      837
+    ],
+    "minecraft:primal/tame_all_bears": [
+      96,
+      486
+    ],
+    "minecraft:husbandry/kill_axolotl_target": [
+      128,
+      864
+    ],
+    "minecraft:husbandry/froglights": [
+      96,
+      135
+    ],
+    "minecraft:nether/create_beacon": [
+      128,
+      553
+    ],
+    "upgrade_aquatic:nether/vibe_check": [
+      128,
+      391
+    ],
+    "upgrade_aquatic:nether/sleepless_slave": [
+      128,
+      445
+    ],
+    "netherexp:nether/soul_sand_valley/angel_with_a_shotgun": [
+      192,
+      378
+    ],
+    "minecraft:nether/create_full_beacon": [
+      160,
+      540
+    ],
+    "netherexp:nether/ayo_the_pizza_here": [
+      96,
+      519
+    ],
+    "minecraft:nether/all_potions": [
+      128,
+      418
+    ],
+    "netherexp:nether/soul_sand_valley/rodeo_stampede": [
+      128,
+      135
+    ],
+    "netherexp:nether/soul_sand_valley/non_renewable_yeah_right": [
+      128,
+      216
+    ],
+    "netherexp:nether/brain_food": [
+      96,
+      27
+    ],
+    "netherexp:nether/soul_sand_valley/guns_for_hands": [
+      224,
+      364
+    ],
+    "quark:content/redirect_beacon": [
+      160,
+      567
+    ],
+    "netherexp:nether/soul_sand_valley/the_nether_is_full": [
+      224,
+      391
+    ],
+    "netherexp:nether/overkill": [
+      128,
+      499
+    ],
+    "netherexp:nether/soul_sand_valley/froghorn": [
+      128,
+      162
+    ],
+    "netherexp:nether/stayin_frosty": [
+      128,
+      526
+    ],
+    "quark:content/tame_foxhound": [
+      128,
+      472
+    ],
+    "quark:content/foxhound_speed_up_furnace": [
+      160,
+      472
+    ],
+    "minecraft:nether/all_effects": [
+      160,
+      418
+    ],
+    "netherexp:nether/soul_sand_valley/ultra_overkill": [
+      256,
+      391
+    ],
+    "enderscape:rustle_bucket": [
+      96,
+      175
+    ],
+    "enderscape:bottle_drift_jelly": [
+      96,
+      202
+    ],
+    "enderscape:drift_leggings": [
+      128,
+      202
+    ],
+    "the_beyond:the_beyond/full_power_magnet": [
+      96,
+      148
+    ],
+    "enderscape:pull_item_with_attractor": [
+      128,
+      256
+    ],
+    "quark:content/use_viaduct": [
+      96,
+      121
+    ],
+    "enderscape:unlock_end_vault": [
+      128,
+      283
+    ],
+    "the_beyond:the_beyond/befriend_lantern": [
+      96,
+      27
+    ],
+    "enderscape:explore_end": [
+      96,
+      94
+    ],
+    "minecraft:end/elytra": [
+      160,
+      283
+    ],
+    "the_beyond:the_beyond/offering_remembered": [
+      96,
+      67
+    ],
+    "the_beyond:the_beyond/ectoplasmic_ignition": [
+      128,
+      13
+    ],
+    "enderscape:glide_onto_drifter": [
+      160,
+      202
+    ],
+    "the_beyond:the_beyond/brush_lantern": [
+      128,
+      40
+    ],
+    "the_beyond:the_beyond/ectoplasmic_ignition_2": [
+      160,
+      27
+    ],
+    "the_beyond:the_beyond/sacred_passage": [
+      128,
+      67
+    ],
+    "the_beyond:the_beyond/pass_the_torch": [
+      160,
+      0
+    ],
+    "the_beyond:the_beyond/memories_returned": [
+      160,
+      67
+    ],
+    "the_beyond:the_beyond/so_below": [
+      192,
+      67
+    ],
+    "the_beyond:the_beyond/defying_the_void": [
+      192,
+      0
+    ],
+    "the_beyond:the_beyond/as_above": [
+      224,
+      67
+    ],
+    "yungscavebiomes:poke_the_cactus": [
+      64,
+      54
+    ],
+    "alexsmobs:alexsmobs/tame_bald_eagle": [
+      32,
+      256
+    ],
+    "alexsmobs:alexsmobs/sunbird_blessing": [
+      32,
+      283
+    ],
+    "alexsmobs:alexsmobs/falconry_glove": [
+      64,
+      256
+    ],
+    "alexsmobs:alexsmobs/tame_mantis_shrimp": [
+      32,
+      1093
+    ],
+    "alexsmobs:alexsmobs/tarantula_hawk": [
+      32,
+      877
+    ],
+    "alexsmobs:alexsmobs/seagull_steal": [
+      32,
+      175
+    ],
+    "alexsmobs:alexsmobs/maned_wolf_apple": [
+      32,
+      229
+    ],
+    "alexsmobs:alexsmobs/stomp_leafcutter_anthill": [
+      32,
+      121
+    ],
+    "alexsmobs:alexsmobs/tigers_blessing": [
+      32,
+      391
+    ],
+    "alexsmobs:alexsmobs/rainbow_jelly": [
+      32,
+      445
+    ],
+    "alexsmobs:alexsmobs/murmur": [
+      32,
+      54
+    ],
+    "alexsmobs:alexsmobs/banana": [
+      32,
+      364
+    ],
+    "alexsmobs:alexsmobs/tame_flutter": [
+      32,
+      850
+    ],
+    "alexsmobs:alexsmobs/tame_capuchin": [
+      64,
+      364
+    ],
+    "alexsmobs:alexsmobs/grizzly_bear": [
+      32,
+      27
+    ],
+    "alexsmobs:alexsmobs/gongylidia": [
+      64,
+      121
+    ],
+    "alexsmobs:alexsmobs/straddler": [
+      32,
+      823
+    ],
+    "alexsmobs:alexsmobs/guster": [
+      32,
+      81
+    ],
+    "alexsmobs:alexsmobs/laviathan_spyglass": [
+      32,
+      418
+    ],
+    "alexsmobs:alexsmobs/crocodile": [
+      32,
+      945
+    ],
+    "alexsmobs:alexsmobs/acacia_blossom": [
+      32,
+      472
+    ],
+    "alexsmobs:alexsmobs/tame_elephant": [
+      64,
+      472
+    ],
+    "alexsmobs:alexsmobs/lost_tentacle": [
+      32,
+      985
+    ],
+    "alexsmobs:alexsmobs/skreecher": [
+      32,
+      607
+    ],
+    "alexsmobs:alexsmobs/tame_grizzly_bear": [
+      64,
+      27
+    ],
+    "alexsmobs:alexsmobs/elephant_swag": [
+      96,
+      486
+    ],
+    "alexsmobs:alexsmobs/froststalker_kill": [
+      32,
+      769
+    ],
+    "alexsmobs:alexsmobs/skelewag": [
+      32,
+      526
+    ],
+    "alexsmobs:alexsmobs/breed_hummingbird": [
+      32,
+      580
+    ],
+    "alexsmobs:alexsmobs/tame_gorilla": [
+      64,
+      337
+    ],
+    "alexsmobs:alexsmobs/falconry_hood": [
+      96,
+      256
+    ],
+    "alexsmobs:alexsmobs/kangaroo": [
+      32,
+      0
+    ],
+    "alexsmobs:alexsmobs/tame_elephant_tusked": [
+      96,
+      459
+    ],
+    "alexsmobs:alexsmobs/mantis_shrimp_bucket": [
+      64,
+      1093
+    ],
+    "alexsmobs:alexsmobs/bald_eagle_challenge": [
+      128,
+      256
+    ],
+    "alexsmobs:alexsmobs/underminer": [
+      32,
+      148
+    ],
+    "alexsmobs:alexsmobs/bison_spyglass": [
+      32,
+      337
+    ],
+    "alexsmobs:alexsmobs/skunk": [
+      32,
+      742
+    ],
+    "alexsmobs:alexsmobs/tame_tarantula_hawk": [
+      64,
+      877
+    ],
+    "alexsmobs:alexsmobs/ghostly_pickaxe": [
+      64,
+      148
+    ],
+    "alexsmobs:alexsmobs/crimson_mosquito": [
+      32,
+      1039
+    ],
+    "alexsmobs:alexsmobs/save_cachalot_whale": [
+      32,
+      310
+    ],
+    "alexsmobs:alexsmobs/enderiophage": [
+      32,
+      648
+    ],
+    "alexsmobs:alexsmobs/orcas_might": [
+      32,
+      553
+    ],
+    "alexsmobs:alexsmobs/leafcutter_ant_pupa": [
+      96,
+      121
+    ],
+    "alexsmobs:alexsmobs/emu": [
+      64,
+      0
+    ],
+    "alexsmobs:alexsmobs/stradpole_feed": [
+      64,
+      823
+    ],
+    "alexsmobs:alexsmobs/rattlesnake": [
+      32,
+      202
+    ],
+    "alexsmobs:alexsmobs/soul_vulture": [
+      32,
+      904
+    ],
+    "alexsmobs:alexsmobs/rocky_roller": [
+      32,
+      715
+    ],
+    "alexsmobs:alexsmobs/banana_slug": [
+      64,
+      391
+    ],
+    "alexsmobs:alexsmobs/skelewag_skull": [
+      64,
+      513
+    ],
+    "alexsmobs:alexsmobs/alligator_snapping_turtle": [
+      64,
+      931
+    ],
+    "alexsmobs:alexsmobs/rocky_shell": [
+      64,
+      715
+    ],
+    "alexsmobs:alexsmobs/maraca": [
+      64,
+      202
+    ],
+    "alexsmobs:alexsmobs/sculk_boomer": [
+      64,
+      607
+    ],
+    "alexsmobs:alexsmobs/rainbow_glass": [
+      64,
+      445
+    ],
+    "alexsmobs:alexsmobs/pocket_sand": [
+      64,
+      67
+    ],
+    "alexsmobs:alexsmobs/straddleboard": [
+      64,
+      850
+    ],
+    "alexsmobs:alexsmobs/spiked_scute": [
+      96,
+      931
+    ],
+    "alexsmobs:alexsmobs/sopa_de_macaco": [
+      96,
+      364
+    ],
+    "alexsmobs:alexsmobs/breed_crocodile": [
+      64,
+      958
+    ],
+    "alexsmobs:alexsmobs/ender_flu": [
+      64,
+      634
+    ],
+    "alexsmobs:alexsmobs/crimson_mosquito_larva": [
+      64,
+      1066
+    ],
+    "alexsmobs:alexsmobs/fish_bones": [
+      64,
+      540
+    ],
+    "alexsmobs:alexsmobs/echolocator": [
+      64,
+      310
+    ],
+    "alexsmobs:alexsmobs/squid_grapple": [
+      64,
+      985
+    ],
+    "alexsmobs:alexsmobs/gustmaker": [
+      64,
+      94
+    ],
+    "alexsmobs:alexsmobs/crimson_mosquito_sick": [
+      64,
+      1039
+    ],
+    "alexsmobs:alexsmobs/capsid": [
+      64,
+      661
+    ],
+    "alexsmobs:alexsmobs/la_cucaracha": [
+      96,
+      202
+    ],
+    "alexsmobs:alexsmobs/straddle_saddle": [
+      64,
+      796
+    ],
+    "alexsmobs:alexsmobs/emu_dodge": [
+      96,
+      0
+    ],
+    "alexsmobs:alexsmobs/froststalker_helmet": [
+      64,
+      769
+    ],
+    "alexsmobs:alexsmobs/hummingbird_feeder": [
+      64,
+      580
+    ],
+    "alexsmobs:alexsmobs/breed_anteater": [
+      128,
+      121
+    ],
+    "alexsmobs:alexsmobs/rocky_chestplate": [
+      96,
+      715
+    ],
+    "alexsmobs:alexsmobs/strange_fish_finder": [
+      96,
+      540
+    ],
+    "alexsmobs:alexsmobs/stink_bottle": [
+      64,
+      742
+    ],
+    "alexsmobs:alexsmobs/blood_sprayer": [
+      64,
+      1012
+    ],
+    "alexsmobs:alexsmobs/warped_mosco_kill": [
+      96,
+      1039
+    ],
+    "alexsmobs:alexsmobs/soul_heart": [
+      64,
+      904
+    ],
+    "alexsmobs:alexsmobs/novelty_hat": [
+      96,
+      513
+    ],
+    "alexsmobs:alexsmobs/cosmic_cod": [
+      96,
+      634
+    ],
+    "alexsmobs:alexsmobs/crocodile_chestplate": [
+      96,
+      958
+    ],
+    "alexsmobs:alexsmobs/spectre": [
+      96,
+      904
+    ],
+    "alexsmobs:alexsmobs/spiked_turtle_shell": [
+      128,
+      931
+    ],
+    "alexsmobs:alexsmobs/breed_froststalker": [
+      96,
+      769
+    ],
+    "alexsmobs:alexsmobs/mysterious_worm": [
+      96,
+      688
+    ],
+    "alexsmobs:alexsmobs/tame_warped_toad": [
+      96,
+      1066
+    ],
+    "alexsmobs:alexsmobs/hemolymph_blaster": [
+      128,
+      1039
+    ],
+    "alexsmobs:alexsmobs/stink_ray": [
+      96,
+      742
+    ],
+    "alexsmobs:alexsmobs/endolocator": [
+      96,
+      310
+    ],
+    "alexsmobs:alexsmobs/enderiophage_rocket": [
+      96,
+      661
+    ],
+    "alexsmobs:alexsmobs/devils_hole_pupfish_bucket": [
+      128,
+      540
+    ],
+    "alexsmobs:alexsmobs/tame_cosmaw": [
+      128,
+      634
+    ],
+    "alexsmobs:alexsmobs/void_worm_summon": [
+      128,
+      688
+    ],
+    "alexsmobs:alexsmobs/void_worm_split": [
+      160,
+      702
+    ],
+    "alexsmobs:alexsmobs/laviathan_four_passengers": [
+      96,
+      796
+    ],
+    "alexsmobs:alexsmobs/void_worm_kill": [
+      160,
+      675
+    ],
+    "alexsmobs:alexsmobs/dimensional_carver": [
+      192,
+      675
+    ],
+    "alexsmobs:alexsmobs/shattered_dimensional_carver": [
+      224,
+      675
+    ],
+    "alexsmobs:alexsmobs/farseer": [
+      256,
+      675
+    ],
+    "alexsmobs:alexsmobs/transmutation_table": [
+      288,
+      675
+    ],
+    "alexsmobs:alexsmobs/transmute_1000_items": [
+      320,
+      675
+    ],
+    "irons_spellbooks:irons_spellbooks/staff_root": [
+      32,
+      297
+    ],
+    "irons_spellbooks:irons_spellbooks/steal_from_wizard": [
+      32,
+      0
+    ],
+    "irons_spellbooks:irons_spellbooks/make_wayward_compass": [
+      32,
+      27
+    ],
+    "irons_spellbooks:irons_spellbooks/staff_ice": [
+      64,
+      351
+    ],
+    "irons_spellbooks:irons_spellbooks/staff_lightning_rod": [
+      64,
+      324
+    ],
+    "irons_spellbooks:irons_spellbooks/spell_book_equip": [
+      32,
+      148
+    ],
+    "irons_spellbooks:irons_spellbooks/spell_book_rotten": [
+      64,
+      162
+    ],
+    "irons_spellbooks:irons_spellbooks/make_inscription_table": [
+      32,
+      54
+    ],
+    "irons_spellbooks:irons_spellbooks/staff_blood_staff": [
+      64,
+      270
+    ],
+    "irons_spellbooks:irons_spellbooks/enter_catacombs": [
+      64,
+      27
+    ],
+    "irons_spellbooks:irons_spellbooks/make_scroll_forge": [
+      64,
+      54
+    ],
+    "irons_spellbooks:irons_spellbooks/staff_artificer": [
+      64,
+      243
+    ],
+    "irons_spellbooks:irons_spellbooks/staff_pyrium": [
+      64,
+      297
+    ],
+    "irons_spellbooks:irons_spellbooks/ink_root": [
+      32,
+      378
+    ],
+    "irons_spellbooks:irons_spellbooks/spell_book_dead_king": [
+      64,
+      135
+    ],
+    "irons_spellbooks:irons_spellbooks/spell_book_evoker": [
+      64,
+      81
+    ],
+    "irons_spellbooks:irons_spellbooks/spell_book_blaze": [
+      64,
+      216
+    ],
+    "irons_spellbooks:irons_spellbooks/ink_legendary": [
+      64,
+      378
+    ],
+    "irons_spellbooks:irons_spellbooks/spell_book_villager": [
+      64,
+      108
+    ],
+    "irons_spellbooks:irons_spellbooks/spell_book_druidic": [
+      96,
+      162
+    ],
+    "irons_spellbooks:irons_spellbooks/spell_book_iron": [
+      64,
+      189
+    ],
+    "irons_spellbooks:irons_spellbooks/make_arcane_anvil": [
+      96,
+      54
+    ],
+    "irons_spellbooks:irons_spellbooks/spell_book_gold": [
+      96,
+      189
+    ],
+    "irons_spellbooks:irons_spellbooks/spell_book_diamond": [
+      128,
+      189
+    ],
+    "irons_spellbooks:irons_spellbooks/spell_book_dragon": [
+      160,
+      175
+    ],
+    "irons_spellbooks:irons_spellbooks/spell_book_netherite": [
+      160,
+      229
+    ],
+    "irons_spellbooks:irons_spellbooks/spell_book_frostbranded": [
+      160,
+      148
+    ],
+    "irons_spellbooks:irons_spellbooks/spell_book_blood": [
+      160,
+      202
+    ],
+    "block_factorys_bosses:kill_boss_under_minute": [
+      32,
+      108
+    ],
+    "block_factorys_bosses:kill_sandworm": [
+      32,
+      81
+    ],
+    "block_factorys_bosses:kill_yeti": [
+      32,
+      54
+    ],
+    "block_factorys_bosses:no_hit_yeti": [
+      64,
+      54
+    ],
+    "block_factorys_bosses:kill_all_bosses": [
+      64,
+      108
+    ],
+    "block_factorys_bosses:kill_underworld_knight": [
+      32,
+      27
+    ],
+    "block_factorys_bosses:kill_dragon": [
+      32,
+      0
+    ],
+    "block_factorys_bosses:no_hit_sandworm": [
+      64,
+      81
+    ],
+    "block_factorys_bosses:no_hit_underworld_knight": [
+      64,
+      27
+    ],
+    "block_factorys_bosses:no_hit_dragon": [
+      64,
+      0
+    ],
+    "fieldguide:first_discovery": [
+      32,
+      94
+    ],
+    "fieldguide:monster_hunter": [
+      64,
+      135
+    ],
+    "fieldguide:mushroom_collector": [
+      64,
+      108
+    ],
+    "fieldguide:let_him_cook": [
+      64,
+      0
+    ],
+    "fieldguide:animal_expert": [
+      64,
+      162
+    ],
+    "fieldguide:invisible_scan": [
+      64,
+      81
+    ],
+    "fieldguide:quick_review": [
+      64,
+      54
+    ],
+    "fieldguide:gem_alert": [
+      64,
+      189
+    ],
+    "fieldguide:enderman_scan": [
+      64,
+      27
+    ],
+    "mo_bubbles:weird_friend": [
+      32,
+      0
+    ],
+    "mo_bubbles:fireproof": [
+      32,
+      27
+    ],
+    "minecraft:story/root": [
+      0,
+      0
+    ],
+    "minecraft:new_advancement": [
+      179,
+      92
+    ],
+    "minecraft:story/time_to_craft": [
+      43,
+      0
+    ],
+    "minecraft:story/mine_stone": [
+      64,
+      268
+    ],
+    "minecraft:story/food": [
+      96,
+      347
+    ],
+    "minecraft:story/craft_chest": [
+      64,
+      388
+    ],
+    "minecraft:story/kill_a_mob": [
+      128,
+      334
+    ],
+    "minecraft:story/obtain_sack": [
+      96,
+      401
+    ],
+    "minecraft:story/bundle": [
+      96,
+      374
+    ],
+    "minecraft:story/sleep_in_bed": [
+      128,
+      361
+    ],
+    "minecraft:story/diamond/root": [
+      192,
+      330
+    ],
+    "minecraft:story/diamond/a_ender_pearl": [
+      224,
+      297
+    ],
+    "minecraft:story/diamond/end/root": [
+      256,
+      297
+    ],
+    "minecraft:story/diamond/end/ender_eye": [
+      288,
+      297
+    ],
+    "minecraft:story/diamond/end/find_stronghold": [
+      320,
+      297
+    ],
+    "minecraft:story/diamond/end/enter_the_end": [
+      352,
+      297
+    ],
+    "minecraft:story/diamond/end/kill_dragon": [
+      384,
+      297
+    ],
+    "modpack:story/root": [
+      0,
+      118
+    ],
+    "modpack:story/time_to_craft": [
+      32,
+      118
+    ],
+    "modpack:story/mine_stone": [
+      64,
+      87
+    ],
+    "modpack:story/craft_chest": [
+      64,
+      153
+    ],
+    "modpack:story/upgrade_tools": [
+      96,
+      72
+    ],
+    "modpack:story/smelt_iron": [
+      128,
+      72
+    ],
+    "modpack:story/iron_tools": [
+      160,
+      118
+    ],
+    "modpack:story/diamond/root": [
+      191,
+      118
+    ],
+    "modpack:story/diamond/a_ender_pearl": [
+      224,
+      118
+    ],
+    "modpack:story/diamond/end/root": [
+      257,
+      118
+    ],
+    "modpack:story/diamond/end/ender_eye": [
+      290,
+      118
+    ],
+    "modpack:story/diamond/end/find_stronghold": [
+      323,
+      118
+    ],
+    "modpack:story/diamond/end/enter_the_end": [
+      356,
+      118
+    ],
+    "modpack:story/diamond/end/kill_dragon": [
+      389,
+      118
+    ],
+    "modpack:story/diamond/diamond_pickaxe": [
+      224,
+      85
+    ],
+    "modpack:story/diamond/form_obsidian": [
+      257,
+      85
+    ],
+    "modpack:story/diamond/enchant_item": [
+      290,
+      52
+    ],
+    "modpack:story/diamond/lvl30": [
+      323,
+      52
+    ],
+    "modpack:nether/root": [
+      0,
+      189
+    ],
+    "modpack:nether/ride_strider": [
+      32,
+      121
+    ],
+    "modpack:nether/explore_nether": [
+      64,
+      108
+    ],
+    "modpack:nether/soul_sand_valley/root": [
+      96,
+      202
+    ],
+    "modpack:nether/blood_sprayer": [
+      96,
+      141
+    ],
+    "modpack:nether/soul_sand_valley/emf_raider": [
+      128,
+      236
+    ],
+    "modpack:nether/soul_sand_valley/frightening_rush": [
+      128,
+      162
+    ],
+    "modpack:nether/soul_sand_valley/soul_heart": [
+      128,
+      135
+    ],
+    "modpack:nether/brain_food": [
+      96,
+      81
+    ],
+    "modpack:nether/straddle_saddle": [
+      96,
+      13
+    ],
+    "modpack:nether/crimson_mosquito_sick": [
+      96,
+      54
+    ],
+    "modpack:nether/soul_sand_valley/enter_soul_glass": [
+      160,
+      148
+    ],
+    "modpack:nether/bastion/root": [
+      32,
+      67
+    ],
+    "modpack:nether/bastion/distract_piglin": [
+      64,
+      54
+    ],
+    "modpack:nether/soul_sand_valley/ssv_sub_biomes": [
+      128,
+      108
+    ],
+    "modpack:nether/bastion/loot_bastion": [
+      64,
+      81
+    ],
+    "modpack:nether/soul_sand_valley/bubblevator": [
+      128,
+      266
+    ],
+    "modpack:nether/soul_sand_valley/ghost_mucus": [
+      128,
+      297
+    ],
+    "modpack:nether/soul_sand_valley/occult_manor/root": [
+      160,
+      236
+    ],
+    "modpack:nether/big_brain_time": [
+      128,
+      81
+    ],
+    "modpack:nether/soul_sand_valley/blind_shot": [
+      160,
+      175
+    ],
+    "modpack:nether/soul_sand_valley/occult_manor/the_caduceus": [
+      192,
+      202
+    ],
+    "modpack:nether/laviathan_four_passengers": [
+      128,
+      27
+    ],
+    "modpack:nether/soul_sand_valley/occult_manor/rekindled_betrayal": [
+      192,
+      229
+    ],
+    "modpack:nether/warped_mosco_kill": [
+      128,
+      54
+    ],
+    "modpack:nether/straddleboard": [
+      128,
+      0
+    ],
+    "modpack:nether/soul_sand_valley/occult_manor/back_with_a_vengeance": [
+      224,
+      216
+    ],
+    "modpack:nether/soul_sand_valley/occult_manor/eldritch_manipulation": [
+      224,
+      243
+    ],
+    "modpack:nether/soul_sand_valley/black_ice_black_everything_black": [
+      160,
+      121
+    ],
+    "modpack:nether/soul_sand_valley/witwicky": [
+      160,
+      94
+    ],
+    "modpack:nether/soul_sand_valley/exorcism": [
+      160,
+      297
+    ],
+    "modpack:nether/soul_sand_valley/occult_manor/hp_minecraftian": [
+      192,
+      270
+    ],
+    "modpack:nether/soul_sand_valley/occult_manor/lorekeeper": [
+      224,
+      270
+    ],
+    "modpack:end/root": [
+      0,
+      54
+    ],
+    "modpack:end/kill_dragon": [
+      32,
+      54
+    ],
+    "modpack:end/enter_end_gateway": [
+      64,
+      81
+    ],
+    "modpack:end/find_end_city": [
+      96,
+      148
+    ],
+    "modpack:end/shulker_box": [
+      128,
+      175
+    ],
+    "modpack:end/elytra": [
+      128,
+      121
+    ],
+    "modpack:end/levitate": [
+      128,
+      148
+    ],
+    "modpack:end/beyond_the_clouds": [
+      160,
+      135
+    ],
+    "modpack:end/skykill": [
+      160,
+      108
+    ],
+    "modpack:story/obtain_armor": [
+      160,
+      87
+    ],
+    "modpack:story/diamond/enter_the_nether": [
+      290,
+      85
+    ],
+    "modpack:story/obtain_sack": [
+      96,
+      138
+    ],
+    "modpack:story/diamond/shiny_gear": [
+      224,
+      151
+    ],
+    "modpack:story/use_lodestone": [
+      160,
+      57
+    ],
+    "modpack:story/bundle": [
+      96,
+      169
+    ],
+    "modpack:story/food": [
+      96,
+      103
+    ],
+    "modpack:story/kill_a_mob": [
+      128,
+      87
+    ],
+    "modpack:story/sleep_in_bed": [
+      128,
+      103
+    ],
+    "modpack:story/diamond/blaze_rod": [
+      323,
+      85
+    ],
+    "modpack:nether/attack_zombified_piglin": [
+      32,
+      258
+    ],
+    "modpack:nether/fast_travel": [
+      32,
+      425
+    ],
+    "modpack:nether/soul_sand_valley/occult_manor/angel_with_a_shotgun": [
+      256,
+      74
+    ],
+    "modpack:nether/laviathan_spyglass": [
+      32,
+      506
+    ],
+    "modpack:nether/obtain_ancient_debris": [
+      32,
+      357
+    ],
+    "modpack:nether/obtain_crying_obsidian": [
+      32,
+      479
+    ],
+    "modpack:nether/nether_roof": [
+      32,
+      560
+    ],
+    "modpack:nether/netherite_ingot": [
+      64,
+      357
+    ],
+    "modpack:nether/soul_sand_valley/froghorn": [
+      192,
+      209
+    ],
+    "modpack:nether/gauntlet_defeat": [
+      32,
+      452
+    ],
+    "modpack:nether/soul_sand_valley/rodeo_stampede": [
+      192,
+      182
+    ],
+    "modpack:nether/ride_strider_in_overworld_lava": [
+      64,
+      145
+    ],
+    "modpack:nether/kill_underworld_knight": [
+      32,
+      587
+    ],
+    "modpack:nether/hemolymph_blaster": [
+      160,
+      276
+    ],
+    "modpack:nether/return_to_sender": [
+      32,
+      533
+    ],
+    "modpack:nether/soul_sand_valley/occult_manor/the_nether_is_full": [
+      288,
+      74
+    ],
+    "modpack:nether/charge_respawn_anchor": [
+      64,
+      479
+    ],
+    "modpack:nether/netherite_armor": [
+      96,
+      357
+    ],
+    "modpack:nether/uneasy_alliance": [
+      64,
+      533
+    ],
+    "modpack:nether/retreive_flamerang": [
+      64,
+      452
+    ],
+    "modpack:nether/soul_sand_valley/occult_manor/ultra_overkill": [
+      320,
+      74
+    ],
+    "modpack:end/respawn_dragon": [
+      64,
+      27
+    ],
+    "modpack:end/below_the_overworld": [
+      192,
+      135
+    ],
+    "modpack:end/use_viaduct": [
+      96,
+      121
+    ],
+    "modpack:end/ender_flu": [
+      96,
+      67
+    ],
+    "modpack:end/spectre": [
+      96,
+      94
+    ],
+    "modpack:end/dragon_egg": [
+      64,
+      54
+    ],
+    "modpack:end/dragon_breath": [
+      64,
+      81
+    ],
+    "modpack:end/capsid": [
+      128,
+      67
+    ],
+    "modpack:end/obsidilith_defeat": [
+      64,
+      0
+    ],
+    "modpack:end/enderiophage_rocket": [
+      160,
+      54
+    ],
+    "modpack:end/mysterious_worm": [
+      160,
+      81
+    ],
+    "modpack:end/void_worm_summon": [
+      192,
+      81
+    ],
+    "modpack:end/void_worm_split": [
+      224,
+      81
+    ],
+    "supplementaries:story/unenchanter": [
+      224,
+      81
+    ]
+  },
+  "tab_properties": {
+    "minecraft:story/root": {
+      "title": "Overworld",
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5
+    },
+    "minecraft:new_advancement": {
+      "title": "Overworld",
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5
+    },
+    "modpack:story/root": {
+      "title": "Overworld",
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5
+    },
+    "modpack:nether/root": {
+      "title": "Nether",
+      "background": "minecraft:textures/gui/advancements/backgrounds/nether.png",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5
+    },
+    "modpack:end/root": {
+      "title": "The End",
+      "background": "minecraft:textures/gui/advancements/backgrounds/end.png",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5
+    }
+  }
+}
