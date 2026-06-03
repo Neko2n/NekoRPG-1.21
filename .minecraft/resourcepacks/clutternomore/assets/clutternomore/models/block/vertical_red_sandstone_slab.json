@@ -1,1 +1,1 @@
-{"parent":"clutternomore:block/templates/vertical_slab","textures":{"bottom":"minecraft:block/red_sandstone_bottom","side":"minecraft:block/red_sandstone","top":"minecraft:block/red_sandstone_top"}}
+{"parent":"clutternomore:block/templates/vertical_slab","textures":{"bottom":"minecraft:block/red_sandstone_bottom","side":"caverns_and_chasms:block/red_sandstone_slab","top":"minecraft:block/red_sandstone_top"}}

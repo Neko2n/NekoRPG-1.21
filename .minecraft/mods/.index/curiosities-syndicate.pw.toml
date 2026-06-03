@@ -1,0 +1,18 @@
+filename = 'curiosities-0.2.1.jar'
+name = 'Curiosities!'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.2.1'
+
+[download]
+hash = '536eac6d0394e4b571fa436c51ee0c20d26185c5b0aad2b91e6bf39d23f17c331a451ece7a47d3f93c43966ab4fddc7b3cc6ccc441a56c0d4873eb56a803b4a3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BDSRvt7l/versions/NqkQYE0o/curiosities-0.2.1.jar'
+
+[update.modrinth]
+mod-id = 'BDSRvt7l'
+version = 'NqkQYE0o'

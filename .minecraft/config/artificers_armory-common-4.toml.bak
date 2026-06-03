@@ -1,0 +1,40 @@
+#Should firebrands and their projectiles emit light when held or fired?
+"Firebrands emit light:" = true
+#Should items have additional tooltips when enchanted with certain enchantments?
+"Additional enchantment tooltips:" = false
+#Should the familiar summoned by Chimes be able to interact with dropped items? This can also be toggled by interacting with the familiar using a Chime.
+"Familiar interacts with items:" = true
+#Should certain effects from this mod that are meant to support allies affect other players? By default, these effects will try not to support players that you are actively fighting.
+"Support effects apply to non-hostile players:" = true
+#When a player has an active Familiar, should a small HUD appear to the right of their hotbar reflecting the familiar's health and ability readiness?
+"Show Familiar HUD:" = true
+#Should all necromancy minions appear at half size? This config is mainly to help with visibility.
+"Necromancy minions appear at half size:" = false
+#What should the default cooldown (in seconds) be for the Firebrand weapon?
+# Default: 1
+# Range: 1 ~ 999
+"Firebrand Cooldown:" = 2
+#What should the default cooldown (in seconds) be for the Censer weapon?
+# Default: 5
+# Range: 1 ~ 999
+"Censer Cooldown:" = 10
+#What should the default cooldown (in seconds) be for the Blight weapon?
+# Default: 4
+# Range: 1 ~ 999
+"Blight Cooldown:" = 8
+#What should the default cooldown (in seconds) be for the Spirit Candle weapon?
+# Default: 3
+# Range: 1 ~ 999
+"Spirit Candle Cooldown:" = 6
+#What should the default cooldown (in seconds) be for the Chime weapon?
+# Default: 1
+# Range: 1 ~ 999
+"Chime Cooldown:" = 1
+#Should Chime weapons provide a heal when their secondary use to apply a supportive effect is triggered?
+"Chimes heal when used outside of summoning a familiar:" = false
+#Should certain items should boost certain attributes from Iron's Spells And Spellbooks when held in either hand?
+"Boost IS&S Attributes:" = true
+#How much of a boost should items from this mod provide to specific spell schools from Iron's Spells And Spellbooks if the above config is enabled?
+# Default: 0.2
+# Range: 0.01 ~ 1.0
+"Percentage Boost:" = 0.2

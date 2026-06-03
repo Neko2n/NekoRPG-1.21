@@ -1,0 +1,12 @@
+[
+    {
+        "action": "remove_enchantment",
+        "registry": [
+            "deep_aether:gloves_reach",
+            "minecraft:efficiency",
+            "minecraft:power",
+            "minecraft:sharpness",
+            "minecraft:unbreaking"
+        ]
+    }
+]

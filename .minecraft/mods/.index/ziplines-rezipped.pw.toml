@@ -1,5 +1,5 @@
 filename = 'zipline-neoforge-1.21.1-1.2.1.jar'
-name = 'Zipline'
+name = 'Ziplines: Rezipped!'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

@@ -1,16 +1,21 @@
-filename = 'gallery-1.21.1-2.0.0.jar'
+filename = 'gallery-1.21.1-2.0.1.jar'
 name = 'Gallery'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Gallery 1.21.1 - 2.0.1'
 
 [download]
-hash = '4b70093c91dd290b7defc81905054aa445ecd752'
+hash = 'e5facb54dccd46c75c938a599f2f9da1ef39f19e'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6449910
+file-id = 8159692
 project-id = 1173553
+
+[[x-prismlauncher-dependencies]]
+addonId = '382216'
+type = 'REQUIRED'

@@ -1,1 +1,1 @@
-{"parent":"clutternomore:block/templates/vertical_slab","textures":{"bottom":"minecraft:block/polished_tuff","side":"minecraft:block/polished_tuff","top":"minecraft:block/polished_tuff"}}
+{"parent":"clutternomore:block/templates/vertical_slab","textures":{"bottom":"minecraft:block/polished_tuff","side":"caverns_and_chasms:block/polished_schist_slab","top":"minecraft:block/polished_tuff"}}

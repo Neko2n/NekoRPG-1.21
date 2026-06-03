@@ -6,18 +6,6 @@
 			ancient = true
 			blossom = false
 
-		[types.wood_type.bloomingnature]
-			larch = false
-			baobab = true
-			swamp_oak = true
-			aspen = false
-			fan_palm = false
-			fir = true
-			swamp_cypress = true
-			ebony = true
-			chestnut = true
-			cypress = false
-
 		[types.wood_type.natures_spirit]
 			redwood = true
 			sugi = true
@@ -43,10 +31,6 @@
 		[types.wood_type.netherexp]
 			claret = true
 
-		[types.wood_type.goodending]
-			muddy_oak = true
-			cypress = true
-
 		[types.wood_type.enderscape]
 			veiled = true
 			celestial = true
@@ -62,9 +46,6 @@
 			conberry = true
 			sunroot = true
 
-		[types.wood_type.ghosts]
-			haunted = true
-
 		[types.wood_type.bountifulfares]
 			hoary = true
 			walnut = true
@@ -76,14 +57,14 @@
 		[types.wood_type.caverns_and_chasms]
 			azalea = true
 
-		[types.wood_type.alexscaves]
-			pewen = false
-			thornwood = false
+		[types.wood_type.infernalexp]
+			luminous = true
 
-		[types.wood_type.undergarden]
-			smogstem = true
-			wigglewood = true
-			grongle = true
+		[types.wood_type.nomansland]
+			pine = true
+			maple = true
+			walnut = true
+			willow = true
 
 		[types.leaves_type.quark]
 			ancient = true
@@ -92,20 +73,6 @@
 			orange_blossom = false
 			yellow_blossom = false
 			red_blossom = false
-
-		[types.leaves_type.bloomingnature]
-			larch = false
-			baobab = true
-			orange = false
-			swamp_oak = true
-			aspen = false
-			fan_palm = false
-			swamp_cypress = false
-			ebony = true
-			chestnut = true
-			fir = false
-			cypress = false
-			blooming_oak = true
 
 		[types.leaves_type.natures_spirit]
 			frosty_redwood = true
@@ -142,11 +109,6 @@
 		[types.leaves_type.primal]
 			thorny_acacia = true
 
-		[types.leaves_type.goodending]
-			cypress = false
-			dense_birch = true
-			dense_dark_oak = true
-
 		[types.leaves_type.aether]
 			skyroot = true
 			golden_oak = true
@@ -165,9 +127,6 @@
 			conberry = true
 			sunroot = true
 
-		[types.leaves_type.ghosts]
-			haunted = true
-
 		[types.leaves_type.bountifulfares]
 			apple = true
 			flowering_apple = true
@@ -185,13 +144,18 @@
 		[types.leaves_type.spawn]
 			date = true
 
-		[types.leaves_type.alexscaves]
-			ancient = false
-
-		[types.leaves_type.undergarden]
-			smogstem = true
-			wigglewood = true
-			grongle = true
+		[types.leaves_type.nomansland]
+			yellow_birch = true
+			autumnal_oak = true
+			pale_cherry = true
+			frosted = true
+			pine = true
+			maple = true
+			red_maple = true
+			walnut = true
+			willow = true
+			apple_fruit = true
+			pear_fruit = true
 
 		[types.cake.natures_spirit]
 			cheese_block = true
@@ -200,12 +164,6 @@
 			coconut_cake = true
 			cocoa_cake = true
 			sponge_cake = true
-
-		[types.stone_type.bloomingnature]
-			travertin = true
-			laterit = true
-			slate = true
-			marlstone = true
 
 		[types.stone_type.quark]
 			soul_sandstone = true
@@ -289,17 +247,26 @@
 			cassiterite = true
 			rhyolite = true
 
-		[types.stone_type.alexscaves]
-			galena = true
-			radrock = true
-			abyssmarine = true
-			guanostone = true
+		[types.stone_type.create]
+			limestone = true
+			asurine = true
+			crimsite = true
+			ochrum = true
+			veridium = true
+			scoria = true
+			scorchia = true
 
-		[types.stone_type.undergarden]
-			depthrock = true
-			shiverstone = true
-			dreadrock = true
-			tremblecrust = true
+		[types.stone_type.infernalexp]
+			shimmer_stone = true
+			dimstone = true
+			dullstone = true
+
+		[types.stone_type.nomansland]
+			silt = true
+			siltstone = true
+
+		[types.stone_type.curiosities]
+			laterite = true
 
 		[types.mud_type.deep_aether]
 			aether_mud = true
@@ -340,6 +307,17 @@
 			trellis = true
 			pickets = true
 
+		[entries.wood_type.create]
+			window = true
+			window_pane = true
+
+		[entries.wood_type.nomansland]
+			bookshelf = true
+			trimmed_planks = true
+
+		[entries.wood_type.curiosities]
+			fancied_planks = true
+
 		[entries.leaves_type.quark]
 			hedge = true
 			leaf_carpet = false
@@ -351,6 +329,26 @@
 			polished_vertical_slab = false
 			pillar = true
 			vertical_slab = false
+
+		[entries.stone_type.create]
+			small_brick_wall = true
+			cut_wall = true
+			small_bricks = true
+			cut_brick_slab = true
+			polished_cut_slab = true
+			small_brick_stairs = true
+			cut_bricks = true
+			cut = true
+			polished_cut = true
+			small_brick_slab = true
+			layered = true
+			polished_cut_stairs = true
+			cut_brick_wall = true
+			pillar = true
+			cut_stairs = true
+			cut_brick_stairs = true
+			polished_cut_wall = true
+			cut_slab = true
 
 		[entries.mud_type.quark]
 			carved_bricks = true

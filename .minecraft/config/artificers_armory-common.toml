@@ -7,7 +7,7 @@
 #Should certain effects from this mod that are meant to support allies affect other players? By default, these effects will try not to support players that you are actively fighting.
 "Support effects apply to non-hostile players:" = true
 #When a player has an active Familiar, should a small HUD appear to the right of their hotbar reflecting the familiar's health and ability readiness?
-"Show Familiar HUD:" = true
+"Show Familiar HUD:" = false
 #Should all necromancy minions appear at half size? This config is mainly to help with visibility.
 "Necromancy minions appear at half size:" = false
 #What should the default cooldown (in seconds) be for the Firebrand weapon?
@@ -43,10 +43,20 @@
 # Range: 1 ~ 999
 "Sprig Cooldown:" = 3
 #What should the default cooldown (in seconds) be for the Oculus weapon?
-# Default: 4
+# Default: 2
 # Range: 1 ~ 999
 "Oculus Cooldown:" = 4
 #Should censer weapons accept potion effects when used with a potion in the offhand?
 "Censers accept potion effects:" = true
 #Controls whether certain items should boost certain attributes from Ars Nouveau when held in either hand.
 "Boost Ars Nouveau Attributes:" = true
+#What should the default cooldown (in seconds) be for the Wrench weapon?
+# Default: 2
+# Range: 1 ~ 999
+"Wrench Cooldown:" = 2
+#What should the default cooldown (in seconds) be for the Tuning Fork weapon?
+# Default: 3
+# Range: 1 ~ 999
+"Tuning Fork Cooldown:" = 3
+#Should Sprigs be able to bonemeal crops?
+"Sprigs bonemeal:" = true

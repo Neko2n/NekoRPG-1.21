@@ -17,6 +17,8 @@
   "customInventoryButtonTextureHovered": "",
   "customInventoryButtonIcon": "minecraft:book",
   "enableEditMode": true,
+  "showTooltipsInEditMode": false,
+  "showEditModeButton": true,
   "drawArrows": false,
   "defaultDrawDirectLines": false,
   "defaultHideLines": false,

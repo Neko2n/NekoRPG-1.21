@@ -2,21 +2,21 @@
 [types]
 
 		[types.wood_type.quark]
-			azalea = true
+			azalea = false
 			ancient = true
-			blossom = true
+			blossom = false
 
 		[types.wood_type.bloomingnature]
-			larch = true
+			larch = false
 			baobab = true
 			swamp_oak = true
-			aspen = true
+			aspen = false
 			fan_palm = false
 			fir = true
 			swamp_cypress = true
 			ebony = true
 			chestnut = true
-			cypress = true
+			cypress = false
 
 		[types.wood_type.natures_spirit]
 			redwood = true
@@ -73,6 +73,9 @@
 			rotten = true
 			date = true
 
+		[types.wood_type.caverns_and_chasms]
+			azalea = true
+
 		[types.leaves_type.quark]
 			ancient = true
 			blue_blossom = false
@@ -82,17 +85,17 @@
 			red_blossom = false
 
 		[types.leaves_type.bloomingnature]
-			larch = true
+			larch = false
 			baobab = true
-			orange = true
+			orange = false
 			swamp_oak = true
 			aspen = false
 			fan_palm = false
-			swamp_cypress = true
+			swamp_cypress = false
 			ebony = true
 			chestnut = true
 			fir = false
-			cypress = true
+			cypress = false
 			blooming_oak = true
 
 		[types.leaves_type.natures_spirit]
@@ -131,7 +134,7 @@
 			thorny_acacia = true
 
 		[types.leaves_type.goodending]
-			cypress = true
+			cypress = false
 			dense_birch = true
 			dense_dark_oak = true
 
@@ -263,6 +266,12 @@
 		[types.stone_type.bountifulfares]
 			feldspar = true
 
+		[types.stone_type.caverns_and_chasms]
+			sugilite = true
+			cylindrite = true
+			cassiterite = true
+			rhyolite = true
+
 		[types.mud_type.deep_aether]
 			aether_mud = true
 
@@ -271,14 +280,14 @@
 
 		[entries.wood_type.quark]
 			hollow_log = true
-			vertical_planks = true
-			post = true
-			trapped_chest = true
-			bookshelf = true
-			chest = true
-			stripped_post = true
+			vertical_planks = false
+			post = false
+			trapped_chest = false
+			bookshelf = false
+			chest = false
+			stripped_post = false
 			ladder = false
-			vertical_slab = true
+			vertical_slab = false
 
 		[entries.wood_type.woodworks]
 			trapped_chest = true
@@ -288,9 +297,6 @@
 			bookshelf = true
 			chiseled_bookshelf = true
 			ladder = true
-
-		[entries.wood_type.copperagebackport]
-			shelf = true
 
 		[entries.wood_type.another_furniture]
 			flower_box = true
@@ -306,7 +312,7 @@
 			pickets = true
 
 		[entries.leaves_type.quark]
-			hedge = false
+			hedge = true
 			leaf_carpet = false
 
 		[entries.leaves_type.woodworks]

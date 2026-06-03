@@ -1,13 +1,13 @@
 [blocks]
+	#If the vanilla Chest can be crafted from mixing woods or woods without a chest variant
+	"Mixed chest crafting" = false
+	"Leaf piles" = true
 	Sawmill = true
 	"Wooden boards" = true
 	"Wooden bookshelves" = true
 	"Wooden ladders" = true
 	"Wooden beehives" = true
 	"Wooden chests" = true
-	"Leaf piles" = false
-	#If the vanilla Chest can be crafted from mixing woods or woods without a chest variant
-	"Mixed chest crafting" = true
 
 [generation]
 	#If variant bookshelves replace bookshelves in Villages

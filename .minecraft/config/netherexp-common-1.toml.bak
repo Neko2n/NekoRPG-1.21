@@ -145,7 +145,7 @@
 	tweakObtainingTearsMusicDisc = true
 	#The amount of self-pushback experienced upon firing a shotgun
 	#Enchantments can influence the final total of bullets fired
-	# Default: 0.3
+	# Default: 0.35
 	# Range: 0.0 ~ 1.7976931348623157E308
 	shotgunSelfRecoil = 0.3
 	#The amount of additional self-recoil gained from hitting a target point-blank
@@ -153,7 +153,7 @@
 	# Range: 0.0 ~ 1.7976931348623157E308
 	pointBlankSelfRecoilBonus = 0.45
 	#How close you need to be to a target in blocks to get a point-blank self recoil bonus
-	# Default: 2.5
+	# Default: 18.0
 	# Range: 0.0 ~ 1.7976931348623157E308
 	pointBlankSelfRecoilDistance = 2.5
 	#The base amount of shotgun pellets fired from a shotgun-fist
@@ -173,13 +173,22 @@
 	pumpChargeShotgunBullets = 10
 	#The base amount of ticks the pump-charge shotgun will go into cooldown upon firing
 	#Enchantments can influence the final total of cooldown
-	# Default: 40
+	# Default: 15
 	# Range: > 0
 	pumpChargeShotgunCooldown = 40
 	#The number of will o' wisps that can be stored in a single stack
 	# Default: 64
 	# Range: 1 ~ 99
 	willOWispStackSize = 64
+	#The amount of damage a slug pellet will deal to a block upon impact
+	#Negative values will disable block destruction with slugs
+	# Default: 1.0
+	# Range: -1.0 ~ 1.7976931348623157E308
+	slugBlockDamageStrength = 1.0
+	#When a counterforce shotgun is used it'll grant you immunity frames for the specified number of ticks
+	# Default: 20
+	# Range: > 0
+	counterforce_iframes = 20
 
 #Entity Settings
 [entitySettings]
@@ -419,6 +428,73 @@
 	#If you'd like to disable profanity entirely or uncensor it you may do so with this config
 	#Allowed Values: DISABLED, CENSORED, UNFILTERED
 	profanity = "CENSORED"
+	#Makes the nether mist particles disappear faster if you get close enough to them 
+	#You may disable this functionality entirely by just setting the value to 0.0
+	# Default: 20.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	netherMistDissipateDistance = 20.0
+	#Toggles all heat distortion effects in JNE; To disable individual heat distortion effects check the below configs
+	enableHeatDistortion = true
+	#Heat distortion is applied to far away objects when in certain biomes such as the nether
+	biomeHeatDistortion = true
+	#A much stronger heat distortion is applied when close to lava source blocks
+	lavaHeatDistortion = true
+	#Intensity of heat distortion wobbling
+	# Default: 0.003
+	# Range: 0.0 ~ 1.7976931348623157E308
+	heatDistortionIntensity = 0.003
+	#Speed of heat distortion wobbling
+	# Default: 2.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	heatDistortionSpeed = 2.0
+	#Minimum distance from the camera that heat distortion starts at
+	# Default: 12.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	heatDistortionMinDistance = 12.0
+	#Maximum distance from the camera that heat distortion reaches its max intensity at
+	# Default: 128.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	heatDistortionMaxDistance = 128.0
+	#Intensity of heat distortion wobbling when close to lava sources
+	# Default: 0.006000000052154064
+	# Range: 0.0 ~ 1.7976931348623157E308
+	heatDistortionLavaIntensity = 0.006000000052154064
+	#Speed of heat distortion wobbling when close to lava sources
+	# Default: 2.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	heatDistortionLavaSpeed = 2.0
+	#Minimum distance from the camera that heat distortion starts at when close to lava sources
+	# Default: 0.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	heatDistortionLavaMinDistance = 0.0
+	#Maximum distance from the camera that heat distortion reaches its max intensity at when close to lava sources
+	# Default: 64.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	heatDistortionLavaMaxDistance = 64.0
+	#How often the game will check around the player for lava heat distortion in ticks 
+	#§cWARNING: Lower numbers can increase lag especially when paired with high proximity distances to iterate through
+	# Default: 100
+	# Range: > 0
+	heatDistortionLavaCheckPeriod = 100
+	#How far the game will check around the player for heat distortion lava sources 
+	#§cWARNING: Increasing the distance can add some latency to performance! as it needs to iterate through all the specified blocks in-range
+	# Default: 2.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	heatDistortionLavaProximity = 2.0
+	#The number of source blocks that need to be around the player to cause heat distortion
+	# Default: 12
+	# Range: > 0
+	requiredSourceBlocksForLavaHeatDistortion = 12
+	#Toggles the on-screen filter when submerged inside soul glass
+	enableSoulGlassScreenFilter = true
+	#Removes the ripple effect from soul glass entirely and leaves just the frosted glass effect for people who find the distortion uneasy
+	noSoulGlassRipple = false
+	#Improves the brewing stand's particles
+	improvedBrewingStandParticles = true
+	#Adds a particle effect around the player after drinking from a potion or antidote similar to Minecraft Dungeons
+	potionConsumptionParticles = true
+	#Improves the nether portal's particles
+	improvedNetherPortalParticles = true
 
 #Game Mechanic Settings
 [gameMechanicSettings]
@@ -427,7 +503,7 @@
 	#Ectoplasm will rust all netherite upon contact
 	ectoplasmRustsNetherite = true
 	#Silver weapons will deal multiplied damage to possessed and ghost mobs
-	# Default: 1.5
+	# Default: 1.8
 	# Range: 4.9E-324 ~ 1.7976931348623157E308
 	silverParanormalDamageMultiplier = 1.5
 	#Silver armor will damage possessed and ghost mobs which damaged you in melee
@@ -440,4 +516,4 @@
 	#I suggest you keep this disabled if you're just a casual player
 	developerMode = false
 	#Pretty self-explanatory; When running beta builds of JNE, a pop-up will appear on screen warning you upon joining worlds
-	showBetaWarningPopUp = true
+	showBetaWarningPopUp = false

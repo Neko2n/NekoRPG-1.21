@@ -1,0 +1,21 @@
+filename = "BB'sBOMDTweaks0.5.zip"
+name = "BB's Bosses Of Mass Destruction Tweaks"
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6', '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "BB'sBOMDTweaks0.5.zip"
+
+[download]
+hash = 'efec84d082a4cb81e7fcf4e531e5f5417c8db5e7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7327372
+project-id = 1343438
+
+[[x-prismlauncher-dependencies]]
+addonId = '438365'
+type = 'REQUIRED'

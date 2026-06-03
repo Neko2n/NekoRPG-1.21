@@ -1,9 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    {
-      "id": "mynethersdelight:cooked_loin",
-      "required": false
-    }
-  ]
-}

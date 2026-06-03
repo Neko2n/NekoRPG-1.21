@@ -1,20 +1,24 @@
-filename = 'encounters-neoforge-1.21.1-0.2.1.jar'
+filename = 'encounters-neoforge-1.21.1-0.2.2.jar'
 name = 'Encounters'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.2.1+neoforge'
+x-prismlauncher-version-number = '0.2.2+neoforge'
 
 [download]
-hash = '5909d4e9ca380208313454c7fe730bd1e14db4730fe5b1e508d49156c8bddbd009e06fda74bb84fe528f0d07d1c893dece9295009e2c87ded6443cafaff6720e'
+hash = '09ae1c8352449d48e924e8ee8e5435a27f49bfdba0f71f349386532a71fc36633f387ef30ab619ecc04556815f11c9a8c9cef0a56ffb4f2ed4cfa446d6aef3cb'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/dyKXK9tv/versions/MM4odYA9/encounters-neoforge-1.21.1-0.2.1.jar'
+url = 'https://cdn.modrinth.com/data/dyKXK9tv/versions/rCReagcv/encounters-neoforge-1.21.1-0.2.2.jar'
 
 [update.modrinth]
 mod-id = 'dyKXK9tv'
-version = 'MM4odYA9'
+version = 'rCReagcv'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vu3NZ5Ma'
+type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = '1eAoo2KR'
@@ -22,8 +26,4 @@ type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
 addonId = 's4OWxYQQ'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'vu3NZ5Ma'
 type = 'OPTIONAL'

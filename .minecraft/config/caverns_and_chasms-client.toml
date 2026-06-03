@@ -1,6 +1,4 @@
 [items]
-	#If Bundles should be added to Creative tabs
-	"Add Bundle to Creative" = true
 	#If there is a creative mode tab for Caverns & Chasms
 	"(WIP) Creative mode tab" = false
 	#If there is a creative mode tab full of all variants of weathering copper items

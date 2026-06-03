@@ -1,0 +1,16 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "gtbcs_geomancy_plus:geo_upgrade_orb",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "gtbcs_geomancy_plus:geo_upgrade_orb",
+        "amount": 1
+      }
+    ]
+  }
+}

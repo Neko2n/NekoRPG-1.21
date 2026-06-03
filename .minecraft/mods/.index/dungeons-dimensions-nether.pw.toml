@@ -1,0 +1,18 @@
+filename = 'mcd_d_nether-neoforge-1.21.1-1.3.2.jar'
+name = 'Dungeons Dimensions: Nether'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'mcd_d_nether-N-1.3.2'
+
+[download]
+hash = 'f177dd8ede79a0530b4d21b82c1de588b4445ab5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8084551
+project-id = 1467850

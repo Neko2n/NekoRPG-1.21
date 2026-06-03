@@ -1,1 +1,1 @@
-{"parent":"clutternomore:block/templates/vertical_slab_double","textures":{"bottom":"minecraft:block/polished_andesite","side":"minecraft:block/polished_andesite","top":"minecraft:block/polished_andesite"}}
+{"parent":"clutternomore:block/templates/vertical_slab_double","textures":{"bottom":"minecraft:block/polished_andesite","side":"caverns_and_chasms:block/polished_andesite_slab","top":"minecraft:block/polished_andesite"}}

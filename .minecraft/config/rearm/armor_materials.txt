@@ -30,10 +30,6 @@ aether:sentry
 deep_aether:stratus
 deep_aether:stormforged
 deep_aether:skyjade
-undergarden:cloggrum
-undergarden:froststeel
-undergarden:utherium
-undergarden:ancient
 caverns_and_chasms:copper
 caverns_and_chasms:exposed_copper
 caverns_and_chasms:weathered_copper
@@ -44,7 +40,6 @@ caverns_and_chasms:sanguine
 caverns_and_chasms:cowl
 caverns_and_chasms:toolbelt
 enderscape:drift_leggings
-oreganized:electrum
 irons_spellbooks:tarnished
 irons_spellbooks:wandering_magician
 irons_spellbooks:pumpkin
@@ -54,10 +49,12 @@ irons_spellbooks:paladin
 irons_spellbooks:infernal_sorcerer
 irons_spellbooks:speed_boots
 irons_spellbooks:dev
-alexscaves:primordial
-alexscaves:hazmat_suit
-alexscaves:diving_suit
-alexscaves:darkness
-alexscaves:rainbounce
-alexscaves:gingerbread
+create:copper
+create:cardboard
+nomansland:tortoise
+nomansland:ancient_bronze_mask
+oreganized:electrum
+curiosities:aluminum
+curiosities:invar
+curiosities:heavy
 spawn:booby

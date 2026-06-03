@@ -11,10 +11,10 @@
 [mob]
 
 	[mob.replaced_models]
+		rabbitModelChange = true
 		#Toggle model replacements for certain mobs
 		polarBearModelChange = true
 		foxModelChange = true
-		rabbitModelChange = true
 		wolfModelChange = true
 		dolphinModelChange = true
 

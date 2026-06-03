@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "minecraft:night_vision",
-      "required": false
-    }
-  ]
-}

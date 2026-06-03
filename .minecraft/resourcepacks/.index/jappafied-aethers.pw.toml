@@ -1,17 +1,18 @@
-filename = 'Jappafied Aethers 1.12.zip'
+filename = 'Jappafied Aethers 1.20.zip'
 name = 'Jappafied Aethers'
 side = 'client'
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = []
-x-prismlauncher-mc-versions = [ '1.12.2', '1.12.2' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 x-prismlauncher-version-number = '1.3'
 
 [download]
-hash = '5df3d4ac3af67bbc3bdf39102d6a3afad2c1cc05a17aac66c51fcc2a11e4fb187964a59ca262171f0f6157f42fafd14bdc4ba02e353f589414ad9192516f43fc'
+hash = 'f2685d43f3be2e8bbeec13ddf0c5d8210df0c189d8c6c7717505df61eeda4dd24931bdfd43ba99bc12c086341460adbcca59e0b716be0ec865806fa3dbfe2542'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/NxpNOKEe/versions/wN65fCLe/Jappafied Aethers 1.12.zip'
+url = 'https://cdn.modrinth.com/data/NxpNOKEe/versions/NCYyTWSf/Jappafied Aethers 1.20.zip'
 
 [update.modrinth]
 mod-id = 'NxpNOKEe'
-version = 'wN65fCLe'
+version = 'NCYyTWSf'

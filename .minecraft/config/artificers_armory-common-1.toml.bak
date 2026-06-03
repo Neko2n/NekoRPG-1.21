@@ -34,8 +34,8 @@
 "Chimes heal when used outside of summoning a familiar:" = false
 #Should certain items should boost certain attributes from Iron's Spells And Spellbooks when held in either hand?
 "Boost IS&S Attributes:" = true
-#How much of a boost should items from this mod provide to specific spell schools from Iron's Spells And Spellbooks if the above config is enabled?
-# Default: 0.2
+#How much of a boost should items from this mod provide to certain attributes from Ars Nouveau if the above config is enabled?
+# Default: 0.15
 # Range: 0.01 ~ 1.0
 "Percentage Boost:" = 0.2
 #What should the default cooldown (in seconds) be for the Sprig weapon?
@@ -43,6 +43,10 @@
 # Range: 1 ~ 999
 "Sprig Cooldown:" = 3
 #What should the default cooldown (in seconds) be for the Oculus weapon?
-# Default: 4
+# Default: 2
 # Range: 1 ~ 999
 "Oculus Cooldown:" = 4
+#Should censer weapons accept potion effects when used with a potion in the offhand?
+"Censers accept potion effects:" = true
+#Controls whether certain items should boost certain attributes from Ars Nouveau when held in either hand.
+"Boost Ars Nouveau Attributes:" = true

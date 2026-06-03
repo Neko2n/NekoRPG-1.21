@@ -2,7 +2,8 @@
     {
         "action": "remove",
         "items": [
-            "bountifulfares:sweet_berry_pips"
+            "bountifulfares:sweet_berry_pips",
+            "minecraft:leaf_litter"
         ]
     }
 ]

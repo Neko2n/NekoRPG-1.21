@@ -1,0 +1,25 @@
+filename = 'nowheel-1.0.6+1.21.1neoforge.jar'
+name = 'Nowheel'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Nowheel 1.0.6 for neoforge 1.21.1'
+
+[download]
+hash = '9ee9731afc7dcb5fc2b5366709f6ddc656c6c64f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8132019
+project-id = 1544167
+
+[[x-prismlauncher-dependencies]]
+addonId = '448233'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'

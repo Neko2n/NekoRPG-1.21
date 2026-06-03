@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "netherexp:jackhammer_fist",
-      "required": false
-    }
-  ]
-}

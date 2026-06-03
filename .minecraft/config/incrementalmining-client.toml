@@ -1,0 +1,13 @@
+#Disable the slower first-person raise animation for tools
+flatToolRaise = false
+#How Incremental Mining should interact with player swing animations while mining
+#Allowed Values: DIRECT, VANILLA, NONE
+swingAnimationMode = "DIRECT"
+#Delay, in ticks, before a mining swing applies hit feedback and damage after the animation starts
+# Default: 0
+# Range: 0 ~ 20
+swingImpactOffset = 0
+#Only apply swing impact offset when holding a mining tool
+swingImpactOffsetOnlyWithTools = false
+#Use Incremental Mining's punch animation for non-tool mining regardless of swing animation mode
+overridePunching = false

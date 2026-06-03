@@ -2,6 +2,16 @@
   "selected_animations": [
     {
       "kind": "item",
+      "definition": "PICKAXE",
+      "animations": {
+        "attack": "pack:file/modded swords x punchy! 1.21.1 v1.3.1.zip",
+        "mining": "pack:file/hyperpunchy-v2.5+.zip",
+        "interaction": "pack:file/hyperpunchy-v2.5+.zip",
+        "inspect": "pack:punchy:punchy"
+      }
+    },
+    {
+      "kind": "item",
       "definition": "FULL_BLOCK",
       "animations": {
         "useitem": "pack:file/hyperpunchy-v2.5+.zip",
@@ -50,7 +60,8 @@
       "definition": "FISHING_ROD",
       "animations": {
         "useitem": "pack:file/hyperpunchy-v2.5+.zip",
-        "attack": "pack:file/hyperpunchy-v2.5+.zip"
+        "attack": "pack:file/hyperpunchy-v2.5+.zip",
+        "fishingrod": "pack:punchy:punchy"
       }
     },
     {
@@ -68,16 +79,6 @@
       "definition": "FLINT",
       "animations": {
         "useitem": "pack:file/hyperpunchy-v2.5+.zip"
-      }
-    },
-    {
-      "kind": "item",
-      "definition": "PICKAXE",
-      "animations": {
-        "attack": "pack:file/hyperpunchy-v2.5+.zip",
-        "mining": "pack:file/hyperpunchy-v2.5+.zip",
-        "interaction": "pack:file/hyperpunchy-v2.5+.zip",
-        "inspect": "pack:punchy:punchy"
       }
     },
     {

@@ -1,0 +1,8 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "create_hypertube:block/tube_core",
+  "textures": {
+    "2": "create_hypertube:block/tube_base_glass",
+    "particle": "create_hypertube:block/tube_base_glass"
+  }
+}

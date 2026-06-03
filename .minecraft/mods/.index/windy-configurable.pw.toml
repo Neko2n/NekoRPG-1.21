@@ -1,0 +1,18 @@
+filename = 'Windy_NeoForge-1.21.1-v1.0.1.jar'
+name = 'Windy: Configurable'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Windy NeoForge - v1.0.1'
+
+[download]
+hash = '48fb0118bc9ca269ec68b747d761242a162939ef'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8063228
+project-id = 1506251

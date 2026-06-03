@@ -1,1 +1,1 @@
-{"parent":"clutternomore:block/templates/vertical_slab_double","textures":{"bottom":"minecraft:block/sandstone_top","side":"minecraft:block/cut_sandstone","top":"minecraft:block/sandstone_top"}}
+{"parent":"clutternomore:block/templates/vertical_slab_double","textures":{"bottom":"minecraft:block/sandstone_top","side":"caverns_and_chasms:block/cut_sandstone_slab","top":"minecraft:block/sandstone_top"}}

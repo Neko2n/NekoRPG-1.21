@@ -1,16 +1,25 @@
-filename = 'loot_journal-neoforge-1.21.1-4.0.1.jar'
-name = 'Loot Journal (NeoForge)'
-side = 'client'
+filename = 'loot_journal-neoforge-1.21.1-6.2.1.jar'
+name = 'Loot Journal'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Loot Journal 6.2.1'
 
 [download]
-hash = 'd788686590699cd605490c8eea35aeded899edc9'
+hash = '064bac2f8aa2c02c71b8bf8af298f096c8790bac'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5811502
+file-id = 8141352
 project-id = 1120395
+
+[[x-prismlauncher-dependencies]]
+addonId = '667299'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1123977'
+type = 'REQUIRED'

@@ -14,8 +14,8 @@
             "irons_spellbooks:protection_rune",
             "irons_spellbooks:cooldown_rune",
             "irons_spellbooks:blank_rune",
-            "irons_spellbooks:cinderous_soul_rune",
-            "irons_spellbooks:mithril_ore"
+            "irons_spellbooks:mithril_ore",
+            "irons_spellbooks:protection_upgrade_orb"
         ]
     }
 ]

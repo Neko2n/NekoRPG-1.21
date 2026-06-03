@@ -1,0 +1,5 @@
+[general]
+	#If true, mobs using shields will consume shield durability when blocking.
+	mobConsumeShieldDurability = false
+	#If true, shield-using mobs will always use anticipation logic instead of relying on dynamic conditions.
+	mobAlwaysAnticipate = false

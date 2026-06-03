@@ -1,0 +1,22 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "irons_spellbooks:mana_upgrade_orb",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "irons_spellbooks:mana_upgrade_orb",
+        "amount": 1
+      }
+    ],
+    "3": [
+      {
+        "item": "irons_spellbooks:mana_upgrade_orb",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,1 +1,1 @@
-{"parent":"clutternomore:block/templates/vertical_slab","textures":{"bottom":"minecraft:block/polished_diorite","side":"minecraft:block/polished_diorite","top":"minecraft:block/polished_diorite"}}
+{"parent":"clutternomore:block/templates/vertical_slab","textures":{"bottom":"minecraft:block/polished_diorite","side":"caverns_and_chasms:block/polished_diorite_slab","top":"minecraft:block/polished_diorite"}}

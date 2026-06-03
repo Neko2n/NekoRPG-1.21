@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "netherexp:house",
-      "required": false
-    }
-  ]
-}

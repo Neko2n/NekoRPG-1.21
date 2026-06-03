@@ -1,0 +1,18 @@
+filename = 'Metal Cogwheel(Industrial Iron).zip'
+name = 'Metal Cogwheel'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Metal Cogwheel(Industrial Iron).zip'
+
+[download]
+hash = 'f1c21f3b6a730da148726de69b30623caa600962'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4777391
+project-id = 917828

@@ -1,0 +1,36 @@
+filename = 'Rekindled_CTM.zip'
+name = 'Rekindled CTM'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1.6'
+
+[download]
+hash = '448c0cba92f7ea68c9dfa6a29d8be5a1dd907bf470ef2d3d8e2154b2569000cb1432a26242fb7e875bcb0d04b7bfd3a6e5cb972a31d20f818c0e759fcfe25042'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/V3geCj8B/versions/l9K5PclZ/Rekindled_CTM.zip'
+
+[update.modrinth]
+mod-id = 'V3geCj8B'
+version = 'l9K5PclZ'
