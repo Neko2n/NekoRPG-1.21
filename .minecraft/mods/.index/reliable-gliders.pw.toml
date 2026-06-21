@@ -1,29 +1,29 @@
 filename = 'reliable_gliders-neoforge-1.21.1-1.3.2.jar'
 name = 'Reliable Gliders'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Reliable Gliders Neoforge 1.21.1 - 1.3.2'
+x-prismlauncher-version-number = '1.3.2-1.21.1-neoforge'
 
 [download]
-hash = '361bc8da8722cd983c05796b8a029a606b961553'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '7daea5c0fe8a1d4e7c6703cb3896ff9792d7850a917d28cb7f78872a4fca37fe8255b8830a05b865747e817d12337b3e5fe95d01bf52c6c6997ebfcb4bbca3e1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pVIWsXir/versions/ntiVNsBO/reliable_gliders-neoforge-1.21.1-1.3.2.jar'
 
-[update.curseforge]
-file-id = 8152410
-project-id = 1528600
+[update.modrinth]
+mod-id = 'pVIWsXir'
+version = 'ntiVNsBO'
 
 [[x-prismlauncher-dependencies]]
-addonId = '348521'
+addonId = '5aaWibi9'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '309927'
+addonId = '9s6osm5g'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '341284'
+addonId = 'vvuO3ImH'
 type = 'OPTIONAL'

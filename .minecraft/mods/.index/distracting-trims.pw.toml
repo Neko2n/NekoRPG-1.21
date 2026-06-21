@@ -4,13 +4,22 @@ side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '21.1.1'
 
 [download]
-hash = '64af034e2d9b114bd4051831e42d5b214f34336b'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '1b7a468985d6964a1f4c2054bb6ba988dd7791aac886b941b2debee11f790f06d8dd9f2d8717f3f0bed253cbd42e2bb15b8ff9892663a1340e008d644737c72a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xQU6E1ee/versions/2KEQq349/distractingtrims-neoforge-1.21.1-21.1.1.jar'
 
-[update.curseforge]
-file-id = 5953630
-project-id = 862201
+[update.modrinth]
+mod-id = 'xQU6E1ee'
+version = '2KEQq349'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'aaRl8GiW'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'uy4Cnpcm'
+type = 'REQUIRED'

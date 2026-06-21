@@ -1,6 +1,6 @@
 filename = 'lukis-ancient-cities-v1.2.jar'
 name = "Luki's Ancient Cities"
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [
@@ -17,17 +17,18 @@ x-prismlauncher-mc-versions = [
     '1.21.7',
     '1.21.8',
     '1.21.9',
-    '1.21.10'
+    '1.21.10',
+    '1.21.11'
 ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = "Luki's Ancient Cities v1.2 1.20.4-1.21"
+x-prismlauncher-version-number = 'v1.2+mod'
 
 [download]
-hash = '2c8c3ae40b48a9a762e1cc51fa6f87e9642d5e6e'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = 'b0d78aa27e31045f65ac0bc426ec7cba207918a921ce046e2d078695bf0d9253e7ba7210f4b7d4b91b334288c933d4f46e16905b12fdbb7bc6080de49a71fac9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/13uF4XO7/versions/8jJSPQok/lukis-ancient-cities-v1.2.jar'
 
-[update.curseforge]
-file-id = 7179736
-project-id = 1190728
+[update.modrinth]
+mod-id = '13uF4XO7'
+version = '8jJSPQok'

@@ -1,0 +1,29 @@
+filename = 'ascended_quark-1.21.1-1.1.6.jar'
+name = 'Ascended Quark'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ascended_quark-1.21.1-1.1.6.jar'
+
+[download]
+hash = 'e97e62f97276da5c38979b6bf068be7c5d3201aa'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8252497
+project-id = 971104
+
+[[x-prismlauncher-dependencies]]
+addonId = '968868'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '255308'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '243121'
+type = 'REQUIRED'

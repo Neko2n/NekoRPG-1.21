@@ -1,0 +1,25 @@
+filename = 'createpickywheels-neoforge-1.21.1-6.0.9-6.jar'
+name = 'Create Picky Wheels'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'createpickywheels-neoforge-1.21.1-6.0.9-6.jar'
+
+[download]
+hash = 'ce1827ed62945c1922d6c74134176b241a4d1335'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7893094
+project-id = 866839
+
+[[x-prismlauncher-dependencies]]
+addonId = '873945'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'

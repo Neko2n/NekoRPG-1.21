@@ -1,6 +1,6 @@
 filename = 'mixed_litter-1.2.2.jar'
 name = 'Mixed Litter'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

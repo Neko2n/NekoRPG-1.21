@@ -1,0 +1,18 @@
+filename = 'revampedphantoms-1.1.2-neoforge.jar'
+name = 'Revamped Phantoms'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.2'
+
+[download]
+hash = '6264d4ec5a5b8d54135aeb9a8cf6f0603b4a2e65c7afd44c988426e3a8144b0687bde15ee04914d46557f68904c2c5787e05226ddb8630708dc1360d1a0d10df'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YJOG99cQ/versions/EUzm3A2k/revampedphantoms-1.1.2-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'YJOG99cQ'
+version = 'EUzm3A2k'

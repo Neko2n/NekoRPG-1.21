@@ -1,0 +1,15 @@
+{
+  "type": "alloyed:forging_shaped",
+  "key": {
+    "#": {"tag": "c:rods/wooden"},
+    "X": {"tag": "c:ingots/steel"}
+  },
+  "pattern": [
+    "X",
+    "#",
+    "#"
+  ],
+  "result": {
+    "id": "alloyed:steel_shovel"
+  }
+}

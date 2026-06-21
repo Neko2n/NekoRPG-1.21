@@ -4,13 +4,18 @@ side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '8.0.1'
 
 [download]
-hash = '28d454937ca6df70bc5f2f732d50f60f24b30f54'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '56d68dfd41ddbf67ff731c35dc09573d9829bac3a87465e821a47a9ad0433dbc2b19f8a7e69da244504353def01400787a39f628c5a15a299feaaaeebf2b1105'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2WZWaKCl/versions/C8Scxj1h/berry_good-1.21.1-8.0.1.jar'
 
-[update.curseforge]
-file-id = 7118583
-project-id = 355589
+[update.modrinth]
+mod-id = '2WZWaKCl'
+version = 'C8Scxj1h'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'VsM5EDoI'
+type = 'REQUIRED'

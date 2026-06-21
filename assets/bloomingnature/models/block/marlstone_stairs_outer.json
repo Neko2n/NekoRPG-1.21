@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/outer_stairs",
-  "textures": {
-    "bottom": "bloomingnature:block/marlstone",
-    "top": "bloomingnature:block/marlstone",
-    "side": "bloomingnature:block/marlstone"
-  }
-}

@@ -1,25 +1,25 @@
 filename = 'CombatNouveau-v21.1.2-1.21.1-NeoForge.jar'
 name = 'Combat Nouveau'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '[NEOFORGE] [1.21.1] CombatNouveau-v21.1.2'
+x-prismlauncher-version-number = 'v21.1.2-1.21.1-NeoForge'
 
 [download]
-hash = '11376f1ed6f8f77631200a31b4583b49fb44775b'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '288b11a3863a43a66255bbf27a92802ad75857b8d3d031d145741350afcec1409346517dc3e85f6e91b973842e134778d463cf8d2d7e347000373e9128b66a86'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Iv3kcKZn/versions/us081FGF/CombatNouveau-v21.1.2-1.21.1-NeoForge.jar'
 
-[update.curseforge]
-file-id = 8030246
-project-id = 969425
+[update.modrinth]
+mod-id = 'Iv3kcKZn'
+version = 'us081FGF'
 
 [[x-prismlauncher-dependencies]]
-addonId = '544048'
+addonId = '5WeWGLoJ'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '495476'
+addonId = 'QAGBst4M'
 type = 'REQUIRED'

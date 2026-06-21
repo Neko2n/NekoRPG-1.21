@@ -129,6 +129,14 @@
 	# Default: 7
 	# Range: > 0
 	soulSpeedDuration = 7
+	#Completed treacherous candles will become active again after the specified time in seconds has elapsed
+	# Default: 1800
+	# Range: 0 ~ 86400
+	treacherousCandleCompletionCooldown = 1800
+	#Defines how long a haze block will last after being placed in seconds
+	# Default: 8
+	# Range: > 0
+	hazeBlockCooldown = 8
 
 #Item Settings
 [itemSettings]
@@ -187,6 +195,8 @@
 	# Default: 20
 	# Range: > 0
 	counterforce_iframes = 20
+	#When enabled almost all types of potions can be stacked to 16 like in the combat snapshots
+	stackablePotions = true
 
 #Entity Settings
 [entitySettings]
@@ -212,7 +222,7 @@
 	# Range: > -1
 	apparitionPossessionCooldown = 300
 	#Apparitions can be salted... or erm, "waxed" until actual salt is added in the future 
-	#Salted apparitions cannot possess any mobs, although will still attack them
+	#Salted apparitions cannot possess any mobs, although they will still attack them
 	apparitionsCanBeSalted = true
 	#Apparitions can take control of certain mobs they kill and turn into possessed variants
 	apparitionsCanPossessMobs = true
@@ -290,13 +300,13 @@
 	# Default: 0.2
 	# Range: 0.0 ~ 1.7976931348623157E308
 	bansheeWillOWispManoeuvrability = 0.2
-	#Weather world difficulty will have any affect on a banshee will o' wisps' manoeuvrability 
+	#Weather world difficulty will have any effect on a banshee will o' wisps' manoeuvrability 
 	#The values below are added onto whatever is specifed in "bansheeWillOWispManoeuvrability" 
 	#-0.05 on Easy 
 	#+0.04 on Hard
 	#
 	manoeuvrabilityAffectedByDifficulty = true
-	#When a will o' wisp is hit with a wind charge it'll accelerate the its speed and manoeuvrability greatly
+	#When a will o' wisp is hit with a wind charge it'll accelerate its speed and manoeuvrability greatly
 	willOWispWindPropulsion = true
 	#The chance for vessels to unleash apparitions upon death
 	# Default: 0.25
@@ -447,19 +457,52 @@
 	#
 	netherWorldGenOverhaul = true
 	#Brightens up the nether fog of most vanilla and modded biomes to compliment their environments better 
-	#It overall makes the nether feel more warmer and helps make out shapes in the distance like actual fog
+	#It overall makes the nether feel warmer and helps make out shapes in the distance like actual fog
 	brighterNetherFog = true
 	#Changes the nether wastes fog back to being red like in vanilla
 	redNetherWastesFog = false
 	#Dust like particles will blow in the soul sand valley instead of the occasional falling ash
 	betterSoulSandValleyParticles = true
 	#Completely replaces the vanilla multi-noise biome source for Elysium API's mosaic ones 
-	#Rather than determining a biomes position based on the terrain's noise climate. it instead use voronoi cells with a weighted list 
-	#Mosaic biome source is remarkably good at keeping consistent sizes between all the biomes and equally distributes them too no matter how many mods you have 
+	#Rather than determining a biomes' position based on the terrain's noise climate. it instead uses voronoi cells with a weighted list 
+	#Mosaic biome source is remarkably stellar at keeping consistent sizes between all the biomes and equally distributes them too, no matter how many mods you have 
 	# 
-	#§cNOTE: MosaicBiomeSource is currently in BETA and active testing. currently sub-biome support is limited and there is no 3D biome support either
+	#§cNOTE: MosaicBiomeSource is currently in BETA and in active testing. as of now sub-biome support is limited and there is no 3D biome support either
 	#
 	improvedNetherBiomeSource = true
+
+	#Biome Feature Settings
+	[worldSettings.biomeFeaturesSettings]
+		#Generates bone pikes on the soul sand valley surface
+		bonePike = true
+		#Generates ecto soul sand patches in the soul sand valley
+		ectoSoulSand = true
+		#Generates ectoplasm lakes in the soul sand valley
+		ectoplasmLake = true
+		#Generates fossil fuel ore deposits in the soul sand valley
+		fossilFuelOre = true
+		#Generates fossil ore deposits in the soul sand valley
+		fossilOre = true
+		#Generates mounds on the ceiling and floor of the soul sand valley
+		mound = true
+		#Generates soul magma patches towards the upper regions of the soul sand valley
+		soulMagma = true
+		#Generates pale soul slate embedded in the walls or surface of the soul sand valley
+		paleSoulSlate = true
+		#Generates soul swirls in the soul sand valley floor and ceiling
+		soulSwirls = true
+		#Generates blotted netherrack patches all throughout the nether
+		blottedNetherrack = true
+		#Generates siltmarram on silt beaches and coves with a different variant based on the biome's moisture
+		siltmarram = true
+		#Generates large netherrack speleothem all throughout the nether
+		netherrackSpeleothem = true
+		#Generates pyroclast crusts on the lava sea surfaces
+		pyroclastCrusts = true
+		#Generates silt flint ore deposits in silt beaches and coves
+		siltFlintOre = true
+		#Prevents those ugly ravines and noodle caves from cutting through the nether's terrain by removing them entirely
+		removeNetherNoodleCaves = true
 
 #Visual & Sound Settings
 [visualAndSoundSettings]
@@ -537,9 +580,9 @@
 	LavaGradientNoiseScale = 14.0
 	#Toggle the screenshake when a shotgun is fired
 	shotgunScreenshake = true
-	#Makes the nether mist particles disappear faster if you get close enough to them 
+	#Makes the nether mist particles disappear faster if you get close enough to them, 
 	#You may disable this functionality entirely by just setting the value to 0.0
-	# Default: 20.0
+	# Default: 28.0
 	# Range: 0.0 ~ 1.7976931348623157E308
 	netherMistDissipateDistance = 20.0
 	#Toggles all heat distortion effects in JNE; To disable individual heat distortion effects check the below configs
@@ -610,6 +653,12 @@
 	ectoSlabPetrificationScreenshake = true
 	#Gives every nether biome a custom lightmap that compliments its environment
 	enableNetherBiomeLightmaps = true
+	#When the betrayed effect is active, it'll turn all lighting red
+	treacherousCandleRedLights = true
+	#When the betrayed effect is active, a dense red fog will appear
+	treacherousCandleFog = true
+	#Treacherous Candle will produce red haze and sparkle particles
+	treacherousCandleParticles = true
 
 #Game Mechanic Settings
 [gameMechanicSettings]

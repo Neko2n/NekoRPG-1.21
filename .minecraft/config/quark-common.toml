@@ -51,7 +51,7 @@
 	"Ender Watcher" = true
 	"Feeding Trough" = true
 	Gravisand = true
-	"Iron Rod" = true
+	"Iron Rod" = false
 	"Metal Buttons" = true
 	"Obsidian Plate" = true
 	"Pistons Move Tile Entities" = true
@@ -94,9 +94,9 @@
 		"Delayed Update List" = ["minecraft:dispenser", "minecraft:dropper"]
 
 [building]
-	"Celebratory Lamps" = true
+	"Celebratory Lamps" = false
 	"Compressed Blocks" = false
-	"Duskbound Blocks" = true
+	"Duskbound Blocks" = false
 	"Framed Glass" = false
 	"Glass Item Frame" = true
 	"Gold Bars" = false
@@ -127,7 +127,7 @@
 	"Vertical Planks" = false
 	"Vertical Slabs" = false
 	"Wooden Posts" = false
-	"More Stone Variants" = true
+	"More Stone Variants" = false
 
 	[building.celebratory_lamps]
 		"Light Level" = 15
@@ -338,7 +338,7 @@
 	"Pathfinder Maps" = true
 	Pickarang = true
 	"Seed Pouch" = true
-	"Skull Pikes" = true
+	"Skull Pikes" = false
 	"Slime In A Bucket" = true
 	"Torch Arrow" = false
 	Trowel = false
@@ -763,13 +763,13 @@
 	"Blossom Trees" = false
 	"Cherry Grove Water Petals" = true
 	"Chorus Vegetation" = true
-	Corundum = true
+	Corundum = false
 	"Fairy Rings" = true
 	"Fallen Logs" = true
 	"Glimmering Weald" = false
-	"Monster Box" = true
+	"Monster Box" = false
 	"Nether Obsidian Spikes" = true
-	"New Stone Types" = true
+	"New Stone Types" = false
 	"No More Lava Pockets" = false
 	Permafrost = true
 	"Spiral Spires" = true
@@ -1540,10 +1540,10 @@
 	"Improved Tooltips" = true
 	"Long Range Pick Block" = true
 	"Microcrafting Helper" = true
-	"Soul Candles" = true
+	"Soul Candles" = false
 	"Usage Ticker" = true
 	"Uses For Curses" = true
-	"Variant Animal Textures" = true
+	"Variant Animal Textures" = false
 	"Wool Shuts Up Minecarts" = true
 
 	[client.auto_walk_keybind]
@@ -1651,7 +1651,7 @@
 	"Spawner Replacer" = false
 	#Allows placing variant blocks automatically via a selector menu triggered from a keybind
 	"Variant Selector" = false
-	"Villager Rerolling Rework" = false
+	"Villager Rerolling Rework" = true
 	#Big Stone Clusters for Granite, Diorite, and Andesite, like Quark pre-1.18
 	"Vanilla Stone Clusters" = false
 

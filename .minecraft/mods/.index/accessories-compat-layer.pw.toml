@@ -1,17 +1,33 @@
 filename = 'accessories_compat_layer-neoforge-0.1.12+1.21.1.jar'
 name = 'Accessories Compatibility Layer'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '[1.21.1] Accessories Compatibility Layer [Neoforge] - 0.1.12'
+x-prismlauncher-version-number = '0.1.12'
 
 [download]
-hash = '59dd35650925d72f5158816caf895f3d9fa0edf4'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = 'f729c4e1c069182aac89805551a056b937e17fd6d9c031b14a6003b5c4fac609563f2c3d6786fe56ecfb62a1094124e68b2e4fb6e2612818d899d3bac181c215'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ySnjMzLg/versions/JMgVNypu/accessories_compat_layer-neoforge-0.1.12%2B1.21.1.jar'
 
-[update.curseforge]
-file-id = 7585673
-project-id = 1315611
+[update.modrinth]
+mod-id = 'ySnjMzLg'
+version = 'JMgVNypu'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vvuO3ImH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ccKDOlHs'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'izkDUlrJ'
+type = 'INCOMPATIBLE'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'jtmvUHXj'
+type = 'REQUIRED'

@@ -1,0 +1,14 @@
+{
+  "type": "alloyed:forging_shaped",
+  "key": {
+    "X": {"tag": "c:ingots/steel"}
+  },
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "result": {
+    "id": "alloyed:steel_chestplate"
+  }
+}

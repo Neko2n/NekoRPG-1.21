@@ -1,0 +1,19 @@
+{
+  "type": "alloyed:forging_shaped",
+  "pattern": [
+    " II",
+    "RRI",
+    "RR "
+  ],
+  "key": {
+    "I": {
+      "tag": "c:ingots/steel"
+    },
+    "R": {
+      "tag": "supplementaries:ropes"
+    }
+  },
+  "result": {
+    "id": "yo_hooks:diamond_grappling_hook"
+  }
+}

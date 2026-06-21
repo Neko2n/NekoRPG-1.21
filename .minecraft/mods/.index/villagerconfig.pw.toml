@@ -1,18 +1,18 @@
-filename = 'villagerconfig-neoforge-4.5.3+1.21.1.jar'
+filename = 'villagerconfig-neoforge-4.5.4+1.21.1.jar'
 name = 'VillagerConfig'
 side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'neoforge-4.5.3+1.21.1'
+x-prismlauncher-version-number = 'neoforge-4.5.4+1.21.1'
 
 [download]
-hash = '3339c336f14f1ee9856af000b1cfd7ee98cebb09abd8bc3ed67fd5c182c38c2ace7a769e7e2697af5ead34aa290527008292edc6aa0bd37f99b4851de05ef171'
+hash = '18b091035bed3f74c04ee45e4310b010b3704fe58c176ea531dedd8317e167fea32f8ff72e7c515c9464e200211b206ba22e70f30849c7676580d62f4a417c54'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/OClpEDe3/versions/bMBLHCvH/villagerconfig-neoforge-4.5.3%2B1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/OClpEDe3/versions/GqDtZulf/villagerconfig-neoforge-4.5.4%2B1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'OClpEDe3'
-version = 'bMBLHCvH'
+version = 'GqDtZulf'

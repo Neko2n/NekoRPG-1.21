@@ -1,16 +1,21 @@
 filename = 'ChatShot (1.21.x-neoforge)-1.0.4.jar'
 name = 'ChatShot'
-side = 'both'
+side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.4'
 
 [download]
-hash = 'c52b016cb693782069f34474c439582499e36869'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '58ca44fe0ccf70bed57bea7b94834c5f35d5f15ece11d2758556ef63c7c944223990133d3d02459a886353cb8ed434e36da2952b77e339343b13109137cd8f99'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/X2Zy7Oi6/versions/R1DlLOJ6/ChatShot %281.21.x-neoforge%29-1.0.4.jar'
 
-[update.curseforge]
-file-id = 5792035
-project-id = 908966
+[update.modrinth]
+mod-id = 'X2Zy7Oi6'
+version = 'R1DlLOJ6'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1eAoo2KR'
+type = 'REQUIRED'

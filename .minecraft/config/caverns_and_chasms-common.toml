@@ -1,6 +1,6 @@
 	[mobs.creeper]
 		#Creeper explosions have a weaker power
-		"Creeper explosion nerf" = true
+		"Creeper explosion nerf" = false
 		#How much weaker Creeper explosions are
 		# Default: 0.5
 		# Range: 0.0 ~ 1.7976931348623157E308

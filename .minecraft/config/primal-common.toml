@@ -11,12 +11,12 @@
 [mob]
 
 	[mob.replaced_models]
-		rabbitModelChange = true
+		rabbitModelChange = false
 		#Toggle model replacements for certain mobs
 		polarBearModelChange = true
-		foxModelChange = true
-		wolfModelChange = true
-		dolphinModelChange = true
+		foxModelChange = false
+		wolfModelChange = false
+		dolphinModelChange = false
 
 	[mob.misc]
 		#Multiple random options

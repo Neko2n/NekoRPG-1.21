@@ -1,18 +1,18 @@
-filename = 'PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar'
+filename = 'PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar'
 name = 'Puzzles Lib'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '[NEOFORGE] [1.21.1] PuzzlesLib-v21.1.51'
+x-prismlauncher-version-number = 'v21.1.52-1.21.1-NeoForge'
 
 [download]
-hash = '035de52d3eb18ceeca4e4e63516af873c0975060'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = 'c195ebd7910dcb758cdc5bed1feb8b80fdb1a86e19b4521fd23a7a9d64838112c7b765cc8f5a6ea380fb0105ca1d09fc96956007bafa3edc423ec7ed0215324e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QAGBst4M/versions/5A6wiMVf/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar'
 
-[update.curseforge]
-file-id = 8168234
-project-id = 495476
+[update.modrinth]
+mod-id = 'QAGBst4M'
+version = '5A6wiMVf'

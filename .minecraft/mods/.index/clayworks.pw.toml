@@ -1,21 +1,21 @@
 filename = 'clayworks-1.21.1-4.0.3.jar'
 name = 'Clayworks'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Clayworks 1.21.1 - 4.0.3'
+x-prismlauncher-version-number = '4.0.3'
 
 [download]
-hash = 'e57792898117777a09b04cb29bbceb2d88fbc7f6'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = 'e98006b95823377ec409ef352242b6d814f2a7cd7cfb42bfbb555aeb2d2a16b6d3bf3cdeaa14e9f7a32b3d1d3b59b1f2035ee2505aaf5d187c144124a3460074'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1iicrEO3/versions/SpFNxWZa/clayworks-1.21.1-4.0.3.jar'
 
-[update.curseforge]
-file-id = 8050928
-project-id = 592162
+[update.modrinth]
+mod-id = '1iicrEO3'
+version = 'SpFNxWZa'
 
 [[x-prismlauncher-dependencies]]
-addonId = '382216'
+addonId = 'VsM5EDoI'
 type = 'REQUIRED'

@@ -1,5 +1,5 @@
 filename = 'chunksending-1.21-2.9.jar'
-name = 'chunksending mod'
+name = 'Chunk Sending[Forge/Fabric]'
 side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -15,3 +15,7 @@ url = ''
 [update.curseforge]
 file-id = 7926632
 project-id = 831663
+
+[[x-prismlauncher-dependencies]]
+addonId = '326652'
+type = 'REQUIRED'

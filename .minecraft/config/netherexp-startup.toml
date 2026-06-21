@@ -8,3 +8,8 @@
 	#If you'd like to disable profanity entirely or uncensor it you may do so with this config
 	#Allowed Values: DISABLED, CENSORED, UNFILTERED
 	profanity = "CENSORED"
+
+#Pack Settings
+[packSettings]
+	#Changes the soot part of the soul campfire texture to become soul soil instead
+	soulCampfireSoulSoil = true

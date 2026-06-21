@@ -1,21 +1,21 @@
 filename = 'Kiwi-1.21.1-NeoForge-15.8.4.jar'
-name = 'Kiwi Library'
-side = ''
+name = 'Kiwi 🥝'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '[NeoForge 1.21.1] 15.8.4'
+x-prismlauncher-version-number = '15.8.4+neoforge'
 
 [download]
-hash = '6bbbf8c03a896b13f9d1b71b4d7261904637c7ef'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '136822d6ef5f101c822370d278edc23732a012392c162e39ebeb4602b3c89391642ce86f20acb9156c8fa93f5ca52c710f758da83388f70eac34004a1fc02ba3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ufdDoWPd/versions/Zr2eBMyy/Kiwi-1.21.1-NeoForge-15.8.4.jar'
 
-[update.curseforge]
-file-id = 8110292
-project-id = 303657
+[update.modrinth]
+mod-id = 'ufdDoWPd'
+version = 'Zr2eBMyy'
 
 [[x-prismlauncher-dependencies]]
-addonId = '348521'
+addonId = '9s6osm5g'
 type = 'OPTIONAL'

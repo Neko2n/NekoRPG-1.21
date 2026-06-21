@@ -153,7 +153,7 @@
 		#Game ticks required for a Fan-based processing recipe to take effect.
 		# Default: 150
 		# Range: > 0
-		fanProcessingTime = 150
+		fanProcessingTime = 300
 
 	#.
 	#Moving Contraptions
@@ -283,13 +283,13 @@
 				brass_encased_shaft = 0.0
 				turntable = 4.0
 				clutch = 0.0
-				mechanical_mixer = 4.0
+				mechanical_mixer = 6.0
 				gearbox = 0.0
 				mechanical_bearing = 4.0
 				copper_backtank = 4.0
 				hose_pulley = 4.0
 				display_board = 0.0
-				crushing_wheel = 8.0
+				crushing_wheel = 12.0
 				adjustable_chain_gearshift = 0.0
 				millstone = 4.0
 				rotation_speed_controller = 0.0
@@ -304,14 +304,14 @@
 				brass_encased_large_cogwheel = 0.0
 				weighted_ejector = 2.0
 				chain_conveyor = 1.0
-				mechanical_saw = 4.0
+				mechanical_saw = 8.0
 				flywheel = 0.0
 				mechanical_piston = 4.0
 				speedometer = 0.0
 				brass_encased_cogwheel = 0.0
 				clockwork_bearing = 4.0
 				mechanical_press = 8.0
-				mechanical_drill = 4.0
+				mechanical_drill = 8.0
 				andesite_encased_shaft = 0.0
 				netherite_backtank = 4.0
 				mechanical_arm = 2.0
@@ -323,7 +323,7 @@
 				rope_pulley = 4.0
 				andesite_encased_cogwheel = 0.0
 				large_cogwheel = 0.0
-				encased_fan = 2.0
+				encased_fan = 6.0
 				mysterious_cuckoo_clock = 1.0
 				gantry_shaft = 0.0
 				mechanical_pump = 4.0
@@ -337,7 +337,7 @@
 				copper_valve_handle = 8.0
 				hand_crank = 8.0
 				creative_motor = 16384.0
-				large_water_wheel = 128.0
+				large_water_wheel = 64.0
 				windmill_bearing = 512.0
 
 #.

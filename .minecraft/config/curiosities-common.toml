@@ -1,6 +1,6 @@
 	[generation.structures]
 		#If Chains and Lanterns in Bastion Remnants are replaced by Big Chains and Heavy Lanterns
-		"Invar Decor in Bastions" = false
+		"Invar Decor in Bastions" = true
 
 	[items.armor]
 		#The exponential fall speed increase the Heavy Boots normally apply

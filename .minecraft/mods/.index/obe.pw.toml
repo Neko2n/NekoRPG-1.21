@@ -1,0 +1,18 @@
+filename = 'obe+1.21.1-neoforge-1.1.1.jar'
+name = 'Optimised Block Entities'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.1'
+
+[download]
+hash = '7dd5360eb908e1ad6de22d256ef4cfdf06abde89b34f97859788e470e5afbbfda71cb899754ad4f80cc60ba36e936501ad4559598179569a58145ddd2e93daaa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AtOSAunf/versions/prHsR22n/obe%2B1.21.1-neoforge-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'AtOSAunf'
+version = 'prHsR22n'

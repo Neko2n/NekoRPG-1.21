@@ -1,0 +1,58 @@
+[
+    {
+        "action": "remove",
+        "patterns": [
+            "/aether:.*dart_shooter/",
+            "/aether:.*dart/",
+            "/deep_aether:.*dart_shooter/",
+            "/deep_aether:.*dart/",
+            "/aether:obsidian.*/",
+            "/aether:neptune.*/",
+            "/aether:phoenix.*/",
+            "/aether:zanite.*/",
+            "/deep_aether:stormforged.*/",
+            "/deep_aether:skyjade.*/",
+            "/aether:.*parachute/",
+            "/aether:.*key/",
+            "/deep_aether:.*parachute/",
+            "/deep_aether:.*key/",
+            "/aether:.*ring.*/",
+            "/aether:.*pendant.*/",
+            "/aether:.*cape.*/",
+            "/deep_aether:.*ring.*/",
+            "/deep_aether:.*pendant.*/",
+            "/deep_aether:.*cape.*/",
+            "/aether:.*gloves/",
+            "/deep_aether:.*gloves/"
+        ],
+        "not": {
+            "items": [
+                "aether:netherite_gloves"
+            ]
+        }
+    },
+    {
+        "action": "remove",
+        "items": [
+            "aether:victory_medal",
+            "aether:book_of_lore",
+            "aether:nature_staff",
+            "aether:sentry_boots",
+            "deep_aether:combiner",
+            "aether:chest_mimic",
+            "aether:treasure_chest",
+            "aether:altar"
+        ]
+    },
+    {
+        "action": "remove",
+        "entities": [
+            "aether:valkyrie",
+            "aether:valkyrie_queen",
+            "aether:sentry",
+            "aether:mimic",
+            "aether:fire_minion",
+            "aether:sun_spirit"
+        ]
+    }
+]

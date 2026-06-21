@@ -13,14 +13,14 @@
   ],
   "key": {
     "1": {
-      "item": "minecraft:clay_ball"
+      "item": "minecraft:clay"
     },
     "2": {
-      "item": "farmersdelight:straw"
+      "item": "nomansland:thatch"
     }
   },
   "result": {
     "id": "supplementaries:daub",
-    "count": 2
+    "count": 4
   }
 }

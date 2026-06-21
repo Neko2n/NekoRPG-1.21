@@ -1,0 +1,21 @@
+filename = 'bookshelfinspector-neoforge-2.1+1.21.1.jar'
+name = 'Bookshelf Inspector'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.1+1.21.1'
+
+[download]
+hash = 'f5b2f7e313b5acb81efbf7d909db41a3456b825862ae4357020958f090dbddc702497fad2d541fd4fba4927ee5e41f33bee5c32a8dacae0f8287a7f7952a6218'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rOrXjyPb/versions/U7JA8ltl/bookshelfinspector-neoforge-2.1%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'rOrXjyPb'
+version = 'U7JA8ltl'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'

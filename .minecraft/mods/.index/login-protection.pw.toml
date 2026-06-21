@@ -1,9 +1,11 @@
 filename = 'logprot-1.21-3.5.jar'
-name = 'Logprot'
+name = 'Login Protection[Forge/Fabric]'
 side = 'server'
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'logprot-1.21-3.5.jar'
 
 [download]
 hash = '2875ba9e30f72d42279558e22fe79c4ea4503e10'

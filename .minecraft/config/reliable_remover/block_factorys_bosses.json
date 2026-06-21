@@ -1,23 +1,20 @@
 ﻿[
     {
         "action": "remove",
-        "items": [
-            "block_factorys_bosses:dragon_bones_boots",
-            "block_factorys_bosses:dragon_bones_chestplate",
-            "block_factorys_bosses:dragon_bones_leggings",
-            "block_factorys_bosses:knight_helmet",
-            "block_factorys_bosses:knight_chestplate",
-            "block_factorys_bosses:knight_leggings",
-            "block_factorys_bosses:knight_boots",
-            "block_factorys_bosses:knight_sword",
-            "block_factorys_bosses:pirate_saber",
-            "block_factorys_bosses:large_sword",
-            "block_factorys_bosses:warrior_sword",
-            "block_factorys_bosses:dagger",
-            "block_factorys_bosses:kraken_trident",
-            "block_factorys_bosses:undying_tentacle",
-            "block_factorys_bosses:ice_gauntlet",
-            "block_factorys_bosses:enhanced_shield"
-        ]
+        "mod": "block_factorys_bosses",
+        "not": {
+            "patterns": [
+                "/block_factorys_bosses:.*_spawn_egg/"
+            ],
+            "items": [
+                "block_factorys_bosses:worm_gauntlet"
+            ],
+            "entities": [
+                "block_factorys_bosses:infernal_dragon",
+                "block_factorys_bosses:yeti",
+                "block_factorys_bosses:sandworm",
+                "block_factorys_bosses:underworld_knight"
+            ]
+        }
     }
 ]

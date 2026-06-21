@@ -1,0 +1,31 @@
+filename = 'puffish_biome_dither-1.0.0-1.21-neoforge.jar'
+name = "Pufferfish's Biome Dither"
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = '4c4602abf50e858bdba1877eeb32a640c3831a3300709e1ba7909da7a10824c5f78cc2bf76611fa85f7e160a341432fcf28c6506c15b6ac5ca4aa05a95827014'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xlybdB0E/versions/3QEt8Guw/puffish_biome_dither-1.0.0-1.21-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'xlybdB0E'
+version = '3QEt8Guw'

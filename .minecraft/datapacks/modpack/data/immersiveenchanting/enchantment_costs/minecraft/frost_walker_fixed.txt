@@ -1,0 +1,20 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "irons_spellbooks:ice_upgrade_orb",
+          "count": 1
+        }
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "irons_spellbooks:ice_upgrade_orb",
+          "count": 1
+        }
+      }
+    ]
+  }
+}

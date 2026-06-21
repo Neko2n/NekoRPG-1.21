@@ -1,0 +1,18 @@
+filename = 'PolishedChests-1.19.zip'
+name = 'Polished Chests'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.19.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Polished Chests - 1.19'
+
+[download]
+hash = '3cfcf6c4c5a0d3540a5037db8bb7ea97bad95b8e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4311674
+project-id = 403542

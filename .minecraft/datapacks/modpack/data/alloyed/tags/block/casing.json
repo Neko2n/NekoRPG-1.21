@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "alloyed:steel_casing", "required": false },
+    { "id": "alloyed:bronze_casing", "required": false }
+  ]
+}

@@ -21,7 +21,7 @@ blocking_slowdown = 0.2
 #Default Value: 360.0
 # Default: 360.0
 # Range: 0.0 ~ 360.0
-protection_arc = 360.0
+protection_arc = 180.0
 
 [blocking]
 	#Percentage an incoming attack will be reduced by when blocking.
@@ -36,7 +36,7 @@ protection_arc = 360.0
 	knockback_reduction = 0.2
 	#Damage sword when blocking an attack depending on the amount of damage blocked. Sword is only damaged when at least three damage points have been blocked, just like a shield.
 	#Default Value: false
-	damage_sword_on_block = false
+	damage_sword_on_block = true
 	#Incoming projectiles such as arrows or tridents will ricochet while blocking.
 	#Default Value: false
 	deflect_projectiles = false

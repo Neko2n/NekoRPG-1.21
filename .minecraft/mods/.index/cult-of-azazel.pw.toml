@@ -1,18 +1,18 @@
-filename = 'cultofazazelneo-1.1.2.jar'
+filename = 'cultofazazelneo-1.1.3.1.jar'
 name = 'Cult of Azazel'
 side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.2'
+x-prismlauncher-version-number = '1.1.3.1'
 
 [download]
-hash = '7bab96ae9d07e083e28eb5268245c0f9d2a1a60857413af2db0b4337ae62fe9148a821d58863f38f197ceb436a1b0d4be450d01c7a8091a5663ae2a2c14a4f42'
+hash = 'bddfc345aaaa7875b7099ed86ab2fafb77bddc1888731fa60b2defeaf100ed2362b46a4232b527b06b0ab47cfbd296407a6c6b8e0d565638d5b1fbbbbfd8943b'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/tnd2BYam/versions/zEm3pkqe/cultofazazelneo-1.1.2.jar'
+url = 'https://cdn.modrinth.com/data/tnd2BYam/versions/w1gxeF7q/cultofazazelneo-1.1.3.1.jar'
 
 [update.modrinth]
 mod-id = 'tnd2BYam'
-version = 'zEm3pkqe'
+version = 'w1gxeF7q'

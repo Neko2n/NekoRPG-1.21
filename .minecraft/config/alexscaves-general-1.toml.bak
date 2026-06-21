@@ -1,10 +1,10 @@
 [generation]
 	#Average radius (in blocks) of an Alex's Caves cave biome.
-	# Default: 300.0
+	# Default: 160.0
 	# Range: 10.0 ~ 1.7976931348623157E308
-	cave_biome_mean_width = 350.0
+	cave_biome_mean_width = 200.0
 	#Average separation (in blocks) between each Alex's Caves cave biome.
-	# Default: 900
+	# Default: 2000
 	# Range: > 50
 	cave_biome_mean_separation = 500
 	#How irregularly shaped Alex's Caves cave biomes can generate. 0 = all biomes nearly circular. 1 = biomes completely squiggly in shape.
@@ -85,7 +85,7 @@
 	nuke_spawn_item_drops = false
 	#The scale of nuclear bomb destruction. multiply this by 16 to get the radius of a nuclear bomb explosion.
 	# Default: 3.0
-	# Range: 0.0 ~ 1.7976931348623157E308
+	# Range: 0.0 ~ 100.0
 	nuclear_explosion_size_modifier = 4.0
 	#Whether the Totem of Possession can be applied to players.
 	totem_of_possession_works_on_players = true
@@ -102,39 +102,39 @@
 	#percent chance of bastion having a cave tablet for magnetic caves in its loot table:
 	# Default: 0.45
 	# Range: 0.0 ~ 1.0
-	magnetic_tablet_loot_chance = 0.45
+	magnetic_tablet_loot_chance = 0.0
 	#percent chance of suspicious sand having a cave tablet for primordial caves in its loot table:
 	# Default: 0.15
 	# Range: 0.0 ~ 1.0
-	primordial_tablet_loot_chance = 0.15
+	primordial_tablet_loot_chance = 0.0
 	#percent chance of jungle temple having a cave tablet for toxic caves in its loot table:
 	# Default: 0.5
 	# Range: 0.0 ~ 1.0
-	toxic_tablet_loot_chance = 0.5
+	toxic_tablet_loot_chance = 0.0
 	#percent chance of underwater ruins having a cave tablet for abyssal chasm in its loot table:
 	# Default: 0.4
 	# Range: 0.0 ~ 1.0
-	abyssal_tablet_loot_chance = 0.4
+	abyssal_tablet_loot_chance = 0.0
 	#percent chance of mansion having a cave tablet for forlorn hollows in its loot table:
 	# Default: 0.75
 	# Range: 0.0 ~ 1.0
-	forlorn_tablet_loot_chance = 0.75
+	forlorn_tablet_loot_chance = 0.0
 	#percent chance of abandoned mineshaft chests having a map to a nearby underground mineshaft in their loot table:
 	# Default: 0.15
 	# Range: 0.0 ~ 1.0
-	cabin_map_loot_chance = 0.15
+	cabin_map_loot_chance = 0.0
 	#Whether the Cartographer Villagers can sell maps to Underground Cabins.
-	cartographers_sell_cabin_maps = true
+	cartographers_sell_cabin_maps = false
 	#Whether the Wandering Traders can sell maps to Underground Cabins.
-	wandering_traders_sell_cabin_maps = true
+	wandering_traders_sell_cabin_maps = false
 	#Whether the Enchantments added by AC appear in vanilla loot tables.
 	enchantments_in_loot = false
 	#percent chance of witch hut chest having a cave tablet for candy cavity in its loot table:
 	# Default: 0.9
 	# Range: 0.0 ~ 1.0
-	candy_cavity_loot_chance = 0.9
+	candy_cavity_loot_chance = 0.0
 	#Whether a loot chest is added to vanilla's witch huts. This is included to provide another place to find candy cavity biome cave tablets.
-	loot_chest_in_witch_huts = true
+	loot_chest_in_witch_huts = false
 
 [potion-behavior]
 	#Whether the Sugar Rush changes the tick rate of the game in the area of affected players.

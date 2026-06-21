@@ -1,21 +1,21 @@
 [
     {
         "action": "remove",
+        "patterns": [
+            "/irons_spellbooks:.*rune/",
+            "/gtbcs_geomancy_plus:.*rune/",
+            "/irons_spellbooks:.*spellbook/",
+            "/irons_spellbooks:.*scroll/",
+            "/gtbcs_geomancy_plus:.*scroll/"
+        ],
         "items": [
-            "irons_spellbooks:fire_rune",
-            "irons_spellbooks:ice_rune",
-            "irons_spellbooks:lightning_rune",
-            "irons_spellbooks:holy_rune",
-            "irons_spellbooks:ender_rune",
-            "irons_spellbooks:blood_rune",
-            "irons_spellbooks:evocation_rune",
-            "irons_spellbooks:nature_rune",
-            "irons_spellbooks:arcane_rune",
-            "irons_spellbooks:protection_rune",
-            "irons_spellbooks:cooldown_rune",
-            "irons_spellbooks:blank_rune",
             "irons_spellbooks:mithril_ore",
-            "irons_spellbooks:protection_upgrade_orb"
+            "irons_spellbooks:protection_upgrade_orb",
+            "irons_spellbooks:arcane_ingot",
+            "irons_spellbooks:arcane_essence",
+            "irons_spellbooks:inscription_table",
+            "irons_spellbooks:arcane_anvil",
+            "irons_spellbooks:scroll_forge"
         ]
     }
 ]

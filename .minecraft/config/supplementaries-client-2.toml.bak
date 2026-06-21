@@ -150,8 +150,6 @@
 	custom_configured_screen = true
 	#Disables Optifine warn screen
 	no_optifine_warn_screen = true
-	#Disables Amendments suggestion screen
-	no_amendments_screen = false
 	#Config button Y offset
 	# Default: 0
 	# Range: -10000 ~ 10000

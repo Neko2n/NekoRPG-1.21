@@ -1,0 +1,15 @@
+[
+  {
+    "inputs": [
+      "bountifulfares:grassy_dirt"
+    ],
+    "output": "minecraft:grass_block"
+  },
+  {
+    "keep_states": true,
+    "inputs": [
+      "deep_aether:rotten_roseroot_log"
+    ],
+    "output": "ascended_quark:hollow_roseroot_log"
+  }
+]

@@ -1,0 +1,26 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "key": {
+  "I": {
+   "item": "minecraft:iron_ingot"
+  },
+  "F": {
+   "item": "minecraft:furnace"
+  },
+  "S": {
+   "tag": "create:stone_types/deepslate"
+  },
+  "D": {
+    "item": "minecraft:diamond"
+  }
+ },
+ "pattern": [
+  "DID",
+  "IFI",
+  "SSS"
+ ],
+ "result": {
+  "id": "alloyed:forge",
+  "count": 1
+ }
+}

@@ -1,18 +1,18 @@
 filename = 'revotedwildfire-1.21.1-1.0.2.jar'
 name = 'Revoted: Wildfire'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'revotedwildfire-1.21.1-1.0.2.jar'
+x-prismlauncher-version-number = '1.0.2'
 
 [download]
-hash = '9a326e8625eb9d331b2d3cfb06019ecd35e36a92'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '0f717ccff3e48e9a8ccc32812f1759cff06662769f91226102687203ed07bebdf12bda5d53d5ebbea3fda93a3dcda4b4c04f00f867d2fb14550b6258c51bd155'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/840SMhYK/versions/8jgu87vF/revotedwildfire-1.21.1-1.0.2.jar'
 
-[update.curseforge]
-file-id = 6968565
-project-id = 1339181
+[update.modrinth]
+mod-id = '840SMhYK'
+version = '8jgu87vF'

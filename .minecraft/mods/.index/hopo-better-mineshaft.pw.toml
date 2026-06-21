@@ -1,16 +1,18 @@
 filename = 'HopoBetterMineshaft-[1.21-1.21.3]-1.3.0b.jar'
-name = 'HopoBetterMineshaft'
-side = 'server'
+name = 'Hopo Better Mineshaft'
+side = 'both'
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.0b'
 
 [download]
-hash = '4faf3ab27564c11dd710364849e32bdf5da0e0fd'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '63086c2cc0a54ba28da8d0cd13863c0461c8352d88b9baf7ba100da7b2834d52cad039bada35818e4507511992b9837a07a990cb6b0c859fabb749c57b8ec09f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9IxCUYAP/versions/1X6Zpz8Z/HopoBetterMineshaft-%5B1.21-1.21.3%5D-1.3.0b.jar'
 
-[update.curseforge]
-file-id = 6420134
-project-id = 623723
+[update.modrinth]
+mod-id = '9IxCUYAP'
+version = '1X6Zpz8Z'

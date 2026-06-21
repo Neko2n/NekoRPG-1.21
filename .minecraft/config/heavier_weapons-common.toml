@@ -1,0 +1,26 @@
+#Enable hitstop (animation freeze) on weapon impact
+hitstopEnabled = true
+#Default hitstop duration in ticks for weapons without a category mapping
+# Default: 2
+# Range: 0 ~ 10
+defaultHitstopTicks = 2
+#Extra hitstop ticks added on critical hits
+# Default: 2
+# Range: 0 ~ 10
+critBonusTicks = 2
+#Enable camera shake on weapon impact
+cameraShakeEnabled = true
+#Camera shake intensity multiplier
+# Default: 1.0
+# Range: 0.0 ~ 3.0
+cameraShakeIntensity = 1.0
+#Freeze hit entities in place during hitstop
+entityFreezeEnabled = true
+#Delay in ticks after attack connects before hitstop occurs (0 = immediate)
+# Default: 0
+# Range: 0 ~ 10
+hitstopDelayTicks = 0
+#Enable Critical Strike mod compatibility (detect RNG crits for hitstop bonus)
+criticalStrikeCompat = true
+#Hitstop duration per weapon category, format: 'category:ticks'
+categoryHitstopDurations = ["dagger:0", "claw:0", "fist:0", "sickle:0", "soul_knife:0", "wand:0", "rapier:1", "sword:2", "cutlass:2", "katana:2", "coral_blade:2", "twin_blade:2", "spear:2", "trident:2", "staff:2", "pickaxe:2", "axe:3", "mace:3", "glaive:3", "scythe:3", "battlestaff:3", "lance:3", "claymore:4", "heavy_axe:4", "double_axe:4", "halberd:4", "hammer:5", "anchor:5"]

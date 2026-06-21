@@ -1,21 +1,18 @@
 filename = 'hearthguard-neoforge-1.21.1-1.1.1.jar'
-name = 'HearthGuard'
-side = 'server'
+name = 'HearthGuard - Mobs Fear Campfires'
+side = 'both'
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'HearthGuard 1.21.1-1.1.1 (NeoForge)'
+x-prismlauncher-version-number = '1.21.1-1.1.1'
 
 [download]
-hash = '2d92f955fbbfd09b1160973e72efa4eedd4c1c24'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '259307008df02689c6a30d2f1382b2a4c37c57f265157ab16be657e2bc4973058059ee17e34b09577adcf8295ea9fcd636aea8d51337b9c1964bec362745dced'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QE9szL3C/versions/OHdAp1h2/hearthguard-neoforge-1.21.1-1.1.1.jar'
 
-[update.curseforge]
-file-id = 8046053
-project-id = 1483098
-
-[[x-prismlauncher-dependencies]]
-addonId = '348521'
-type = 'OPTIONAL'
+[update.modrinth]
+mod-id = 'QE9szL3C'
+version = 'OHdAp1h2'

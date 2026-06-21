@@ -4,6 +4,7 @@ side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0'
 
 [download]
 hash = '10be8a959c3eba6a5c542d80476daa962dca0d2c1b859887f10ae7aa5a4100433d7d1ec0dd5e32ae4949279b7f67df5bf22a96b3941630a0ca05ac010e8328ec'
@@ -14,3 +15,7 @@ url = 'https://cdn.modrinth.com/data/XDyDSNLP/versions/HRwr7zWu/tumbleweeds-1.1.
 [update.modrinth]
 mod-id = 'XDyDSNLP'
 version = 'HRwr7zWu'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

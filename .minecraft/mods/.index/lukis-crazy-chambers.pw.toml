@@ -1,6 +1,6 @@
 filename = 'lukis-crazy-chambers-1.0.3.jar'
 name = "Luki's Crazy Chambers"
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [
@@ -18,14 +18,14 @@ x-prismlauncher-mc-versions = [
     '1.21.11'
 ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = "v1.0.3 1.21-1.21.11 | Luki's Crazy Chambers"
+x-prismlauncher-version-number = '1.0.3+mod'
 
 [download]
-hash = '146a4cda28a46ad4ed09083e4e37da9473a1f7af'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = 'b5d7e86bb0031e9815b984d59d0c6a32b74a334bd8bf13538a5806c109709b0e3a17756fc05d28444ef4a493c80a177d69315edd06ca1efd2bf92c979e7e843c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JeZoobNU/versions/CPFsfPNM/lukis-crazy-chambers-1.0.3.jar'
 
-[update.curseforge]
-file-id = 7456313
-project-id = 1082929
+[update.modrinth]
+mod-id = 'JeZoobNU'
+version = 'CPFsfPNM'

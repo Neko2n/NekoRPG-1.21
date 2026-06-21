@@ -1,45 +1,16 @@
 [
     {
         "action": "remove",
-        "items": [
-            "artificers_armory:chime_wood",
-            "artificers_armory:chime_stone",
-            "artificers_armory:chime_copper",
-            "artificers_armory:chime_iron",
-            "artificers_armory:chime_gold",
-            "artificers_armory:chime_netherite",
-            "artificers_armory:censer_wood",
-            "artificers_armory:censer_stone",
-            "artificers_armory:censer_copper",
-            "artificers_armory:censer_iron",
-            "artificers_armory:censer_gold",
-            "artificers_armory:censer_diamond",
-            "artificers_armory:censer_netherite",
-            "artificers_armory:firebrand_wood",
-            "artificers_armory:firebrand_stone",
-            "artificers_armory:firebrand_copper",
-            "artificers_armory:firebrand_iron",
-            "artificers_armory:firebrand_gold",
-            "artificers_armory:firebrand_diamond",
-            "artificers_armory:blight_wood",
-            "artificers_armory:blight_stone",
-            "artificers_armory:blight_copper",
-            "artificers_armory:blight_iron",
-            "artificers_armory:blight_gold",
-            "artificers_armory:blight_diamond",
-            "artificers_armory:blight_netherite",
-            "artificers_armory:spirit_candle_wood",
-            "artificers_armory:spirit_candle_stone",
-            "artificers_armory:spirit_candle_copper",
-            "artificers_armory:spirit_candle_iron",
-            "artificers_armory:spirit_candle_gold",
-            "artificers_armory:spirit_candle_diamond",
-            "artificers_armory:sprig_wood",
-            "artificers_armory:sprig_stone",
-            "artificers_armory:sprig_copper",
-            "artificers_armory:sprig_iron",
-            "artificers_armory:sprig_gold",
-            "artificers_armory:sprig_netherite"
-        ]
+        "mod": "artificers_armory",
+        "not": {
+            "items": [
+                "artificers_armory:firebrand_netherite",
+                "artificers_armory:spirit_candle_diamond",
+                "artificers_armory:chime_diamond",
+                "artificers_armory:sprig_diamond",
+                "artificers_armory:oculus_netherite",
+                "artificers_armory:tuning_fork_diamond"
+            ]
+        }
     }
 ]

@@ -1,0 +1,46 @@
+[
+    {
+        "action": "remove",
+        "patterns": [
+            "/aether:skyroot.*bucket.*/",
+            "/curiosities:fancied.*planks/",
+            "/quark:.*stool/",
+            "/create:.*seat/"
+        ]
+    },
+    {
+        "action": "remove",
+        "items": [
+            "aether:skyroot_sword",
+            "aether:skyroot_shovel",
+            "aether:skyroot_pickaxe",
+            "aether:skyroot_axe",
+            "aether:skyroot_hoe",
+            "aether:holystone_sword",
+            "aether:holystone_shovel",
+            "aether:holystone_pickaxe",
+            "aether:holystone_axe",
+            "aether:holystone_hoe",
+            "aether:skyroot_bed"
+        ]
+    },
+    {
+        "action": "remove",
+        "items": [
+            "bountifulfares:grassy_dirt"
+        ],
+        "replace_with": "minecraft:grass_block"
+    },
+    {
+        "action": "remove",
+        "items": [
+            "aether:skyroot_stick"
+        ],
+        "replace_with": "minecraft:stick"
+    },
+    {
+        "action": "remove",
+        "item": "deep_aether:rotten_roseroot_log",
+        "replace_with": "ascended_quark:hollow_roseroot_log"
+    }
+]

@@ -1,0 +1,28 @@
+{
+  "type": "alloyed:forging_shaped",
+  "key": {
+    "#": {"tag": "c:rods/wooden"},
+    "X": {"tag": "c:ingots/steel"}
+  },
+  "pattern": [
+    " X",
+    "# "
+  ],
+  "result": {
+    "id": "alloyed:steel_knife"
+  },
+  "fabric:load_conditions": [
+  {
+    "condition": "fabric:all_mods_loaded",
+    "values": [
+      "farmersdelight"
+    ]
+  }
+  ],
+  "neoforge:conditions": [
+  {
+    "type": "neoforge:mod_loaded",
+    "modid": "farmersdelight"
+  }
+]
+}

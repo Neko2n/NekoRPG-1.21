@@ -1,0 +1,25 @@
+filename = 'SwordBlockingMechanics-v21.1.1-1.21.1-NeoForge.jar'
+name = 'Sword Blocking Mechanics'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NEOFORGE] [1.21.1] SwordBlockingMechanics-v21.1.1'
+
+[download]
+hash = '7b94495f0aabb90c66406af0be34ef7dab60135a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6043989
+project-id = 969424
+
+[[x-prismlauncher-dependencies]]
+addonId = '544048'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '495476'
+type = 'REQUIRED'

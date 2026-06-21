@@ -46,9 +46,6 @@
 			conberry = true
 			sunroot = true
 
-		[types.wood_type.ghosts]
-			haunted = true
-
 		[types.wood_type.bountifulfares]
 			hoary = true
 			walnut = true
@@ -129,9 +126,6 @@
 			cruderoot = true
 			conberry = true
 			sunroot = true
-
-		[types.leaves_type.ghosts]
-			haunted = true
 
 		[types.leaves_type.bountifulfares]
 			apple = true
@@ -271,6 +265,9 @@
 			silt = true
 			siltstone = true
 
+		[types.stone_type.curiosities]
+			laterite = true
+
 		[types.mud_type.deep_aether]
 			aether_mud = true
 
@@ -317,6 +314,9 @@
 		[entries.wood_type.nomansland]
 			bookshelf = true
 			trimmed_planks = true
+
+		[entries.wood_type.curiosities]
+			fancied_planks = true
 
 		[entries.leaves_type.quark]
 			hedge = true

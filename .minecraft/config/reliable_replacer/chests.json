@@ -1,0 +1,79 @@
+[
+  {
+    "keep_states": true,
+    "keep_nbt": true,
+    "dimensions": [
+      "minecraft:the_nether"
+    ],
+    "inputs": [
+      "minecraft:chest"
+    ],
+    "output": "quark:nether_brick_chest"
+  },
+  {
+    "keep_states": true,
+    "keep_nbt": true,
+    "dimensions": [
+      "minecraft:the_nether"
+    ],
+    "inputs": [
+      "minecraft:trapped_chest"
+    ],
+    "output": "quark:trapped_nether_brick_chest"
+  },
+  {
+    "keep_states": true,
+    "keep_nbt": true,
+    "dimensions": [
+      "minecraft:the_nether"
+    ],
+    "inputs": [
+      "minecraft:barrel"
+    ],
+    "output": "alexscaves:metal_barrel"
+  },
+  {
+    "keep_states": true,
+    "keep_nbt": true,
+    "structures": [
+      "minecraft:ocean_monument"
+    ],
+    "inputs": [
+      "minecraft:chest"
+    ],
+    "output": "quark:prismarine_chest"
+  },
+  {
+    "keep_states": true,
+    "keep_nbt": true,
+    "structures": [
+      "minecraft:ocean_monument"
+    ],
+    "inputs": [
+      "minecraft:trapped_chest"
+    ],
+    "output": "quark:trapped_prismarine_chest"
+  },
+  {
+    "keep_states": true,
+    "keep_nbt": true,
+    "dimensions": [
+      "minecraft:the_end"
+    ],
+    "inputs": [
+      "minecraft:chest"
+    ],
+    "output": "quark:purpur_chest"
+  },
+  {
+    "keep_states": true,
+    "keep_nbt": true,
+    "dimensions": [
+      "minecraft:the_end"
+    ],
+    "inputs": [
+      "minecraft:trapped_chest"
+    ],
+    "output": "quark:trapped_purpur_chest"
+  }
+]

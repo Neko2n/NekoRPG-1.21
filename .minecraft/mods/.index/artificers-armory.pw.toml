@@ -1,18 +1,21 @@
 filename = 'artificers_armory-beta-0.4.2-1.21.1-neoforge.jar'
 name = "Artificer's Armory"
-side = ''
-x-prismlauncher-dependencies = []
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'artificers_armory-beta-0.4.2-1.21.1-neoforge.jar'
+x-prismlauncher-version-number = '0.4.2'
 
 [download]
-hash = '68fff8f09aaf886605d0e0f19255ac2885754a96'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '39e54c47d2102dbde7abeeff4383023b688e9c669a7aa7d43add01e47d4d3c19580808ce53394f050b5d76493fc2deae227c2a68c5c2f8ce2b061b5b8e5612f0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HwSC3CR4/versions/rmj60As9/artificers_armory-beta-0.4.2-1.21.1-neoforge.jar'
 
-[update.curseforge]
-file-id = 8206507
-project-id = 1502992
+[update.modrinth]
+mod-id = 'HwSC3CR4'
+version = 'rmj60As9'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'

@@ -1,21 +1,21 @@
 filename = 'nomorepopups-neoforge-1.21.1-2.2.1.jar'
 name = 'No More Pop-ups'
-side = ''
+side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'nomorepopups-neoforge-1.21.1-2.2.1.jar'
+x-prismlauncher-version-number = '2.2.1'
 
 [download]
-hash = '3a70d80437166c3727f914eb89758f7ef5020acc'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '33eed076343fb59b9b0224c652e5d7f5c77031cf41f440be00080c8f1b320c100eb2d934f21645d13d1975f7c33acbd31c6454530941ab3d48c4551e8a656e2e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sAdB6HVW/versions/MiDRMycS/nomorepopups-neoforge-1.21.1-2.2.1.jar'
 
-[update.curseforge]
-file-id = 8086167
-project-id = 1320088
+[update.modrinth]
+mod-id = 'sAdB6HVW'
+version = 'MiDRMycS'
 
 [[x-prismlauncher-dependencies]]
-addonId = '317121'
+addonId = '9s6osm5g'
 type = 'OPTIONAL'

@@ -5,5 +5,45 @@
             "bountifulfares:sweet_berry_pips",
             "minecraft:leaf_litter"
         ]
+    },
+    {
+        "action": "remove",
+        "pattern": "/.*:soul_candle/",
+        "not": {
+            "mod": "buzzier_bees"
+        },
+        "replace_with": "buzzier_bees:soul_candle"
+    },
+    {
+        "action": "remove",
+        "pattern": "/create:.*toolbox.*/"
+    },
+    {
+        "action": "remove",
+        "pattern": "/.*:netherite_nugget/",
+        "not": {
+            "mod": "caverns_and_chasms"
+        },
+        "replace_with": "caverns_and_chasms:netherite_nugget"
+    },
+    {
+        "action": "remove",
+        "pattern": "/.*:copper_nugget/",
+        "not": {
+            "mod": "caverns_and_chasms"
+        },
+        "replace_with": "caverns_and_chasms:copper_nugget"
+    },
+    {
+        "action": "remove",
+        "pattern": "/irons_spellbooks:.*brazier.*/"
+    },
+    {
+        "action": "remove",
+        "pattern": "/.*:rope/",
+        "not": {
+            "mod": "supplementaries"
+        },
+        "replace_with": "supplementaries:rope"
     }
 ]

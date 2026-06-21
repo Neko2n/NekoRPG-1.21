@@ -1,25 +1,25 @@
 filename = 'item_descriptions-2.8.0+1.21.1-neoforge.jar'
 name = 'Item Descriptions'
-side = ''
+side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Item Descriptions 2.8.0 for 1.21.1 Neoforge'
+x-prismlauncher-version-number = '2.8.0+1.21.1-neoforge'
 
 [download]
-hash = 'fd8df1a7398539d66ecbcf406d22b8408d2d4808'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '395b5b1fdde9b0c2b02322118aae01f901dca624014db64c093e7d6fcada351a73d8c5039af202db3baf3e334a7d997991dad5acede8f30c26c8533aa68461b9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UaizcMKP/versions/OrkSfQ0u/item_descriptions-2.8.0%2B1.21.1-neoforge.jar'
 
-[update.curseforge]
-file-id = 8228839
-project-id = 1101501
+[update.modrinth]
+mod-id = 'UaizcMKP'
+version = 'OrkSfQ0u'
 
 [[x-prismlauncher-dependencies]]
-addonId = '348521'
+addonId = '1eAoo2KR'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '308702'
+addonId = 'nvQzSEkH'
 type = 'OPTIONAL'

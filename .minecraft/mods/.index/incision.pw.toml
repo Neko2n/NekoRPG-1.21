@@ -1,5 +1,5 @@
 filename = 'incision-1.0.11-neoforge-1.21.1.jar'
-name = 'incision'
+name = 'Incision'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

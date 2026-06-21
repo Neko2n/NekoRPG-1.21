@@ -1,0 +1,25 @@
+filename = 'alloyed-3.0.9+1.21.1-neoforge.jar'
+name = 'Create: Alloyed'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Alloyed 3.0.9 for 1.21.1 NeoForge'
+
+[download]
+hash = 'a196057e9c086e0303ec91c58362050bf9fc52da'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8016758
+project-id = 564792
+
+[[x-prismlauncher-dependencies]]
+addonId = '1402884'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '580555'
+type = 'OPTIONAL'
