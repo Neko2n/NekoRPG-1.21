@@ -1,3 +1,4 @@
+### Modpack Files ###
 .minecraft/*
 !.minecraft/icon.png
 !.minecraft/emi.json
@@ -7,6 +8,56 @@
 !.minecraft/kubejs/
 !.minecraft/config/
 !.minecraft/datapacks/
-*.claude
-*.connector
 *.jar
+
+### Gradle ###
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/**/build/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/**/out/
+
+.run/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.eclipse/
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/**/bin/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Minecraft Modding ###
+run/
+!**/src/**/run/
+**/src/generated/**/.cache/
+repo/
+!**/src/**/repo/
+
+### NOTICE ON AI USE ###
+# AI tools were used for the following purposes:
+# - Datapack generation
+# - Web searching
+# Author note:
+#   Some tasks are too long to reasonably do manually.
+#   I hope to eventually replace all AI-generated content,
+#   but for now, it's a great tool for quickly getting through
+#   repetitive, non-creative tasks.
+*.claude

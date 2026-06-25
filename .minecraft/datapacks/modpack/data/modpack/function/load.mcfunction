@@ -1,1 +1,1 @@
-gamerule doInsomnia false
+gamerule minecraft:spawn_phantoms false

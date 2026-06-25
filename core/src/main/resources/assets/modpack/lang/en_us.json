@@ -1,0 +1,13 @@
+{
+  "itemGroup.modpack": "Example Mod Tab",
+  "block.modpack.example_block": "Example Block",
+  "item.modpack.example_item": "Example Item",
+
+  "modpack.configuration.title": "Minecraft Journeys: Core Configs",
+  "modpack.configuration.section.modpack.common.toml": "Minecraft Journeys: Core Configs",
+  "modpack.configuration.section.modpack.common.toml.title": "Minecraft Journeys: Core Configs",
+  "modpack.configuration.items": "Item List",
+  "modpack.configuration.logDirtBlock": "Log Dirt Block",
+  "modpack.configuration.magicNumberIntroduction": "Magic Number Text",
+  "modpack.configuration.magicNumber": "Magic Number"
+}
