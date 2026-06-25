@@ -1,4 +1,4 @@
-#Enable/Disable the mod
+#General mining behavior - Enable/Disable the mod
 enabled = true
 #Base ticks between each swing
 # Default: 12
@@ -8,8 +8,37 @@ swingInterval = 12
 # Default: 1.0
 # Range: 0.1 ~ 10.0
 damageMultiplier = 1.0
-#Use vanilla-style rapid breaking for foliage blocks
+#Vanilla bypasses and compatibility - Use vanilla-style rapid breaking for foliage blocks
 vanillaFoliageBreaking = false
+#Controls how much each level of Efficiency increases the swing interval multiplier.
+#The default 0.25 gives multipliers of 1.25, 1.5, 1.75, 2.0, and 2.25 for Efficiency I-V.
+# Default: 0.25
+# Range: 0.0 ~ 2.0
+efficiencyTierStep = 0.25
+#Controls how much each level of Haste increases the swing interval multiplier.
+#The default 0.25 gives multipliers of 1.25 and 1.5 for Haste I-II.
+# Default: 0.25
+# Range: 0.0 ~ 2.0
+hasteTierStep = 0.25
+#Optional block ids or tags that should bypass Incremental Mining and use vanilla/modded mining behavior.
+#Use this for blocks with special interaction, shape, facade, or custom break behavior.
+#Examples: 'example_mod:fragile_glass', '#example_mod:vanilla_mining_blocks'.
+vanillaMiningBlocks = []
+#Optional item ids or item tags that should bypass Incremental Mining and use vanilla mining behavior while held.
+#Use this for modded tools with custom mining behavior or animations.
+#Examples: 'example_mod:laser_drill', '#example_mod:vanilla_mining_tools'.
+vanillaMiningTools = []
+#Optional block ids or tags that should always be treated as unbreakable by Incremental Mining.
+#Examples: 'minecraft:barrier', '#example_mod:unbreakable_blocks'.
+forceUnbreakableBlocks = []
+#Controls whether mining impacts use Incremental Mining sounds or vanilla block sounds.
+#Allowed Values: INCREMENTAL, VANILLA
+blockImpactSoundMode = "INCREMENTAL"
+#Optional block or tag-specific impact sound overrides.
+#Format: 'namespace:block=minecraft:block.stone.break' or '#namespace:tag=minecraft:block.stone.break'.
+#First matching entry wins.
+#Examples: 'example_mod:crystal=minecraft:block.amethyst_block.hit', '#example_mod:metal_blocks=minecraft:block.copper.hit'.
+blockImpactSoundOverrides = []
 
 [sounds]
 	#Metal block sound

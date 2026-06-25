@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/template_vault",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bottom": "archeological:block/ancient_vault_bottom",
+    "front": "archeological:block/ancient_vault_front",
+    "side": "archeological:block/ancient_vault_side",
+    "top": "archeological:block/ancient_vault_top"
+  }
+}

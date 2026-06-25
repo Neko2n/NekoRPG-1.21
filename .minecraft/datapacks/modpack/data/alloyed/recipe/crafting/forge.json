@@ -7,9 +7,14 @@
   "F": {
    "item": "minecraft:furnace"
   },
-  "S": {
-   "tag": "create:stone_types/deepslate"
-  },
+  "S": [
+   {
+    "tag": "create:stone_types/deepslate"
+   },
+   {
+    "item": "minecraft:cobbled_deepslate"
+   }
+  ],
   "D": {
     "item": "minecraft:diamond"
   }

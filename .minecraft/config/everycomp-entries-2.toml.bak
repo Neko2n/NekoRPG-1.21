@@ -61,6 +61,10 @@
 			walnut = true
 			willow = true
 
+		[types.wood_type.alexscaves]
+			pewen = true
+			thornwood = true
+
 		[types.leaves_type.natures_spirit]
 			frosty_redwood = true
 			redwood = true
@@ -143,6 +147,9 @@
 			willow = true
 			apple_fruit = true
 			pear_fruit = true
+
+		[types.leaves_type.alexscaves]
+			ancient = true
 
 		[types.cake.natures_spirit]
 			cheese_block = true
@@ -247,8 +254,11 @@
 		[types.stone_type.curiosities]
 			laterite = true
 
-		[types.stone_type.legendary_monsters]
-			enderstone = true
+		[types.stone_type.alexscaves]
+			galena = true
+			radrock = true
+			abyssmarine = true
+			guanostone = true
 
 		[types.mud_type.deep_aether]
 			aether_mud = true

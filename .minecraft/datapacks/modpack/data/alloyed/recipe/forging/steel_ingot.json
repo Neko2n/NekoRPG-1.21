@@ -3,12 +3,11 @@
   "ingredients": [
     {"item": "minecraft:iron_ingot"},
     {"item": "minecraft:iron_ingot"},
-    {"item": "minecraft:iron_ingot"},
-    {"tag": "minecraft:coals"},
-    {"item": "minecraft:fire_charge"}
+    {"item": "minecraft:diamond"},
+    {"tag": "minecraft:coals"}
   ],
   "result": {
-      "count": 3,
+      "count": 1,
       "id": "alloyed:steel_ingot"
   }
 }

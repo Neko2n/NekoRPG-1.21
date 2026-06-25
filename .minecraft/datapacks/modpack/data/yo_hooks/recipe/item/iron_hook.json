@@ -2,15 +2,18 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     " II",
-    "RRI",
-    "RR "
+    " RI",
+    "S  "
   ],
   "key": {
     "I": {
       "item": "minecraft:iron_ingot"
     },
     "R": {
-      "tag": "supplementaries:ropes"
+      "item": "minecraft:chain"
+    },
+    "S": {
+      "item": "minecraft:stick"
     }
   },
   "result": {

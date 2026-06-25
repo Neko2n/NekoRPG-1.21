@@ -12,7 +12,7 @@
 	// Forward Lunge speed cap
 	"lungeSpeedCap": 4.0,
 	// Impulse decay coefficient
-	"impulseCoeff": 0.20000000298023224,
+	"impulseCoeff": 0.10000000298023224,
 	// Impulse speed coefficient
 	"maxImpulse": 1.100000023841858,
 	// Impact recoil on attacker when hitting enemy
@@ -24,9 +24,9 @@
 	// Attack Particles
 	"particles": false,
 	// Hitstop on Self
-	"hitstopSelf": true,
+	"hitstopSelf": false,
 	// Hitstop on Enemies
-	"hitstopEnemies": true,
+	"hitstopEnemies": false,
 	// Enable Holster Mode (H key)
 	"holster": false,
 	// Holster Sprint Speed Boost multiplier

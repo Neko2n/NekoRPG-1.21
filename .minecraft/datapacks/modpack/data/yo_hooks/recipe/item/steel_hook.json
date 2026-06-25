@@ -2,15 +2,18 @@
   "type": "alloyed:forging_shaped",
   "pattern": [
     " II",
-    "RRI",
-    "RR "
+    " RI",
+    "S  "
   ],
   "key": {
     "I": {
       "tag": "c:ingots/steel"
     },
     "R": {
-      "tag": "supplementaries:ropes"
+      "item": "minecraft:chain"
+    },
+    "S": {
+      "item": "minecraft:stick"
     }
   },
   "result": {

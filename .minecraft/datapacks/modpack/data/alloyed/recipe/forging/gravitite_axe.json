@@ -1,0 +1,19 @@
+{
+    "type":  "alloyed:forging_shaped",
+    "key":  {
+                "X":  {
+                          "tag":  "aether:processed/gravitite"
+                      },
+                "#":  {
+                          "tag":  "aether:skyroot_stick"
+                      }
+            },
+    "pattern":  [
+                    "XX",
+                    "#X",
+                    "# "
+                ],
+    "result":  {
+                   "id":  "aether:gravitite_axe"
+               }
+}

@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+	{
+      "id": "tfc:food/peach",
+      "required": false
+    },
+	{
+      "id": "tfc:food/orange",
+      "required": false
+    },
+	{
+      "id": "tfc:food/strawberry",
+      "required": false
+    },
+	{
+      "id": "tfc:food/banana",
+      "required": false
+    },
+	{
+      "id": "tfc:food/lemon",
+      "required": false
+    },
+	{
+      "id": "tfc:seeds/papyrus_seeds",
+      "required": false
+    }
+  ]
+}

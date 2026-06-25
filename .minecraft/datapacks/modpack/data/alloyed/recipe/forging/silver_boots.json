@@ -1,0 +1,15 @@
+{
+    "type":  "alloyed:forging_shaped",
+    "key":  {
+                "X":  {
+                          "tag":  "c:ingots/silver"
+                      }
+            },
+    "pattern":  [
+                    "X X",
+                    "X X"
+                ],
+    "result":  {
+                   "id":  "caverns_and_chasms:silver_boots"
+               }
+}

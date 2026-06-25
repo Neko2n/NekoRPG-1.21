@@ -1,0 +1,16 @@
+{
+    "type":  "alloyed:forging_shaped",
+    "key":  {
+                "X":  {
+                          "tag":  "aether:processed/gravitite"
+                      }
+            },
+    "pattern":  [
+                    "X X",
+                    "XXX",
+                    "XXX"
+                ],
+    "result":  {
+                   "id":  "aether:gravitite_chestplate"
+               }
+}

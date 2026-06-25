@@ -15,8 +15,12 @@
     "desc:": "Enables smart stopping of music, when the biome changes or player leaves a cave/water/night is over, default = true",
     "smartMusic": false
   },
+  "stopMusicForRecords": {
+    "desc:": "Enables Jukeboxes and records playing to stop the current background music, default = true",
+    "stopMusicForRecords": true
+  },
   "musicConditions": {
-    "desc:": "Sets the condition under which music from their respective categories is allowed to play. Required conditions need to be all met, a single matched disallowed conditions prevents it. Possible conditions are: [NIGHT, CAVE, WATER, OVERWORLD, END, NETHER]",
+    "desc:": "Sets the condition under which music from their respective categories is allowed to play. Required conditions need to be all met, a single matched disallowed conditions prevents it. Possible conditions are: [OVERWORLD, WATER, CAVE, NETHER, NIGHT, OTHERDIMENSIONS, END]",
     "Biome": {
       "requires": "[]",
       "disallowed": "[]"
@@ -27,7 +31,7 @@
     },
     "Night": {
       "requires": "[NIGHT]",
-      "disallowed": "[CAVE, WATER, NETHER, END]"
+      "disallowed": "[WATER, NETHER, END, CAVE]"
     },
     "Water": {
       "requires": "[WATER]",

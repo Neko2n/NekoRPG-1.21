@@ -1,0 +1,21 @@
+filename = 'structurify-neoforge-2.0.28+mc1.21.1.jar'
+name = 'Structurify'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'neoforge-2.0.28+mc1.21.1'
+
+[download]
+hash = 'c8e28cf78ebec3544cafedfa82dd2f02ab9ac298ac8b0943c347004cd1394768c4d3b1b1193eef2665dbea56aad63ffb39937d543290e3a6c87881330bd46101'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yz7AM2zx/versions/6R0fmNEx/structurify-neoforge-2.0.28%2Bmc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'yz7AM2zx'
+version = '6R0fmNEx'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1eAoo2KR'
+type = 'REQUIRED'

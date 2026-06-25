@@ -1,0 +1,17 @@
+{
+  "type": "alloyed:forging_shaped",
+  "key": {
+    "X": {"tag": "c:ingots/netherite"},
+    "I": {
+      "item": "minecraft:diamond_horse_armor"
+    }
+  },
+  "pattern": [
+    "X X",
+    " I ",
+    "X X"
+  ],
+  "result": {
+    "id": "minecraft:netherite_horse_armor"
+  }
+}

@@ -1,4 +1,10 @@
 {
+  "item.caverns_and_chasms.golden_bucket": "Chalice",
+  "item.caverns_and_chasms.golden_water_bucket": "Chalice of Water",
+  "item.caverns_and_chasms.golden_lava_bucket": "Chalice of Lava",
+  "item.caverns_and_chasms.golden_milk_bucket": "Chalice of Milk",
+  "item.caverns_and_chasms.golden_powder_snow_bucket": "Chalice of Powder Snow",
+
   "block.caverns_and_chasms.necromium_block": "Block of Glacium",
 
   "item.caverns_and_chasms.necromium_ingot": "Glacium Ingot",

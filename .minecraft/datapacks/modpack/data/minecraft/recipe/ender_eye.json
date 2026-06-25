@@ -1,24 +1,19 @@
 ﻿{
-  "type": "minecraft:crafting_shapeless",
-  "category": "misc",
-  "ingredients": [
-    {
-      "tag": "c:ender_pearls"
-    },
-    {
-      "item": "waystones:warp_dust"
-    },
-    {
-      "item": "waystones:warp_dust"
-    },
-    {
-      "item": "minecraft:blaze_powder"
-    },
-    {
-      "item": "minecraft:blaze_powder"
-    }
-  ],
-  "result": {
-    "id": "minecraft:ender_eye"
-  }
+    "type":  "minecraft:crafting_shaped",
+    "neoforge:conditions":  [
+                                {
+                                    "type":  "neoforge:false"
+                                }
+                            ],
+    "key":  {
+                "#":  {
+                          "item":  "minecraft:barrier"
+                      }
+            },
+    "pattern":  [
+                    "#"
+                ],
+    "result":  {
+                   "id":  "minecraft:barrier"
+               }
 }

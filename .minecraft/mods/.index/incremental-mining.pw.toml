@@ -1,18 +1,18 @@
-filename = 'incrementalmining-1.21.1-1.10.jar'
+filename = 'incrementalmining-1.21.1-1.12.jar'
 name = 'Incremental Mining'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.10'
+x-prismlauncher-version-number = '1.12'
 
 [download]
-hash = '6ca3894120da86ab854114261662c92d9b503e2745d76d9c87a7af7af9874da7a198d2e4ce0e6272f2a378cce2f39c27b75c49651a5dae465dc835066f6bfdd9'
+hash = '8051c0343beff1c15d2fe637913ff880f3474a77337ef0a23e9b5fa2d2595e66a6865ba419ae73f6a955f6c1825e2e7c58b6303d2c50509508678a8f647d0573'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/NguWGade/versions/InVGBPfK/incrementalmining-1.21.1-1.10.jar'
+url = 'https://cdn.modrinth.com/data/NguWGade/versions/LvlBpY8A/incrementalmining-1.21.1-1.12.jar'
 
 [update.modrinth]
 mod-id = 'NguWGade'
-version = 'InVGBPfK'
+version = 'LvlBpY8A'

@@ -1,0 +1,21 @@
+filename = 'featurify-neoforge-1.0.3+mc1.21.1.jar'
+name = 'Featurify - Feature Control'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'neoforge-1.0.3+mc1.21.1'
+
+[download]
+hash = '10dc5b88b2c295b7c3fe298a9a3ddf53292c8d705a3e1a724dcf2585bf67924af91f5a45985eca642f64cce002d806a20a72c2f72e20f66e2225c268a44e2297'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BXeGCdww/versions/4603XjYc/featurify-neoforge-1.0.3%2Bmc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'BXeGCdww'
+version = '4603XjYc'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1eAoo2KR'
+type = 'REQUIRED'

@@ -1,18 +1,18 @@
 filename = 'primal-1.1.6+1.21.jar'
-name = 'Primal'
-side = 'both'
+name = '~Primal~'
+side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.6'
+x-prismlauncher-version-number = 'Primal-1.1.6+1.21'
 
 [download]
-hash = 'aa1cb5ba4e4043493f0fe573b08adba314aa03be1e9373ff962b1e27d0847a22711dc88a093cc3908fc4a5fb7057ffcc6b42279e000b7483f912bbcd044166dc'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/41B2buzz/versions/bjAno6mP/primal-1.1.6%2B1.21.jar'
+hash = '609c9217dfeebb42fe4e070d63aa6d0e1d818c5b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = '41B2buzz'
-version = 'bjAno6mP'
+[update.curseforge]
+file-id = 8023311
+project-id = 1351626

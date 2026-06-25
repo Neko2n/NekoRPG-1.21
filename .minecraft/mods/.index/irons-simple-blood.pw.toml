@@ -1,0 +1,18 @@
+filename = 'simpleblood-1.21.1-1.0.2.jar'
+name = "Iron's Simple Blood"
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'simpleblood-1.21.1-1.0.2.jar'
+
+[download]
+hash = '4200f3f79fb6caa40d6b5fc62c3d29903b6a17e9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8301414
+project-id = 1579118

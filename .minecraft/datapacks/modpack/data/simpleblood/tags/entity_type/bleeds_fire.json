@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:strider",
+    "minecraft:magma_cube",
+    { "required": false, "id": "spawn:firekeeper" },
+    { "required": false, "id": "darkerdepths:scorcher" },
+    { "required": false, "id": "infernalexp:voline" },
+    { "required": false, "id": "aether:sun_spirit" }
+  ]
+}

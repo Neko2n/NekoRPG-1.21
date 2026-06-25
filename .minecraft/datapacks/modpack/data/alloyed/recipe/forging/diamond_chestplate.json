@@ -1,0 +1,16 @@
+{
+    "type":  "alloyed:forging_shaped",
+    "key":  {
+                "X":  {
+                          "tag":  "c:gems/diamond"
+                      }
+            },
+    "pattern":  [
+                    "X X",
+                    "XXX",
+                    "XXX"
+                ],
+    "result":  {
+                   "id":  "minecraft:diamond_chestplate"
+               }
+}

@@ -1,0 +1,15 @@
+{
+    "type":  "alloyed:forging_shaped",
+    "key":  {
+                "X":  {
+                          "tag":  "c:ingots/iron"
+                      }
+            },
+    "pattern":  [
+                    "X X",
+                    "X X"
+                ],
+    "result":  {
+                   "id":  "minecraft:iron_boots"
+               }
+}

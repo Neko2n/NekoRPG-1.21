@@ -1,0 +1,27 @@
+{
+  "config_version": "2.0.27",
+  "config_datetime": "2026-06-23_12-53-14",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structure_namespaces": [],
+  "structures": [
+    {
+      "name": "aether:bronze_dungeon",
+      "is_disabled": true
+    },
+    {
+      "name": "aether:gold_dungeon",
+      "is_disabled": true
+    },
+    {
+      "name": "aether:silver_dungeon",
+      "is_disabled": true
+    }
+  ],
+  "structure_sets": [],
+  "structure_template_pools": []
+}

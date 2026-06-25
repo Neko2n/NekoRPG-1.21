@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+	{
+      "id": "dragonsurvival:elder_dragon_dust",
+      "required": false
+    }
+  ]
+}

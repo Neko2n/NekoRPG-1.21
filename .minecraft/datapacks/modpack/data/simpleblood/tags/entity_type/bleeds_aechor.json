@@ -1,0 +1,18 @@
+{
+  "replace": true,
+  "values": [
+    { "required": false, "id": "aether:cockatrice" },
+    { "required": false, "id": "aether:aechor_plant" },
+    { "required": false, "id": "bosses_of_mass_destruction:void_blossom" },
+    { "required": false, "id": "deep_aether:eots_controller" },
+    { "required": false, "id": "deep_aether:eots_segment" },
+    { "required": false, "id": "darkerdepths:void_soul_knight" },
+    { "required": false, "id": "darkerdepths:void_soul" },
+    { "required": false, "id": "enderscape:rustle" },
+    { "required": false, "id": "irons_spellbooks:dead_king" },
+    { "required": false, "id": "irons_spellbooks:dead_king_corpse" },
+    { "required": false, "id": "artificers_armory:lost_familiar" },
+    { "required": false, "id": "mowziesmobs:elokosa_howler" },
+    { "required": false, "id": "mowziesmobs:elokosa_follower_howler" }
+  ]
+}

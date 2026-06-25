@@ -1,0 +1,19 @@
+{
+    "type":  "alloyed:forging_shaped",
+    "key":  {
+                "X":  {
+                          "tag":  "c:ingots/gold"
+                      },
+                "#":  {
+                          "tag":  "c:rods/wooden"
+                      }
+            },
+    "pattern":  [
+                    "X",
+                    "X",
+                    "#"
+                ],
+    "result":  {
+                   "id":  "minecraft:golden_sword"
+               }
+}

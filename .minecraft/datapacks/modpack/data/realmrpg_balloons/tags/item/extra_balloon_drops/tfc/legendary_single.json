@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+	{
+      "id": "tfc:ore/diamond",
+      "required": false
+    },
+	{
+      "id": "tfc:ore/opal",
+      "required": false
+    },
+	{
+      "id": "tfc:ore/ruby",
+      "required": false
+    },
+	{
+      "id": "tfc:ore/amethyst",
+      "required": false
+    },
+	{
+      "id": "tfc:ore/emerald",
+      "required": false
+    },
+	{
+      "id": "tfc:ore/sapphire",
+      "required": false
+    },
+	{
+      "id": "tfc:ore/topaz",
+      "required": false
+    }
+  ]
+}

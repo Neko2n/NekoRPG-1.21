@@ -1,0 +1,31 @@
+{
+  "item.create.andesite_alloy": "Composite",
+  "block.create.andesite_alloy_block": "Block of Composite",
+  "tag.block.c.storage_blocks.andesite_alloy": "Composite Storage Blocks",
+  "tag.item.c.storage_blocks.andesite_alloy": "Composite Storage Blocks",
+
+  "block.create.andesite_bars": "Composite Bars",
+  "block.create.andesite_belt_funnel": "Composite Belt Funnel",
+  "block.create.andesite_casing": "Composite Casing",
+  "block.create.andesite_door": "Composite Door",
+  "block.create.andesite_encased_cogwheel": "Composite Encased Cogwheel",
+  "block.create.andesite_encased_large_cogwheel": "Composite Encased Large Cogwheel",
+  "block.create.andesite_encased_shaft": "Composite Encased Shaft",
+  "block.create.andesite_funnel": "Composite Funnel",
+  "block.create.andesite_ladder": "Composite Ladder",
+  "block.create.andesite_scaffolding": "Composite Scaffolding",
+  "block.create.andesite_table_cloth": "Composite Table Cover",
+  "block.create.andesite_tunnel": "Composite Tunnel",
+
+  "advancement.create.andesite_alloy.desc": "Obtain some Composite, Create's most important resource",
+  "advancement.create.andesite_casing": "The Composite Age",
+  "advancement.create.andesite_casing.desc": "Apply Composite to stripped wood, creating a basic casing for your machines",
+
+  "create.ponder.andesite_tunnel.header": "Using Composite Tunnels",
+  "create.ponder.andesite_tunnel.text_1": "Composite Tunnels can be used to cover up your belts",
+  "create.ponder.andesite_tunnel.text_2": "Whenever a Composite Tunnel has connections to the sides...",
+  "create.ponder.belt_casing.text_1": "Brass or Composite Casing can be used to decorate Mechanical Belts",
+  "create.ponder.brass_funnel.text_1": "Composite Funnels can only ever extract single items.",
+  "create.ponder.cogwheel_casing.text_1": "Brass or Composite Casing can be used to decorate Cogwheels",
+  "create.ponder.shaft_casing.text_1": "Brass or Composite Casing can be used to decorate Shafts"
+}

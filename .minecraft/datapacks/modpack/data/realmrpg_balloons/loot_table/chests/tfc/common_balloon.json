@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:tag",
+          "name": "realmrpg_balloons:extra_balloon_drops/tfc/common_single",
+          "expand": true
+        }
+      ]
+    },
+    {
+      "bonus_rolls": 0.0,
+      "rolls": 4.0,
+      "entries": [
+        {
+          "type": "minecraft:tag",
+          "name": "realmrpg_balloons:extra_balloon_drops/tfc/common_low_amount",
+          "expand": true
+        }
+      ]
+    },
+    {
+      "bonus_rolls": 0.0,
+      "rolls": 8.0,
+      "entries": [
+        {
+          "type": "minecraft:tag",
+          "name": "realmrpg_balloons:extra_balloon_drops/tfc/common_large_amount",
+          "expand": true
+        }
+      ]
+    }
+  ],
+  "random_sequence": "realmrpg_balloons:chests/tfc/common_balloon"
+}

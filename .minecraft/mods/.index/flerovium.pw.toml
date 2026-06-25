@@ -1,21 +1,18 @@
 filename = 'flerovium-neoforge-1.21.1-1.1.1-all.jar'
 name = 'Flerovium'
-side = ''
+side = 'client'
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'flerovium-neoforge-1.21.1-1.1.1-all.jar'
+x-prismlauncher-version-number = '1.1.1'
 
 [download]
-hash = 'b5910a14b473db3edb6250be7fa01e8becaca43b'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '327449811b116832bc4f873d252b1c39460c8897383de0a2b35e2f7bfad6e0ec7744cf0b4ab6449bce06ba1a3046faa8f708c1b4c2787068705b2f81ee7fe1c5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4Rh1Mobu/versions/Q5w50Bcp/flerovium-neoforge-1.21.1-1.1.1-all.jar'
 
-[update.curseforge]
-file-id = 8279851
-project-id = 1142875
-
-[[x-prismlauncher-dependencies]]
-addonId = '394468'
-type = 'REQUIRED'
+[update.modrinth]
+mod-id = '4Rh1Mobu'
+version = 'Q5w50Bcp'

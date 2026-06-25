@@ -21,7 +21,7 @@
 	"Ascended Quark Vertical Slabs" = false
 	"Compressed Block" = false
 	"Extra Slime And Swet In A Bucket" = true
-	"Holystone Furnace" = true
+	"Holystone Furnace" = false
 	"Quicksoil Framed Glass" = true
 	#Enables skyroot woodset blocks for quark blocks, such as skyroot post. Disable if another mod already adds compat blocks. 
 	"Skyroot Quark Blocks" = false

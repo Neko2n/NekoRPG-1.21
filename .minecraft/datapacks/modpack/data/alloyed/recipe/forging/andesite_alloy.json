@@ -1,0 +1,23 @@
+{
+  "type": "alloyed:forging",
+  "ingredients": [
+    {
+      "tag": "minecraft:stone_tool_materials"
+    },
+    {
+      "tag": "minecraft:stone_tool_materials"
+    },
+    [
+      {
+        "item": "create:raw_zinc"
+      },
+      {
+        "tag": "c:ingots/zinc"
+      }
+    ]
+  ],
+  "result": {
+    "count": 2,
+    "id": "create:andesite_alloy"
+  }
+}

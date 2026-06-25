@@ -1,0 +1,7 @@
+{
+  "loot_table": "lootintegrations:sulfur_dust_deeper",
+  "integrated_loot_tables": {
+    "caverns_and_chasms:entities/deeper": 1,
+    "caverns_and_chasms:entities/evendeeper": 1
+  }
+}

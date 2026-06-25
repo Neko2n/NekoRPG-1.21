@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+	{
+      "id": "tfc:ore/normal_native_copper",
+      "required": false
+    },
+	{
+      "id": "tfc:food/wheat_bread",
+      "required": false
+    },
+	{
+      "id": "tfc:ceramic/jug",
+      "required": false
+    },
+	{
+      "id": "tfc:firestarter",
+      "required": false
+    },
+	{
+      "id": "tfc:medium_raw_hide",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "config_version": "1.0.3",
+  "config_datetime": "2026-06-23_10-20-21",
+  "global": {
+    "disable_all_placed_features": false
+  },
+  "placed_features": [
+    {
+      "name": "aether:holiday_tree",
+      "is_disabled": true
+    },
+    {
+      "name": "aether:zanite_ore",
+      "is_disabled": true
+    },
+    {
+      "name": "aether_overworld_ores:holystone_ore_coal",
+      "is_disabled": true
+    },
+    {
+      "name": "aether_overworld_ores:holystone_ore_copper",
+      "is_disabled": true
+    },
+    {
+      "name": "aether_overworld_ores:holystone_ore_diamond",
+      "is_disabled": true
+    },
+    {
+      "name": "aether_overworld_ores:holystone_ore_iron",
+      "is_disabled": true
+    },
+    {
+      "name": "aether_overworld_ores:holystone_ore_lapis",
+      "is_disabled": true
+    },
+    {
+      "name": "aether_overworld_ores:holystone_ore_lead",
+      "is_disabled": true
+    },
+    {
+      "name": "aether_overworld_ores:holystone_ore_nickel",
+      "is_disabled": true
+    },
+    {
+      "name": "aether_overworld_ores:holystone_ore_sulfur",
+      "is_disabled": true
+    },
+    {
+      "name": "aether_overworld_ores:holystone_ore_tin",
+      "is_disabled": true
+    },
+    {
+      "name": "aether_overworld_ores:holystone_ore_uranium",
+      "is_disabled": true
+    },
+    {
+      "name": "aether_overworld_ores:holystone_ore_zinc",
+      "is_disabled": true
+    },
+    {
+      "name": "artificers_armory:patch_mandrake",
+      "is_disabled": true
+    },
+    {
+      "name": "curiosities:ore_aluminum",
+      "is_disabled": true
+    },
+    {
+      "name": "curiosities:ore_aluminum_buried",
+      "is_disabled": true
+    },
+    {
+      "name": "curiosities:ore_nickel",
+      "is_disabled": true
+    },
+    {
+      "name": "curiosities:ore_nickel_buried",
+      "is_disabled": true
+    },
+    {
+      "name": "deep_aether:more_skyjade_ore",
+      "is_disabled": true
+    },
+    {
+      "name": "deep_aether:skyjade_ore",
+      "is_disabled": true
+    },
+    {
+      "name": "irons_spellbooks:ore_mithril_placement",
+      "is_disabled": true
+    },
+    {
+      "name": "natures_spirit:ores/ore_diamond",
+      "is_disabled": true
+    },
+    {
+      "name": "natures_spirit:ores/ore_diamond_buried",
+      "is_disabled": true
+    },
+    {
+      "name": "natures_spirit:ores/ore_diamond_large",
+      "is_disabled": true
+    },
+    {
+      "name": "natures_spirit:ores/ore_diamond_medium",
+      "is_disabled": true
+    },
+    {
+      "name": "natures_spirit:ores/ore_lapis",
+      "is_disabled": true
+    },
+    {
+      "name": "natures_spirit:ores/ore_lapis_buried",
+      "is_disabled": true
+    },
+    {
+      "name": "quark:ore_lapis_extra",
+      "is_disabled": true
+    }
+  ]
+}

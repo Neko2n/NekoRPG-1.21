@@ -1,0 +1,19 @@
+{
+    "type": "alloyed:forging_shaped",
+    "key": {
+        "X": {
+            "tag": "c:gems/diamond"
+        },
+        "#": {
+            "tag": "c:rods/wooden"
+        }
+    },
+    "pattern": [
+        "X",
+        "#",
+        "#"
+    ],
+    "result": {
+        "id": "minecraft:diamond_shovel"
+    }
+}

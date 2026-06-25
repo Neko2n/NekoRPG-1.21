@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:spider",
+    "minecraft:cave_spider",
+    "minecraft:bee",
+    { "required": false, "id": "spawn:ant" },
+    { "required": false, "id": "mutantmonsters:spider_pig" }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "config_version": "1.0.3",
+  "config_datetime": "2026-06-23_10-11-23",
+  "global": {
+    "disable_all_placed_features": false
+  },
+  "placed_features": []
+}

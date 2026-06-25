@@ -1,0 +1,15 @@
+{
+    "type":  "alloyed:forging_shaped",
+    "key":  {
+                "X":  {
+                          "tag":  "aether:processed/gravitite"
+                      }
+            },
+    "pattern":  [
+                    "XXX",
+                    "X X"
+                ],
+    "result":  {
+                   "id":  "aether:gravitite_helmet"
+               }
+}

@@ -1,0 +1,328 @@
+{
+  "config_version": "2.0.27",
+  "config_datetime": "2026-06-23_12-59-50",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structure_namespaces": [],
+  "structures": [
+    {
+      "name": "aether:bronze_dungeon",
+      "is_disabled": true
+    },
+    {
+      "name": "aether:gold_dungeon",
+      "is_disabled": true
+    },
+    {
+      "name": "aether:silver_dungeon",
+      "is_disabled": true
+    },
+    {
+      "name": "block_factorys_bosses:dragon_tower",
+      "is_disabled": true
+    },
+    {
+      "name": "block_factorys_bosses:kraken_ship",
+      "is_disabled": true
+    },
+    {
+      "name": "block_factorys_bosses:underworld_arena",
+      "is_disabled": true
+    },
+    {
+      "name": "bosses_of_mass_destruction:gauntlet_arena",
+      "is_disabled": true
+    },
+    {
+      "name": "bosses_of_mass_destruction:lich_tower",
+      "is_disabled": true
+    },
+    {
+      "name": "bosses_of_mass_destruction:obsidilith_arena",
+      "is_disabled": true
+    },
+    {
+      "name": "bosses_of_mass_destruction:void_blossom",
+      "is_disabled": true
+    },
+    {
+      "name": "deep_aether:altar_camp",
+      "is_disabled": true
+    },
+    {
+      "name": "deep_aether:brass_dungeon",
+      "is_disabled": true
+    },
+    {
+      "name": "deep_aether:combiner_corridor",
+      "is_disabled": true
+    },
+    {
+      "name": "irons_spellbooks:ancient_battleground",
+      "is_disabled": true
+    },
+    {
+      "name": "irons_spellbooks:evoker_fort",
+      "is_disabled": true
+    },
+    {
+      "name": "irons_spellbooks:mangrove_hut",
+      "is_disabled": true
+    },
+    {
+      "name": "irons_spellbooks:mountain_tower",
+      "is_disabled": true
+    },
+    {
+      "name": "irons_spellbooks:pyromancer_tower",
+      "is_disabled": true
+    },
+    {
+      "name": "mowziesmobs:frostmaw_spawn",
+      "is_disabled": true
+    },
+    {
+      "name": "mowziesmobs:monastery",
+      "is_disabled": true
+    },
+    {
+      "name": "mowziesmobs:umvuthana_grove",
+      "is_disabled": true
+    },
+    {
+      "name": "mowziesmobs:wrought_chamber",
+      "is_disabled": true
+    }
+  ],
+  "structure_sets": [
+    {
+      "spacing": 6,
+      "separation": 5,
+      "name": "aether:bronze_dungeon",
+      "is_disabled": true,
+      "salt": 32146754,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {}
+    },
+    {
+      "spacing": 36,
+      "separation": 24,
+      "name": "aether:silver_and_gold_dungeons",
+      "is_disabled": true,
+      "salt": 4325806,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {}
+    },
+    {
+      "spacing": 1000,
+      "separation": 999,
+      "name": "block_factorys_bosses:dragon_tower",
+      "is_disabled": true,
+      "salt": 178711064,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "block_factorys_bosses:dragon_tower": 1
+      }
+    },
+    {
+      "spacing": 1000,
+      "separation": 999,
+      "name": "block_factorys_bosses:kraken_ship",
+      "is_disabled": true,
+      "salt": 496078896,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "block_factorys_bosses:kraken_ship": 1
+      }
+    },
+    {
+      "spacing": 1000,
+      "separation": 999,
+      "name": "block_factorys_bosses:underworld_arena",
+      "is_disabled": true,
+      "salt": 565960105,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "block_factorys_bosses:underworld_arena": 1
+      }
+    },
+    {
+      "spacing": 32,
+      "separation": 16,
+      "name": "bosses_of_mass_destruction:gauntlet_arena",
+      "is_disabled": true,
+      "salt": 499672,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "bosses_of_mass_destruction:gauntlet_arena": 1
+      }
+    },
+    {
+      "spacing": 100,
+      "separation": 50,
+      "name": "bosses_of_mass_destruction:lich_tower",
+      "is_disabled": true,
+      "salt": 1230784,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "bosses_of_mass_destruction:lich_tower": 1
+      }
+    },
+    {
+      "spacing": 64,
+      "separation": 32,
+      "name": "bosses_of_mass_destruction:obsidilith_arena",
+      "is_disabled": true,
+      "salt": 499672,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "bosses_of_mass_destruction:obsidilith_arena": 1
+      }
+    },
+    {
+      "spacing": 64,
+      "separation": 24,
+      "name": "bosses_of_mass_destruction:void_blossom",
+      "is_disabled": true,
+      "salt": 574839,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "bosses_of_mass_destruction:void_blossom": 1
+      }
+    },
+    {
+      "spacing": 35,
+      "separation": 12,
+      "name": "irons_spellbooks:ancient_battleground",
+      "is_disabled": true,
+      "salt": 1111569999,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "irons_spellbooks:ancient_battleground": 1
+      }
+    },
+    {
+      "spacing": 85,
+      "separation": 50,
+      "name": "irons_spellbooks:evoker_fort",
+      "is_disabled": true,
+      "salt": 684512,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "irons_spellbooks:evoker_fort": 1
+      }
+    },
+    {
+      "spacing": 25,
+      "separation": 18,
+      "name": "irons_spellbooks:mangrove_hut",
+      "is_disabled": true,
+      "salt": 169476080,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "irons_spellbooks:mangrove_hut": 1
+      }
+    },
+    {
+      "spacing": 45,
+      "separation": 33,
+      "name": "irons_spellbooks:mountain_tower",
+      "is_disabled": true,
+      "salt": 194767080,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "irons_spellbooks:mountain_tower": 1
+      }
+    },
+    {
+      "spacing": 85,
+      "separation": 50,
+      "name": "irons_spellbooks:pyromancer_tower",
+      "is_disabled": true,
+      "salt": 1512684,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "irons_spellbooks:pyromancer_tower": 1
+      }
+    },
+    {
+      "spacing": 25,
+      "separation": 8,
+      "name": "mowziesmobs:frostmaw_spawns",
+      "is_disabled": true,
+      "salt": 23317578,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mowziesmobs:frostmaw_spawn": 1
+      }
+    },
+    {
+      "spacing": 25,
+      "separation": 8,
+      "name": "mowziesmobs:monasteries",
+      "is_disabled": true,
+      "salt": 37312139,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mowziesmobs:monastery": 1
+      }
+    },
+    {
+      "spacing": 25,
+      "separation": 8,
+      "name": "mowziesmobs:umvuthana_groves",
+      "is_disabled": true,
+      "salt": 23311138,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mowziesmobs:umvuthana_grove": 1
+      }
+    },
+    {
+      "spacing": 15,
+      "separation": 5,
+      "name": "mowziesmobs:wrought_chambers",
+      "is_disabled": true,
+      "salt": 23217347,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "mowziesmobs:wrought_chamber": 1
+      }
+    },
+    {
+      "spacing": 31,
+      "separation": 19,
+      "name": "supplementaries:galleons",
+      "is_disabled": false,
+      "salt": 121047156,
+      "frequency": 0.28500003,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "supplementaries:galleon": 1
+      }
+    }
+  ],
+  "structure_template_pools": []
+}

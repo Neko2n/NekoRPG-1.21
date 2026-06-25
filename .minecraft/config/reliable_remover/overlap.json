@@ -45,5 +45,66 @@
             "mod": "supplementaries"
         },
         "replace_with": "supplementaries:rope"
+    },
+    {
+        "action": "remove",
+        "patterns": [
+            "/.*:venison/",
+            "/.*:raw_venison/"
+        ],
+        "not": {
+            "mod": "nomansland"
+        },
+        "replace_with": "nomansland:raw_venison"
+    },
+    {
+        "action": "remove",
+        "pattern": "/.*:cooked_venison/",
+        "not": {
+            "mod": "nomansland"
+        },
+        "replace_with": "nomansland:cooked_venison"
+    },
+    {
+        "action": "remove",
+        "pattern": "/.*:walnut/",
+        "not": {
+            "mod": "nomansland"
+        },
+        "replace_with": "nomansland:walnuts"
+    },
+    {
+        "action": "remove",
+        "pattern": "/primal:.*reeds/",
+        "replace_with": "nomansland:reeds"
+    },
+    {
+        "action": "remove",
+        "items": [
+            "natures_spirit:cattail",
+            "primal:cattails"
+        ],
+        "replace_with": "nomansland:cattail"
+    },
+    {
+        "action": "remove",
+        "pattern": "/bountifulfares:.*walnut.*/",
+        "not": {
+            "patterns": [
+                "/.*mulch.*/",
+                "/.*cookie.*/",
+                "/.*candle.*/"
+            ]
+        }
+    },
+    {
+        "action": "remove",
+        "item": "nomansland:sconce_torch",
+        "replace_with": "supplementaries:sconce"
+    },
+    {
+        "action": "remove",
+        "item": "nomansland:sconce_soul_torch",
+        "replace_with": "supplementaries:sconce_soul"
     }
 ]

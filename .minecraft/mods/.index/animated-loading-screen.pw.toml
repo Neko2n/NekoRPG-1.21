@@ -1,0 +1,18 @@
+filename = 'animatedlogo-2.1+1.21-neoforge.jar'
+name = 'Animated loading screen'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.1+1.21-neoforge'
+
+[download]
+hash = '9dea22a58eaa5e36312c5cf0d04566e77a52565afe6dda2f1d4a15befde165138a09c008b44153902c4b79614a0d921b64ed53ad40a715f4cc508a8c408a6990'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cGHt9WgV/versions/denSjOB2/animatedlogo-2.1%2B1.21-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'cGHt9WgV'
+version = 'denSjOB2'

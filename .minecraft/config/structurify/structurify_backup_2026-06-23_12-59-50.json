@@ -1,0 +1,103 @@
+{
+  "config_version": "2.0.27",
+  "config_datetime": "2026-06-23_12-57-41",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structure_namespaces": [],
+  "structures": [
+    {
+      "name": "aether:bronze_dungeon",
+      "is_disabled": true
+    },
+    {
+      "name": "aether:gold_dungeon",
+      "is_disabled": true
+    },
+    {
+      "name": "aether:silver_dungeon",
+      "is_disabled": true
+    },
+    {
+      "name": "block_factorys_bosses:dragon_tower",
+      "is_disabled": true
+    },
+    {
+      "name": "block_factorys_bosses:kraken_ship",
+      "is_disabled": true
+    },
+    {
+      "name": "block_factorys_bosses:underworld_arena",
+      "is_disabled": true
+    },
+    {
+      "name": "bosses_of_mass_destruction:gauntlet_arena",
+      "is_disabled": true
+    },
+    {
+      "name": "bosses_of_mass_destruction:lich_tower",
+      "is_disabled": true
+    },
+    {
+      "name": "bosses_of_mass_destruction:obsidilith_arena",
+      "is_disabled": true
+    },
+    {
+      "name": "bosses_of_mass_destruction:void_blossom",
+      "is_disabled": true
+    },
+    {
+      "name": "deep_aether:altar_camp",
+      "is_disabled": true
+    },
+    {
+      "name": "deep_aether:brass_dungeon",
+      "is_disabled": true
+    },
+    {
+      "name": "deep_aether:combiner_corridor",
+      "is_disabled": true
+    },
+    {
+      "name": "irons_spellbooks:ancient_battleground",
+      "is_disabled": true
+    },
+    {
+      "name": "irons_spellbooks:evoker_fort",
+      "is_disabled": true
+    },
+    {
+      "name": "irons_spellbooks:mangrove_hut",
+      "is_disabled": true
+    },
+    {
+      "name": "irons_spellbooks:mountain_tower",
+      "is_disabled": true
+    },
+    {
+      "name": "irons_spellbooks:pyromancer_tower",
+      "is_disabled": true
+    },
+    {
+      "name": "mowziesmobs:frostmaw_spawn",
+      "is_disabled": true
+    },
+    {
+      "name": "mowziesmobs:monastery",
+      "is_disabled": true
+    },
+    {
+      "name": "mowziesmobs:umvuthana_grove",
+      "is_disabled": true
+    },
+    {
+      "name": "mowziesmobs:wrought_chamber",
+      "is_disabled": true
+    }
+  ],
+  "structure_sets": [],
+  "structure_template_pools": []
+}

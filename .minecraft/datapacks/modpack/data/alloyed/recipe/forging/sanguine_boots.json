@@ -1,0 +1,15 @@
+{
+    "type":  "alloyed:forging_shaped",
+    "key":  {
+                "X":  {
+                          "item":  "caverns_and_chasms:living_flesh"
+                      }
+            },
+    "pattern":  [
+                    "X X",
+                    "X X"
+                ],
+    "result":  {
+                   "id":  "caverns_and_chasms:sanguine_boots"
+               }
+}

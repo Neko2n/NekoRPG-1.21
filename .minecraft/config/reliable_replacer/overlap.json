@@ -18,5 +18,20 @@
       "quark:rope"
     ],
     "output": "supplementaries:rope"
+  },
+  {
+    "keep_states": true,
+    "inputs": [
+      "natures_spirit:cattail",
+      "primal:cattails"
+    ],
+    "output": "nomansland:cattail"
+  },
+  {
+    "keep_states": true,
+    "inputs": [
+      "primal:river_reeds"
+    ],
+    "output": "nomansland:reeds"
   }
 ]

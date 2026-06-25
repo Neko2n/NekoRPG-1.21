@@ -1,0 +1,13 @@
+{
+  "type": "alloyed:forging_shaped",
+  "key": {
+    "X": {"tag": "c:ingots/netherite"}
+  },
+  "pattern": [
+    "X X",
+    "X X"
+  ],
+  "result": {
+    "id": "minecraft:netherite_boots"
+  }
+}

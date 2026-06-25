@@ -1,0 +1,8 @@
+[
+  {
+    "inputs": [
+      "minecraft:lapis_block"
+    ],
+    "output": "minecraft:gold_block"
+  }
+]

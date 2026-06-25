@@ -1,0 +1,17 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:zombie",
+    "minecraft:husk",
+    "minecraft:drowned",
+    "minecraft:zombie_villager",
+    "minecraft:zombie_horse",
+    "minecraft:zombified_piglin",
+    "minecraft:zoglin",
+    "minecraft:giant",
+    { "required": false, "id": "mutantmonsters:mutant_zombie" },
+    { "required": false, "id": "artificers_armory:zombie_minion" },
+    { "required": false, "id": "artificers_armory:drowned_minion" },
+    { "required": false, "id": "artificers_armory:plague_rat" }
+  ]
+}

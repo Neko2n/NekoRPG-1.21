@@ -1,0 +1,15 @@
+{
+    "type":  "alloyed:forging_shaped",
+    "key":  {
+                "X":  {
+                          "tag":  "c:ingots/gold"
+                      }
+            },
+    "pattern":  [
+                    "XXX",
+                    "X X"
+                ],
+    "result":  {
+                   "id":  "minecraft:golden_helmet"
+               }
+}

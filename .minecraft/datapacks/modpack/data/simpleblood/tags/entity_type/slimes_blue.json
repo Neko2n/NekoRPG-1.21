@@ -1,0 +1,6 @@
+{
+  "replace": true,
+  "values": [
+    { "required": false, "id": "aether:blue_swet" }
+  ]
+}

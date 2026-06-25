@@ -1,0 +1,14 @@
+{
+    "type":  "alloyed:forging_shaped",
+    "key":  {
+                "X":  {
+                          "tag":  "aether:processed/gravitite"
+                      }
+            },
+    "pattern":  [
+                    "X X"
+                ],
+    "result":  {
+                   "id":  "aether:gravitite_gloves"
+               }
+}

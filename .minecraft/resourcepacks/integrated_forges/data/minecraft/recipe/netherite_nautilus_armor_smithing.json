@@ -1,0 +1,15 @@
+{
+  "type": "alloyed:forging_shaped",
+  "key": {
+    "X": {"tag": "c:ingots/netherite"},
+    "I": "minecraft:diamond_nautilus_armor"
+  },
+  "pattern": [
+    "X X",
+    " I ",
+    "X X"
+  ],
+  "result": {
+    "id": "minecraft:netherite_nautilus_armor"
+  }
+}

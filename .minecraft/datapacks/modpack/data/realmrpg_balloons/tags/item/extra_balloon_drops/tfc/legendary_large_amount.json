@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+	{
+      "id": "tfc:ore/graphite",
+      "required": false
+    },
+	{
+      "id": "tfc:ore/rich_native_gold",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+	{
+      "id": "tfc:torch",
+      "required": false
+    },
+	{
+      "id": "tfc:wood/lumber/maple",
+      "required": false
+    },
+	{
+      "id": "tfc:compost",
+      "required": false
+    }
+  ]
+}

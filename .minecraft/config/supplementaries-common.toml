@@ -291,7 +291,6 @@
 		trapped_present = true
 
 [building]
-	fire_pit = false
 	lapis_bricks = true
 	deepslate_lamp = true
 	end_stone_lamp = true
@@ -310,7 +309,11 @@
 	flint_block = true
 	fine_wood = true
 	candle_holder = true
+	fire_pit = true
 	wicker_fence = true
+
+	[building.gold_bars]
+		enabled = false
 
 	[building.spider_head]
 		enabled = true
@@ -353,9 +356,6 @@
 		double_opening = true
 		#Makes iron (ang gold) gates behave like their door counterpart so for example iron gates will only be openable by redstone
 		door-like_gates = false
-
-	[building.gold_bars]
-		enabled = true
 
 	[building.item_shelf]
 		enabled = true
@@ -481,41 +481,10 @@
 		sconce_lever = true
 
 [tools]
-	candy = true
+	altimeter = false
+	candy = false
 	stasis = true
-	altimeter = true
 	confetti_popper = true
-
-	[tools.wrench]
-		enabled = false
-		#Allows wrenches to bypass a block interaction action prioritizing their own when on said hand
-		#Allowed Values: MAIN_HAND, OFF_HAND, BOTH, NONE
-		bypass_when_on = "MAIN_HAND"
-
-	[tools.bomb]
-		enabled = false
-		#Bomb explosion radius (damage depends on this)
-		# Default: 2.0
-		# Range: 0.1 ~ 10.0
-		explosion_radius = 2.0
-		#Do bombs break blocks like tnt?
-		#Allowed Values: ALL, WEAK, NONE
-		break_blocks = "WEAK"
-		#Put here any number other than 0 to have your bombs explode after a certain amount of ticks instead than on contact
-		# Default: 0
-		# Range: 0 ~ 100000
-		bomb_fuse = 0
-		#Enable bomb item cooldown
-		cooldown = true
-
-		[tools.bomb.blue_bomb]
-			#Bomb explosion radius (damage depends on this)
-			# Default: 5.15
-			# Range: 0.1 ~ 10.0
-			explosion_radius = 5.15
-			#Do bombs break blocks like tnt?
-			#Allowed Values: ALL, WEAK, NONE
-			break_blocks = "WEAK"
 
 	[tools.quiver]
 		enabled = true
@@ -571,6 +540,12 @@
 			# Range: 1 ~ 1000000
 			max_charges = 200
 
+	[tools.wrench]
+		enabled = true
+		#Allows wrenches to bypass a block interaction action prioritizing their own when on said hand
+		#Allowed Values: MAIN_HAND, OFF_HAND, BOTH, NONE
+		bypass_when_on = "MAIN_HAND"
+
 	[tools.rope_arrow]
 		#Rope arrows are automatically disabled if 'rope' feature is disabled
 		enabled = true
@@ -593,6 +568,31 @@
 		# Default: 64
 		# Range: 0 ~ 500
 		bound_distance = 64
+
+	[tools.bomb]
+		enabled = true
+		#Bomb explosion radius (damage depends on this)
+		# Default: 2.0
+		# Range: 0.1 ~ 10.0
+		explosion_radius = 2.0
+		#Do bombs break blocks like tnt?
+		#Allowed Values: ALL, WEAK, NONE
+		break_blocks = "WEAK"
+		#Put here any number other than 0 to have your bombs explode after a certain amount of ticks instead than on contact
+		# Default: 0
+		# Range: 0 ~ 100000
+		bomb_fuse = 0
+		#Enable bomb item cooldown
+		cooldown = true
+
+		[tools.bomb.blue_bomb]
+			#Bomb explosion radius (damage depends on this)
+			# Default: 5.15
+			# Range: 0.1 ~ 10.0
+			explosion_radius = 5.15
+			#Do bombs break blocks like tnt?
+			#Allowed Values: ALL, WEAK, NONE
+			break_blocks = "WEAK"
 
 	[tools.slingshot]
 		enabled = true

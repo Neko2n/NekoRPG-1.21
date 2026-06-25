@@ -1,0 +1,15 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:enderman",
+    "minecraft:ender_dragon",
+    "minecraft:endermite",
+    { "required": false, "id": "nomansland:frienderman" },
+    { "required": false, "id": "enderscape:driftlet" },
+    { "required": false, "id": "enderscape:drifter" },
+    { "required": false, "id": "artificers_armory:familiar" },
+    { "required": false, "id": "mutantmonsters:endersoul_clone" },
+    { "required": false, "id": "mutantmonsters:mutant_enderman" },
+    { "required": false, "id": "enderscape:rubblemite" }
+  ]
+}

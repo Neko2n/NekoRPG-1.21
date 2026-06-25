@@ -11,5 +11,13 @@
       "deep_aether:rotten_roseroot_log"
     ],
     "output": "ascended_quark:hollow_roseroot_log"
+  },
+  {
+    "input": "netherman:blackstone_column",
+    "output": "netherexp:polished_blackstone_pillar"
+  },
+  {
+    "input": "primal:short_river_reeds",
+    "output": "minecraft:air"
   }
 ]

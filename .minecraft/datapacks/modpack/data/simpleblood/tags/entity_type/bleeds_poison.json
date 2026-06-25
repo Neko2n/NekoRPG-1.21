@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    { "required": false, "id": "mowziesmobs:naga" },
+    { "required": false, "id": "gtbcs_geomancy_plus:summoned_naga" },
+    { "required": false, "id": "variantsandventures:thicket" },
+    { "required": false, "id": "block_factorys_bosses:sandworm" }
+  ]
+}

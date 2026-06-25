@@ -1,0 +1,20 @@
+{
+    "type":  "alloyed:forging",
+    "ingredients":  [
+                        {
+                            "item":  "irons_spellbooks:mithril_scrap"
+                        },
+                        {
+                            "item":  "irons_spellbooks:mithril_scrap"
+                        },
+                        {
+                            "item":  "irons_spellbooks:mithril_scrap"
+                        },
+                        {
+                            "item":  "irons_spellbooks:mithril_scrap"
+                        }
+                    ],
+    "result":  {
+                   "id":  "irons_spellbooks:mithril_ingot"
+               }
+}

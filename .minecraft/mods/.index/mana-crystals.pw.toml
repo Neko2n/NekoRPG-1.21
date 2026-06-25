@@ -1,18 +1,18 @@
-filename = 'manacrystals-1.1.0-1.21.1.jar'
+filename = 'manacrystals-1.1.0.1-1.21.1.jar'
 name = 'Mana Crystals'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.0'
+x-prismlauncher-version-number = '1.1.0.1'
 
 [download]
-hash = '53261c4dc07278a6192f421aacd95ce315b925564665e172058dbc092e46ba87100ead1f1b5d92cffc126c8388176f0f418059a91da731329d7f33ee236b26a3'
+hash = 'bafbb5a725ff349fbe69b7bc0b26e183550eab74a1c1e95d10fd3eb8213bf0d4c664768cd5790f57b0f4247e5f82d99c23a8d220eb0d8cff1c81785378352dfe'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Xc2hLmse/versions/yUjvDqZ4/manacrystals-1.1.0-1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/Xc2hLmse/versions/PE0Y6cNL/manacrystals-1.1.0.1-1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'Xc2hLmse'
-version = 'yUjvDqZ4'
+version = 'PE0Y6cNL'

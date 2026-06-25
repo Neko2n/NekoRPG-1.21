@@ -1,0 +1,14 @@
+{
+  "type": "alloyed:forging_shaped",
+  "key": {
+    "X": {"tag": "c:ingots/netherite"}
+  },
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "result": {
+    "id": "minecraft:netherite_chestplate"
+  }
+}

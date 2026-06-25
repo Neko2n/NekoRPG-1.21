@@ -1,0 +1,16 @@
+{
+    "type":  "alloyed:forging_shaped",
+    "key":  {
+                "X":  {
+                          "tag":  "c:ingots/iron"
+                      }
+            },
+    "pattern":  [
+                    "X X",
+                    "XXX",
+                    "XXX"
+                ],
+    "result":  {
+                   "id":  "minecraft:iron_chestplate"
+               }
+}

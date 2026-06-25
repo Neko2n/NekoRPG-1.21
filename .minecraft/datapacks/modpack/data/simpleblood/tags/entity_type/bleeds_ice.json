@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    { "required": false, "id": "irons_spellbooks:ice_spider" },
+    { "required": false, "id": "block_factorys_bosses:yeti" },
+    { "required": false, "id": "mowziesmobs:frostmaw" },
+    { "required": false, "id": "variantsandventures:gelid" }
+  ]
+}

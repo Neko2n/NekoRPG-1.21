@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+	{
+      "id": "tfc:ore/normal_native_silver",
+      "required": false
+    },
+	{
+      "id": "tfc:medium_sheepskin_hide",
+      "required": false
+    },
+	{
+      "id": "tfc:seeds/sugarcane",
+      "required": false
+    }
+  ]
+}

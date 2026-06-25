@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:glow_squid",
+    { "required": false, "id": "infernalexp:warpbeetle" }
+  ]
+}

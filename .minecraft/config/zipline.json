@@ -4,7 +4,9 @@
   "useAnywhere": false,
   "maxTurnAngle": 0.707,
   "hangOffset": 2.1,
-  "realisticPhysics": false,
+  "speedMultiplier": 1.0,
+  "realisticPhysics": true,
   "exitJumpMultiplier": 1.4,
-  "consumeDurability": true
+  "consumeDurability": true,
+  "releaseCooldown": 10
 }

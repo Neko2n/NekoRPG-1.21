@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    { "required": false, "id": "infernalexp:glowsquito" },
+    { "required": false, "id": "infernalexp:blindsight" }
+  ]
+}

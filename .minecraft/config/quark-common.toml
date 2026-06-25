@@ -111,7 +111,7 @@
 	"More Mud Blocks" = false
 	"More Potted Plants" = true
 	"Nether Brick Fence Gate" = true
-	"Rainbow Lamps" = true
+	"Rainbow Lamps" = false
 	"Raw Metal Bricks" = false
 	Rope = false
 	"Shear Vines" = true
@@ -122,7 +122,7 @@
 	Thatch = false
 	"Variant Bookshelves" = false
 	"Variant Chests" = false
-	"Variant Furnaces" = true
+	"Variant Furnaces" = false
 	"Variant Ladders" = false
 	"Vertical Planks" = false
 	"Vertical Slabs" = false
@@ -332,10 +332,10 @@
 	"Ancient Tomes" = false
 	"Beacon Redirection" = true
 	"Bottled Cloud" = true
-	"Color Runes" = true
+	"Color Runes" = false
 	"Endermosh Music Disc" = true
-	"Parrot Eggs" = true
-	"Pathfinder Maps" = true
+	"Parrot Eggs" = false
+	"Pathfinder Maps" = false
 	Pickarang = true
 	"Seed Pouch" = true
 	"Skull Pikes" = false
@@ -1583,7 +1583,7 @@
 			B = [0.0, 0.0, 1.22]
 
 	[client.improved_tooltips]
-		"Attribute Tooltips" = true
+		"Attribute Tooltips" = false
 		"Food Tooltips" = true
 		"Shulker Tooltips" = true
 		"Map Tooltips" = true

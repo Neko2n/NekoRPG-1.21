@@ -1,0 +1,32 @@
+{
+    "type":  "alloyed:forging",
+    "ingredients":  [
+                        {
+                            "item":  "minecraft:netherite_scrap"
+                        },
+                        {
+                            "item":  "minecraft:netherite_scrap"
+                        },
+                        {
+                            "item":  "minecraft:netherite_scrap"
+                        },
+                        {
+                            "item":  "minecraft:netherite_scrap"
+                        },
+                        {
+                            "tag":  "c:ingots/silver"
+                        },
+                        {
+                            "tag":  "c:ingots/silver"
+                        },
+                        {
+                            "tag":  "c:ingots/silver"
+                        },
+                        {
+                            "tag":  "c:ingots/silver"
+                        }
+                    ],
+    "result":  {
+                   "id":  "caverns_and_chasms:necromium_ingot"
+               }
+}

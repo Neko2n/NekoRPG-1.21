@@ -247,20 +247,14 @@
 		[types.stone_type.curiosities]
 			laterite = true
 
+		[types.stone_type.legendary_monsters]
+			enderstone = true
+
 		[types.mud_type.deep_aether]
 			aether_mud = true
 
 #Disables specific entries
 [entries]
-
-		[entries.wood_type.woodworks]
-			trapped_chest = true
-			boards = true
-			chest = true
-			beehive = true
-			bookshelf = true
-			chiseled_bookshelf = true
-			ladder = true
 
 		[entries.wood_type.another_furniture]
 			flower_box = true
@@ -285,9 +279,6 @@
 
 		[entries.wood_type.curiosities]
 			fancied_planks = true
-
-		[entries.leaves_type.woodworks]
-			leaf_pile = true
 
 		[entries.stone_type.create]
 			small_brick_wall = true
