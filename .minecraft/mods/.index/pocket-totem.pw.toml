@@ -1,0 +1,18 @@
+filename = 'pocket_totem-1.0.0-neoforge-1.21.1.jar'
+name = 'Pocket Totem'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = '83f25124ab6f32706f06cdc043db174d4622bcfcf0818606a22e5b771fa5852b799334318ec16cf56687c09d896af3a8bb07c2369608798ac846a7efa09509e2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qRTTYgpZ/versions/zughHIzG/pocket_totem-1.0.0-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'qRTTYgpZ'
+version = 'zughHIzG'

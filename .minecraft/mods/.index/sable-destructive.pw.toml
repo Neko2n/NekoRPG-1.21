@@ -1,0 +1,18 @@
+filename = 'sabledestructive-1.7.2.jar'
+name = 'Sable: Destructive'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.7.2'
+
+[download]
+hash = 'd96ee710f3af949a33737e9e8a1f37a2f2594e474d4a1542ef536bed274d68eb16e1562d0c3b27bc41da3e66a32bbbf416eda4721a6590fc09513064231f3945'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/s8kSCCgD/versions/LhQgdpcb/sabledestructive-1.7.2.jar'
+
+[update.modrinth]
+mod-id = 's8kSCCgD'
+version = 'LhQgdpcb'
