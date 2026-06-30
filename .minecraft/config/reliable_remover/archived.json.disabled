@@ -7,7 +7,10 @@
             "/irons_spellbooks:.*spellbook/",
             "/irons_spellbooks:.*scroll/",
             "/gtbcs_geomancy_plus:.*scroll/"
-        ],
+        ]
+    },
+    {
+        "action": "remove",
         "items": [
             "irons_spellbooks:mithril_ore",
             "irons_spellbooks:protection_upgrade_orb",
@@ -17,5 +20,13 @@
             "irons_spellbooks:arcane_anvil",
             "irons_spellbooks:scroll_forge"
         ]
+    },
+    {
+        "action": "remove",
+        "pattern": "/irons_spellbooks:.*brazier.*/"
+    },
+    {
+        "action": "remove",
+        "item": "immersiveenchanting:ancient_book"
     }
 ]

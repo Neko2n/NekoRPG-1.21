@@ -1,7 +1,0 @@
-{
-  "bed": "minecraft:gravel",
-  "waterline": "minecraft:mud",
-  "bank_enabled": false,
-  "waterline_below": 1, "waterline_above": 0,
-  "underwater_noise": 0.5, "above_water_noise": 0.5
-}

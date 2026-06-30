@@ -36,10 +36,6 @@
     },
     {
         "action": "remove",
-        "pattern": "/irons_spellbooks:.*brazier.*/"
-    },
-    {
-        "action": "remove",
         "pattern": "/.*:rope/",
         "not": {
             "mod": "supplementaries"

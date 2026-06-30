@@ -4,14 +4,6 @@
     "output": "buzzier_bees:soul_candle"
   },
   {
-    "input": "irons_spellbooks:brazier",
-    "output": "caverns_and_chasms:brazier"
-  },
-  {
-    "input": "irons_spellbooks:brazier_soul",
-    "output": "caverns_and_chasms:soul_brazier"
-  },
-  {
     "keep_states": true,
     "inputs": [
       "darkerdepths:rope",

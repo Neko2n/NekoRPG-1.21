@@ -1,5 +1,0 @@
-{
-  "biomes": ["minecraft:beach"],
-  "bed": "minecraft:sand", "waterline": "minecraft:sand", "bank": "minecraft:sand",
-  "underwater_noise": 0.2, "above_water_noise": 0.2
-}
