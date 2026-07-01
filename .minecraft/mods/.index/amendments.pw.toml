@@ -1,20 +1,20 @@
-filename = 'amendments-neoforge-1.21-2.1.3.jar'
+filename = 'amendments-neoforge-1.21-2.1.4.jar'
 name = 'Amendments'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21-2.1.3'
+x-prismlauncher-version-number = '1.21-2.1.4'
 
 [download]
-hash = 'ed1d1d3a003e1798236356064ec777c0111791d69c80bf6826c90522539e5c5680fadddec431ca0932dc24382cf5aaa1e8f91d7effedd86ff7695b546ced0e50'
+hash = '38199e6fa51ddedf5c401a6d0924488eb62e671e2829babad7c6f58a449d27bf69a63605670d2b71b83dc1ac6ede8bcc2890d45d70b60a5528dfa4bc74486c0e'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/6iTJugQR/versions/1kmTqnT8/amendments-neoforge-1.21-2.1.3.jar'
+url = 'https://cdn.modrinth.com/data/6iTJugQR/versions/18CXtmcq/amendments-neoforge-1.21-2.1.4.jar'
 
 [update.modrinth]
 mod-id = '6iTJugQR'
-version = '1kmTqnT8'
+version = '18CXtmcq'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'twkfQtEc'

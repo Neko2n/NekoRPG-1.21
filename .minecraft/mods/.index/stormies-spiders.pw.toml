@@ -1,18 +1,18 @@
-filename = 'stormiespiders-neoforge-1.21.1-3.3.0.jar'
+filename = 'stormiespiders-neoforge-1.21.1-3.3.1.jar'
 name = "Stormie's Spiders"
 side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '3.3.0-neoforge'
+x-prismlauncher-version-number = '3.3.1-neoforge'
 
 [download]
-hash = 'f5c967c5ea86873eac61e63b835d3793d319ef919a0c7029730410e0aa186c563f00150406c9514a878bf85f35fb5a14341b0ecda8a17c2104383b54446a6046'
+hash = '83a427fa6d657343142ce1e3c3de270899e2763befce2ff5c1b02044f75d77068d513cb9c6ede51b0eb654a81b3da930bdb563fa3b37eb22f70fbe99e8f4a66f'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/3dsI6Hle/versions/Cq0QBcPP/stormiespiders-neoforge-1.21.1-3.3.0.jar'
+url = 'https://cdn.modrinth.com/data/3dsI6Hle/versions/cG9umJlY/stormiespiders-neoforge-1.21.1-3.3.1.jar'
 
 [update.modrinth]
 mod-id = '3dsI6Hle'
-version = 'Cq0QBcPP'
+version = 'cG9umJlY'

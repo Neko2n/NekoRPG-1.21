@@ -1,115 +1,6 @@
 #Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
 [types]
 
-		[types.stone_type.quark]
-			jasper = false
-			shale = false
-			soul_sandstone = false
-			limestone = false
-			myalite = true
-			permafrost = true
-
-		[types.stone_type.natures_spirit]
-			white_kaolin = true
-			light_gray_kaolin = true
-			gray_kaolin = true
-			black_kaolin = true
-			brown_kaolin = true
-			red_kaolin = true
-			orange_kaolin = true
-			yellow_kaolin = true
-			lime_kaolin = true
-			green_kaolin = true
-			cyan_kaolin = true
-			light_blue_kaolin = true
-			blue_kaolin = true
-			purple_kaolin = true
-			magenta_kaolin = true
-			pink_kaolin = true
-			pink_sandstone = true
-			white_chalk = true
-			light_gray_chalk = true
-			gray_chalk = true
-			black_chalk = true
-			brown_chalk = true
-			red_chalk = true
-			orange_chalk = true
-			yellow_chalk = true
-			lime_chalk = true
-			green_chalk = true
-			cyan_chalk = true
-			light_blue_chalk = true
-			blue_chalk = true
-			purple_chalk = true
-			magenta_chalk = true
-			pink_chalk = true
-			travertine = true
-			chert = true
-			kaolin = true
-
-		[types.stone_type.create]
-			limestone = true
-			asurine = true
-			crimsite = true
-			ochrum = true
-			veridium = true
-			scoria = true
-			scorchia = true
-
-		[types.stone_type.bountifulfares]
-			feldspar = true
-
-		[types.stone_type.deep_aether]
-			clorite = true
-			raw_clorite = true
-			aseterite = true
-
-		[types.stone_type.infernalexp]
-			shimmer_stone = true
-			dimstone = true
-			dullstone = true
-
-		[types.stone_type.darkerdepths]
-			aridrock = true
-			duskrock = true
-			darkslate = true
-			grimestone = true
-
-		[types.stone_type.incision]
-			clottage = true
-			weatherrack = true
-			goreshed = true
-
-		[types.stone_type.aether]
-			holystone = true
-
-		[types.stone_type.caverns_and_chasms]
-			sugilite = true
-			cylindrite = true
-			cassiterite = true
-			rhyolite = true
-
-		[types.stone_type.alexscaves]
-			galena = true
-			radrock = true
-			abyssmarine = true
-			guanostone = true
-
-		[types.stone_type.enderscape]
-			mirestone = true
-			veradite = true
-			kurodite = true
-
-		[types.stone_type.nomansland]
-			silt = true
-			siltstone = true
-
-		[types.stone_type.oreganized]
-			glance = true
-
-		[types.stone_type.curiosities]
-			laterite = true
-
 		[types.leaves_type.quark]
 			yellow_blossom = false
 			lavender_blossom = false
@@ -273,9 +164,6 @@
 			rotten = true
 			date = true
 
-		[types.mud_type.deep_aether]
-			aether_mud = true
-
 		[types.cake.bountifulfares]
 			coconut_cake = true
 			cocoa_cake = true
@@ -283,6 +171,63 @@
 
 		[types.cake.natures_spirit]
 			cheese_block = true
+
+		[types.lantern.netherexp]
+			ancient_lantern = true
+
+		[types.lantern.infernalexp]
+			glowlight_lantern = true
+
+		[types.lantern.darkerdepths]
+			glowshroom_lantern = true
+
+		[types.lantern.bountifulfares]
+			feldspar_lantern = true
+
+		[types.lantern.deep_aether]
+			skyjade_lantern = true
+
+		[types.lantern.natures_spirit]
+			paper_lantern = true
+			white_paper_lantern = true
+			light_gray_paper_lantern = true
+			gray_paper_lantern = true
+			black_paper_lantern = true
+			brown_paper_lantern = true
+			red_paper_lantern = true
+			orange_paper_lantern = true
+			yellow_paper_lantern = true
+			lime_paper_lantern = true
+			green_paper_lantern = true
+			blue_paper_lantern = true
+			light_blue_paper_lantern = true
+			cyan_paper_lantern = true
+			purple_paper_lantern = true
+			magenta_paper_lantern = true
+			pink_paper_lantern = true
+
+		[types.lantern.suppsquared]
+			copper_lantern = true
+			brass_lantern = true
+			crimson_lantern = true
+
+		[types.lantern.caverns_and_chasms]
+			cupric_lantern = true
+			copper_lantern = true
+			exposed_copper_lantern = true
+			weathered_copper_lantern = true
+			oxidized_copper_lantern = true
+			waxed_copper_lantern = true
+			waxed_exposed_copper_lantern = true
+			waxed_weathered_copper_lantern = true
+			waxed_oxidized_copper_lantern = true
+
+		[types.lantern.enderscape]
+			bulb_lantern = true
+
+		[types.lantern.curiosities]
+			heavy_lantern = true
+			heavy_soul_lantern = true
 
 #Disables specific entries
 [entries]
@@ -321,36 +266,6 @@
 		[entries.wood_type.bountifulfares]
 			trellis = true
 			pickets = true
-
-		[entries.stone_type.create]
-			small_brick_wall = true
-			cut_wall = true
-			small_bricks = true
-			cut_brick_slab = true
-			polished_cut_slab = true
-			small_brick_stairs = true
-			cut_bricks = true
-			cut = true
-			polished_cut = true
-			small_brick_slab = true
-			layered = true
-			polished_cut_stairs = true
-			cut_brick_wall = true
-			pillar = true
-			cut_stairs = true
-			cut_brick_stairs = true
-			polished_cut_wall = true
-			cut_slab = true
-
-		[entries.stone_type.quark]
-			polished_vertical_slab = true
-			pillar = true
-			vertical_slab = true
-
-		[entries.mud_type.quark]
-			carved_bricks = true
-			pillar = true
-			brick_lattice = true
 
 		[entries.leaves_type.quark]
 			hedge = true

@@ -3,6 +3,7 @@
   "values": [
     "the_void",
     "#minecraft:is_nether",
-    "#minecraft:is_end"
+    "#minecraft:is_end",
+    "#minecraft:is_overworld"
   ]
 }

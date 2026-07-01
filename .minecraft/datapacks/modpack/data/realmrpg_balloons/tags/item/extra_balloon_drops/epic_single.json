@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-	{
-      "id": "dragonsurvival:weak_dragon_heart",
-      "required": false
-    }
-  ]
-}

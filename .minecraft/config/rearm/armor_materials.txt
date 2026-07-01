@@ -46,15 +46,6 @@ alexscaves:darkness
 alexscaves:rainbounce
 alexscaves:gingerbread
 enderscape:drift_leggings
-irons_spellbooks:tarnished
-irons_spellbooks:wandering_magician
-irons_spellbooks:pumpkin
-irons_spellbooks:school_armor
-irons_spellbooks:netherite_battlemage
-irons_spellbooks:paladin
-irons_spellbooks:infernal_sorcerer
-irons_spellbooks:speed_boots
-irons_spellbooks:dev
 create:copper
 create:cardboard
 nomansland:tortoise

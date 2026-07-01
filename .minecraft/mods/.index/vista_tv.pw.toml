@@ -1,20 +1,20 @@
-filename = 'vista-neoforge-1.21.1-5.0.3.jar'
+filename = 'vista-neoforge-1.21.1-5.0.4.jar'
 name = 'vista'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-5.0.3'
+x-prismlauncher-version-number = '1.21.1-5.0.4'
 
 [download]
-hash = 'd6be0baec4c3dfec252e24b172d00ba4c8d6da760177a34ef6d34173be6b1ac00409898cdeb0752d8fefcefd13ce0aa4384587549fddab59d0923902ec94398e'
+hash = '9bbee5cf7bd165ea4cf8b369ddbe02b3310140045ab37daf0cdb5af228f170ba29c96b06453ac33b94c2f34e4e76893fc63a4a706d8b36632bd813627cf729d1'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/zuARv1N7/versions/2h9Hll5b/vista-neoforge-1.21.1-5.0.3.jar'
+url = 'https://cdn.modrinth.com/data/zuARv1N7/versions/wlFRMQTW/vista-neoforge-1.21.1-5.0.4.jar'
 
 [update.modrinth]
 mod-id = 'zuARv1N7'
-version = '2h9Hll5b'
+version = 'wlFRMQTW'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'twkfQtEc'

@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-	{
-      "id": "dragonsurvival:elder_dragon_bone",
-      "required": false
-    }
-  ]
-}

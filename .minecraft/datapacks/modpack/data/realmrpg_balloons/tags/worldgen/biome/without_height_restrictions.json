@@ -4,10 +4,6 @@
     {
       "id": "#aether:is_aether",
       "required": false
-    },
-    {
-      "id": "#twilightforest:in_twilight_forest",
-      "required": false
     }
   ]
 }

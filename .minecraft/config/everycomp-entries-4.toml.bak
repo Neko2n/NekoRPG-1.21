@@ -1,156 +1,13 @@
 #Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
 [types]
 
-		[types.wood_type.natures_spirit]
-			redwood = true
-			sugi = true
-			wisteria = true
-			fir = true
-			willow = true
-			aspen = false
-			maple = true
-			cypress = true
-			olive = true
-			joshua = true
-			ghaf = true
-			palo_verde = true
-			coconut = false
-			cedar = true
-			larch = true
-			mahogany = true
-			saxaul = true
-
-		[types.wood_type.darkerdepths]
-			petrified = true
-
-		[types.wood_type.netherexp]
-			claret = true
-
-		[types.wood_type.enderscape]
-			veiled = true
-			celestial = true
-			murublight = true
-
-		[types.wood_type.aether]
-			skyroot = true
-
-		[types.wood_type.deep_aether]
-			roseroot = true
-			yagroot = true
-			cruderoot = true
-			conberry = true
-			sunroot = true
-
-		[types.wood_type.bountifulfares]
-			hoary = true
-			walnut = true
-
-		[types.wood_type.spawn]
-			rotten = true
-			date = true
-
-		[types.wood_type.caverns_and_chasms]
-			azalea = true
-
-		[types.wood_type.infernalexp]
-			luminous = true
-
-		[types.wood_type.nomansland]
-			pine = true
-			maple = true
-			walnut = true
-			willow = true
-
-		[types.leaves_type.natures_spirit]
-			frosty_redwood = true
-			redwood = true
-			sugi = true
-			wisteria = true
-			white_wisteria = true
-			part_white_wisteria = true
-			blue_wisteria = true
-			part_blue_wisteria = true
-			pink_wisteria = true
-			part_pink_wisteria = true
-			purple_wisteria = true
-			part_purple_wisteria = true
-			frosty_fir = true
-			fir = true
-			willow = true
-			aspen = true
-			yellow_aspen = true
-			red_maple = true
-			orange_maple = true
-			yellow_maple = true
-			cypress = true
-			olive = true
-			joshua = true
-			ghaf = true
-			palo_verde = true
-			coconut = true
-			cedar = true
-			larch = true
-			mahogany = true
-			saxaul = true
-
-		[types.leaves_type.primal]
-			thorny_acacia = true
-
-		[types.leaves_type.aether]
-			skyroot = true
-			golden_oak = true
-			crystal = true
-			crystal_fruit = true
-			holiday = true
-			decorated_holiday = true
-
-		[types.leaves_type.deep_aether]
-			roseroot = true
-			flowering_roseroot = true
-			blue_roseroot = true
-			flowering_blue_roseroot = true
-			yagroot = true
-			cruderoot = true
-			conberry = true
-			sunroot = true
-
-		[types.leaves_type.bountifulfares]
-			apple = true
-			flowering_apple = true
-			orange = true
-			flowering_orange = true
-			lemon = true
-			flowering_lemon = true
-			plum = true
-			flowering_plum = true
-			hoary = true
-			walnut = true
-			golden_apple = true
-			flowering_golden_apple = true
-
-		[types.leaves_type.spawn]
-			date = true
-
-		[types.leaves_type.nomansland]
-			yellow_birch = true
-			autumnal_oak = true
-			pale_cherry = true
-			frosted = true
-			pine = true
-			maple = true
-			red_maple = true
-			walnut = true
-			willow = true
-			apple_fruit = true
-			pear_fruit = true
-
-		[types.cake.natures_spirit]
-			cheese_block = true
-
-		[types.cake.bountifulfares]
-			coconut_cake = true
-			cocoa_cake = true
-			sponge_cake = true
+		[types.stone_type.quark]
+			jasper = false
+			shale = false
+			soul_sandstone = false
+			limestone = false
+			myalite = true
+			permafrost = true
 
 		[types.stone_type.natures_spirit]
 			white_kaolin = true
@@ -190,42 +47,6 @@
 			chert = true
 			kaolin = true
 
-		[types.stone_type.darkerdepths]
-			aridrock = true
-			duskrock = true
-			darkslate = true
-			grimestone = true
-
-		[types.stone_type.enderscape]
-			mirestone = true
-			veradite = true
-			kurodite = true
-
-		[types.stone_type.oreganized]
-			glance = true
-
-		[types.stone_type.deep_aether]
-			clorite = true
-			raw_clorite = true
-			aseterite = true
-
-		[types.stone_type.aether]
-			holystone = true
-
-		[types.stone_type.incision]
-			clottage = true
-			weatherrack = true
-			goreshed = true
-
-		[types.stone_type.bountifulfares]
-			feldspar = true
-
-		[types.stone_type.caverns_and_chasms]
-			sugilite = true
-			cylindrite = true
-			cassiterite = true
-			rhyolite = true
-
 		[types.stone_type.create]
 			limestone = true
 			asurine = true
@@ -235,50 +56,271 @@
 			scoria = true
 			scorchia = true
 
+		[types.stone_type.bountifulfares]
+			feldspar = true
+
+		[types.stone_type.deep_aether]
+			clorite = true
+			raw_clorite = true
+			aseterite = true
+
 		[types.stone_type.infernalexp]
 			shimmer_stone = true
 			dimstone = true
 			dullstone = true
 
+		[types.stone_type.darkerdepths]
+			aridrock = true
+			duskrock = true
+			darkslate = true
+			grimestone = true
+
+		[types.stone_type.incision]
+			clottage = true
+			weatherrack = true
+			goreshed = true
+
+		[types.stone_type.aether]
+			holystone = true
+
+		[types.stone_type.caverns_and_chasms]
+			sugilite = true
+			cylindrite = true
+			cassiterite = true
+			rhyolite = true
+
+		[types.stone_type.alexscaves]
+			galena = true
+			radrock = true
+			abyssmarine = true
+			guanostone = true
+
+		[types.stone_type.enderscape]
+			mirestone = true
+			veradite = true
+			kurodite = true
+
 		[types.stone_type.nomansland]
 			silt = true
 			siltstone = true
 
+		[types.stone_type.oreganized]
+			glance = true
+
 		[types.stone_type.curiosities]
 			laterite = true
 
-		[types.stone_type.legendary_monsters]
-			enderstone = true
+		[types.leaves_type.quark]
+			yellow_blossom = false
+			lavender_blossom = false
+			blue_blossom = false
+			orange_blossom = false
+			red_blossom = false
+			ancient = true
+
+		[types.leaves_type.bountifulfares]
+			walnut = false
+			apple = true
+			flowering_apple = true
+			orange = true
+			flowering_orange = true
+			lemon = true
+			flowering_lemon = true
+			plum = true
+			flowering_plum = true
+			hoary = true
+			golden_apple = true
+			flowering_golden_apple = true
+
+		[types.leaves_type.primal]
+			thorny_acacia = true
+
+		[types.leaves_type.aether]
+			skyroot = true
+			golden_oak = true
+			crystal = true
+			crystal_fruit = true
+			holiday = true
+			decorated_holiday = true
+
+		[types.leaves_type.deep_aether]
+			roseroot = true
+			flowering_roseroot = true
+			blue_roseroot = true
+			flowering_blue_roseroot = true
+			yagroot = true
+			cruderoot = true
+			conberry = true
+			sunroot = true
+
+		[types.leaves_type.natures_spirit]
+			frosty_redwood = true
+			redwood = true
+			sugi = true
+			wisteria = true
+			white_wisteria = true
+			part_white_wisteria = true
+			blue_wisteria = true
+			part_blue_wisteria = true
+			pink_wisteria = true
+			part_pink_wisteria = true
+			purple_wisteria = true
+			part_purple_wisteria = true
+			frosty_fir = true
+			fir = true
+			willow = true
+			aspen = true
+			yellow_aspen = true
+			red_maple = true
+			orange_maple = true
+			yellow_maple = true
+			cypress = true
+			olive = true
+			joshua = true
+			ghaf = true
+			palo_verde = true
+			coconut = true
+			cedar = true
+			larch = true
+			mahogany = true
+			saxaul = true
+
+		[types.leaves_type.alexscaves]
+			ancient = true
+
+		[types.leaves_type.nomansland]
+			yellow_birch = true
+			autumnal_oak = true
+			pale_cherry = true
+			frosted = true
+			pine = true
+			maple = true
+			red_maple = true
+			walnut = true
+			willow = true
+			apple_fruit = true
+			pear_fruit = true
+
+		[types.leaves_type.spawn]
+			date = true
+
+		[types.wood_type.bountifulfares]
+			walnut = false
+			hoary = true
+
+		[types.wood_type.quark]
+			azalea = false
+			blossom = false
+			ancient = true
+
+		[types.wood_type.caverns_and_chasms]
+			azalea = true
+
+		[types.wood_type.netherexp]
+			claret = true
+
+		[types.wood_type.darkerdepths]
+			petrified = true
+
+		[types.wood_type.infernalexp]
+			luminous = true
+
+		[types.wood_type.aether]
+			skyroot = true
+
+		[types.wood_type.deep_aether]
+			roseroot = true
+			yagroot = true
+			cruderoot = true
+			conberry = true
+			sunroot = true
+
+		[types.wood_type.natures_spirit]
+			redwood = true
+			sugi = true
+			wisteria = true
+			fir = true
+			willow = true
+			aspen = true
+			maple = true
+			cypress = true
+			olive = true
+			joshua = true
+			ghaf = true
+			palo_verde = true
+			coconut = true
+			cedar = true
+			larch = true
+			mahogany = true
+			saxaul = true
+
+		[types.wood_type.alexscaves]
+			pewen = true
+			thornwood = true
+
+		[types.wood_type.enderscape]
+			veiled = true
+			celestial = true
+			murublight = true
+
+		[types.wood_type.nomansland]
+			pine = true
+			maple = true
+			walnut = true
+			willow = true
+
+		[types.wood_type.spawn]
+			rotten = true
+			date = true
 
 		[types.mud_type.deep_aether]
 			aether_mud = true
 
+		[types.cake.bountifulfares]
+			coconut_cake = true
+			cocoa_cake = true
+			sponge_cake = true
+
+		[types.cake.natures_spirit]
+			cheese_block = true
+
 #Disables specific entries
 [entries]
 
-		[entries.wood_type.another_furniture]
-			flower_box = true
-			shelf = true
-			shutter = true
-			bench = true
-			table = true
-			drawer = true
-			chair = true
-
-		[entries.wood_type.bountifulfares]
-			trellis = true
-			pickets = true
-
-		[entries.wood_type.create]
-			window = true
-			window_pane = true
+		[entries.wood_type.curiosities]
+			fancied_planks = false
 
 		[entries.wood_type.nomansland]
 			bookshelf = true
 			trimmed_planks = true
 
-		[entries.wood_type.curiosities]
-			fancied_planks = true
+		[entries.wood_type.quark]
+			vertical_planks = true
+			post = true
+			trapped_chest = true
+			bookshelf = true
+			chest = true
+			stripped_post = true
+			ladder = true
+			hollow_log = true
+			vertical_slab = true
+
+		[entries.wood_type.another_furniture]
+			table = true
+			flower_box = true
+			shelf = true
+			drawer = true
+			shutter = true
+			bench = true
+			chair = true
+
+		[entries.wood_type.create]
+			window = true
+			window_pane = true
+
+		[entries.wood_type.bountifulfares]
+			trellis = true
+			pickets = true
 
 		[entries.stone_type.create]
 			small_brick_wall = true
@@ -299,3 +341,17 @@
 			cut_brick_stairs = true
 			polished_cut_wall = true
 			cut_slab = true
+
+		[entries.stone_type.quark]
+			polished_vertical_slab = true
+			pillar = true
+			vertical_slab = true
+
+		[entries.mud_type.quark]
+			carved_bricks = true
+			pillar = true
+			brick_lattice = true
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = true

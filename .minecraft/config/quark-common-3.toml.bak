@@ -95,38 +95,38 @@
 
 [building]
 	"Celebratory Lamps" = true
-	"Compressed Blocks" = true
+	"Compressed Blocks" = false
 	"Duskbound Blocks" = true
 	"Framed Glass" = true
 	"Glass Item Frame" = true
-	"Gold Bars" = true
+	"Gold Bars" = false
 	Grate = false
 	Hedges = true
 	"Hollow Logs" = true
-	"Industrial Palette" = true
+	"Industrial Palette" = false
 	"Japanese Palette" = true
-	"Leaf Carpet" = true
+	"Leaf Carpet" = false
 	Midori = true
 	"More Brick Types" = true
 	"More Mud Blocks" = true
 	"More Potted Plants" = true
 	"Nether Brick Fence Gate" = true
 	"Rainbow Lamps" = true
-	"Raw Metal Bricks" = true
+	"Raw Metal Bricks" = false
 	Rope = false
 	"Shear Vines" = true
 	Shingles = true
 	"Soul Sandstone" = true
 	Stools = true
-	"Sturdy Stone" = true
-	Thatch = true
-	"Variant Bookshelves" = true
-	"Variant Chests" = true
+	"Sturdy Stone" = false
+	Thatch = false
+	"Variant Bookshelves" = false
+	"Variant Chests" = false
 	"Variant Furnaces" = true
-	"Variant Ladders" = true
-	"Vertical Planks" = true
-	"Vertical Slabs" = true
-	"Wooden Posts" = true
+	"Variant Ladders" = false
+	"Vertical Planks" = false
+	"Vertical Slabs" = false
+	"Wooden Posts" = false
 	"More Stone Variants" = true
 
 	[building.celebratory_lamps]
@@ -232,6 +232,7 @@
 	[building.variant_bookshelves]
 		"Change Names" = true
 		#This feature disables itself if any of the following mods are loaded:
+		# - carved_wood
 		# - woodster
 		# - woodworks
 		#This is done to prevent content overlap.
@@ -244,6 +245,7 @@
 		#Chests to put in structures. It's preferred to use worldgen tags for this. The format per entry is "structure=chest", where "structure" is a structure ID, and "chest" is a block ID, which must correspond to a standard chest block.
 		"Structure Chests" = []
 		#This feature disables itself if any of the following mods are loaded:
+		# - carved_wood
 		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
@@ -252,6 +254,7 @@
 	[building.variant_ladders]
 		"Change Names" = true
 		#This feature disables itself if any of the following mods are loaded:
+		# - carved_wood
 		# - woodster
 		# - woodworks
 		#This is done to prevent content overlap.
@@ -1332,7 +1335,7 @@
 				"Is Blacklist" = false
 
 [mobs]
-	Crabs = true
+	Crabs = false
 	Forgotten = true
 	Foxhound = true
 	Shiba = true

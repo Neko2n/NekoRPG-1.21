@@ -164,14 +164,6 @@
 			rotten = true
 			date = true
 
-		[types.cake.bountifulfares]
-			coconut_cake = true
-			cocoa_cake = true
-			sponge_cake = true
-
-		[types.cake.natures_spirit]
-			cheese_block = true
-
 #Disables specific entries
 [entries]
 

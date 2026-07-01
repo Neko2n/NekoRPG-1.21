@@ -1,6 +1,0 @@
-{
-  "type": "neoforge:add_features",
-  "biomes": "#aether:is_aether",
-  "features": "modpack:aether_mithril_ore",
-  "step": "underground_ores"
-}
